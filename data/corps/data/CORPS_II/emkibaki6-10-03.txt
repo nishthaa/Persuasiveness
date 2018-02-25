@@ -1,0 +1,24 @@
+﻿{title} President Bush Welcomes President Kibaki of Kenya to White House {/title}
+{event} Remarks by President Bush and President Kibaki of the Republic of Kenya at State Arrival Ceremony, The South Grounds  {/event}
+{speaker} Emilio Mwai Kibaki {/speaker}
+{date} October 6, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, thank you for your kind remarks. I wish to thank you for -- Mr. President, the government and the people of the United States, for the warm welcome and hospitality extended to me and my delegation since our arrival. I feel privileged to have been accorded such a great honor and look forward to successful deliberations on matters of mutual interest to our two nations.
+
+Mr. President, Kenya values the warm and cordial friendship that exists between the two nations. Following our successful democratic elections last December, my government is determined to uphold democratic values, human rights, good governance and the rule of law, and to empower our people. {APPLAUSE}
+
+We thank the government and the people of the United States for supporting Kenya to achieve democratic change. Mr. President, we are committed to deepening our ties with the United States.
+
+I commend you for your various initiatives for supporting development in Africa, and in particular, the recent announcement of $15 billion U.S. assistance in the fight against HIV/AIDS, tuberculosis, malaria, of which Kenya is a beneficiary. {APPLAUSE}
+
+We equally welcome your personal efforts in promoting trade and investment opportunities through AGOA. {APPLAUSE} Your recent announcement of the Millennium Change Account Initiative will help promote sustainable development in Africa.
+
+Mr. President, our two nations have been victims of international terrorism. Kenya stands with the United States and the international community in fight against this global menace, in our conviction that no just cause can be served by taking away innocent lives.
+
+Finally, Mr. President, I look forward to fruitful discussions on the various issues affecting our two nations, the Horn of Africa, and the international community. {APPLAUSE} 
+
+{/speech}

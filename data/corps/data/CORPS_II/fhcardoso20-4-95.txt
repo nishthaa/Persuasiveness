@@ -1,0 +1,38 @@
+﻿{title} Remarks by President Clinton And President Cardoso of Brazil in Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Fernando Henrique Cardoso {/speaker}
+{date} April 20, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and Cardoso Toast {/description}
+
+{speech} 
+
+Mr. President, Mrs. Clinton, dear friends. This dinner has been an enjoyable moment, yet I know that your thoughts are also with the victims of the Oklahoma tragedy. And I take this opportunity to reiterate my words of sympathy and solidarity with you and the American people.
+
+During our meeting this morning, we had occasion to talk about the friendship that has always united our peoples, as well as the meaningful issues our countries have in common.
+
+This is a time for a more personal comment. First, allow me to express my appreciation for the warm welcome that Ruth and I have received here in Washington, as well as yesterday in New York. You may me be assured that we will both return to Brazil with fond memories of this visit. The attention we have received is a clear sign of the importance the United States government attaches not only to me, but rather to Brazil and its people.
+
+I wish also to express the admiration and friendship I feel for you. Since Miami, since before Miami, since you have been a candidate and I was attending some congresses -- Democratic Party in your country in my capacity as Senator from the state of Sao Paolo in Brazil, I know that central to your concerns is the search for ways to combine the necessary material progress with improvement in living conditions and in the fostering of community values. I also know that your actions as President invariably conform to the path of reason and understanding, even in the midst of the contradictory demands of our times.
+
+What you said, Mr. President, referring to me, is better to be said about you -- the sense of tolerance, the sense of equity and the necessity to all times try to pursue the values of democracy.
+
+These are the qualities required of leaders today if they are to restore to politics its most noble meaning, which is the search for the common good. Because politics, beyond being the art of the possible, is a set of tools with which utopias are constructed and by which they are transformed into reality.
+
+To manage policy, one needs the humility that teach that the search for the truth requires that the people be always heard in the determination to leads one to pursue a better future even in the face of resistance by those who fear change. And I know these quite well in my country, as well as you know in your country.
+
+There are also the virtues that have guided Brazilian society during its longstanding effort to create a Brazil that is renewed today by growth, freedom and social justice.
+
+As your guest of the last few days, it has been a great pleasure for me to tell American society about this Brazil that is entering a new period in its development. The message I bring is simple, Mr. President -- it is a message of the friendship that has always united our two countries. It is a message that will be the basis of a new partnership from a nation that shares with the United States its aspirations for prosperity, freedom and peace.
+
+On a more personal note, I cannot forget that in 1964, because of rumors of my imminent imprisonment, my wife decided that we should go into hiding. And I did the same. The very first visit I received in my refuge was that of the American consul in Sao Paolo, who had -- who had managed to contact us through our friends. He came to offer us a visa to the United States where we could live in freedom. So thank you very much to you and to America.
+
+Afterwards, during the hard years of authoritarian governing in my country, it was also at American universities and foundations that I found encouragement and support.
+
+Mr. President, in an expression of my confidence that relations between Brazil and the United States will be further strengthened and deepened, I would like to invite all to join me in a toast to the well-being of President Bill Clinton and Mrs. Hillary Clinton.
+
+{COMMENT="A toast is offered"} 
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

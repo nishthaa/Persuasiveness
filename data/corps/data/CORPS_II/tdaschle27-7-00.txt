@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President,Senator Tom Daschle And Congressman Dick Gephardt {/title}
+{event} Democratic Agenda Event {/event}
+{speaker} Tom Daschle {/speaker}
+{date} July 27, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Democratic Agenda Event {/description}
+
+{speech} 
+
+Thank you very much, Mr. President, for having us back. And thank you for your extraordinary efforts these past few weeks to advance the causes of peace and prosperity here at home and throughout the world. From the Oval Office to Camp David, to Okinawa, we thank you, Mr. President, for the extraordinary leadership that you have given us time and time again. {APPLAUSE} We are inspired by you and indebted to you for your tireless efforts to make the future better than the past.
+
+Not everyone in government thinks that way. In Congress, instead of making the future better than our past, our Republican colleagues seem determined to recreate the past. We've finally gotten rid of the deficit, and they're hell-bent on bringing it back. {APPLAUSE}
+
+In the last two weeks, they passed two tax cuts that, together, would cost the American taxpayers more than $1 trillion in the decade after this one -- the same decade that the baby boomers start to retire. And if that's not bad enough, the Republican tax cuts give as much money to the wealthiest 1 percent as they do to the bottom 80 percent of Americans combined.
+
+If you're among the richest 1 percent of Americans, under the Republican tax cut plan you get $16,000. But if you're like most Americans, you get about $200. The Republican tax cuts are also so irresponsible and so clearly tilted to favor the wealthy, that they're afraid to even send them to the President before the convention. They don't want anyone to look beyond the labels and see what the tax cuts really do; but the American people aren't going to be fooled.
+
+America's families deserve better than what Republicans are offering them, and we can do better. We should cut taxes this year. Our economy is strong enough and the surplus is big enough. But there's a right way and a wrong way to cut taxes. The Republican tax cuts reward the few; our tax cuts invest in the future. Their tax cut plan benefits the wealthiest 1 or 2 percent; our plan helps the other 98 percent.
+
+Listen to what we can do for less than what the Republican tax cuts would cost: we can eliminate the marriage penalty for working families who pay it. We can eliminate the estate tax for nearly all family-owned farms and businesses faster than the Republicans do under their plan. They do not remove even one farm from the estate tax rolls for 10 years. That's just the beginning.
+
+We can also make up to $12,000 a year of college tuition tax-deductible. And we can help families put their children through college, or go back to school themselves and learn new skills so they can move ahead in today's rapidly-changing economy. We can help families care for the elderly or disabled family members by providing them with a $3,000 long-term care tax credit. We can make child care more affordable by more than doubling the tax credit for dependent children and providing additional tax relief for families with stay-at-home parents.
+
+On top of that, we can help middle-class families save for retirement and increase the earned income tax credit, which Ronald Reagan called "the best job-creating, most pro-family tax plan ever passed in the Congress." We can also make the research and development tax credit permanent to spur innovation, and we can eliminate the phone tax and provide New Market initiatives that the President has so strongly provided leadership for, to help bring jobs and opportunities to America's poorest cities and rural communities.
+
+We can do all of those things, every single one of those things that I've mentioned for less than the cost of the Republican tax cuts. So the question isn't: should we cut taxes? The question is: how should we cut taxes? Who should we help first? The 80 percent of America's families who are stretched to the limit trying to make a decent life for themselves, or the people at the top who have already got it made?
+
+We think the answer is obvious. A year ago, Republicans passed a similar tax cut, then spent the month of August trying to sell their plan to the American people. Everywhere they went, people told them the same thing: read our lips. No new tax cuts for the rich. We need to pay down the debt, cut taxes for working families and invest in America's future.
+
+Mr. President, we're here to tell you: we will support your veto of every single Republican tax bill. We make that pledge this afternoon. {APPLAUSE}
+
+But just as importantly, we will work with you and we will work with our Republican colleagues to pass tax cuts that will help America's families meet the challenges of the future, not repeat the mistakes of the past.
+
+And now, it is my pleasure to introduce someone who fights every day for working families, my partner in the House, Dick Gephardt. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,70 @@
+﻿{title} Speech to Conservative Party Conference {/title}
+{event} Blackpool {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} October 7, 1970 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We have been in power for about four months, and I feel this morning that our speakers have given me a programme for at least the next decade. I share their confidence in the results of the next two or three Elections, and that we shall therefore be here to carry out that programme in large part.
+
+May I first congratulate Kathleen Ollerenshaw on the excellent way in which she has proposed the Motion. She has an almost unique place in the education system and has done as much for it as almost any other person. In particular, she is renowned for her work with further education, the expansion of which is one of the unsung wonders of the post-war period.
+
+Indeed, to those speakers who have spoken of the need for more vocational training and the need to do a great deal for those who leave school comparatively early, may I point out that on the 16 to 19-year-old young people who have left school we spend some £140 million annually in educating them to take the craft and technician courses.
+
+This in some ways is one of the parts of the education system about which we do not hear a great deal, but in which a great deal of work is done.
+
+A number of speakers have complained that the motion does not include everything. I can only think that if the motion had included everything they had said it would have extended over at least a couple of pages, and we should have had people complaining that it was far too long.
+
+May I, therefore, pick out one or two points that have been made and comment upon them? I believe that two features have characterised our education in the last twenty years.
+
+The first has been the enormous increase in numbers at every level of education and a demand for more of everything throughout from nursery right up to university training.
+
+The second feature has been a continual debate about the organisation of our educational institutions: the reorganisation of secondary schools, the transformation of the colleges of advanced technology, the founding of the polytechnics and their differences from the universities.
+
+I was interested to hear what Mr. Littler had to say, because whereas the universities tend to concentrate on the pursuit of knowledge for its own sake, the polytechnics are more concerned with the application of our knowledge to meet the problems of society. There is an increasing demand for courses which are oriented to employment opportunities, and their need is being met in the polytechnics. We expect a considerable expansion of opportunity in that direction.
+
+Those have been the two characteristics of the past twenty years: expansion in numbers and concentration on the organisation of our institutions.
+
+What can we expect to be the keynotes in the next ten years or so? Certainly the demand will continue to grow. We have seen it today as people have pleaded for extra nursery and primary schools and extra courses vocationally oriented. There will always be a demand for more, and the demands for both money and manpower are almost unlimited.
+
+I agree with Lena Townsend that in the 1970s we shall have to decide our priorities. We regularly have to do this ourselves in our own lives, and we cannot, I believe, shirk these issues at national level. By definition one cannot have more than one top priority, and we have made our top priority that in primary education, to which I shall refer again.
+
+The second theme for the 1970s in education will, I hope, be increasing concentration on quality: the quality of what the pupil and the student receive from the education service. Hitherto we have been occupied with numbers, but our thoughts must travel in other directions as well. Our task is to stimulate the thoughts and efforts of pupils and students to realise their own full potential.
+
+Ability, of course, does not mean only academic ability. Those who do well in life are not always those who do best at school. {APPLAUSE} I note that you were clapping vigorously, Mr. Chairman. And countless individuals enrich the quality, the standards, and the values of our life and contribute greatly to our economic success in a way that could never have been predicted from their progress through the education system.
+
+Sheer pressure of numbers, especially on the higher education system, as Mrs. Todd mentioned, may increase the tendency to judge by academic standards alone; but I hope that we shall not, in the education system, lose sight of the importance of other factors—the personality, keenness, and perseverance of pupils and students.
+
+We recognise what a great responsibility rests upon our teachers in helping pupils and students to fulfil their aspirations. We have, of course, placed great emphasis upon a teacher training inquiry, and this, too, has been welcomed. As you know, Mr. Chairman, I am anxious to have a comparatively short inquiry of a number of people prepared to devote a large time to it. This has, I think, given rise to some misunderstandings. A few people think that I am concerned to have an inquiry of two or three months. Frankly, that would not be long enough. It could not tackle the job in that time. I fully expect it to start work soon after Christmas and to take about a year. At the end of that time I hope that we shall have some of the answers to some of the problems to which Mrs. Townsend referred; namely, how teachers are prepared for teaching, to have a look at the three year certificate course and the one year post-graduate course and the Bachelor of Education degree, and any changes needed to make these more appropriate to the needs of students and schools.
+
+I am also concerned to see whether we can break down the isolation of the teacher-training colleges from other parts of the higher education system. To some extent that has already started as some colleges of education have been incorporated into the new polytechnics. But I hope that the inquiry will also look at the role of the colleges of education. So we do place enormous stress upon the teacher-training inquiry and hope that, within a year or so of its start, we can have results upon which we can act.
+
+I referred earlier to our top priority, which is in the primary schools. The best and most effective way in which a Government can honour its pledge is through the primary school-building programme. This is the thing which the Government controls. The first programme upon which we can have any effect is the 1972/73 programme which will soon be announced. Indeed, I expect to announce it after the decision on public expenditure has been announced to Parliament when Parliament re-assembles.
+
+Over six years ago Edward Boyle announced the biggest schools improvement programme that we have ever seen. Its size has never been equalled by the Labour Administration, let alone surpassed. I can promise you that the drive to get ride of our inadequate schools will be resumed in earnest. There will be one main difference between Edward Boyle's programme and mine. His concentrated on improvements in the secondary schools. Mine will concentrate on improvements to the primary schools. When the programme is announced I am sure you will be pleased with it, and I am sure that the local authorities, on which many of you serve, and the churches with their responsibilities for voluntary schools, will seize the opportunities that we are giving them. By this means we hope to do what many of our speakers have stressed—to give children a better start, because their progress in primary school can and does affect their whole future. Later perhaps we shall be able to turn to the needs of nursery education; but for the time being I have put our top priority on the primary schools.
+
+May I say a word about secondary education? A number of us have our own beliefs about the way in which secondary schools should be organised. Indeed, there is rather more opinion than fact on this particular topic, although I must say that has never limited the scope of the debate.
+
+The position is this, that with regard to the money available for secondary schools, there will be a mixed system of all kinds of schools with us for many years yet. I am always suspicious of panaceas, whether for educational or social problems. A panacea is only a panacea before you have got it. After that it becomes just another problem requiring yet another solution. I would rather keep our secondary school system flexible, ready to adapt to whatever changes might be desirable, and give the greatest opportunity to our pupils. I am also concerned to see that some variety of choice should be retained in the system.
+
+Now a word about raising the school-leaving age. You know what happened after Edward Boyle had planned to raise this in 1970. The Labour Party reneged on the obligation. They have left us the task of providing the buildings, which we are doing now, for raising the school-leaving age. We shall honour that building programme, and we shall carry out the pledge as planned.
+
+Children in our schools now will be working in jobs in the next millenium, and it is extremely important that they should have a good basic education from which they can adapt to the many chances which they will have to make throughout their lives. I believe that an extra compulsory year in school will give them greater opportunities and will prove invaluable to them in their future lives.
+
+A number of speakers have mentioned the direct grant schools in connection with I.L.E.A.; some in connection with the need to keep open variety of choice, and others in connection with the distinguished record of this group of schools. I believe that they are unique the world over, and I shall do everything I can to encourage them. They are the bridge between the completely independent system and the State system. They offer opportunities to pupils regardless of their parents' income or background, and I am particularly concerned that these opportunities should remain open to those pupils.
+
+Perhaps the most famous school of all is the one from Dr. Ollerenshaw's city, the Manchester Grammar School. Sometimes the existence of the direct grant schools comes under attack, but I do not think that schools like Manchester Grammar have deprived any poor boy in Manchester of opportunities. They have certainly given many a chance they would otherwise never have had.
+
+I am asked how I reconcile my view with independence of local authorities and freedom of decision by local authorities with trying to keep open opportunities in London for pupils to go to direct grant schools. Local authorities are free to take up places in direct grant schools, or not, as they choose. If they do not choose to do so I shall attempt, by arrangement with the direct grant schools, to enable pupils from that area to go, by application to the direct grant school, directly to it. I think that it is right to attempt to keep open some choice to parents who would otherwise have none. We cannot do it for everyone, but let that not stop us from at least doing it for some regardless of the income or background of the child.
+
+May I now say a word about independent schools? About 53 per cent. of children are in the independent schools system—2,949 schools; 426,000 pupils. At a time of pressure on resources this section makes a very valuable contribution to our education system. Even more important than that, I believe that its existence is a safeguard for all our children against a State monopoly in education.
+
+Mr. Mockler referred to the education of mentally handicapped children. We are especially concerned with this at the moment. Mr. van Straubenzee, my very able Parliamentary Secretary, recently took a Bill through the Houses of Parliament to transfer the education of some of these children from the Ministry of Health to the Ministry of Education, so part of the demand there has already been met. We felt so strongly about this that we gave that top priority in our legislative programme, together with the need to provide pensions for the over-eighties. Those were two of our top priorities and they have been done.
+
+We have reconstituted the Advisory Committee on Handicapped Children under the Chairmanship of Professor Tizard, Head of the Department of Child Development at the London University Institute of Education. That Committee is now considering problems arising from the transfer of mentally handicapped children from Health to Education, and also the need for research into the various branches of special education. The work of this committee, together with the work of inquiry that we are carrying on within the Department, amounts to a redeeming of the pledge of a special inquiry into the education of mentally handicapped children.
+
+None of us can opt out of the society of which we are a part. The great majority will make a positive contribution to that society. A few will be destructive and use the questioning technique referred to by Miss Chambers to attempt to debunk and destroy the values we cherish. Others—again only a few—will drop out from any form of decision, or choice, or of personal responsibility. All of these will have an effect upon the quality of our life. Education, as Mr. Hill said, cannot cure the ills of our society, not all of them, but I hope that it will continue to give increasing opportunities to all our young people to use their talents towards creating a vigorous society, with a belief in freedom under a just law, and with confidence in its own philosophies and its own future. To that end we shall continue to carry out the pledges in our Manifesto "A Better Tomorrow", and further to enhance the proud record of our party in education. I commend the conference to adopt the Motion. 
+
+{/speech}

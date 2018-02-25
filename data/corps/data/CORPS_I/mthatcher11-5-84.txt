@@ -1,0 +1,211 @@
+﻿{title} Speech to Scottish Conservative Conference {/title}
+{event} ----- {/event} 
+{speaker} Margaret Thatcher {/speaker}
+{date} May 11, 1984 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+
+{description} General Elections, Conservative Party (organisation), Taxation, European Union Budget, Privatised and state industries, Strikes and other union action, Energy, Law and order, Local government finance, Housing, Local government, Industry, Economy (general discussions), Labour Party and Socialism, Employment, Social security and welfare, Health policy, European Elections, European Union (general), Conservatism, Agriculture, Foreign policy (USA), Union of UK nations {/description}
+
+{speech}
+ 
+Mr. President, my lords, ladies, and gentlemen, Thank you very much, Mr President and everyone here for that very warm welcome. I love the way you say, Mr. President, "Yet again we welcome you to Perth." Isn't it marvellous! I hope you'll be able to say it for many a long occasion {APPLAUSE} And, of course, Scotland always does rise to the occasion of these great rallies. 
+
+One year ago we met here on the brink of battle, It was a battle crowned with triumph. Today, of course, they tell us that that triumph was always on the cards—merely a matter of routine. Yet not so long before they told us that no modern British Government could hope for two full Parliaments. And here we are, one year into our second term. 
+
+"I want to tell you straightaway how very impressed we are at Westminster by the four new Conservative Members elected last June in Scotland: {APPLAUSE} Gerry Malone in Aberdeen South; and Anna McCurley, Mickey Hirst, and Michael Forsyth in the West of Scotland. They are four first class new members. Added to the old hands who have already served you in Parliament for some years, in both Houses, they make a formidable team. 
+
+"They all work hard for Scotland together with George Younger and his colleagues at the Scottish Office. {APPLAUSE} That was one sentence too soon. I was about to say, and nobody stands up for Scotland more than George Younger {APPLAUSE} No-one in the whole of history has been more marvellous in the House of Lords than Lord Home {APPLAUSE} I understand he's been here the whole conference. He belongs not only to us in the Conservative Party. He belongs to the whole United Kingdom. {APPLAUSE} We are very lucky to have, as Chairman of the Party in Scotland, Sir James Goold. 
+
+He came to see me again at Number 10 just a few days ago. So I know at first hand the enthusiasm and dedication he brings to the job. 
+
+He is a most worthy successor to Michael Ancram to whom the Party in Scotland owes so much {APPLAUSE} 
+
+Mr President, it was nine years ago that I came to my first Scottish Party Conference as Leader. In those nine years, there have been many changes—but there has always been Graham Macmillan. {APPLAUSE} 
+
+This year, he retires—and I personally want to say "thank you" to him for everything he has done. And we extend a very warm welcome to Bill Henderson who succeeds him in September {APPLAUSE} 
+
+Mr President, after such a resounding Election victory last June, we've not rested on our laurels. Just look at the record. 
+
+Take Nigel Lawson's Budget. It gave a great boost to savings and it brought forward business investment. And it removed once and for all Labour's wretched tax on jobs. It was a true radical Tory budget. Three cheers for Nigel . {APPLAUSE} 
+
+In Europe, we've stood up for fairer shares and better house-keeping. Oh yes, I admit, it hasn't always made us popular. But it's right for us and it's right for Europe. 
+
+Or consider the huge state industries. I understand Norman Tebbit had quite a bit to say about them yesterday, and I'm sure he said it magnificently. When we came into office five years ago we pledged to return some of them to the people, and restore choice and competition to the customers. 
+
+And we've made a flying start—with British Aerospace. And then Associated British Ports. Then National Freight Corporation, and Britoil and Cable and Wireless. Next on our list are Enterprise Oil and British Telecommunications—itself the greatest single giant's stride to private enterprise ever taken by any Party in any country. {APPLAUSE} That will soon be followed by British Airways. 
+
+Well, there's plenty of Tory action there, Mr President, not to mention Scott Lithgow which will have a new start under new management, and we wish them every success. {APPLAUSE} 
+
+Yet in spite of all that de-nationalisation—which is partly a way of shifting power from the Government to free enterprise—in spite of all that, some politicians actually have the nerve to talk about Government by diktat. 
+
+The irony is that those who urge us to intervene in the coal dispute and seem angered when we don't are the very people who accuse us of being dictatorial. 
+
+Mr President, we are not going to intervene in the coal dispute. {APPLAUSE} Our job is to see that the industry has good management and has the resources to invest in the future. 
+
+But no Government has done more than this one to ensure that. Did you know, for example, that three thousand eight-hundred million pounds has already been invested in Coal by your Government since 1979? That is two million pounds for every single day the Conservative Government has been in power. What a fantastic record of confidence in the future of coal. {APPLAUSE} 
+
+And if the mining industry goes according to plan, another three thousand million pounds will be invested in the next four years. 
+
+Did you know that there have been no compulsory redundancies as the Board has closed out-of-date and exhausted pits? 
+
+Did you know that the Coal Board has just won a new contract to sell coke to the United States—a contract worth a thousand jobs? 
+
+But those jobs depend on the coke being delivered. Mr President, it's sales that create jobs. It's strikes that destroy them. {APPLAUSE} 
+
+Regrettably, the Coal dispute drags on. I notice that the National Union of Mineworkers is saying that coal stocks at power stations will last for only eight weeks. They made exactly the same claim on 6th February. Thirteen weeks ago. 
+
+Mr. President, there are sufficient coal stocks at the power stations for many months to come. 
+
+And there are great opportunities for a competitive coal industry, but it's up to the management and the miners to grasp them. And it's up to the police to make sure that all those who want to get to their place of work can do so. {APPLAUSE} 
+
+Night after night, we've seen on the television how well the police are doing just that, and we support and congratulate them. {APPLAUSE} 
+
+And today, Leon Brittan announced that this Government is providing extra finance for the police authorities to sustain them in their vital role of upholding the law. And George Younger will be making similar arrangements for Scotland. {APPLAUSE} 
+
+Mr President, we are also putting through legislation to reform Local Government finance. Our aim is to curb extravagance by overspending Councils and to cut out waste. 
+
+People's homes and local businesses need defending. 
+
+When Councils can bankrupt shops and factories which have no voice in choosing them, and when mounting rate demands worry to distraction old people on modest incomes, then the victims must be able to look to Government to protect them. 
+
+That's why we are seeking the necessary powers to control rates: Powers which George Younger has had in Scotland for years already. 
+
+But do the ratepayers of Lothian look on George as some ruthless tyrant because he has cut their rates by 25%;? Do the householders of Stirling quake at the name of Younger all because he took 6p in the pound off their bills for rates? 
+
+On the contrary, they reckon he's a jolly good fellow, and so say all of us {APPLAUSE} 
+
+As a result of Scotland's example, good sense has begun to show in England too. 
+
+Only a few short months ago it was said that small business rates in the English city centres would go up by an alarming 30 per cent. It hasn't happened, because the local authorities know we mean business. So they have contrived to hold the rise in rates to an average 6 per cent—the lowest since the early 1970s. 
+
+To call rate-capping "dictatorial," as our opponents do, is not the language of hyperbole. It's plain, old-fashioned double dutch. And that's not a tongue I've mastered. {APPLAUSE} 
+
+Mr President, throughout history freedom and personal ownership have gone hand in hand, they both lie at the heart of Conservative beliefs. Since 1979 some 50,000 council tenants in Scotland have taken advantage of our legislation to become the owners of their homes. And another 13,000 sales are in the pipeline. That's good, but it's not good enough. For so far only one in twenty council tenants have taken advantage of the offer. South of the Border, it's about one in nine. So go out and spread the good word. Those who own their homes have taken the first all-important step in becoming independent men and women of property. 
+
+Since this Government came into office, 1,400,000 more people have become home owners—600,000 of them former council tenants. Mr President, it would never have happened without us. {APPLAUSE} 
+
+But though we put home ownership first, ownership does not stop at bricks and mortar. There are other things as well. Savings kept safe from plunder by inflation, savings now set free by Nigel Lawson from surcharge by the taxman, will bring a new independence and comfort to retirement. What an enormous difference it would have made to many present pensioners if their savings still had the same value that they did when they put them in the bank many years ago. {APPLAUSE} These savings, free of inflation, will bring a new independence and comfort to retirement. 
+
+And we have given fresh encouragement to those at work to buy a stake in their company. 
+
+"When we took office, there were only thirty approved employee share schemes. Now there are almost seven hundred. And nearly half a million employees have benefitted. 
+
+And when we de-nationalise an industry, we make sure that its employees have a special opportunity to acquire shares, because we believe that they should be owners as well as earners. All of these things we are doing. Whether it's home ownership, whether it's savings keeping their value, whether it's helping those in work to buy their own shares or to buy shares in their company—all of this because, we believe, to have a strong society, you want people to be independent of government. Independent because of home ownership, independent because they have property rights of their own. And if you look around the world you will find this: where there are no private property rights, there are no human rights either. {APPLAUSE} 
+
+You will, of course, expect me to say a few words about how I see the economy. 
+
+Just five short years ago we had almost come to take several things for granted. For example, we thought that the country had to live on borrowed money.—That price increases must be approved by a Commission or they would run away with us.—That Unions had to be above the law.—That a subsidy was almost a divine right for every industry in trouble.—That inflation was a way of life and large deficits inevitable.—That penal taxes on savings and high earnings were the tributes we had to pay to envy.—That excellence in schools and universities was ‘elitist’. Some people thought that, but we didn't. 
+
+And when we said we meant to challenge those assumptions, our critics said, "You wouldn't dare." Well, Mr President, we dared. 
+
+Instead of incurring more overseas debts, we paid back the monies borrowed by Labour. I wonder if you noticed. You probably didn't, but just last month we paid back another $480 million borrowed by Labour in 1977. They were profligate. We are the prudent party. {APPLAUSE} We were bold. We got rid of price control, and inflation has fallen. We began to reform trade union law and to protect the rights of individual members. There is still a lot to do. And we shall do it. We scrapped some taxes and we reduced others. Mr President, if income tax were still what it was under Labour the average taxpayer would be paying £165 more to the taxman this year. 
+
+We are setting new standards in our schools. So inflation falling, output rising, productivity breaking all records—put those together and you get rising living standards, and rising profits for investment. And that is precisely what is happening, under the Conservative Government. 
+
+Now, of course, to our political opponents, profits are anathema. Exploitation, they call them. Don't they know that families are proud to have a breadwinner employed in a firm that makes good profits? 
+
+For a company with profits is a company with a future. 
+
+Now, of course, I know that for some people the only good investments are those made by the State. 
+
+And yes, of course, there is a role for state investment. Indeed, since this Government took office we have provided thousands of millions of pounds for British Steel, for Ship-building, and, as I have already indicated, for the coalfields. 
+
+But taxpayers who provide all the money, whether individuals or companies, do not have a bottomless purse, and they have to earn their money too. And they know that no subsidy in the world can ultimately protect a business which has lost its main asset, the confidence and support of its customers and investors—at home and abroad. 
+
+When overseas investors know that this country is on the up and up, that management and workforce are motivated, they'll come to Britain all right, and they are coming. And they're coming to Scotland. Let me give you a few examples, though they are so numerous I couldn't possibly give them all. 
+
+National Semiconductor—investing over £100 million at Greenock. Hewlett-Packard—spending £10 million on its plant near Edinburgh. Motorola £22 million at East Kilbride. And a Japanese Company Shin-Etsu are investing £35 million at Livingston. And, this very week, another Japanese firm at Livingstone—Mitsubishi Electric, the first ever Japanese video assembly factory outside Japan. Then there's I B M—£8 million at Greenock. These are recent examples. I'd put in a few more, but do you know what George Younger said? "Oh, they're old news. Take them out." So I've just given you the new ones. Now, why? Why are they coming to Scotland? Are they coming to Scotland out of public duty? Or because perhaps in some cases some of their forebears came from Scotland? Or, in the Japanese case, is it a yen for access to the best golf-courses in the world? {LAUGHTER ; APPLAUSE} As Eliza Doolittle might have said, but didn't—not remotely likely. {LAUGHTER ; APPLAUSE} 
+
+Ladies and gentlemen, these international companies have chosen Scotland as a place to invest their shareholders' cash because they know the reputation of the Scots for skill and application. 
+
+Because they have done their sums and concluded they can get a good return here. But not just a good return for them: a good return for us. For every firm that starts up in Scotland, or adds another extension to an existing factory, means new jobs for Scotsmen. And we want them and we need them. {APPLAUSE} 
+
+And those new firms achieve a level of performance here that matches or exceeds anything they reach elsewhere. In Edinburgh they find a sophisticated financial centre. In the Scottish Universities and colleges they find a new technological culture. A skilled and productive labour force, a strong financial centre, an environment of research—now that's a real triple alliance for you {APPLAUSE} That's the sort we want to create jobs for the future. 
+
+But this is only a beginning, because the tragic toll of unemployment has touched every community. Our young people ask—where will the jobs come from, and when? In answering that question, we should not be too proud to learn from the experience of others. Over the past ten years, the United States has succeeded in creating an extra 16 million jobs—more than the whole of Western Europe put together. How have they achieved it? 
+
+Well, of course, they've not had Socialism to contend with for a start. And then they have a real "enterprise culture": a culture in which men and women expect to change their jobs, even from manufacturing to services, if that means work. Or to start up on their own. 
+
+Some may ask—can't we do it all by state planning? A national plan perhaps? 
+
+Almost twenty years ago, I'm told, a Labour Government produced a Plan for Scotland. It described the future for every region of the country. And believe it or not that future was all that you could wish for: more jobs, more homes, more people, and rising living standards. For every region, that is, except just one. 
+
+There was one region, it predicted, where the population was going to shrink and jobs would be scarcer. 
+
+And what was the Cinderella of the regions? It was Grampian. {LAUGHTER} 
+
+Since then, in spite of the plan, what has actually happened? In too many of the Scottish regions jobs and population have not grown, they've shrunk. There has indeed been one exception. And that one exception has been—Yes—Grampian. 
+
+Now, How did Labour get it wrong? Not because they were uniquely blind and foolish, but because North Sea Oil had hardly been dreamt of. 
+
+Or—take another example. Those worthy planners of the 1960s knew what chips were. They went with fish. {LAUGHTER} 
+
+Yet today an electronics industry they had never imagined could grow up employs more Scots than coal, or steel, or shipbuilding. 
+
+And so, you see, I can't tell you where the next openings in the market place will come, any more than those employed in agriculture a century ago could have foreseen the movement from field to factory. 
+
+But what I can do—and what your Ministers are doing—is to give our native talent its head and our backing. 
+
+That's why in each successive budget we have put the emphasis on enterprise; because when we have solved the problem of encouraging more successful business to start and to grow, we shall have solved the problem of unemployment {APPLAUSE} That's why—and there's always a why to everything we do—that's why we've got such generous tax incentives for those who launch new businesses and for those who back them. And that is one reason why the numbers in jobs are starting to rise again—only just starting—by 120,000 in the last three months of 1983. 
+
+Now, if encouraging enterprise is something we can learn from American experience, there is much to remember from our own. For example, quality. 
+
+When Britain was the workshop of the world we didn't sell just on price. We sold on quality. And that's how you sell woollens and whisky from the Borders and the Glens and get a good price for them across the world. 
+
+John Dewar of Perth, Keillers of Dundee and Joseph Walker of Aberlour didn't win their Queen's awards for exports by dumping cut-price Scotch, or marmalade, or shortbread. They sold on quality. And so it must be with the products of the new industrial revolution—where Scotland is already to the fore. 
+
+The micro chips, the computer hardware, and software, the deep-sea drilling rigs and mining machinery. All have a marvellous future. All produced in Scotland. 
+
+A name for quality is slowly won but swiftly lost. As successful companies know, it needs round the clock commitment. That is the only basis on which we can capture the world's markets. It is the positive approach, the Conservative approach, the right approach, the only approach that will win the jobs we need. {APPLAUSE} 
+
+Now, Mr President, I want to have just a word about the social services. All right, I always concentrate on enterprise, because unless we get that enterprise, those profits, that success, we shan't be able to begin to finance the social services. You've got to do first things first. Indeed, sometimes I say industry and commerce is the first social service of the country. So we have to always concentrate on that, but I just want to say a word about our record in the social services. Because don't let anyone tell you that in building the foundation for a new industrial era in Britain a Conservative Government has not stood by the social services. Because the fact is, the Conservative Government has strengthened them. {APPLAUSE} I know you've had a debate on this and I'm told you were given all the facts and figures, but just let me pick out one or two things. Retirement pensions are worth more than ever before. Those who are disabled or chronically sick have received special attention under Conservative Governments. Benefits for them have risen way above inflation—indeed they've risen by almost 30%; more. The Health Service has grown too. In Scotland since 1979 there are over 6,000 more nurses and over 600 more doctors and dentists. 
+
+Mr President, the Conservative Government has a marvellous record which we should shout from the rooftops. {APPLAUSE} In social services as in other things, we must look ahead, because by the end of the century we expect there will be a million people over the age of eighty-five far more than we have today. The demands on medical care, pensions and specialised housing will be great indeed. Now—now is the time to see how best to make the necessary provision. It's no good waiting until we've nearly got there. And in making that provision, we have to be fair both to the working population and to those who have retired. Already out of every pound of public spending, 40p goes on health and social security. First we must make sure that for every penny spent we get value for money. Otherwise there will not be enough to do everything we want. 
+
+Norman Fowler has set up studies on the four main areas of our social security policy—on pensions, on supplementary benefit, on housing benefit, and also on the needs of the young. Much of the evidence will be taken in public. Now, of course, I can't tell you what the results will be. That's why we are enquiring into these matters. What I can promise you is this. This Conservative Government is looking to and providing for the long term. And the foundation for meeting the needs of the future is a combination of four things—honest money, profitable enterprise, fair taxation and sound social security. And it's this Government and this Party that's likely to provide all four of those. {APPLAUSE} Winston Churchill used to say that we needed a ladder and a safety net. A ladder of opportunity to climb and a safety net to protect us in need. 
+
+It's is still the best description I know of what we are trying to do. And I promise you this. We shall not falter in the pursuit of those very aims. 
+
+Mr President, next month the nation votes to choose our Members of the European Parliament. We need Conservatives in the European Parliament {APPLAUSE} And the European Community needs our Conservative approach. 
+
+Not a blind hankering to preserve the past at all costs. But that splendid philosophy of ours which combines reverence for the best of the past with a determination to build for the future. The Conservative Party in Europe will work as it does in Britain. Not to destroy the community. But to preserve the best of its achievements—remembering that it was created to ensure that western Europe was never again torn apart by conflict—and to put it on a sounder basis for the tasks ahead. Both of those things are worth a very great deal to us. 
+
+The Community needs the same prudent financial policies and the same rigorous control of public spending that we have pursued at home. And, I must tell you, it doesn't have both of those things at the moment, and we had quite a struggle to get them. We know. We finance rather too much of it. {APPLAUSE} And that's where we fight battles in Europe harder than anyone else and that's where I get the name of being the ‘Iron Lady’, among other places {APPLAUSE} 
+
+I don't underestimate the task that lies ahead in fighting that election, because we're fighting to defend a host of seats: And we shall meet with many anxieties about what the future holds, especially from the farmers in Scotland and elsewhere. 
+
+Now, I understand those anxieties. But I believe our farmers also understand that the surpluses have to be reduced. It must make sense to relate the amount of food our farms produce to the amount we can sell at home and abroad. It does not make sense for ever more butter to be dumped in Russia. Or wine either—and at a price cheaper than we pay at home. {APPLAUSE} 
+
+Now, our purpose as a Government has been—and will remain—to give our farmers the maximum possible help, especially in adjusting to the new conditions. 
+
+And that's why we have defended such special aids of crucial importance to Scottish farming as the beef premium for which your Ministers fought successfully against the odds in Brussels. And that's why we shall maintain and develop the sheep regime—awful jargon they use in Europe: the sheep regime! It will enable us to go on producing lambs—and continue to provide help for the hills and upland areas. 
+
+And on dairy farming we are pressing the Commission to let us have the details of the new quota arrangements and how they will operate. Did I hear a good ‘Hear, hear’? I quite agree. Nothing is worse than uncertainty, especially in a business like farming where you have to make your decisions well ahead. 
+
+Now let us all recognise—our farmers have done a marvellous job. {APPLAUSE} And we need them to be successful, because their particular qualities bring so much to the strength of our whole society. 
+
+Now, Mr President, once the Community has settled its internal problems, and those are, as you know, some of the agricultural problems, some of controlling public spending, some of having a much fairer share of the burden of financing the Community. When we solve those problems, Europe can look more to its global responsibilities. Because we are part of the free world, and we must act with the free world. And that means, first and foremost, that we should work with our great ally across the Atlantic, the United States {APPLAUSE} Where would Europe have been in that most difficult and dangerous period after the last war without America? 
+
+Where would we have been since without America's massive contribution to the freedom and security of Europe? 
+
+We can't go on drawing endlessly on American goodwill and generosity without ourselves trying to understand their concerns and the burdens which fall to them. 
+
+For they're the champions of all the beliefs and ideals which we cherish most deeply. 
+
+I believe profoundly that the Alliance between Europe and the United States is vital to the defence of the free world {APPLAUSE} So Conservatives will work for a Europe which is a strong partner to the United States and which uses its experience and an increasing part of its resources, to reduce the areas of tension and conflict; to improve the prospects for the poorer countries and to defend and to spread beliefs and ideals which are shared by the Western democracies. That is our vision for Europe. 
+
+Next month, Mr President, I shall be receiving my colleagues from around the world at the London Economic Summit. 
+
+I wish I could have brought them to this gathering at Perth, for I think you have something to show them. How this Tory Party of ours, the only political movement with a mass membership in every walk of life, has begun to turn our country round. {APPLAUSE} 
+
+And how we're beginning to renew that sense of personal obligation and commitment without which there can be no social conscience. 
+
+So let us raise our heads above this or that strike, this or that wage demand, and above the pettiness of much of the internal debate—and remind ourselves that: —in these small islands there is still a great and a great-hearted people —that across the globe Britain is still a name to be conjured with, an ally to be relied upon —that we are deeply respected for our history, our institutions, our skills and our sense of fair play. 
+
+And we always shall be, so long as we keep confidence in ourselves. 
+
+And under a Conservative Government we shall keep that confidence. 
+
+We shall remain—and we shall not be ashamed to say so—proud of our heritage, proud of our country, proud of this, the United Kingdom {APPLAUSE}
+
+{/speech}

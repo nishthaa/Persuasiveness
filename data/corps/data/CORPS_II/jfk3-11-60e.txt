@@ -1,0 +1,17 @@
+﻿{title} Remarks of Senator John F. Kennedy, Airport, Phoenix, Ariz. {/title}
+{event} Airport, Phoenix, Ariz. {/event}
+{speaker} John F. Kennedy {/speaker}
+{date} November 3, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Ladies and gentlemen, I just hate to think - would you mind getting the signs down a little - let me just say that I hate to think of the Vice President waking up tomorrow morning, looking for those pictures of that rescue operation in New York, and seeing this picture instead at 3 in the morning in Arizona. {APPLAUSE} He has been issuing lists of all the States that he has sure, and one of the ones always at the top of the list is old Arizona. {SPONTANEOUS-DEMONSTRATION} The fact of the matter is that I would not have been nominated without the help of Arizona, and I think Arizona can be with us when we are going to win on November 8. {APPLAUSE}
+Actually, I came down here because I thought it was very unfair of Dick Nixon to take Governor Rockefeller, Henry Cabot Lodge, and the President to New York without taking Barry Goldwater. {APPLAUSE} If they can just get Barry out of that Confederate uniform that he has been traveling in through the South - he has been traveling all over the South - and get him up North, they could see him up there. And I think that the people of this country are going to elect one President. They are not going to elect a team. They want one man to lead the United States. {APPLAUSE} The fact is that we have all seen elephants before. We know they all have great heads of ivory, thick skins, and as they go around the circus ring, they just grab the tail of the elephant ahead of them. {LAUGHTER}
+Well, now, Mr. Nixon did that in 1952, and 1956, but there is no elephant ahead. He is running. He is running, not Mr. Eisenhower, but Mr. Nixon, and I don't think the American people are going to take him in 1960. {APPLAUSE}
+Let me just say that I am delighted to be running with Lee Ackerman, with Stewart Udall, who has been in Congress with me, who speaks for Arizona and the Nation, with men who are forward looking, who are committed to moving Arizona, who are committed to moving the United States. I want to say I don't know any State in the Union where they are, I won't say crazy enough, where they are strong enough as Democrats to turn out at 3 in the morning. {APPLAUSE} Nixon has been in bed for 3 hours, but we are out here working, and we are going to keep working for the next 5 days. {APPLAUSE}
+This State and this country have to move ahead in the 1960's. We are face to face with the most serious test of our ability to make a society work that we have ever had. We cannot possibly afford to look to the past or stand still. We have to pick ourselves up and move ourselves forward. That is what we are going to do and that is why Arizona should come with us. {APPLAUSE}
+So I want to present to you Stewart Udall, who is going to be elected to Congress - come up here, Stewart. Where are you? He has gone home. Well, I know we are going to elect him back to Congress. {APPLAUSE} Lee Ackerman - come on up here, Lee. He is coming. He is coming. Lee Ackerman is here, and Dick Harless. {APPLAUSE}
+
+{/speech}

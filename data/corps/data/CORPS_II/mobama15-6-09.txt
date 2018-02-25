@@ -1,0 +1,21 @@
+﻿{title} Remarks By The First Lady at The White House Music Series: The Jazz Studio {/title}
+{event} White House Music Series: The Jazz Studio {/event}
+{speaker} Michelle Obama {/speaker}
+{date} June 15, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hey! Good afternoon everyone. Please be seated. We just want to keep you on your toes. If you're looking that way and I come in that way, then you're completely confused, right? Keep you on your toes. Well, welcome to the White House as we kick off the Music Series: The Jazz Studio. How has it been for you all? It's been good? {APPLAUSE}
+Well, I want to just thank a few people. I want to thank Jazz at Lincoln Center, the Thelonious Monk Jazz Institute and the Duke Ellington Jazz Festival for making today possible and for keeping jazz alive. So let's give everyone a round of applause. {APPLAUSE}
+Today's event exemplifies what I think the White House, the People's House, should be about. This is a place to honor America's past, celebrate its present and create its future. And that's why all of you all are here today. It's about you, the future. And what better example of this is -- than jazz, America's indigenous art form.
+Globally recognized as America's music, originating in the great city of New Orleans just a century ago through the African American experience, today jazz is performed and listened to by people of all ethnicities, backgrounds, ages and creeds. Indeed, jazz is considered by many to be America's greatest artistic gift to the world.
+The understanding and appreciation of jazz is integral to understanding and appreciating American history and culture. It's an outstanding artistic model of individual expression and democratic expression, as well. And there's probably no better example of democracy than a jazz ensemble: individual freedom, but with responsibility to the group.
+It's essential that we preserve, develop and expand this treasured art form for our future generations by recognizing and elevating the importance of our jazz education programs in every single school across America.
+The budding jazz -- young jazz musicians from across the country who are with us today, all you young talents, are the future guardians of the music. We salute you and your teachers. We are counting on you to keep the music vital and evolving for generations to come. And as jazz has been demonstrating every night for more than a hundred years, when we work together there's nothing that we can't do.
+So I'm through talking. Now we get to the fun part. We can hear some music. So I hope you guys enjoy your time here together. I hope you get to see some of this White House. I heard a few of you were skipping on your way up to the White House. I hope you keep skipping and having fun here. I brought my own family with me today because I want to keep them alive and aware of all kinds of music other than hip hop. {LAUGHTER} So it's so important for me to have you here that I brought them here, as well.
+And jazz has been a part of my life since I was a little girl. My mother's father, who we call "South Side," before there was room-to-room speakers he had a speaker in every house, in every room in his house, and he played it 24 hours a day at -- on the highest volume he could put it on. And that's how I grew up in my household. At Christmas, birthdays, Easter, it didn't matter, there was jazz playing in our household.
+So it means so much to me to be able to bring that music here to the White House and to have you all celebrating with us. So have a good time. Thanks so much. {APPLAUSE} 
+
+{/speech}

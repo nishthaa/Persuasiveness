@@ -1,0 +1,27 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Egon Alfred Klepsch {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, Prime Minister, ladies and gentlemen, this is an important date in the history of the European Parliament. Prime Minister, I would like to thank you on behalf of my group that for the first time the Head of Government of a presiding Member State has given the elected European representatives an account of a meeting of the European Council. {APPLAUSE} 
+This is a visible sign of the esteem in which Parliament is held—esteem for the elected advocate of the peoples of the European Community. Prime Minister, in this way you have not only created a better climate between Parliament and the Council, you are also founding what I hope is a new tradition of cooperation. {APPLAUSE} 
+
+Tomorrow we will debate the six months of the British Presidency. However, please allow me to touch briefly on a number of points you raised. You made it very clear that the European Community was founded in order to ensure peace, freedom and democracy for us and the coming generations. This is indeed the central issue and so I welcome the fact that you consider it vital for the Community to act more rapidly in times of tension and that mere reaction to political events should at last make way for European initiatives.
+
+In this respect I am pleased to hear that you support the plans of Foreign Ministers Colombo and Genscher to extend European Political Cooperation and that you are clearly in favour of Spanish and Portuguese entry; in general I can only underscore what you said on the need for continued development of the European Community.
+
+Unfortunately, Prime Minister, the reality is different. I by no means wish to detract from the United Kingdom's contribution or to question its goodwill when I say openly: we have come to a virtual standstill on the key questions of the European Community. Unfortunately, yesterday's meeting of the Foreign Ministers was basically inconclusive, similar to the disappointing Maastricht and London summits. I repeat: what we need is to break the political deadlock in the Council. {APPLAUSE}
+
+Prime Minister, precisely because you have made such an eloquent plea for progress in Europe, we must prepare the ground to make it possible. I cannot say often enough: as long as the decision-making mechanisms do not function, as long as the Council pursues the policy of the smallest common denominator in line with the undesirable trend started by the Luxembourg désaccord, Europe will not escape from its self-imposed impasse. {APPLAUSE}
+
+The Community will develop positively if, with the support of the European Council, we succeed in achieving cooperation between a Council with a clear political will, a Commission which is confident about its rôle and an active and dynamic Parliament.
+
+Many people outside the Community have their eye on free Europe at this very moment. You referred to Poland. Let me add that we hope that the Polish people will be able to solve its problems on its own. There as everywhere else in the world we firmly support the right to self-determination and basic and human rights. {APPLAUSE} 
+
+Prime Minister, now that you have made such a positive appeal for new forms of cooperation between Parliament and the Council, we ask you to do what you can in future to help Europe out of its impasse. We offer you our support, in the interests of the citizens of Europe. {APPLAUSE} 
+
+{/speech}

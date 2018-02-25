@@ -1,0 +1,38 @@
+﻿{title} Remarks at the Inaugural Balls {/title}
+{event} Inaugural Balls {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} January 20, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} Sheraton-Washington Hotel (9:42 p.m.) {/description}
+
+{speech}
+
+The President. Well, ladies and gentlemen, thank you so very much, not only for that warm greeting but thank you also for being here, for being a part of what I think has been a very wonderful few days, thanks to the work of Bob Gray and Charlie Wick as cochairmen of this inaugural.
+
+You have had a good time, haven't you? {CHEERS} I was going to say I'd be sorry if you didn't, because Nancy and I have been enjoying it. {LAUGHTER}
+
+{AUDIENCE} Four more years! {/AUDIENCE} {LAUGHTER}
+
+The wonderful entertainers who have donated their services to be here tonight, Ray Charles, all the others that are here -- I know that if I start on names -- I know that Wayne Newton is one. And I'm so grateful to him, because Wayne, throughout the whole campaign, was just constantly working in our behalf.
+
+But could I, since they tell me that I don't have much time -- we're on the circuit. We're getting to all 10 of these, and they have worked it out and told us that it's only going to take us 4\1/2\ hours -- {LAUGHTER} -- if we don't talk too long here.
+
+But I thought maybe that we could give you a little update on the news, because, being here, you probably haven't had that. The latest word we have is that our Americans -- and I never have felt comfortable calling them hostages; they are prisoners of war -- all 52 of them, hale and hearty, have landed in Algeria and are preparing to board the American planes that will take them to Germany.
+
+{COMMENT="To Mrs. Reagan"} You look lovely, nice.
+
+But one other bit of news; perhaps you're familiar with this. You know, that first inaugural almost 200 years ago, people arrived by horseback and stagecoach. Tonight all over America, there are Americans that are at the inaugural by satellite, because in addition to these 10 balls here in Washington, there are probably in the neighborhood of a hundred in that many different cities all over America who are a part of this by closed-circuit television, participating in these. And the proceeds from those are going to the charities of those local communities as named by the communities themselves. So, we're doing some good with that.
+
+I think we've taken our quota of time here again, but -- --
+
+{AUDIENCE} No! {/AUDIENCE} 
+
+Well, no, there are more to go. There's wonderful entertainment, and I know there's wonderful music for all of you. And Nancy and I, the music has been in our hearts. So, we'll get back on the road.
+
+Viva, ole. You're singing our song.
+
+If what I said this morning, and I feel even more like it tonight when I look out here at all of you, there isn't anything we can't do, and together we're going to do it.
+
+Thank you very much. God bless you. Thank you.
+
+{/speech}

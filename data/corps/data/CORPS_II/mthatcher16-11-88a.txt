@@ -1,0 +1,48 @@
+﻿{title} Speech at White House State Banquet {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 16, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (USA) {/description}
+
+
+{speech}
+
+Mr. President, Ladies and Gentlemen: 
+
+First, let me say a heartfelt "thank you" for the magnificent hospitality which you and Mrs. Reagan have extended us this evening and throughout the visit. I think we all realise this is a very special occasion and we are all delighted to be here with you; and thank you, too, for giving us the honour of being the first official guests in the beautifully transformed Blair House—it really is marvellous and I would like to thank all of those who took part in doing it up. I hope Antony Acland will forgive me for saying that it surpasses even that modest little log cabin up Massachusetts Avenue. 
+
+Mr. President, I have a particular feel this evening. You were so very generous in your remarks about me and then very kindly said that I was still going to be around and I think the important thing about this evening is that we all want to pay a very great tribute to you for your Presidency, for which we are all so grateful {APPLAUSE} and I am really rather proud that it falls to the fortyninth Prime Minister of the United Kingdom to pay a great tribute to the fortieth President of the United States. 
+
+That is quite historic. There have not been many times when a Prime Minister of the United Kingdom has been Prime Minister throughout two consecutive Presidencies of the same person in the United States. Indeed, there are only three of us so far: one was Pitt the Younger, who was in No. 10 Downing Street while George Washington was President; Lord Liverpool was also Prime Minister throughout the whole time of James Monroe as President; and the third one is me {APPLAUSE} and, fortunately, I am here to pay tribute to you, Sir, and as I look back over the past eight years of our time in office together, what I remember best … I remember the dark days of the early part of this decade, when both our countries were grappling with inflation and recession—you referred to it in your speech—and when you told me at the British Embassy in 1981 that for all our economic difficulties, we would be home safe and soon enough. It is a lovely phrase—only you could have thought of it—home safe and soon enough. We can never be wholly without economic problems, but you can rightly take tremendous pride in the seventy-one continuous months of expansion of the American economy. 
+
+I remember, too, your brave words in the British Parliament a year later, words which have echoed round the world, when you asked the question: "What kind of people do we think we are?" and answered it by proclaiming: "Free people, worthy of freedom and determined not only to remain so, but to help others gain their freedom too!" 
+
+I remember also your historic address in another ancient hall in London almost exactly six years later—your report on your Summit Meeting in Moscow was an inspiration to all who heard it, but more than that, you gave us that day your own declaration of faith in the principles which have inspired your political life and your words illumined the centuries of histories residing in Guildhall's ancient stones; and I remember vividly the feeling of sheer joy at your election eight years ago, knowing that we thought so much alike, believed in so many of the same things and convinced that together we could get our countries back on their feet, restore their values and create a safer and, yes, a better world. 
+
+Together, we have been able to demonstrate the truth of Winston Churchill 's words about our two peoples in the House of Commons in the last days of the War when there in the House he said this: 
+
+"As long as our people act in absolute faith and honour to each other and to all other nations, they need fear none and they need fear nothing!" 
+
+Mr. President, you have been more than a staunch ally and wise counsellor. You have also been a wonderful friend to me and my country—a friend whose cheerful bravery in the face of personal danger and of illness overcome we have all admired and whose optimism and kindness have never been worn down by the pressures and preoccupations of your high office. 
+
+Mr. President, it is when you believe in something as strongly as you do that you are given strength to take you through difficult times—and your belief has taken you through those difficult times. 
+
+Ten years ago, Mr. President, in a letter to young Republican, you explained what it meant to be an American and in describing the personality of the people of this land, recited Winston again— Winston Churchill 's observation that Americans seemed to be the only men who can laugh and fight at the same time. Mr. President, you are one of those men—a combination of true valour and gentle good humour. 
+
+In celebrating your qualities and achievements, I also pay tribute to that special person who stood by your side in all your endeavours. You do not need me to tell you, Mr. President, that in the First Lady of the United States you had a companion and partner whose charm, dignity and quiet but sure courage have won the hearts of millions {APPLAUSE} We all thank her for the lead she has given in the war against drugs. She has inspired not only the young people of America, but the whole world. Nancy, for that and for so many other things, we salute you too. 
+
+Looking back on it all, what do we see? 
+
+I can do no better, Mr. President, than repeat your own favourite verdict on a film script. "That story", Sam Goldwyn once said, "is wonderful; it is magnificent; it is prolific!" So, too, Mr. President, have been the Reagan Years {APPLAUSE} and we draw strength in the knowledge that your successor is someone who represents all that is best in America, whose loyalty to its values and its institutions is unswerving. We warmly congratulate you, Mr. Vice-President and Barbara, on your victory and we look forward to further great achievements under your Presidency and to working with you as a true and trusted friend. 
+
+Mr. President, the nature of mankind is such that the struggle for freedom can never be over, but it is a tribute and a testimony to your Presidency that as you leave office and make your way westward back to California, we know that you have brought to fulfilment the famous prophesy of an English poet: 
+
+"And not by eastern windows only, 
+When daylight comes, comes in the light, 
+In front, the sun climbs slow, how slowly, 
+But westward, look! the land is bright." 
+
+Ladies and Gentlemen, the President. {APPLAUSE}
+
+{/speech}

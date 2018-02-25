@@ -1,0 +1,26 @@
+﻿{title} Speech to Finchley Conservatives {/title}
+{event} St Mary's Hall, Hendon Lane, Hendon {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 10, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+how the world has gathered together to say: "Up with this aggression we will not put". Otherwise there would be no safety, no future, no peace or security for anyone, anywhere. {AUDIENCE} Hear hear! {/AUDIENCE} {APPLAUSE} 
+I think I would choose three things to say what have really have been my great pride and joy during these first thirty one years and eleven and a half years. {LAUGHTER}
+
+First, that Britain's reputation as a staunch and reliable ally, and a person who said fearlessly in international conferences precisely what we meant, Britain's reputation abroad rides very high in the world. {AUDIENCE} Hear, hear! {/AUDIENCE} And that indeed is something, as we all know when we travel abroad, and as people come from abroad here. So Britain's reputation rides higher than it's been for many a long year.
+
+And the second thing, is, that we in fact took the economy and industry and commerce in hand and rebuilt it so that we really can face the 1990s with confidence. Do you know there are more people in work in this country—two million more people in jobs—than there were when we took office? That there have been 400,000 new businesses created, a lot of them by young people. There are fewer strikes this year than there have been in the whole of the post-war period. {APPLAUSE} And we are extending property ownership ever more widely. This really has been a transformed Britain.
+
+And the third thing—that as well as meeting those obligations we have done so much better for the social services than any other government, again, in the postwar period. Whether it is health—and just before I came I was doing my correspondence, and I had such a nice letter from someone who had unexpectedly had to use the Health Service. And she was so grateful for all its benefits. And I think we are grateful for the excellent service we get from our doctors and nurses, uh, in Finchley. {AUDIENCE} Hear, hear! {/AUDIENCE} {APPLAUSE} 
+
+And also, even though we've had 109 per cent inflation, uh, because, uh, oil added to it I'm afraid, it is my great pride that, when we came into office we said we would protect the basic retirement pension against inflation. And that we are in a position to keep our promises, so those pensions will go up by precisely the amount we said when they are due to be increased next April.
+
+It is not bad is it? A good reputation abroad, a transformed industry and commerce, and other people to know how to do it, and also much better social services. Ladies and gentlemen, I couldn't have done it unless I had had enormous faith in the character of Britain. There is something very special about the British people, there is something very special about the British Parliament. It is this: whereas ... {COMMENT="Tape cuts and resumes"} 
+
+... and just as I was having coffee with some of our colleagues, before I came in—and sure, there's still some left for you {LAUGHTER} —I was just reminded of a cartoon when I came back from the last, uh, summit meeting in Rome. It was a cartoon of eleven men going one way round an athletics track. And me going the other. {LAUGHTER} What the cartoonist didn't know was that he had got the eleven going the wrong way round {LAUGHTER ; APPLAUSE} ... and me going the right way.
+
+Well, we're the party of the right, and we're the right party, and we are the courageous party and other people respect us for it. Thank you so much your marvellous support. We shall meet here again many times before next year, but I face the 1990s with confidence, knowing that we have your support. And I believe that when it comes to the test of an election we shall still have the country behind us. {APPLAUSE} 
+
+{/speech}

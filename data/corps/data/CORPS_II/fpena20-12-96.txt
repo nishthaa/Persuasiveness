@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President in Announcing Domestic Policy Cabinet Staff {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Federico Pena {/speaker}
+{date} December 20, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. President. I think perhaps the first thing I will be doing is taking down the for sale sign that is in front of our home. {LAUGHTER} And we were ready to offer a great price. {LAUGHTER} My two girls and Eleanor are clapping right now that we're not going to have to sell the house. Seriously.
+
+Mr. President, Mr. Vice President, I have been proud to serve you and my country as Transportation Secretary and to serve in an administration dedicated to safety and global competitiveness for American transportation.
+
+I am proud of our record at Transportation. We built up our nation's investment in our infrastructure to new levels with better roads and transit systems, airports and new technology. We overhauled and upgraded Federal Aviation Administration's safety regulations. And we worked to revitalize America's airlines by opening more markets than ever before around the world.
+
+I leave my current position knowing that my successor, Rodney Slater, will build and expand on the progress that he helped to achieve. Rodney, congratulations.
+
+The Department of Transportation is a smaller, but more effective organization now, and I hope to bring that same kind of efficiency to the Department of Energy. I am very honored that the President has asked me to take on a new challenge. I will be following a very tough act.
+
+Secretary O'Leary ushered in a new era at the Department of Energy. She pulled back the shroud of secrecy and made the government take responsibility for its actions. Through her bold and courageous actions she earned the public trust. She promoted innovation and research and acted to protect the environment, while making energy safe and reliable and cost effective. She fostered an economic partnership and helped to create more jobs. And on her watch we achieved a comprehensive test ban treaty on nuclear weapons. She was an energetic Secretary of Energy, and I just hope that my shoes can not only fill her heels, but also move as quickly and effectively forward.
+
+I will miss my colleagues at Transportation. But if I am fortunate enough to be confirmed, I hope to see all the wonderful people at Energy very soon.
+
+Again, Mr. President, thank you very much for your confidence, your trust, and this honor. And most of all to my partners, my wife and two children, God bless you and thank you very much. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,14 @@
+﻿{title} Remarks of Senator John F. Kennedy {/title}
+{event} Tobacco Warehouse, Greenville, N. C. {/event}
+{speaker} John F. Kennedy {/speaker}
+{date} September 17, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I want to thank all of you. I understand this was a special day, and I want to thank you for coming in very much. It added to my education. Let me just say that I appreciate the plaque. That plaque describes the farm program which I think the Democratic Party stands for, and which I stand for. {APPLAUSE}
+I am glad to say that this is not a commitment which is made at election time, but a commitment which has been made and kept by Harold Cooley, the Senators from this State, the Congressmen from this State, Congressman Bonner, and the rest.
+As the standard bearer of the Democratic Party it is to that program that I commit the party on this occasion, and if elected, in January, 1961. Thank you. {APPLAUSE} 
+
+{/speech}

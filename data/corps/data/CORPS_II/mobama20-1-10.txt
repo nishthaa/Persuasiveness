@@ -1,0 +1,39 @@
+﻿{title} Remarks by the President and First Lady in Honor of National Mentoring Month {/title}
+{event} Honoring National Mentoring Month {/event}
+{speaker} Michelle Obama {/speaker}
+{date} January 20, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Please sit. Hello, everyone, and welcome to the White House.
+
+I'm thrilled to be here with all of you as we celebrate National Mentoring Month. Mentors have played an incredibly important role in my life and in the President's life. That's why last November, the women, we started a leadership and mentoring program here at the White House for some of the most promising students in Washington, D.C. And that's why today we're so happy to welcome a new group of mentors and mentees here with us today, and I hope you're as excited about this program as we are. Are you? Can I hear a little excitement? {APPLAUSE}
+
+I want to start by thanking everyone for joining us today from all across the country, both the old folks and the young folks. And some of the young people here have been with their mentors for a while now, I understand. And some of you are meeting your mentors for the first time today.
+
+For those of you starting out today, we are honored to be able to pair you with some incredibly talented people who help run our government and help the President do his job each and every day. All of your mentors are taking time out of their busy schedules -- and they are busy these days -- because they want to hear from you. This is sincere. People are doing this because they want to be a part of your lives, they want to hear about your hopes and dreams and your passions and your struggles. They are here because they believe in your potential and they want to share some of the lessons that they've learned along the way, because even though they might look a little old -- {LAUGHTER} -- remember that these men were standing in your shoes not too long ago.
+
+These are the kind of relationships we've been building with our young women over the past few months, and the leadership mentoring program is one of the most exciting programs, and I'm so proud of the work that we've done. And with our young girls over these past few months, we've studied the history and protocol that go into hosting a state dinner. They were with us during the first state dinner. We've gotten a behind-the-scenes look at events here at the White House and around D.C. Many of them have accompanied me in my motorcade and they've spent time with me at events.
+
+We've done our own share of service. We packed bags of food for folks in need. And we've learned a lot about the dos and don'ts of applying for a job and starting a career, because we want this experience to be very practical for the young girls as well.
+
+And we've had a lot of fun so far, and we've gotten to do much more than we thought. It's been just a terrific time.
+
+But the biggest lesson our girls have learned and the one I hope you all learn as you embark on this program is that each of us has the ability to move beyond the circumstances that we were born into. That's really the story of both me and the President, that through hard work and perseverance, that you can actually choose the life that you want to live -- it's your choice.
+
+So I hope that each of you will take full advantage of this opportunity, and by taking full advantage that means once you get over the initial shock of being here -- {LAUGHTER} -- that you ask questions, that you really take time to get to know your mentors; don't wait for them to ask you -- find out every single thing about them -- their families, their education, their challenges, their struggles. Get to know them, and also in the process realize your own potential.
+
+The only thing that we ask in return, and we said this to the girls, is that when this is all over, that you give back, that you do the same for someone else. That's the only thing we ask of you. Because the beauty of being a mentor is that anyone can do it at any age. So that means if there's a sibling in your life, a friend, a cousin, another person down the road, you can thank your own mentor for turning around and helping pull someone else up. You can do that by doing the same.
+
+Think about that right now. Not just today but in every aspect of your life, that's a commitment that both the President and I have made, that no matter how far we climb we're always looking back to figure out who we can pull up along the way. And it's never too soon for each of you.
+
+So thank you all so much for coming. We are proud of all of you, not just the mentees but the mentors, for the work that you're doing. And now I have one final honor, and that is to introduce one of our star mentees: the Little Brother of the year, Anthony Saldaña. Let's give him a warm -- {APPLAUSE}
+
+{OTHER-SPEAK} 
+Being a part of Big Brothers Big Sisters has been one of the best experiences of my life. This program means that in addition to my grandma and grandpa, I get to spend time with a wonderful guy like Ben, who is on stage here today. {LAUGHTER}
+
+I'm so glad that President Obama supports mentoring programs so that more kids like me can have a mentor. So I'm honored to introduce the President of the United States, Barack Obama, a strong supporter of mentoring and a role model for lots of young people like me. {APPLAUSE} {/OTHER-SPEAK} 
+
+{/speech}

@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President in Roundtable Discussion at the White House Leadership Conference on Youth, Drug Use And Violence {/title}
+{event} the White House Leadership Conference on Youth, Drug Use And Violence {/event}
+{speaker} Joseph A. Califano, Jr. {/speaker}
+{date} March 7, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, thank you for those kind remarks. It's an honor to take part in this unprecedented White House Conference on Youth Drug Use and Violence. No concern could be more timely or of greater moment to young Americans, their families, their communities and their future. And with this conference, you are the first President of the United States to make the connection between the earthquake of abuse and addiction, whatever the substance -- cigarettes, alcohol, marijuana, cocaine, heroin, hallucinogens, amphetamines, inhalants -- and the aftershocks of violence, crime, child abuse, teen pregnancy, AIDS, health costs, shattered families, deteriorating schools and neighborhoods.
+
+For too long, our people have lived in a cocoon of denial about substance abuse and addiction. This White House Conference is a singular effort to shed that denial and face the reality that in the shadows of these symptoms of savagery that threaten our youth lurks substance abuse and addiction.
+
+Mr. President, your aim is right on target: nurturing an environment that protects our children and our adolescents against all substance abuse and gives them the courage and the skills to say no to drugs, cigarettes and alcohol.
+
+As a result of our research at the Center on Addiction and Substance Abuse at Columbia University we know this: a young man or a young woman who reaches age 21 without smoking, without abusing alcohol and without using illegal drugs is virtually certain never to do so for the rest of their life. Smoking nicotine or marijuana cigarettes and drinking alcohol are, as you said this morning, in and of themselves, dangerous. But at CASA we've also found a powerful statistical relationship between adolescent use of nicotine, alcohol and marijuana and the use of drugs like cocaine and heroin.
+
+A 12 to 17-year-old who smokes cigarettes is 19 times likelier than one who doesn't to use cocaine. A 12 to 17-year-old who drinks alcohol is 50 times likelier than one who doesn't to use cocaine. And one who smokes pot is 85 times likelier than one who doesn't to use cocaine. The earlier and more frequently a child uses any of these substances, the likelier that child is to go on to use cocaine or heroin.
+
+These relationships are only statistical, yet they are far more compelling than those the Surgeon General in 1964 found between smoking and lung cancer, a nine to 10 times greater likelihood; and the Framingham Study found between high cholesterol and heart disease, a two to four times likelihood. Moreover, research that you've been encouraging reveals that cigarettes affect dopamine levels just as alcohol and illegal drugs do -- a characteristic that's one of the markers of the addictive power of a substance.
+
+Mr. President, with your Food and Drug Administration initiative to keep cigarettes out of the hands of our children, you've shown more guts on this issue than any President in the history of the United States. {APPLAUSE}
+
+Your decision to target prevention is also a bull's eye. The only sure route to a drug-free society is to prevent our youth from using drugs, to make it cool not to smoke, chic to say no to drugs and alcohol. From today's adolescent abusers come tomorrow's adult addicts. We know how difficult it is to break a drug habit. You saw it with your brother. A teen who smokes daily for just 30 days is almost certainly addicted. By age 17, half of the teenage smokers have tried to quit and failed. And crack cocaine can be immediately addictive.
+
+Treatment programs have helped some Americans, but their success rate is low and recidivism is common. Until we improve treatment effectiveness, the harsh reality is that most individuals who get hooked on drugs will be hooked until the day they die, either from their addiction, or from one of the diseases or violence that addiction spawns.
+
+From our work at CASA, we are beginning to identify children least likely to use drugs -- those who have parents engaged in their lives, eating meals with them, engaged in their athletics and their academics; those who have an active religious life; those who have hope for the future, believing their future, as you indicated this morning, will be at least as great or greater than their parents; and those who perceive marijuana as dangerous.
+
+Religion is also a key factor in shaking drug and alcohol addiction. In Opportunity To Succeed -- an ops program, a CASA demonstration; we're trying to help recovering addicts who leave prison -- the participants report that belief in God or a higher power, coupled with prayer and religious practice, have been a critical part of their getting and staying sober.
+
+In closing, Mr. President, if I may, let me make a suggestion. We know a lot more about the dangers of marijuana than we did 20 years ago when I was Secretary of Health, Education and Welfare, as you mentioned this morning. We know that it can savage short-term memory, we know that it can savage the ability to maintain an attention span and motor skills, and we know much more about the damage it can do to lungs and brain.
+
+I suggest you ask the Secretary of Health and Human Services to prepare a report on marijuana and health, just as in 1979 we issued a Surgeon General's report on smoking and health to present to the American people the accumulated biomedical science and research on this subject, and that's what kicked off the current antismoking campaign.
+
+To you teens here today, if you have ever abused alcohol, tobacco -- if you have never abused alcohol, tobacco and drugs, keep it up. If you have, stop. Don't play Russian roulette with your lives by experimenting with drugs. Every time you say no, you encourage your peers to say no; and by saying no, you'll be doing your part to help the President and other leaders gathered here put an end to substance abuse and the violence it spawns.
+
+Mr. President, as a citizen, as a parent, and as a grandparent, let me thank you for calling this White House Leadership Conference on Youth, Drug Use and Violence. No resident has forcefully made the connection among cigarettes, alcohol and drugs, or more powerfully spotlighted the fact that drugs and alcohol abuse and violence by and to our young people are joined at the hip.
+
+Congratulations, and thank you. {APPLAUSE} 
+
+{/speech}

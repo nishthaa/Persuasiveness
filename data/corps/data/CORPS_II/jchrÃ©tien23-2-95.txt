@@ -1,0 +1,24 @@
+﻿{title} Remarks by President Clinton, Prime Minister Chretien in Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Jean Chrétien {/speaker}
+{date} February 23, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President and Mrs. Clinton, excellencies, honored visitors madames and messieurs: It has been a pleasure to welcome you to Ottawa, Mr. President. I know that you are a keen student of history, so you may be familiar with these words once spoken by Winston Churchill: "That long frontier from the Atlantic to the Pacific Oceans, guarded only by neighborly respect and honorable obligation, is an example to every country and a pattern for the future of the world." Of course, he was speaking of the remarkable friendship between Canada and the United States.
+
+For nearly two centuries that cooperation has brought us prosperity and peace. And that cooperation continues today. While you stand today in Ottawa with us today, Canadians and Americans did almost a billion dollars of business with each other. A billion dollars a day, every day. The deepest, most extensive trading relationship of any two nations in the history of the world. And it is a relationship that is entering a new era as we enlarge our family of close trading partners to include Mexico, Chile, and, ultimately, all the nations of the Americas.
+
+Tomorrow we will show the world that even the sky is not the limit for our relationship as we sign an open skies agreement. {APPLAUSE} It will enhance what is already the largest bilateral air relationship in the world. Ambassador Blanchard has played a key role in these negotiations, and he has done a fantastic job as ambassador here in Ottawa. {APPLAUSE} I want to take this opportunity to salute him.
+
+Our close economic ties are one measure of our relationship. So is our long history together. {COMMENT="Speaks in French"} This international cooperation is another measure of our relationship. But friendships like ours are not defined by trade statistics and balance sheets or by international treaties and understanding. They are defined by people, by human beings on both sides of our border. That is the most important measure of our relationship. Everyone in this room, millions in each of our countries has ties to the other country.
+
+I know that you, Mr. President, formed lifelong friendships with Canadians while you were a Rhodes scholar at Oxford. I have my own American connection -- my father. And there was never a prouder Canadian than my father, who spent his childhood in Manchester, New Hampshire. That is the basis of the strength of our relationship -- people. Today we have strengthened the human dimension of our relationship. President Clinton has learned more about Canadians by spending some time with us. And I know we have learned more about him as a person and as a leader through his speech in Parliament. And I have personally gained a lot in my two private meetings today.
+
+This human link across our borders is what gave us our strength. It is what assures our friendship. Madames and messieurs, ladies and gentlemen, please join me in saluting the strong relationship and in raising your glasses to the President of the United States of America and Mrs. Clinton.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

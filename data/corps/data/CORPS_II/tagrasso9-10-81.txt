@@ -1,0 +1,22 @@
+﻿{title} Remarks at the Presentation Ceremony for the Presidential Medal of Freedom {/title}
+{event} East Room, White House {/event}
+{speaker} Thomas A. Grasso {/speaker}
+{date} October 9, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, I thank you very much for this signal honor. I haven't prepared anything officially; I'd like to speak to you from my heart.
+
+Today is a bittersweet day in my life. We have been here under five Presidents, President Kennedy, President Johnson, President Nixon, President Ford, President Carter, and now you, Mr. President. I know this is the last time that I'll be here, because it was through the good fortune of Ella, my dear wife, that we were invited here. Ah, bittersweet, I say. It's bitter because of the loss of Ella. However, it's a happy occasion because she has been selected, or was selected as a recipient of this medal. It's unfortunate that the other brand has to present it to us. {LAUGHTER} Let me go over that again. {LAUGHTER} Very good.
+
+Ella was an adviser to Presidents, U.S. Senators, Congressmen, and women and people interested in politics. She was a strange mixture of many, many things. She had integrity, sympathy, understanding. She was straight as an arrow. She was a good wife, an excellent mother and, above all, brought to politics a certain integrity that our good President is attempting to bring.
+
+I think that this country lacks that type of person. And I, personally, and I know Ella, admired President Reagan very much. You know, in politics you have to do many things. The first thing you must do is get elected. And many times in getting elected, you know, you have to get elected.
+
+And you fill in the valleys about what I am trying to say. Ella lived courageously. She died courageously. She died with a prayer on her lips.
+
+And I am indeed honored to receive this medal, and I shall take it home and, of all the credits she has received, my son and daughter will not get this medal -- I'm keeping it myself. {LAUGHTER} Thank you. 
+
+{/speech}

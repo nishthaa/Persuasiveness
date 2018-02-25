@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President and Prime Minister Atal Behari Vajpayee of India in Exchange of Toasts at State Dinner {/title}
+{event} Pavilion {/event}
+{speaker} Atal Behari Vajpayee {/speaker}
+{date} September 17, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Your Excellency, President Clinton and Mrs. Hillary Clinton, Your Excellencies, distinguished guests, colleagues.
+
+I owe my presence here today principally to two persons, widely separated in time and also in space. One was the explorer, Christopher Columbus, who set sail for India but landed in America. {LAUGHTER ; APPLAUSE} I sometimes wonder where you would be, or where we would be, if he had actually reached India. {LAUGHTER}
+
+The other to whom I owe a personal debt is the President of the United States of America, William Jefferson Clinton. {APPLAUSE} Had you, Mr. President, not rediscovered India, I would truly not have the honor of enjoying your gracious hospitality, or replying to your most generous toast. {APPLAUSE}
+
+The light that radiates above our two nations is off of a respect to the struggles for freedom, for liberty, for individual excellence, and enterprise. This today brings us together as two great democracies. I am particularly grateful to Mrs. Clinton for having taken the time out from the middle of an election campaign. {APPLAUSE} As a parliamentarian of 40 years standing, and speaking from the experience of many elections, I applaud your presence here today. {LAUGHTER ; APPLAUSE} 
+
+We are greatly moved, Mr. President, by your joining me in the dedication of the memorial of Mahatma Gandhi in Washington. {APPLAUSE} Trust me, the people of India shall always value this. This memorial in the heart of your capital is a profound symbol of the unity of values of our two societies.
+
+The century that we leave behind saw many ideas compete for the soul of this world. We know today that it is ideas of Gandhi and Woodrow Wilson that will triumph. We know, too, that America and India stand on the right side of history. {APPLAUSE}
+
+Mr. President, it is a reflection of your statesmanship that you saw the simple truth. It is a testimony of your courage and leadership that you dare to cross the territory of doubts to reach out to the hearts of the Indian people. And it is tribute to your efforts that the manner in which we approach each other is being fundamentally transformed.
+
+I'm delighted to share this evening with many people from India and the United States who have lent their enterprise, expertise and energy to building a closer partnership between us. I salute you, Congressmen and the Senators, diplomats and officials, scientists and entrepreneurs, thinkers and scholars, academics and artists, and this league of Americans of Indian heritage, of your good will -- for your good will and your efforts.
+
+Excellencies, ladies and gentleman, I would now like to invite you to raise a toast to the good health and well being of President Clinton and Mrs. Clinton, to the close and abiding friendship between our two peoples, to the vision of this new relationship between India and the United States of America.
+
+{COMMENT="A toast was offered"} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,26 @@
+﻿{title} Remarks and a Question-and-Answer Session With Local High School Honor Students {/title}
+{event} ----- {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} May 23, 1983 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Barbara, thank you for those very kind words. And if you'll forgive me, though, there were times when I was more concerned with just remaining eligible for the football team -- {LAUGHTER} -- than the scholastic achievement.
+
+But I'm delighted to be here and to welcome you, the best of the classes of '83. And you are that. Now, it makes me remember back to my own graduation, which wasn't too long ago. {LAUGHTER} As a matter of fact, it was exactly -- {COMMENT="Inaudible"} -- years ago. {LAUGHTER}
+
+But your parents are proud of you. Obviously, General Motors and the television stations are proud of you, and that's why they're sponsoring these events. But you might be interested to know, I think, that the Nation is proud of you.
+
+You know we've had a commission studying the educational system, and they have just come in with their report. And it's an alarming report about overall education.
+
+One of the figures in this report indicates that, compared to the students of other nations, on the average, we are way below the students of those other nations. But applying directly to you here, who are the leaders, the top 9 percent of American students rank equal to or above the top 9 percent in all those other countries. It is only the overall average that reflects what we think has been a decline in education. And you're in that top 9 percent.
+
+So, one of these days, you're going to be the leaders that we'll turn the country over to. And anytime I've had an opportunity to meet students like yourselves, I find myself coming home reassured that the country's going to be in good hands when it is turned over to you for your leadership.
+
+Now, rather than my going on with a monolog that'll sound like a graduation speech -- and you have to listen to one of those -- I think that we could have a dialog rather than a monolog -- and with the limited time that we have. And I see that there's already a lineup, and since there's more on the right than there are on the left, I'll start with on the right and then exchange microphones here.
+
+Yes. 
+
+{/speech}

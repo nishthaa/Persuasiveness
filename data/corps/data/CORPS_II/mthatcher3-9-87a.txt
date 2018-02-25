@@ -1,0 +1,30 @@
+﻿{title} Speech at James Howden Ltd (Channel Tunnel boring machines) {/title}
+{event} James Howden Ltd (Channel Tunnel boring machines) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} September 3, 1987 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Industry, Transport {/description}
+
+{speech} 
+
+{COMMENT="Sounds of machinery in background"} 
+
+Mr Chairman, Ladies and Gentleman. May I first say how very pleased Denis and I are to be with you this afternoon and to see at first hand the work you are doing for the Channel Tunnel.
+
+When we went into our briefing we were faced the excellent video of your work, and the phrase that we are starting to dig the tunnel in Glasgow. And that is correct. Because this machine you see behind me is the first boring machine that will bore the first service tunnel—which is the first one—for the Channel Tunnel.
+
+You do not see the cutting blades on the front of it because those have already gone down to Shakespeare Cliff and the rest will follow fairly fast so that the cutting can commence following the ... {COMMENT="Inaudible"} full reassembly of the machines, the cutting can commence on the 1st of December.
+
+And I would like to say congratulations to everyone at Howdens for having gained this contract and for doing it on time and so expertly. {COMMENT="Hear, hear"} Anyone who dared say that sophisticated equipment is only produced elsewhere, this in fact says that sophisticated engineering equipment of a kind almost unique in the world is produced in Glasgow.
+
+Now this is the first one for the service tunnel. There will as you know be other tunnels to burrow, the tunnels which carry the trains through from the United Kingdom to France and I have got a bit of good news to announce to you this afternoon. That is that this company—James Howden and Company—have won a further contract from Translink for two of the four railway tunnels, for the boring machines for those tunnels -- {COMMENT="Applause breaks out"} Well, come on — that was enough for one boring machine. I want another round for -- {CHEERS ; LAUGHTER ; APPLAUSE}
+
+Now let me tell you about the order in which it will happen. As you know, money has to be raised in order to build these machines. It's going to be a long time before we get any money back from the tunnel because it won't be built before 1993. So this new contract will come in two stages: first, will come the design contract, which is absolutely vital—and let me say how impressive your design teams are, very very good—the design contract is for £100,000, and then it will go on assuming that money is raised in the third tranche of raising money, for the two? pole machines which will be valued together at £15m.
+
+That means that altogether Scotland has won £38m worth of business from Translink for the Channel Tunnel, nearly half of ALL the contracts so far, and that is more than in any other region of the United Kingdom. So three cheers for the engineering skills of this company and other Scottish companies that have made such a success. Let's shout Scotland's success from the house tops. And may I congratulate on the magnificent way in which you work together and ... {COMMENT="Tape cuts then resumes at the conclusion of the speech"}
+
+... I am delighted to be able to say congratulations and every good wish for the future. {APPLAUSE} {COMMENT="MT speaking to journalists afterwards"} 
+
+... It all has to be dismantled, sent down by road to Shakespeare Cliff in the {COMMENT="Inaudible"} ... to start the boring. And the boring is due to start on the 1st of December. They have done this extremely well and on time. They have a marvellous design team and a marvellous workforce ... {COMMENT="Inaudible"} ...so well that I was able to announce today the award of a new contract from Translink for the actual railway tunnels. Now that is for two boring machines for the bigger tunnels and that the contract will come really in two slices—first, the design contract, which is it is quite a problem to design the boring machines, they have a marvellous design team here. That initial contract is for £100,000. And it has to be done in that way because the third slice of money is not raised until the end of the year for the new machines to be built. They will get the contract for the new machines—the contract worth £15m, worth a lot of money and very very good. And if you add together the work of this company and the contract which has already been awarded in Scotland by Translink, the Channel Tunnel company, it comes to £38m, which is more than half of the contracts that Translink has awarded. That means that Scotland has got more work out of the Tunnel than any other region in the United Kingdom. 
+
+{/speech}

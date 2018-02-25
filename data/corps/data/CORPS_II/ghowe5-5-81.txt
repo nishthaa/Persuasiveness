@@ -1,0 +1,46 @@
+﻿{title} Speech Launching Business Opportunities Programme (Small Businesses) {/title}
+{event} ----- {/event}
+{speaker} Geoffrey Howe {/speaker}
+{date} May 5, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Industry, Employment, Taxation {/description}
+
+{speech} 
+
+Prime Minister, Ladies and Gentlemen,
+
+As you say, it is now my function to tell you what you have been told rather less eloquently and then to tell you it all over again.
+
+The point of the occasion, as the Prime Minister has made very clear, is to welcome you to this launching of a Business Opportunities Programme. The whole exercise underlines the commitment, not just of this Government but of this country if we are to prosper, to the importance of small firms as creators of jobs, as creators of new prosperity, and the purpose of the exercise is to underline the extent to which the climate has been transformed in the last two or three years.
+
+I say the last two or three years, because history did not actually start quite two years ago—it very nearly did—and one must pay some tribute as well to the work that Harold Lever was doing in the last Government, laying the foundations of change in favour of small businesses. That is the importance of it, because it shows it to be an all-party commitment to the importance of new businesses and small businesses.
+
+In the two years since we have been there, the atmosphere has been transformed. I think we can say now that the tax system, which many people used to think worked against the small business, now works in favour of the small business. In the very first Budget, we cut the top marginal rate from the lunatic figures it was at to a figure that brought us in line with the rest of the human race. We have substantially reduced the coverage both of Capital Transfer Tax and of Capital Gains Tax. The Corporation Tax rate for small firms is down to a starting rate of 40%;. Close Company Apportionment Rules—things which I never understood, save that they were dreaded by many small companies—have gone. VAT limits are up. The Small Workshop Scheme is in force and is being taken up very widely around the countryside. So those are tax changes that we have made.
+
+There are finance changes as well, which the Prime Minister has referred to. The Venture Capital Scheme in last year's Budget; the Loan Guarantee Scheme this year, which I am glad to announce will be coming into effect on 1st of June—very shortly now. And the Business Start-Up Scheme, allowing you to invest up to £10,000 a year in the starting up of new businesses for a successive period of three years. Many people have said that that scheme is too complicated and should be made a great deal simpler. I understand the case, but at the same time it must be said that it does extend to new businesses and investors in new businesses a tax facility that is not available in that way in any other country in the world. What is more, it is available against your top marginal rate, so that you can get, in effect, £3 back for every £1 you invest under that scheme and a scheme of that kind therefore starts on a reasonably ambitious basis—it can always be enlarged if people wish to see it changed later on.
+
+It is not just the Treasury, Prime Minister, of course, who have been active in this programme. Other Departments as well have been making changes to help small businesses. I see Jim Prior there and he is responsible for the big changes, for example in the employment protection legislation, so that the more tiresome provisions of the Unfair Dismissal Law apply only to firms employing more than 20 people, which leaves a lot of small firms free from regulations that used to apply for them.
+
+The Department of Trade has been lightening the obligations of reporting and accountancy on small businesses.
+
+The Department of the Environment has made very many sweeping changes in the planning regulations that used to stand in the way of so many businesses, and there are more changes coming in that direction.
+
+We have cooperated to make important changes in the rate of Development Land Tax, to make changes which will encourage new businesses there as well, and a kind of grand cooperative exercise—the enterprise zones—embracing the Scottish Office and Northern Ireland and the Welsh Office as well, because we have enterprise zones in eleven parts of the country.
+
+Another change which we are looking at hopefully for change quite shortly: the fact that people who are made redundant or who are unemployed are not, we think, able to use to the best advantage the money which they get from their redundancy payments to start up new businesses and Jim Prior and I are looking to see if we can find a way through that.
+
+So the truth is as the Prime Minister said, the balance of risk has been shifted sharply in favour of the new business and the small business. The chance of being rewarded has been sharply increased, and the real anxiety we have is that these advantages are not yet fully known.
+
+We are not in the business tonight of marketing a political party or a political programme; we are in the business of marketing tax advantages, which is an unusual position for a Chancellor to be in! But what is the point of having made substantial tax concessions of this kind if people do not know about them? So all these pamphlets, all these programmes, are there to help people understand the changed environment in which they are now operating.
+
+Attitudes still have to change in this country if we are to bring ourselves alongside other countries in our willingness to support those who take risks. In other countries, still, small businesses have been valued more than they are in this country, so we are engaged and will continue to be engaged in the months ahead, in a dialogue from the Department of Industry with all the organizations representing business, small and large. John MacGregor is here, standing in the front row, who is the Minister in charge of the small business programme in all its aspects. I am sure that he will wish me to pay tribute to one who preceded him in this task and is here from Northern Ireland tonight—that is David Mitchell, who is really the father and mother of the small business activity in political terms. We are very glad he is here. {APPLAUSE}
+
+As the Prime Minister said, this is an exercise in which we look for help from the banks, from the large companies, from the organizations, the chambers of trade, the chambers of commerce, the CBI—I have not mentioned all of them—up and down the country.
+
+Thus far, small firms and large firms have been suffering from the recession, but the upturn may now not be far away. The Budget is the last of many steps designed to help small businessmen. Interest rates, be it noted, have come down five points since last summer and are now lower than in most of Europe and significantly lower than in North America.
+
+The changes we have made will enable small businesses and large to take advantage of the upturn. It is vital that they do do so. I am delighted that so many of you were here tonight and hope that we can cooperate with you in the programme that lies ahead to make sure these advantages and the importance of them are well understood throughout the country.
+
+Thank you very much! 
+
+{/speech}

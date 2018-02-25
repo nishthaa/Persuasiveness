@@ -1,0 +1,46 @@
+﻿{title} Remarks by President Clinton, British Prime Minister Tony Blair, Deputy First Minister Seamus Mallon, and First Minister David Trimble to the People of Northern Ireland {/title}
+{event} Odyssey Arena, Lagan Waterfront, Belfast, Northern Ireland {/event}
+{speaker} Seamus Mallon {/speaker}
+{date} December 13, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Prime Minister, Senator-elect Clinton, Chelsea, Cherie, guests. It is my pleasure and honor to welcome you and your colleagues back to Northern Ireland. We gather here in the Odyssey Arena -- named after Homer's epic voyage of hope, of endurance, a tale that moves from barbarity and war to the serenity of a lasting peace. So there are resonances here, for our own rocky, uncertain journey of hope; for our own path towards peace.
+
+Eight years ago, Mr. President, you pledged to join us on that journey. It was a remarkable pledge. There was no strategic interest at stake for your country. There was no domestic political imperative. Against the tide of conventional wisdom, you made your deeply personal act of courage and belief. Time and time again, you were there when the cause of peace needed you, leading the quest for reconciliation.
+
+When some looked forward for a way out, you looked for a way through. With precise neutrality, you taught us to respect each other, to learn, in John Hewitt's words, that "you must give freedom if you would be free, for only friendship matters in the end."
+
+With your help you helped us make our settlement, our ultimate act of friendship. It is called the Good Friday agreement. The people of Northern Ireland, of Southern Ireland, endorsed that settlement. And their message remains clear today. You saw it in Dublin, Mr. President; you heard it in Dundalk; and you can almost touch it here in Belfast. Let us spell it out: It is that peace will triumph. {APPLAUSE}
+
+But the beacon which you lit will not go out, that the will of the people, the Good Friday agreement, must and shall endure. Mr. President, when you came to Armagh two years ago, you defined your own unshakable belief in our future and in peace in a way that transcended ideologies, borders, countries, even continents.
+
+As the sun then set, framed between the twin spires of St. Patrick's Cathedral, you said how Northern Ireland could be proof throughout the world that peace was not an idle dream. You pledged that if we chose peace, America would walk with us. You asked us to believe in our better selves, and you told us if we did, our real peace would resonate right throughout the world. That message is as challenging and inspiring today as it was then in Armagh.
+
+Today, a different skyline greets you here in East Belfast; between the mountains and the gantries, as Louis McNiece described it -- a skyline of cranes, new buildings, new investment, much of it from the United States -- the fruits of new-found confidence in our common future.
+
+Since your last visit, profound and irrevocable change has occurred. Out of a divided past we have moved to a new shared political partnership. We have been joined and helped by friends in Dublin -- the Taoiseach, the Minister of Foreign Affairs -- by the Prime Minister and his colleagues, the Secretary of State; by those in that government and the Irish government who, like the President, led when it was difficult to lead.
+
+To Bertie Ahern, to Tony Blair, to Emanuel Prodi in Europe, we say a thank you. {APPLAUSE}
+
+Mr. President, the institutions of the agreement have become a reality, working to improve the lives of people and allowing trust to grow. When you met the new Executive this morning, we discussed our plans and ambitions: our first budget, our program for government, the difference the new institutions can make. There, you saw the face of a new and better future.
+
+But we are not there yet, and we cannot allow this potential to be put at risk. Kernels of violence and the threat of violence persist. Just last week, coffins of two young men killed by terrorists, made their sad journey through the streets of Belfast and Dungiven, joining the over 3,000 lives lost that stretch back to the beginning of The Troubles. That is a chapter of our history which we must close, definitively, once and for all, now. {APPLAUSE}
+
+We cannot allow controversies and disputes to sap the goodwill and the trust which is building. We cannot draw recklessly from the well of hope, which springs from the Good Friday agreement. Instead, we must continue to build our new shining city on the hill. We must not limp along in uncertainty. We should not go on like this. It is time to stop and think; to take stock; to measure our actions and our inactions against the imperatives of peace and the hopes of you, our people.
+
+We would all do well to recall the words of the Israeli leader, Abba Eban, when he said, "men and nations behave wisely once other alternatives have been exhausted." I think we should, all together, governments and parties alike, declare with one voice that all other alternatives have been truly exhausted -- and proceed. {APPLAUSE} And proceed together towards the new and better future, which is there almost within touching distance.
+
+Mr. President, you know that you are very special to us. One reason for that is your ability to generate real hope. Hope is more than just the name of your birthplace. Hope does not have to be measured out with coffee spoons; it is an infinite resource that we all share.
+
+You challenged us to believe in ourselves, and dare to hope, to stare violence in the face and say, no. You inspire us to believe that lasting peace is obtainable and attainable, and that we will reach our goal.
+
+Mr. President, with your help, we can, like Odysseus, complete our journey. We can live the dream that you've painted in Armagh, and that you painted again last night in Dundalk -- the dream of being able to stand with you in troubled parts of the world and say: Yes, yes, it can be done; look at Northern Ireland. They showed it was possible. They overcame hatred and violence. Their peace became real. Their new day is dawning. {APPLAUSE}
+
+Thank you, Mr. President, thank you, Prime Minister, thank you, Taoiseach, for your help and friendship when it was needed most.
+
+May I now introduce my partner and friend, the First Minister, David Trimble. {APPLAUSE} 
+
+{/speech}

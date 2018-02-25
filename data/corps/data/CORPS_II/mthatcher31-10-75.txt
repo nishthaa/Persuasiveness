@@ -1,0 +1,152 @@
+﻿{title} Speech to West Midlands Conservatives {/title}
+{event} Birmingham Club, Ethel Street, Birmingham {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} October 31, 1975 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Let us for a few moments look at our present economic situation—
+
+Prices have risen by over 26 per cent in the last year.
+
+Production is falling and we are producing less than we did during the three-day week.
+
+Nearly one and a quarter million of our people are out of work and others are on short time.
+
+Government spending on supply services has increased by 47 per cent over last year and the Government is overspending by nearly £1 billion a month.
+
+Rising prices, sinking production, growing unemployment, chronic overspending—no wonder our friends are worried.
+
+Even more disturbing is the long-term trend in our nation's affairs.
+
+Some years ago it was predicted that unless things changed, we were in danger of becoming one of the poorest countries in the West in the 1980s. Then the predictions were ridiculed.
+
+Now the signs are all too clear that this was right and that we are approaching a moment of decision in our nation's affairs.
+
+We can carry on towards a mediocre future or we can reverse this depressing but well-established trend.
+
+If we are to be one of the poorest countries in the West, then we shall be a country where the elderly are less well provided for, our disabled less well cared for, and our children less well educated.
+
+A country with more problems than its neighbours, but fewer resources with which to tackle those problems.
+
+For me, there is no choice.
+
+I do not intend to be the first woman Prime minister of a mediocre and declining Britain. {APPLAUSE}
+
+And I do intend to be its first woman Prime Minister. {APPLAUSE} 
+
+Although this Government pays lip service to the mixed economy, by its actions it denies the private sector the resources, the opportunities and the freedom to give of its best.
+
+Let all of us remember that this Labour Government which claims to believe in private enterprise has in recent months—
+
+—nationalised oil, and building land.
+
+—taken powers to interfere in and control industry.
+
+—mounted a full-scale attack on ownership through Capital Transfer Tax and penal tax rates.
+
+—Attacked the self-employed,
+
+—And is committed in this Parliament to further nationalisation and further penal taxes.
+
+Since these measures are supposed to be evidence of its good faith and moderation, you may well ask what else the Labour Party can be planning.
+
+The answer is set out in "Labour and Industry—the Next Steps"—the new policy document produced by the all too influential Home Policy Committee of the Labour Party.
+
+Here are a few of the major objectives of this happy band of brothers and sisters:
+
+Unlimited powers for the Government to take over private companies:
+
+Power to compel companies to take part in planning agreements:
+
+Nationalisation of the banks.
+
+Still higher taxes.
+
+Direction of savings held by banks, pension funds and insurance companies into industrial investment through a Government agency.
+
+—Let me stress these are not so far the recommendations of the Government, but those of a major policy committee of the Labour Party.
+
+Those of us who saw the Labour Party Conference on television recently were provided with further evidence that such policies command a solid body of support in that party.
+
+Let those who are sceptical remember that if ten years ago one had predicted that a study of Communism would be part of the religious education syllabus in Birmingham schools, or that the famous King Edward Direct Grant Schools would be threatened, would have been accused of being alarmist.
+
+Both are true today.
+
+At a local level we see Socialist controlled councils, encouraged by the behaviour of central government, becoming ambitious to interfere in more and more aspects of local life and commerce.
+
+The West Midlands County Council Special Powers Bill will give that Council power to set up a whole range of businesses—butchers shops, bookshops, travel agencies, flower shops.
+
+Unable to carry out their present responsibilities efficiently, they seek powers to extend their range of activities.
+
+If the Labour Party has its way, what the Government does not control the local council will.
+
+The Socialists claim that all this is necessary because capitalism has failed the nation.
+
+But what we face today is not a crisis of capitalism, but of socialism.
+
+No country can flourish if its own economic and social life are dominated by nationalisation and State control.
+
+Le us for a moment examine the performance of the nationalised industries.
+
+Do nationalisation and state control give job security to the worker?
+
+—Three quarters of a million jobs have disappeared in the coal, steel and railway industries since 1959.
+
+—Does the customer benefit?
+
+Over the past five years Nationalised industry prices have gone up more than the general price index—13 per cent more.
+
+Even at a time of record price increases, nationalised industries lead the way, as the Price Commission recently pointed out.
+
+Does the citizen as owner benefit?
+
+Accumulated losses since nationalisation now total a staggering £7 billion. Last year alone £800 million was lost.
+
+We export or we die, we are told.
+
+Do nationalised industries export?
+
+Our exports of goods and services in 1974 totalled £265 billion—nationalised industries £15 billion, the private sector £25 billion. So the private sector is responsible for about 95%; of Britain's exports.
+
+Nationalisation has provided poor prospects for the worker higher prices for the customer and huge losses for the taxpayer.
+
+Yet more state control is the socialist answer for Britain.
+
+It is to private enterprise that we must look for the new jobs, the new products, the additional exports.
+
+It is to private enterprise we owe the discovery of North Sea Oil.
+
+It is from private enterprise that we will obtain the wealth we need to pay our way, and the resources to provide the better life which our elderly, our sick, our young, our disadvantaged deserve.
+
+It is private enterprise which underpins the free society which the vast majority of our people have shown time after time that they prefer.
+
+Our job as a government will be to create a climate in which private enterprise can flourish—to remove the barriers to its progress, not to strengthen them.
+
+Our job will be to set standards, regulate safety look after the environment, and above all, try to achieve a stable currency. That should be enough for any Government.
+
+It may seem to some surprising for me to come to Birmingham, the home of the entrepreneur, and have to defend private enterprise.
+
+To come to the home of Joseph Chamberlain and talk about the threat of socialism.
+
+But the future of private enterprise is under attack and we must reassert its advantages over all other systems with a "passionate intensity".
+
+You will remember Yeats in the "Second Coming":
+
+"The best lack of all conviction, The worst are full of a passionate intensity"
+
+I am, you will not be surprised to hear, no admirer of the socialists but of one thing I have no doubt.
+
+They pursue their evil objectives with a determination and a passion which we fail to match at our peril.
+
+Let us from today, and until Socialism is finally defeated in this country, fight with the conviction that our cause deserves. In our Trade Unions by joining and working in our local councils by winning the coming elections, getting rid of council special powers bills and defeating the councillors who seek those powers.
+
+Let us work to win back control of our cities and towns and finally our country. As we work, let us remember the words of one of our great post-War leaders, my dear friend, the late Iain Macleod:
+
+"The Labour Party scheme their schemes, The Liberal Party dream their dreams, But we have work to do."
+
+Let us get on with that work. 
+
+{/speech}

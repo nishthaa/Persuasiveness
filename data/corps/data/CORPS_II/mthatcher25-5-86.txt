@@ -1,0 +1,65 @@
+﻿{title} Speech at Dinner Given by Israeli Prime Minister (Shimon Peres) {/title}
+{event} Dinner Given by Israeli Prime Minister (Shimon Peres) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} May 25, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Middle East), Religion/Morality, Foreign policy (USSR and successor states), Civil liberties, Foreign policy (International organisations), Terrorism {/description}
+
+{speech} 
+
+Prime Minister, Mr. Speaker, Honourable Members of the Knesset, Distinguished Guests, Ladies and Gentlemen:
+
+It is only four months ago since we welcomed you, Prime Minister, to No. 10 Downing Street, and now it is my turn to pay the first visit to Israel by a British Prime Minister in office. {APPLAUSE}
+
+No-one can accuse us, Prime Minister, of letting the grass grow under our feet. It would not have had the time, even with Israeli agricultural techniques! I think perhaps the reason I returned so quickly was really twofold: first, because of the success of your visit, Prime Minister, to London—and it was a tremendous success—and of the way we felt our views were both in tune with one another and the way in which we both felt we had to tackle enormous problems which had been left over from the past and we found a response from our people in doing so. But also, because of a fundamental feeling that I felt it was time a British Prime Minister came to Israel to say how much we admire everything this country has achieved and how much it stands for in love of liberty and justice throughout this part of the world and in the world as a whole.
+
+Of course, I am no stranger to Israel. I come here privately and as Secretary of State for Education, and I am proud to be an Honorary Doctor of Philosophy at Tel Aviv University and to have a Chair endowed at the world-renowned Weizmann Institute in my name. My daughter has lived and worked on a kibbutz; my constituency of Finchley is twinned with Ramat Gan, which we shall be visiting on Tuesday. So you will see that as a family we know Israel quite well.
+
+Now, we are not unique in that. Admiration and affection for Israel are high in Britain. At the dinner in your honour at No. 10 Downing Street, Prime Minister, I spoke of Israel's remarkable achievements and reminded our guests that Israel was small in geography but large in history, and I recalled that which Dean Inge wrote once when he said: "The nations which have got mankind and put mankind most in their debt have been the small states" and went on to say "Israel, Athens, Florence, Elizabethan England."
+
+May I say particularly this evening, Prime Minister, how much we admire the remarkable way in which your government has tackled Israel's economic problems. No-one would have predicted a few years ago that you could achieve such success and only outstanding determination and resolve have done it.
+
+There are really so many personal links between Britain and Israel. No-one symbolises better than Chaim Weizmann, whom both our countries were proud to claim their own. We shall never forget that his younger son was among the brave young men who gave their lives serving with the RAF to defend freedom in the Second World War. We also acknowledge with pride the outstanding contribution of British Jewry to the life of our country, Great Britain. Their influence has always vastly exceeded their numbers, and rightly so. They have demonstrated that in Britain, where British Jews have provided leadership and inspiration in every field of endeavour, they have been guided by a desire to contribute to the community, not just to benefit from it.
+
+We also respect the outstanding contribution which British Jews have made to Israel's development, and I shall be seeing more of that myself when I visit Ashkelon tomorrow.
+
+Prime Minister, we in Britain have absorbed from the Jewish tradition some of the fundamentals on which our society is based. The Jewish contribution to the rule of law, on which President Herzog spoke so eloquently in London two years ago; and the deep respect we both have for the worth of the individual and his rights; respects which do not come from any state, but rights which are God-given, not Man-given. And that is why we are at one with you in fighting for the rights of Jews in the Soviet Union. The in-gathering of Jews in distress is at the very heart of Israel's existence. We shared your joy over the release of Anatol Sharansky and his new life as a citizen of Israel, reunited with his wife who worked so tirelessly for his release and who never gave up hope. What a fantastic lesson to both nations and people: however difficult life may seem, to go on working ceaselessly and never to give up hope. Their happiness is an incentive for all of us to work even harder for the rights of others.
+
+Earlier today, I met Ida Nudel's sister. Her story is a tragic and painful one and we must not allow her case and many many others like it to be forgotten.
+
+I recall speaking at the 40th Anniversary of the United Nations and saying to Governments assembled there: "South Africa is properly condemned for its degrading refusal of basic human rights to black people, yet where are the Resolutions over the treatment of Soviet Jewry?" Their absence is a sad commentary on the double standards which prevail there.
+
+We must continue to take every opportunity to keep the position of Soviet Jews at the forefront of the world's attention and I believe in my heart that persistence in this just cause will be rewarded.
+
+There is another threat to human rights, against which we have to defend ourselves: the threat from the terrorist. No political cause, no ethnic grievance, nothing, justifies terrorism—nothing. Least of all the state-sponsored terrorism of which both our countries have been victims. To appease terrorists is to concede victory to them and to condemn more people to lose their lives. It must be met instead with steady determination, to isolate those who support the terrorist and will give him sanctuary, and that is what we agreed to do at the Tokyo Economic Summit.
+
+We hope as many other governments as possible—and that includes the Soviet Union—will follow our lead.
+
+It is never easy to preserve faith and hope in the progress towards peace in the Middle East after so many disappointments, and Prime Minister, you addressed so many of your remarks to this. But your personal reputation, Prime Minister, as a man of peace, a man dedicated to seeking that peace with Israel's neighbours, is itself grounds for greater hope.
+
+We heard with interest your proposals for economic aid to promote cooperation throughout the region. We share your belief in the importance of raising living standards. That is the way to increase political stability. And we know you recognise that these proposals cannot be a substitute for a policy of peace with security for Israel and for all the states in the region. We support that goal.
+
+We believe that you will only find the security you seek by recognising the legitimate rights of the Palestinian people and their just requirements—a phrase which comes not from me, but from one of the agreements to which Israel put her name. Prime Minister, the standards you have set yourselves in Israel are of the highest. You want those same standards observed for the Jewish people wherever they are and you campaign vigorously for them. Because of your own high standards, more is expected of Israel than of other countries, and that is why the world looks to Israel to safeguard the rights of Arabs in the occupied territories, in accordance with the principles which Israel respects and demands should be respected elsewhere. A future in which two classes of people have to co-exist with different rights and different standards is surely not one which Israel can accept, nor one which Israel's reputation allows.
+
+As a people whose own history is so intimately connected with the whole history of Palestine and the birth of the State of Israel, we know that so many of your own people know in their hearts that the situation we have now in the occupied territories can only be temporary.
+
+There are practical steps which could be taken now in the occupied territories as a prelude to an eventual settlement, to bring the goal of peace with security for Israel closer to realisation. Further measures to promote economic development for the Arab population on the West Bank and in Gaza. Humanitarian steps, some of which you have taken, such as the reunification of Palestinian families.
+
+In the agreement to which I referred, you recognised the Palestinians' right to elect their own representatives. Cannot more be done now to help the Palestinians to play a greater role in managing their own affairs? Surely that is the best way, despite all the difficulties, to encourage the emergence of responsible political leaders ready for peace?
+
+You mentioned Golda Meir. Of course, in a way, I follow in her footsteps. I knew her. I greatly admired her. I greatly admired her as a war leader. I greatly admired her tremendous courage. I greatly admired her as a pioneer. I greatly admired her as a great human being, warm, thoughtful, kind, for all her fellow citizens and for human kind in the world as a whole.
+
+What did Golda Meir say in her autobiography? She said this: "My vision of our future: an Israel bound in a collaborative effort with its neighbours on behalf of all the people of this region; an Israel that remains a flourishing democracy and a society remaining firmly ... resting firmly ... on social justice and equality." That justice, that democracy, which embraces the right of free peoples to determine their future, must surely be extended to all, including the Palestinians. Such action would strengthen Israel's moral authority.
+
+Prime Minister, Britain is committed to a stable, peaceful and secure future for the people of Israel. We must never lose sight of that larger vision.
+
+I recall that when President Herzog was in London he spoke of Israel's dream, her dream of the day when peace will come. If we can make that dream come true, not only will the whole Middle-Eastern scene be transformed, but the whole world will benefit enormously. We all of us have a stake in peace in the Middle East.
+
+I also was a great admirer of Ben Gurion and I remember his words: "The Jews are chronic idealists." He was. So am I. So are you, Prime Minister. So is Israel. So is Britain. We could not live without liberty and justice, for life would have neither dignity nor meaning.
+
+I cannot tell you how much it means to me—I am right off my script now, it is much better that way—I cannot tell you how much it means to me to have the privilege in speaking in this great building, the Knesset, to come from the Mother of Parliaments to this, the Knesset, and to speak in this Hall; to speak here, where you have such a rich heritage; to speak here, where you return that rich heritage in giving so greatly to the future of your people and to the future of the world by your example.
+
+
+May I ask you, in that spirit, to rise and drink with me a toast to the President of Israel, to the Knesset, and to the Prime Minister, and to the future of this great country. The President! Thank you. {APPLAUSE} 
+
+{/speech}

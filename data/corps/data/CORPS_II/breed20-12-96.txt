@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President in Announcing Domestic Policy Cabinet Staff {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Bruce Reed {/speaker}
+{date} December 20, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President. I'm the luckiest man in America to have spent the last 11 years working for you and for the Vice President. I knew from the moment that I met each of you that you both would end up in the White House some day, and thank you very much for letting me come along.
+
+Over the last four years, you've shown that when we put politics aside and work together, we can solve the toughest problems that come our way. Our agenda for the next four years is just as ambitious -- preparing students for a new century with world-class standards and diplomas that means something, moving a million people from welfare to work, finishing the job of putting 100,000 new police officers on the street, and challenging all Americans to take responsibility for their communities and their country by adopting the ethic of service as a daily part of their lives.
+
+On all of these issues, I hope your domestic policy team can serve as a source of new ideas based on old values, and a force for bold action in a new era. With the strong Cabinet that you've put together, I'm confident that we can keep making progress, because no President has ever known more, cared more or done more about domestic policy than you have.
+
+I want to thank my friend, Carol Rasco, and all my colleagues in the administration who have worked so hard on the President's agenda. And, in particular, I'd like to thank my wife, Bonnie LePard, who has been part of the Clinton-Gore team from the very beginning; and our two young children, Julia and Nelson, who are my own proudest domestic accomplishments of this administration. {LAUGHTER}
+
+Mr. President, as you've heard this morning between us, Rodney, Andrew and I have been blessed with five children in the last four years. And, while I can't promise that we'll be able to maintain that pace in the second term, our kids will make sure that we never lose sight of what matters most. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,33 @@
+﻿{title} Speech: Remarks at the Democratic Leadership Council Symposium {/title}
+{event} Democratic Leadership Council Symposium {/event}
+{speaker} Ellen Tauscher {/speaker}
+{date} June 9, 2002 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, Mr. President.
+I want to join everyone by saying how terrifically invigorating this weekend has been and how very important I think it is for us to keep our collaboration going and the friends that we have created here. I want to, of course, thank all the staff of the DLC for doing such a bang-up job -- as they always do – Peter Mandelson, and the Third Way and the Policy Network folks, and of course, Connie Milstein and the Milstein family for being so generous. It has been a phenomenal experience.
+
+I think the only question I have for Evelyn and Lynn, who put together one of the classiest dinner parties I've ever been to, is what are we doing next weekend? {LAUGHTER}
+
+But I'm happy to be here for many reasons, including the fact that the DLC is very, very important, but the honor of introducing our 42nd president, I think, is one that is about my political career. There was a story written about centrist Democrats in 1997 in Time magazine, and it featured me, and it had a very nice picture of me and my daughter, and then went on to say that we can't stay together because the rest of our party doesn't like us. But the first paragraph essentially said that Ellen Tauscher would not be in Congress if Bill Clinton hadn't been president. And that is very, very true.
+
+I was very blessed. I actually should tell you that my two sisters and brother-in-laws and my nephew are sitting behind you over there. They were here visiting, and we happened to all be in one place at one time to get to see each other, and that's how life in America is: you have to come to England to see your family.
+
+But I ran for Congress in 1996 because I believed that we needed to have a government that was responsive to the new economy. My constituents in the Silicon Valley area of San Francisco believe that they want a government that is out of their way, but on their side – a little bit of a paradox – but they want to know that they have a government that is doing all of the right things for them, whether it is making sure that they have infrastructure and national security, or whether it is about making sure that they have after-school programs and that they have Medicare. But these are people that are first college graduates in their families, they are disproportionally the ones that are going to pay for the bad thing that happens in their families. We call them the IBM generation – I've Been Moved -- and the people in my district have been moved from literally all over California, all over the country, and all over the world to live in the proximity of San Francisco, Silicon Valley, and the two national nuclear labs that are in my district.
+
+But I ran for Congress because I believed, after watching Bill Clinton for four years, that we really had a chance as Democrats to lead – to lead the country because we were going to do the right things for the American people. We were going to create an economy that was fiscally responsible and growing; we were going to take care of national security; we were going to invest in our future; and we were going to keep our promises. And we did that through the entire Clinton administration. And many members of the Clinton administration are here, and I want to thank them for their service, too.
+
+We had a small problem in Florida last November of 2000, and then we had a court decision that caused us to have a president that I don't think reflects many of our values, but he is our president. But we have a chance in the 2002 elections to take the House back, which I hope we will, because the question should be – if we ever get the chance to open the aperture wide enough to ask the question to the American people – do you like this guy so much that you don't think that he needs any kind of check on him, including a Democratic Congress, and we're hoping the American people believe that we have to have a Democratic Congress so that we don't have the kinds of things that we're having sneaked in under the radar because we have a war going on.
+
+But Bill Clinton, I think, is a great American and a great patriot. We are winning a war on terrorism with his generals and with his military, and if we could get back to his economy we would really be doing very well.
+
+But it's my pleasure to introduce him. I'm hoping that the discussion today, since we have Lord Levy here, too, will be about some of the issues that are going on in the world, especially the Middle East. I think that we have so many things we'd like to do and so many opportunities to join together, but unless we solve some of these immediate problems, we're never going to get to the big agendas about working families in all of our countries.
+
+So I hope you will join me in welcoming the 42nd president of the United States, William Jefferson Clinton.
+
+{APPLAUSE} 
+
+{/speech}

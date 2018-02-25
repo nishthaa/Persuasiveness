@@ -1,0 +1,26 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Enrico Berlinguer {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, Mrs Thatcher, ladies and gentlemen, this is not the first time we have witnessed the failure of a European summit but this time it is more serious in my view on account of the moment at which it has occurred. The fact of the matter is that the Member States of the Community are beset by an economic and social crisis, the most disturbing symptom of which is that we have more than nine million out of work, and within two or three years this number could reach 15 million unless the present economic trend is halted and reversed.
+
+Another problem for the Community is the shadow of international tension. Unless this tension is eased very quickly, as each day passes it is going to be another factor in our regression and economic and political stagnation. New and dramatic problems have arisen with the question marks over the serious events in Poland and the dramatic move by Israel on the Golan Heights. As the Italian Communists are against any act which harms the sovereignty of nations and people's freedoms—no matter where in the world, be it in Afghanistan, El Salvador or Turkey—we want to speak out from this European Parliament to express our utter condemnation of the violation of people's rights in Poland and our solidarity with the Polish people ... {SUSTAINED APPLAUSE} 
+
+... and with all the civil and religious forces which are striving to achieve a fresh political solutions, based on democracy and preserving the sovereignty of the Polish nation.
+
+As for the unacceptable surprise move by Israel, which is bound to stoke the fire of the Middle East conflict, we feel it is essential to go back on the decision to send a peace-keeping force to the Sinai. At this stage it would seem an endorsement of the Israeli action and an expression of antagonism towards the entire Arab world.
+
+More generally, we must also remember that the southern half of the world is hoping as well for an independent Europe which will have a political and economic role to play on the international stage, in relations between East and West as well as between North and South. Europe must no longer be content to make noble but inadequate efforts at feebly limiting the more dangerous repercussions of the tension and rivalry between the two superpowers.
+
+What this means is that today, more than ever, the European Community needs to achieve the utmost in terms of positive and fresh initiatives and in terms of unity. Instead, there has been an explosion of all kinds of centrifugal trends, protectionist moves and nationalist ideas. Does each individual country really think it can solve its problems on its own, particularly as the Community can no longer cope with the thrusting economic competition of the Japanese and Americans? And why is there no progress—in fact things are moving backwards, as the London summit showed—with the economic and political integration which Europe desperately needs?
+
+To my mind, the major cause is to be found in the shortsighted political vision of the governments and those in economic control and in their proven natural inability to take integration beyond the limits which have now been reached. At the same time, in our view, some of the blame must also go to the labour movement in the West, since to some extent it is hampered by strictly national ideas of its actual role and interests. But there is no getting away from the fact that the labour movement in western Europe today is the element which can act on the whole fabric of the Community and provoke a fresh revival of the process of integration, so that the masses hoping for change and the healthier elements among the workers can be summoned and mobilized to work for a policy of development, social change and peace.
+
+Just consider the overwhelming demonstrations for peace which simultaneously brought into the streets of almost all Europe's capitals vast crowds of workers, young people and women, and you will realize that these people are expressing their determination to build a Europe different from today's, with a keen desire to take a fresh approach, to get together and to play a major part in the world's struggle for peace, new development and cooperation. {SUSTAINED APPLAUSE} 
+
+{/speech}

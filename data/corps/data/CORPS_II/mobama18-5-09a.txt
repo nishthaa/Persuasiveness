@@ -1,0 +1,17 @@
+﻿{title} Remarks By The First Lady at The American Ballet Opening Spring Gala {/title}
+{event} American Ballet Opening Spring Gala {/event}
+{speaker} Michelle Obama {/speaker}
+{date} May 18, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you so much. {APPLAUSE} Well, thank you, Caroline. I am thrilled to be here in support of American Ballet Theatre and to join you in celebrating the opening night of ABT's spring season.
+Through its leadership role as America's National Ballet Company, ABT's education programs reach over 25,000 students in some of the most underserved communities and schools across the nation.
+In many cases, a child's first inspiration through the arts can be a life-changing experience. One creative dance class can open a world of expression and communication. Learning through the arts reinforces critical academic skills in reading, language arts and math, and provides students with the skills to creatively solve problems.
+My husband and I believe strongly that arts education is essential for building innovative thinkers who will be our nation's leaders for tomorrow. {APPLAUSE} And it is our hope that we can all work together to expose, enrich and empower Americans of all ages through the arts.
+And now it is my great pleasure to introduce the students of the Jacqueline Kennedy Onassis School for their first appearance on this stage of the Met. This dance academy is a wonderful legacy for a woman who dedicated so much of her life to making arts and culture accessible for all.
+Thank you, and enjoy. {APPLAUSE} 
+
+{/speech}

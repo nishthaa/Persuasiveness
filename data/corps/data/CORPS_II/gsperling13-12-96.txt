@@ -1,0 +1,28 @@
+﻿{title} Press Conference of the President {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Gene Sperling {/speaker}
+{date} December 13, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, sir. {LAUGHTER} Aaah. {APPLAUSE}
+
+Thank you for this honor, Mr. President. I am very proud to be a member of the President's economic team and very proud to have been appointed as new National Economic Advisor. Most of all, I am proud that, already so far, we have been able to accomplish so much of what this President and this Vice President set out to do -- to strengthen the economy, open markets and show that it is possible to dramatically reduce the deficit while, at the same time, increasing educational and economic opportunity.
+
+Before I go further, I want to say that I'm also very happy to have some of my family -- my parents here with me. They are my inspiration and my heroes.
+
+To paraphrase Madeleine Albright, and very recently Congressman Richardson, I won't even try to fill the heels or shoes of my two predecessors, Robert Rubin and Laura Tyson. Together, they have come to personify in this town the essence of sound judgment and reasoned decision-making. But I am firmly committed to continuing and strengthening the legacy of coordinated and sound economic policymaking in the Clinton administration.
+
+Too often in the past economic policymaking has failed because turf battles overcame hard-headed analysis, because policy-makers failed to appreciate the unintended consequences of their actions or the full force of the market. For some, these challenges are reason for an action and resignation. What this President and this Vice President have done instead is to create a policy process where through a rigorous, coordinated analysis and a team process we seek to weed out the good from the bad so that we can present the President with the soundest options for improving economic opportunity for all Americans.
+
+This year we have a historic opportunity to work in a bipartisan manner to balance the budget, spur educational opportunity and strengthen our economic standing in the world. Our efforts to address long-term entitlement reform, to balance the budget, to ensure that every child can read by the end of 3rd grade and be technologically literate, and to ensure that even the poorest American child has a fair chance to succeed will say a lot about our values and what kind of a nation we will be.
+
+With these challenges ahead, it has never been more important for there to be a strong National Economic Council. With the people that we have here, I have no question that we have an extremely, extremely strong team.
+
+Our nation is filled with millions of stories of families from all backgrounds in which a single person was given a single opportunity and took personal responsibility to improve their lives, and in doing so improved the lives of their children and their grandchildren. I am most proud to serve a President and a Vice President that never let you forget that increasing the number of those American family success stories is why we are here and the guiding light for everything we do.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

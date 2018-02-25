@@ -1,0 +1,26 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, may I make one thing clear from the very interesting debate that we have had this morning I am here in one capacity and for one purpose only: I am here as President-in-Office of the European Council for the specific purpose of reporting on what took place at the European Council: not to give a speech on matters of my own choice or to give my own opinions: only to report on what occurred at the European Council to the European Parliament. {APPLAUSE} 
+
+Now, clearly there are many things which I could say in answer to some of the points that have been made. Some of them had nothing to do with the meeting of the European Council ... {AUDIENCE} Hear, hear! {/AUDIENCE} 
+
+... and on the whole, I think it would be better for me to be typically British—that is, clam, firm and controlled, ... {LAUGHTER}
+
+... and it would be better for us all if I stick to the task which I came to perform. {SPONTANEOUS-DEMONSTRATION} 
+
+Well, some of the comments were made so loudly that I couldn't quite hear what was said. {LAUGHTER}
+
+It has been an honour to come; it is a privilege to be a part of the Community; it is a privilege to serve democracy, and I hope, Madam President, that Members of this distinguished Parliament will just take some account of what I said at the end of my address. Freedom does mean more than freedom to differ. It does mean freedom to go ahead in a positive spirit of cooperation, and I do stress that very much. I, of course, shall return shortly to London and I have listened with great care to the preliminary comments from representatives of the political groups. Lord Carrington, President-in-Office of the Council of Ministers, will be in this Chamber when you continue to debate tomorrow afternoon, and he will report on developments during the United Kingdom Presidency and on political cooperation. Mr Douglas Hurd will be here today until he takes Question Time this evening, and Mr Nicholas Ridley, President-in-Office of the Budgets Council, is with you most of the week. Now, I stress again, all four of us are glad to play our part in strengthening the working relationship between the institutions of the Community. Each institution has its own role to play, but our basic objectives are the same and I stress again, we must work in harmony.
+
+Finally, Madam President, because I do not wish to run out of time—I believe in keeping to the laws and rules of any institution of which I am a part— {APPLAUSE} may I say it really has been, not only an interesting experience, but a great privilege and a pleasure to be with you today, and may I express the hope that I shall be here again when the Presidency next falls to the United Kingdom.
+
+{LAUGHTER ; APPLAUSE} 
+
+{/speech}

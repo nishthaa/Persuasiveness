@@ -1,0 +1,20 @@
+﻿{title} Press Briefing by Mike Mccurry {/title}
+{event} Press Briefing {/event}
+{speaker} Mike Mccurry {/speaker}
+{date} March 20, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We're just stalling here to make sure we're joined by our viewers on MSNBC, because this is a very important announcement going out to MSNBC and the whole world. Jeremy Gaines, over here -- Jeremy, come stand front and center -- Jeremy Gaines, who you all know and love as our Deputy Director of Press Advance, has been since January 1996, was a press assistant in the Press Office prior to that and goes all the way back to the Clinton-Gore Campaign in 1992, when he started over the summer as a volunteer in the press operation for the campaign, is departing the White House.
+
+He is to become the new associate producer for the news with Brian Williams at MSNBC. {APPLAUSE} Jeremy has, over the years on your behalf, taken care of so many situations that arise and smoothed so many difficult paths that you have to tread in covering the news. He has many moments of glory, but surely the best came in the Kremlin -- {LAUGHTER} -- in that famous trip to Russia when he gained his 15 milliseconds of fame when accosted by a Russian security guard who, shall we say, accosted him in a certain private place. Jeremy's immortal words were, "Well, that got my attention." {LAUGHTER}
+
+But so many times, so many places, he has run interference for you. He will be very greatly missed here. And he is going off to a bigger and better career on your side of the fence.
+
+So congratulations, Jeremy. He's actually going to be leaving while we're gone to Africa, so I couldn't resist the opportunity to tweak him today. Jeremy, congratulations. {APPLAUSE}
+
+And now on to the news. Today's headlines. 
+
+{/speech}

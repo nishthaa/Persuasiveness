@@ -1,0 +1,32 @@
+﻿{title} Remarks and a Question-and-Answer Session with Students and Faculty at Oakton High School in Vienna, Virginia {/title}
+{event} Oakton High School in Vienna, Virginia {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} March 24, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President spoke at 2 p.m. in the Oakton High School auditorium. Ms. Laura Thomas, principal of the school, introduced the question-and-answer session.  {/description}
+
+{speech} 
+
+I know that two of your Congressmen, Frank Wolf and Stan Parris, are with us here today. I hope they haven't been talked into leaving their present occupation and -- {LAUGHTER} Should we move the class outdoors? {APPLAUSE}
+
+
+
+Well, you know, being here in school today sort of reminds me -- well, would you mind if I told you one of my favorite stories about schools? It seems a little boy had to take home a bad report card. And the next day back in his classroom he walked up to his teacher and said, "Teacher, last night my daddy told me that if my grades didn't improve, somebody was going to be in big trouble. So, I'd be careful if I were you." {LAUGHTER}
+
+
+
+But it's not so very long ago that all of American education needed to improve, or we were all going to be in big trouble. Back in 1983 a report entitled "A Nation at Risk" -- that report itself said that the educational foundations of our society were being eroded by "a rising tide of mediocrity that threatens our very future as a nation and a people." Well, it was time to stem that tide, to get our educational house in order, or to suffer the consequences.
+
+
+
+I'm particularly pleased to have the opportunity to learn about what Fairfax County has done to improve the quality of your teachers. You have become leaders in promoting excellence in the teaching profession, and I'm here to find out more about what works. Next month Secretary Bennett will turn in to me a homework assignment -- yes, even Cabinet members have homework assignments -- one that I gave him last March, asking for a status report on American education. Come to think of it, Bill, that's an awfully long time to complete an assignment. {LAUGHTER} But don't worry; your work so far has been "A-plus." But the Secretary's report will tell us what kind of progress we've made over the last 5 years, and it will tell us what things we still must do. Secretary Bennett, I'm looking forward to reading your report and to continuing to work closely with you on specific ways that we can improve education. There are few areas of American life as important to our society, to our people, and to our families as our schools.
+
+
+
+By the way, if I could just interject something here, if there's anybody who proves that learning doesn't have to be dull, that education and fun can go together, it's our nation's Secretary of Education, Bill Bennett. Secretary Bennett has a law degree and a Ph.D. in philosophy -- that's pretty serious-sounding stuff. But he also happens to be an expert on something many of you probably know quite a lot about: rock 'n' roll. {LAUGHTER} And I'll prove it.
+
+
+
+Bill, who sang "Rock Around the Clock"? 
+
+{/speech}

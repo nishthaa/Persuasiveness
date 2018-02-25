@@ -1,0 +1,27 @@
+﻿{title} Remarks by President Clinton, Foreign Minister Shimon Peres, Plo Executive Council Member Mr. Mahmud Abbas, Secretary of State Warren Christopher, Foreign Minister Kozyrev, Prime Minister Yitzhak Rabin, Chairman Yasser Arafat in Ceremony for the Signing of the Israel-palestinian Agreement {/title}
+{event} The South Lawn {/event}
+{speaker} Mahmud Abbas {/speaker}
+{date} September 13, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, ladies and gentlemen, in these historic moments, with feelings of joy that are mixed with a maximum sense of responsibility regarding events that are affecting our entire region, I greet you and I greet this distinguished gathering. I hope that this meeting in Washington will prove to be the onset of a positive and constructive change that will serve the interests of the Palestinian and the Israeli peoples.
+
+We have come to this point because we believe that peaceful coexistence and cooperation are the only means for reaching understanding and for realizing the hopes of the Palestinians and the Israelis. The agreement we will sign reflects the decision we made in the Palestine Liberation Organization to turn a new page in our relationship with Israel. {APPLAUSE}
+
+We know quite well that this is merely the beginning of a journey that is surrounded by numerous dangers and difficulties. And yet, our mutual determination to overcome everything that stands in the way of the cause for peace -- our common belief that peace is the only means to security and stability, and our mutual aspiration for a secure peace characterized by cooperation -- all this will enable us to overcome all obstacles with the support of the international community. And here, I would like to mention in particular the United States government, which will shoulder the responsibility of continuing to play an effective and a distinct role in the next stage, so that this great achievement may be completed. And here I would like to mention in particular the United States government, which will shoulder the responsibility of continuing to play an effective and a distinct role in the next stage so that this great achievement may be completed.
+
+In this regard, it is important to me to affirm that we are looking forward with a great deal of hope and optimism to a date that is two years from today when negotiations over the final status of our country are set to begin. We will then settle the remaining fundamental issues, especially those of Jerusalem, the refugees and the settlements. At that time, we will be laying the last brick in the edifice of peace whose foundation has been established today. {APPLAUSE}
+
+Economic development is the principal challenge facing the Palestinian people after years of struggle during which our national infrastructure and institutions were overburdened and drained. We are looking to the world for its support and encouragement in our struggle for growth and development which begins today.
+
+I thank the government of the United States of America and the government of the Russian Federation for the part they played and for their efforts and their sponsorship of the peace process. I also appreciate the role played by the government of Norway in bringing about this agreement, and I look forward to seeing positive results soon on the remaining Arab-Israeli track so we can proceed together with our Arab brothers on this comprehensive quest for peace. Thank you. {APPLAUSE}
+
+{COMMENT="Foreign Minister Peres signs the agreement"} 
+{COMMENT="Mr. Abbas signs the agreement"} 
+{COMMENT="Secretary Christopher Signs the agreement as witness"} 
+{COMMENT="Foreign Minister Kozyrev signs the agreement as witness"} 
+
+{/speech}

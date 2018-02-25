@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President in Announcement of General Michael Carns as Nominee to be CIA Director {/title}
+{event} Announcement of General Michael Carns as Nominee to be CIA Director, The Roosevelt Room {/event}
+{speaker} Michael Carns {/speaker}
+{date} February 8, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, thank you for this opportunity to serve our nation again. It's certainly an opportunity I didn't expect and, quite frankly, my wife, Victoria, and I were looking forward to spending more time together after retirement in the Air Force.
+
+But, Mr. President, there is something about the opportunity to serve and the chance to make a difference that is simply irresistible. I am grateful for the confidence you have placed in me, and if confirmed, I will do my very best to earn it.
+
+Mr. President, from our conversations these past few days, I was struck by your dedication to our intelligence community and your determination to prepare it for the new challenges that we face. The Cold War may have passed into history, but regional instability, terrorism, drug trafficking, crime, and the proliferation of nuclear weapons all loom large as threats to our interests and to our people.
+
+For all this change, the mission of our intelligence community remains constant -- to provide the highest quality information, estimates and judgments that our government leaders and policymakers need to protect and to advance our national security. As you noted a few moments ago, our intelligence community is doing an extraordinary job, but often it can't take public credit for its successes, even though it must always hold itself accountable for a setback.
+
+I want to work with you to build on the remarkable capabilities we have and to improve and adapt them to meet these new challenges we must face. To do that, I believe it is important to live by three basic rules: First, we must demonstrate to the fine people in the intelligence community through our actions that excellence and performance equal opportunity; merit promotion and personal accountability are the standards that we endorse.
+
+The men and women of the Central Intelligence Agency are world class professionals who toil tirelessly on behalf of our nation's security and interests. Their achievements must be recognized and rewarded.
+
+Second, we must be open to change and to innovation. Reinvention and downsizing will be major factors, even as we continue to produce high-quality intelligence. We will be leaner, but at the same time we will do more of the more important things.
+
+Finally, we want to work closely and productively with the Congress, with the Aspin Commission and others to foster bipartisan support for the intelligence community. We will take seriously their concerns and their suggestions. After all, we have the same goal in mind: to make intelligence as effective and as efficient as possible so that it helps to protect the security of our nation and holds the confidence of our people.
+
+These principles -- excellence, innovation, productive partnerships -- are the ones I intend to live by, and the ones our intelligence community should be judged by.
+
+Mr. President, thank you again for this opportunity. If confirmed, I'll be proud to join your national security team. And I'll do my best to ensure that the intelligence community provides you with the timely, accurate and unique information you need to ensure that we protect America's national interests.
+
+Thank you all very much. {APPLAUSE}
+
+Oh, what a pleasure. 
+
+{/speech}

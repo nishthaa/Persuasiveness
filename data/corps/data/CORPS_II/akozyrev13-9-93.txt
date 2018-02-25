@@ -1,0 +1,18 @@
+﻿{title} Remarks by President Clinton, Foreign Minister Shimon Peres, Plo Executive Council Member Mr. Mahmud Abbas, Secretary of State Warren Christopher, Foreign Minister Kozyrev, Prime Minister Yitzhak Rabin, Chairman Yasser Arafat in Ceremony for the Signing of the Israel-palestinian Agreement {/title}
+{event} The South Lawn {/event}
+{speaker} Andrey Kozyrev {/speaker}
+{date} September 13, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mr. Prime Minister, the Chairman: On behalf of President Yeltsin, I would like to congratulate you and other colleagues and friends here who made possible, through their committed effort and goodwill, this major step on the long road to comprehensive peace in the Middle East.
+
+I think it's really time to rejoice, but no time for euphoria. Unfortunately, this is only first step -- major, but first step -- on the long, long road. And I would like to assure you that Russia is one of the cosponsors, not only witnesses, but cosponsors. So the peace process will spare no effort together with the United States, with the United Nations and other interested parties to go on, on this road and not let this major event to fail. It is -- {APPLAUSE} -- it is only ironic that in time when Middle Eastern peace process seems to be on track -- and I'm sure it will move towards lasting peace -- there are other forces which threaten security in the region.
+
+Three days ago I was in Kabul, Afghanistan and on the Tajik-Afghan border. And even there we can see those forces of subversion, terrorism and extremism -- religious, and not only religious, political extremism -- doing their destructive job. I know that in other parts of this region, there are also signs of this new danger, and I hope that we will not limit our joint effort only to the peace between Israel and its neighbors, not only for the cause of Palestinians to gain their legitimate rights, but also to see for stability in the whole region. And in this, Russia will be also true and determined cosponsor. {APPLAUSE}
+
+Once again, thank you for the effort done by all of the distinguished presidents, foreign ministers, actual and former. And I hope that further generations of politicians will be not so much doing with the peace, but rather with a peace dividend in the Middle East. It's high time for that. Thank you. {APPLAUSE} 
+
+{/speech}

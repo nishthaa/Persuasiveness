@@ -1,0 +1,13 @@
+﻿{title} Remarks of Senator John F. Kennedy, Airport, San Diego, Calif. {/title}
+{event} Airport, San Diego, Calif. {/event}
+{speaker} John F. Kennedy {/speaker}
+{date} November 2, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Senator Fisher, Senator Engle, Governor Brown, my sister, ladies and gentlemen, I want to thank you for coming out to the airport. This campaign now is coming into its final 5 or 6 days. I am here in the State of California because I think this State is key in this campaign, and I think this is the State that we must carry on November 8, right here. {APPLAUSE} I think that you know the issues of this campaign well. There is no community in the United States in the last 2 or 3 years that has learned a harder lesson of what it means to live under a Republican administration {APPLAUSE} and an administration which has permitted unemployment in this community to double in the last 12 months. {SPONTANEOUS-DEMONSTRATION} This year, in this State and in every State in the Union, we are going to build 30 percent less homes than a year ago. We are not providing aid for our education. We are not providing defense contracts which protect the United States and employment.
+I want to make it very clear that the choice which you face on next Tuesday is not merely between Mr. Nixon and myself, but it is between those who sit still and those who want to move again. {APPLAUSE} Therefore, I come here today and ask your help in this campaign. I ask you to join us. I ask you to work with us. I ask you to help us in the next 5 days to win California, and win the United States. {APPLAUSE} Thank you.
+
+{/speech}

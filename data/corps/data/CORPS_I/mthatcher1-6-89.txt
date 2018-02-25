@@ -1,0 +1,41 @@
+﻿{title} Speech at dinner for US President {/title}
+{event} ----- {/event} 
+{speaker} Margaret Thatcher {/speaker}
+{date} June 1, 1980 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+
+{description} Foreign policy (USA), Foreign policy (USSR and successor states), Defence (arms control) {/description}
+
+{speech}
+ 
+Mr. President and Barbara: 
+
+First, can I welcome you both very warmly to No. 10 Downing Street on this your visit to our country as President and First Lady and welcome also Jim Baker and all the other members of your very distinguished delegation. We hope you will have a very happy evening {APPLAUSE}. 
+
+This small house has seen a great deal of history, some of it our shared history. It was from here that the American colonies were governed and—how shall I put it?—somehow mislaid! {LAUGHTER} But we all make mistakes. From here too, the orders were given which led to our burning down the White House in 1814. Well, houses do need a bit of renovation from time to time! But do not worry, we have decided to spare Kennebunkport the same treatment ever since we heard that you had to rebuild it anyway for your recent distinguished visitors! 
+
+Mr. President, we welcome you as the leader of the Free World {APPLAUSE}, as a President unique in United States history for his experience of government and international affairs and as a very close but longstanding friend of Britain. You are immensely admired, respected and liked in our country, Mr. President, and it is no secret and no disrespect to your opponent that your election was very warmly received in Britain. We all knew you, we had all worked with you over very many years. We knew the tremendous contribution which you had clearly made to the last Presidency and we knew that when you took over, the leadership of the West would continue to be in good hands. We also knew what a marvellous First Lady Barbara would be {APPLAUSE}. The wonderful work that she does in teaching the handicapped and those with dyslexia to read is an inspiration and we congratulate her and thank her for it. 
+
+May I also say how very warmly we welcome Jim Baker, whom we also admire very much and knew as a tower of strength at many Economic Summits. We have got him neatly trapped tonight between his past and his future, that is to say he is sitting between Nigel Lawson and Geoffrey Howe! And can we thank you very warmly for sending us such marvellous ambassadors as Henry and Jessica Catto {APPLAUSE}. We are delighted and proud to have them and know what good friends they are to you and Barbara . I am sure they know that the door of No. 10 will always be open to them. 
+
+Mr. President, you took office at a time of quite extraordinary change in world affairs and especially in the Communist societies. We both welcome that and we want to encourage it. We hope that the reforms which Mr. Gorbachev wants to see will come about and that we shall face a different sort of Soviet society—one which respects personal liberty, is not aggressive and does not seek to impose itself on others—but we do not know whether that will happen. We do know that the difficulties of economic reform are enormous and there are still groups within the Soviet system whose behaviour is unregenerate, as we discovered recently, and we took the action which had to be taken to deal with it. So we think that your guideline of "optimism with caution" is absolutely right and we thank you for the very thoughtful speeches which you have made over the last few weeks and your most recent speech in Germany yesterday spelling out your Administration's approach to these great issues. 
+
+We congratulate you also on the initiative on conventional arms reductions which you put forward at the NATO Summit and which helped to ensure a very successful outcome to that meeting, reinforcing NATO's unity and strength as well as the American commitment to Europe. 
+
+I know some of the media in the West accuse us of failing to measure up to Mr. Gorbachev's constant stream of initiatives. Of course, initiatives make a very much better story than constancy and sticking to your principles, but in the real world it has been constancy and steadiness, particularly in defence, which has served us very well for forty years and we should not give it away now just when our hopes for a more peaceful world are beginning to be realised. We thank you, Mr. President, for your constancy and steadfastness {APPLAUSE} 
+
+I am always reminded of a comment of one of your predecessors as President: "Bad domestic policy could lose us an election"—not that we have either of it—"but bad foreign policy could get us killed!" So you have Britain's full support in keeping the West's defences strong, because it is that which makes it possible to welcome what is happening in the Soviet Union. 
+
+Mr. President, many of your predecessors have sat where you sit now or downstairs in the Cabinet Room where we met earlier today as our common experience unfurled—experience of two World Wars and many other conflicts in which both our nations lost so many of their finest young men: the great trials of strength which characterised the Cold War, the Berlin Airlift, Korea, the Berlin Crisis of 1962, Cuba and many other moments when the West was called upon to show great resolve and was never found wanting. 
+
+The partnership between Britain and the United States throughout that time has been a remarkable one and our membership of the European Community has not diminished it, but it has strengthened and enhanced it. For us, loyalty to the United States is paramount because we share so many basic beliefs. 
+
+We never cease to be grateful to the United States for the forces which it keeps in Europe in defence of freedom and for the great burden of defence which the United States bears around the world. We offer you our most sincere thanks for your exertions on behalf of us and on behalf of freedom the world over, and we also in this country, within the limits of our much more restricted means, do our part in the Gulf, in Belize, in Central America, in Africa, in the Far East—in over thirty countries round the world where our forces are present. In time of great crisis or danger, you have always been able to count on Britain and can I say to you rather solemnly tonight: you always will be able to count on Britain when there is danger, when you need us. That is why the relationship is special. 
+
+Mr. President, tomorrow you return to the United States from your first visit as President to Europe. It has been a triumph and we look forward to your return {APPLAUSE} for the Economic Summit in July. 
+
+In one of your speeches you said this: "A Presidency can shape an era and it can shape our lives; a successful Presidency can give meaning to an age!" Mr. President, I believe with your great personal qualities and your unrivalled experience, your Presidency will be successful and that it will give meaning to our age, an age of prosperity, freedom and peace, achieved because we never flinched but were true to the great principles on which both of our nations were founded. 
+
+In that spirit of very special friendship, Mr. President, we say: God Bless America and God Bless you and Barbara. May I ask all our guests to rise and join me in a toast to the success of your Presidency, to the health and happiness of you and Barbara.
+
+{/speech}

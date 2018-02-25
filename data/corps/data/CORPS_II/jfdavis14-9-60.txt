@@ -1,0 +1,16 @@
+﻿{title} Remarks of Vice President Richard M. Nixon, University of North Dakota Field House, Grand Forks, N. Dak. {/title}
+{event} University of North Dakota Field House, Grand Forks, N. Dak. {/event}
+{speaker} John F. Davis {/speaker}
+{date} September 14, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+North Dakota is again honored to have as our speaker a statesman, a national leader, the Republican Party standard bearer, who will, I forecast, be the No. 1 citizen of the United States. {APPLAUSE}
+I would like to first commend and congratulate the university and the Republican Party, Young Republicans, who planned and executed this meeting here at the University Field House, chairmaned by Tom McElroy and Dr. Penn. They have done an excellent job and certainly they are gratified by your response in coming here this afternoon for this significant meeting.
+It is truly an occasion to have the Vice President come to North Dakota so shortly after his illness and ailment that confined him to a hospital. I should like him to know how we feel about our zestful, healthy climate - providing good health and long life - for our citizens; and while he will be exposed to it for only a short time, I assure him it will be beneficial and healthful - I know for at least 60 days! {APPLAUSE}
+These are days of decision for Americans - for soon we will select a new leader of our Nation, the next President. The responsibility for each citizen is great, and it is truly a rich experience for us to have our great Republican candidate and his very gracious and charming wife as our guests for this occasion today. This man is fitted to be President by experience, which came from his service in his home State of California's Legislature; in our Congress; and in the very high executive position as Vice President of our great Nation; by his leadership which he has displayed on so many, many occasions; by his temperament, which gives him this understanding of the feel of America; by his background of typical Americanism; by his very deep and abiding faith in the good life that has been provided in America under our principles and under our ideals. Here is the man to support; here is the man to work for; here is the man to vote for.
+It is an honor for me to present the Vice President of the United States, our next President, Richard Nixon and his very charming wife, Pat. {APPLAUSE} 
+
+{/speech}

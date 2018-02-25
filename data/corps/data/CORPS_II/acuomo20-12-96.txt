@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President in Announcing Domestic Policy Cabinet Staff {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Andrew Cuomo {/speaker}
+{date} December 20, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, Mr. President, for the truly great honor you have given me with this nomination. And thank you, Mr. Vice President, for your support and your guidance over these past four years. Also, I'd like to take the opportunity to thank Secretary Henry Cisneros, who has been to me a friend and he has been a mentor, but more, as you heard from the President, he has no doubt been the greatest HUD Secretary in the history of the Department. And, Mr. Secretary, we are all going to miss you very, very much.
+
+I'd also like to take the opportunity to thank my wife, Kerry and my two girls, Kara and Mariah. That was Kara who was crying before, Mr. President. {LAUGHTER} I hope that's not an omen. {LAUGHTER}
+
+Under the leadership of President Bill Clinton and Vice President Al Gore we have witnessed the strongest commitment to our nation's cities in a generation. The President and the Vice President know that for our cities to thrive, we must empower people with both the opportunity and the responsibility to create stronger, safer, more liveable communities. It has been a privilege for me to serve with the dedicated public servants at the Department of Housing and Urban development under the leadership of Secretary Cisneros, and to be part of this administration's truly innovative efforts working with mayors and local partners and the Congress to create jobs, increase homeownership, and rebuild public housing this country.
+
+And let me assure you, Mr. President, that we at HUD stand ready to go with you as you lead this country in the last great transition of this millennium to the promise of a stronger and sweeter tomorrow. We at HUD share your vision for a new era of opportunity and your commitment to create a future in which no one is left behind, a future in which the bright sun of opportunity will reach those who have lived too long in the shadows.
+
+I congratulate all of the people who have been selected today to serve in your administration. I look forward to being part of the team. And once again, Mr. President, let me express my deep, deep appreciation to you for giving me this opportunity. Thank you. {APPLAUSE} 
+
+{/speech}

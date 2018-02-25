@@ -1,0 +1,24 @@
+﻿{title} Press Conference by the President {/title}
+{event} The East Room {/event}
+{speaker} Leon Panetta {/speaker}
+{date} November 8, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President, for your kind words and for your leadership and most of all for your friendship.
+
+Chief of Staff to the President of the United States is a great honor and a great privilege. What I also found out was that it's one of the toughest and most challenging jobs in the country. But my Italian immigrant parents taught me well. They came here because they wanted to give their children a better life and fulfill the American Dream. But they also knew that the price of our freedom and our liberty is duty to nation.
+
+I've had the honor of serving this nation for almost 30 years in public life as an officer in the U.S. Army, as a legislative assistant to a U.S. senator, as director of the U.S. Office for Civil Rights, as a U.S. congressman from the great central coast in California for 16 years, as director of the Office of Management and Budget and now as Chief of Staff to the President of the United States. I am proud of my service and particularly proud of the work that I have done for this President with regards to the budget and his great record on deficit reduction. That's something I will be particularly proud of being a part of.
+
+This has been a great and wonderful journey that has satisfied both my mind and my soul. But now it's time to satisfy my heart. And my heart has always been with my wife and my family, with my hometown of Monterrey and with my home state of California.
+
+To Erskine, you are a great choice for this job. Get lots of sleep and always remember that he likes to win at hearts. {APPLAUSE}
+
+I also want to express my deepest thanks to many of those that supported me on this journey: To my wife Sylvia, next year 35 years of marriage, in July. To my three sons Chris, Carmelo and Jim and their families for their support, their love and, perhaps most of all, their patience. To my personal staff all of whom have served me both in the Congress as well as in the present position --they've been able to improve their resumes as I went from job to job -- {LAUGHTER} -- but I couldn't have asked for a staff to give me greater loyalty. To the White House staff, particularly to my deputies Harold Ickes, Evelyn Lieberman. I have to say to all of the staff that despite the incredible pressure of work and time and oftentimes the unfair political attacks, you have all stood tall. I think you are the most dedicated and effective team I have had the honor of working with. And you have done both your nation and your President proud.
+
+And most of all, to you, Mr. President. Your great strength is not just in your great accomplishments for this country or in your dreams for the future. It's not in your great mind or the work and commitment that you have to this job. I believe that your greatest strength is that you have never lost touch with common people, the common people of this nation -- their hopes, their dreams and their aspirations. That's why you won on Tuesday. That's why I'm proud to have a part of this administration. Thank you for --and thank you on behalf of my parents for giving me the chance to fulfill the American Dream. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,100 @@
+﻿{title} Speech in Edinburgh {/title}
+{event} Edinburgh {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} May 31, 1983 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} General Elections, Conservatism, Foreign policy (general discussions), Economy (general discussions), Monetary policy, Labour Party and Socialism, Liberal and Social Demoratic Parties, Social security and welfare, Health policy {/description}
+
+{speech} 
+
+Mr Chairman, we went to Williamsburg as a strong and reliable ally — a nation to be reckoned with — a nation to be trusted
+
+Assembled there were the leaders of seven countries—the United States, Canada, France, Germany, Italy, Japan and ourselves.
+
+Very different countries, but all badly hit by the world recession, all with one economic purpose, all resolved, and to quote the words of our declaration "to promote a sound and sustainable recovery bringing new jobs and a better life for the people of our own countries and of the world".
+
+All agreed—whether from Socialist France, Christian Democrat Germany, Republican America—all of us agreed that to sustain recovery, and I quote again:
+
+"We must all focus on achieving and maintaining low inflation and reducing interest rates. And we all renew our commitment to reduce budget deficits by limiting the growth of expenditure".
+
+Note, its not just the policy of this Government, but the policy recommended by every Government there, some of which were elected on a very different platform.
+
+Yet our opponents—the Labour Party, the Liberals and the SDP—criticise that policy and claim that they have got a better answer.
+
+Of course, we did not stop there, and you'll find many of the other policies we agreed on have a familiar ring about them too. {COMMENT="Beginning of section checked against ITN Report 31 May 1983"} 
+
+But at this point I think we should just stop and ask ourselves whether it's likely that the Labour Party and the Liberals and the SDP have got it right, and the whole of the rest of the industrialised world—its leaders, its finance ministers, its advisers—have got it wrong.
+
+The last Labour Government, in which Mr. Healey was Chancellor and the SDP were prominent members, and which latterly the Liberals kept in office—that was the government which had to be rescued by the international community from the folly of the very policies which Labour would now like to try again. {APPLAUSE} {COMMENT="End of section checked against ITN Report 31 May 1983"} 
+
+And at the end of the declaration you'll find the sentence: "Our discussions here at Williamsburg give us new confidence in the prospects for a recovery".
+
+It is the policies which this government is putting before the electorate which will sustain that recovery and lead to new jobs and a better life.
+
+That is why we are pursuing those policies with such energy and enthusiasm.
+
+Mr. Chairman, all our hopes depend on having a flourishing trade and industry in this country. Without them we can have neither the personal standard of living nor the standard of public services which we need.
+
+For Conservatives, sound economic policies and the protection of the social services go together—always have done, and always will.
+
+And I want to knock on the head, once and for all, the scares that the Labour Party are putting around about pensions and the National Health Service.
+
+You may remember, they tried the same tactic during the 1979 election. It didn't work then, and it won't work now. Because this time we can point to our record in Government. This time the facts are there for all to see, and we have to remind people of them constantly.
+
+The reality is that this Government has maintained, indeed improved, the social services through the worst recession in 40 years.
+
+Many countries on the continent like France and West Germany have had to delay pension increases and cut the real value of benefits. But the Conservative Government in Britain has more than protected the retirement pension against rising prices.
+
+We promised it. And we did it, by prudent management, and sound budgeting.
+
+When we came to office, the single pension was £1950 a week. Now it is £3285. When we came to office the pension for a married couple was £3120. Now it is £5255 a week. Even after allowing for price increases, pensioners can buy more with their pension than they could under Labour.
+
+Last year pensions went up faster than prices. The pensioner will keep the extra. There will be no claw back. And we will continue to protect pensioners against rising prices.
+
+Each year the pension will be increased by the amount by which prices have actually risen. Not by a forecast of inflation, because those forecasts have been wrong in five out of the last seven years, by the amount that prices have actually risen.
+
+People really don't know just how much we've done to help those in need.
+
+Did you know that we have not only kept the war widows' pension ahead of prices, we've taken it out of tax, too?
+
+Did you know that benefits to the disabled have been increased ahead of rising prices?
+
+And so has the mobility allowance. There's no tax on that now, either.
+
+When you know the facts, Labour can't frighten you with their scares. Of course they're trying the same tactic about the National Health Service.
+
+I understand that Labour is suggesting that the Tories would undermine or dismantle the NHS.
+
+I despise that sort of scare campaign, deliberately designed to frighten the sick and elderly.
+
+Deliberately and cynically designed by people who know that its wholly untrue.
+
+I'll answer the scares by giving the facts.
+
+When we came to power, Britain was spending £7¾ billion on the NHS. This year we are spending £15½ billion on the NHS—double the cash and an increase of 17 per cent after allowing for rising prices.
+
+Is that undermining the Health Service?
+
+There are now 56,000 more nurses and midwives and 7,000 more doctors and dentists in Great Britain working in the NHS than when we came to office. And the extra staff help to make it possible to treat two million more patients a year. Two million more patients treated every year.
+
+Is that dismantling the Health Service?
+
+I said it last year. "The Health Service is safe with us". I have no more intention of dismantling the National Health Service than I have of dismantling Britain's defences.
+
+And if you look at our public expenditure plans for the next three years, there it is in black and white. These are the figures: £700 million more for the NHS this year—another £800 million more for the NHS next year, and another £700 million the year after that.
+
+Labour knows these facts. They are there in the book.
+
+All budgeted for within a sound financial policy. Not a promise but a firm commitment.
+
+So let's have no more of this cruel, callous scare designed to frighten the very people we are trying to protect. We are proud of our stewardship of the social services. And we have every reason to be proud.
+
+{COMMENT="And Mrs Thatcher couldn't resist a tilt at the leadership troubles of her challengers"} 
+
+You may have noticed that I've been away. {LAUGHTER} It was only for two days and I must say, now that I'm back, that nothing much seems to have changed. The Labour Party, the Liberals and the SDP all seem to have had meetings to decide whether to change their policies or their leader or both. {LAUGHTER ; APPLAUSE} All are still refusing to face the real issues. We, on the other hand, are sticking with our policies and, I understand, with our leader.
+
+{COMMENT="Meanwhile the object of the attention of the others, Mrs Thatcher, was talking just about herself, her Government, and her record"} 
+
+What we have done is to get inflation down to a lower level than it has been for fifteen years, and if we had not got inflation down there'd be many more people who have jobs at jeopardy than there are now. Our worst, our worst competitors—or our best competitors, if you like—our most ardent rivals, Germany and Japan both have low inflation. We have to compete with their goods. How can we possibly compete with them if we have very high inflation and they have very low inflation? 
+
+{/speech}

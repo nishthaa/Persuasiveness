@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President, the Vice President, Attorney General Janet Reno, Sarah Brady, Melanie Musick, and Jim Brady During Signing Ceremony of the Brady Bill {/title}
+{event} The East Room {/event}
+{speaker} Janet Reno {/speaker}
+{date} November 30, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. Vice President. Since that grim day in 1981, the Bradys have been an inspiration to all Americans. Since that day, the tremendous physical courage of Jim Brady has been an example for us all. Never to give up.
+
+Together, Jim and Sarah have raised a wonderful son, Scott, who will celebrate his 15th birthday in December. Together, they have fought back and they have never given up. But not just content with that, since 1987, they have tried to bring reason to guns in America in a way that should be an example for us now and for the future. There were bleak days. There were days when Sarah had to go it alone -- when she would appear on courthouse steps by herself with no entourage fighting for the Brady Bill. And together they never gave up.
+
+They're an example for all Americans that we can make a difference -- that one person, that one family can make a difference in violence in America. And this day is a culmination of just remarkable example of American heroism. But the most important thing on the day the Brady Bill passed, Sarah was asked, "What are you going to do now?" And Sarah said, "I'm going to keep fighting, and we're going to get the ban on assault weapons passed." And then Jim chimed in -- {APPLAUSE}
+
+Jim and Sarah and Scott are an example to all Americans that we can end the violence that is tearing us apart; that as a family, that as individuals, each of us can and will make a difference.
+
+Sarah Brady. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,41 @@
+﻿{title} Speech at South Carolina Democratic Party {/title}
+{event} ----- {/event}
+{speaker} Bob Graham {/speaker}
+{date} May 3, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+…face down these challenges. We can make the right choices; the best days for America are ahead. {APPLAUSE} 
+
+Friends, it is almost incredible what has happened in barely two years. George Bush inherited one of the strongest economies in the nation's history. He inherited the largest budget surplus in our nation's history. And in barely two years he has run the economy into the ground. We are now facing the largest deficits in our nation history. In barely two years we have had a $7 trillion turn in our economic fortunes. {APPLAUSE} 
+
+We have squandered our economic future. President Bush has only one plan to deal with it. That is to give massive tax cuts to the favored few. That is not what America is about. {APPLAUSE} 
+
+I'm running for president to change that. It starts with having the courage of our convictions. 
+
+With your distinguished Senator Fritz Hollings, I voted to eliminate all of President Bush's tax cuts {APPLAUSE} , to eliminate all of those tax cuts until the budget was under control and we had funded our essential needs in health care and education and other critical national priorities. {APPLAUSE} 
+
+I voted against all of President Bush's tax cuts because they were too tilted towards the rich, and especially in a time of war would explode the budget deficits while slashing our ability to invest in people. 
+
+And who will be stuck with that bill; who's going to be paying for that $7 trillion turn. It's these ten young Americans. My wife Adele and our grandchildren. And your grandchildren. {APPLAUSE} 
+
+I'm running for president because we stand at a critical time in our nation's history. We need a president with experience and proven judgment. 
+
+For eight years I was governor of Florida. I have already done what others are proposing to do. I balanced the budget in our state. {APPLAUSE} I built schools. I raised teacher salaries. I appointed qualified state officials and judges, men and women, black, white, Hispanic. And I helped to create over one million new jobs. 
+
+{COMMENT="Inaudible"} who can win. And I am that candidate. {APPLAUSE} I am from the South, a region that we must carry if we are going to win. And we'll start that victory right here in South Carolina. {APPLAUSE} My friends, I have won five, five statewide elections in Florida. I can beat George Bush in Florida and I won't have to have the United States Supreme Court cast the last ballot. {APPLAUSE} 
+
+George Bush has decided that he's going to govern from the far right while doing favors for his favorite special interests, like letting the Enron executives off the hook. But that wasn't enough. 
+
+We'll be right there with you. 
+
+Have you heard about the sweetheart deals that he has made with Halliburton in Iraq? 
+
+Starting from the center I have and will look outwards in both directions to build the majority, a majority of Democrats, even fair-minded Republicans and Independents to do the things that this nation needs to do. 
+
+Friends, my name is Bob Graham. I am running for president of the United States of America. {APPLAUSE} I represent the electable wing of the Democratic party. {APPLAUSE} Thank you. 
+
+{/speech} 

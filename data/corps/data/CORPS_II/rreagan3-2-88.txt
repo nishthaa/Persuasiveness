@@ -1,0 +1,36 @@
+﻿{title} Remarks Congratulating the Washington Redskins on Winning Super Bowl XXII {/title}
+{event} Washington Redskins on Winning Super Bowl XXII {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} February 3, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President spoke at 2:35 p.m. at the South Portico of the White House. {/description}
+
+{speech} 
+
+I'd like to welcome the winners of the 22d Super Bowl, the Washington Redskins; and your coach, Joe Gibbs. Welcome to the White House! Fellas, what else is there to say but Hail to the Redskins!
+
+
+
+You know, I noticed that some of your fans painted their faces half-red and half-yellow; some of them wore hog noses; some even climbed lampposts. My staff told me that that wouldn't be very Presidential; but make no mistake about it, I'm just as enthusiastic as your fans!
+
+
+
+The Redskins didn't simply enter the history books Sunday night, they rewrote them. In so doing, you gave new meaning to the term "Capital offense" -- {LAUGHTER} -- setting 14 Super Bowl records. And if you will allow me a minute, I'd like to list a few of the more impressive individual records: Timmy Smith, 204 yards rushing and two touchdowns; Ricky Sanders, 193 yards receiving, the most combined yards -- 235, and two touchdowns; and Doug Williams, the Super Bowl most valuable player, with one of the most inspiring performances displayed by any quarterback in football history -- 340 yards passing, the longest completion in Super Bowl history, 80 yards. That breaks one record and -- and four touchdown passes in one quarter -- and that breaks one record and ties two others. Way to go, Doug. {APPLAUSE} You recently showed the world how to overcome adversity and did it with style and grace.
+
+
+
+It's noisy, isn't it? {LAUGHTER} He's probably on his way to Denver. {LAUGHTER} {COMMENT="The President referred to the sound of a plane flying nearby"} But, as Dexter Manley might point out -- and a happy belated birthday, Dexter -- this wasn't a victory accomplished solely on individual feats. No, it was the teamwork of a well-coached organization. This is exemplified by the five team Super Bowl records set Sunday night. So, congratulations go to Joe Gibbs and his excellent coaching staff.
+
+
+
+And, Joe, if I could just add one personal criticism. Having spent a share of my life in show business, couldn't you have saved some of those thrilling moments in the second quarter for the last 10 minutes of the fourth quarter, so we could have a big curtain?
+
+
+
+But seriously, I'm sure all the Redskins join me in congratulating the Denver Broncos on a fine season. Being number two in the NFL is also something to be proud of. There probably isn't a classier organization to win that runner-up position. Coach Reeves, John Elway, and the rest of the Broncos are true sportsmen.
+
+
+
+But today, tomorrow, and the entire year belong to the victorious Redskins and your loyal fans who, thanks to you, are in hog heaven. Once again, congratulations, Redskins, and God bless you. 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by President Clinton, Vice President Gore, Chairman Yasser Arafat, Prime Minister Yitzhak Rabin, President Hosni Mubarak, and King Hussein I at Reception for Heads of State {/title}
+{event} The Corcoran Gallery, Washington, D.C. {/event}
+{speaker} Hosni Mubarak {/speaker}
+{date} September 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Clinton, dear friends, ladies and gentlemen. Once again, we meet in Washington in pursuit of peace. Just a few hours ago, we took part in the signing a new agreement between the Palestinians and the Israelis at the White House. And we gather here in this glorious setting in order to reaffirm our commitment to the cause of peace and the prosperity in the Middle East.
+
+In so doing, we are reviving a great tradition of coexistence and tolerance that prevailed in that area for centuries. Arabs and Israelis, the descendants of Abraham, as I've already mentioned before, have always lived together in peace and harmony in the land that was the cradle of civilization. Their souls were free of prejudice and hatred. Today we took another step which is certain to reinforce that heritage, and pave a way for a better future for all the inhabitants of the whole region.
+
+Although the agreement, which was signed this morning, is supposed to regulate only the second phase of an interim arrangement, its significance is quite evident. First, it proves that the peace process is working, and that the forces of peace are gaining, and gaining more ground every day. {APPLAUSE}
+
+In turn, this would enhance the credibility of the process in the minds of millions of Palestinians and Israelis. With a strict implementation of the new agreement, the parties would be able to move on to the crucial phase of the final settlement. The leaders who made this possible should be commended for their courage and perseverance.
+
+As this is achieved, the door will be wide open for meaningful regional cooperation in various fields. We have a bright vision for a new Middle East, which would be free, once and for all, of the threats of war and devastation. Past enemies and adversaries would become partners in progress and the prosperity. The region would figure high on the list of those who want to invest in peace and stability.
+
+The peoples of the Middle East are fully prepared to assume their share of the responsibility. And other nations are invited to make their contributions. I need not say that most parts of the world are strategically linked to that area which is the crossroads of many continents.
+
+The American people have been undertaking a pivotal role in this process. Year after year, American heads of state have committed themselves to that cause. They spared no effort to bring the partners closer together and to bridge the gaps that existed between their two positions.
+
+Our good friend, President Clinton, and his able aides have made a great contribution in this regard. They are still exerting relentless efforts in order to maintain the momentum for peace. We have no doubt that the Clinton administration is supported in that drive by the American people.
+
+Ladies and gentlemen, together we have started this holy journey on the road to peace, and also together, we shall overcome.
+
+And thank you. {APPLAUSE} 
+
+{/speech}

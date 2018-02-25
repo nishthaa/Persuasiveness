@@ -1,0 +1,26 @@
+﻿{title} Remarks by President Clinton And President Jean Bertrand Aristide {/title}
+{event} Welcoming Ceremony, National Palace, Port-au-Prince, Haiti {/event}
+{speaker} Jean-Bertrand Aristide {/speaker}
+{date} March 31, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and Aristide in Welcoming Ceremony {/description}
+
+{speech} 
+
+{COMMENT="Speaks in Creole"} Mr. President welcome, President Clinton. Welcome, President Clinton. Members of the U.S. Congress, members of the U.S. administration, friends of Haiti, a warm hello to all of you.
+
+{COMMENT="Speaks in Creole"} If democracy were a river, the principle of one man, one vote would be its bridge. If economic development were a seed, it would only germinate in soil rich in democratic principles and values.
+
+Greetings to all of you who have done so much for the restoration of democracy to Haitian soil. Special greetings to the delegation traveling with President Clinton. We are happy to see so many familiar faces. We hope that you, our friends in the U.S. Congress, all of Haiti's friends here today, carry back the joy and the spirit of democracy that is in the hearts of our citizens.
+
+I salute the close of 20,000 U.S. troops who helped restore democracy to our country. Thanks to the nonviolent resistance of the Haitian people and to you, on Sept. 19, Haiti moved from death to life. The water of violence was transformed to the wine of peace. Since our first meeting with Gen. Shalikashvili in Washington, through many visits with Gen. Sheehan, to our close collaboration with Gen. Fisher here in Haiti, we have found ready partners willing to work with us to uphold democracy.
+
+We thank all the men and women of the United States military serving in the multinational force, their families and the American people for their support for this successful operation.
+
+In 1776, a famous American, Thomas Payne, published the template entitled, Common Sense, which galvanized the 13 colonies in their struggle for liberation. Years later, when Payne wrote the constitution for the state of Pennsylvania, he reaffirmed his commitment to liberty by insisting on universal suffrage. During this same time, during this same period, across the Caribbean Sea, Toussaint Louverture, the pride of Haiti, drafted the constitution which paved the way for the liberation of the world's first independent black nation.
+
+Both nations honor their forefathers. In the life of this great historic figure, Haitians and Americans will, together always remember the contributions made by Operation Uphold Democracy to Haiti under the leadership of President Clinton. {APPLAUSE}
+
+They are ready for you. They are ready for you. 
+
+{/speech}

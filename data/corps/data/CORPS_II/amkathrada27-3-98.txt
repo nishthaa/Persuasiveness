@@ -1,0 +1,50 @@
+﻿{title} Remarks by Mr. Kathrada, President Clinton, And President Mandela During Visit to Robben Island {/title}
+{event} Visit to Robben Island {/event}
+{speaker} Ahmed Mohamed Kathrada {/speaker}
+{date} March 27, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President During Visit to Robben Island {/description}
+
+{speech} 
+
+Mr. President, your visit here highlights once again the universal symbolism of Robben Island. You are heading an increasing list of distinguished people from your country and from all over the world. If I may just mention some of the names from your country who have visited us -- honored us with their visits: of course, the First Lady, about this time last year, and your very, very beautiful and talented daughter, Chelsea, who I will never forget, because she had read the autobiography so intelligently. And she remembered so much of it, and asked so many intelligent questions, I can never forget her.
+
+Yesterday, Mr. President, you addressed the Parliament of the Democratic South Africa, and today you have come to see what preceded April '94, when democracy came into our country. Just a very brief background -- a very brief background. The type of discrimination, the callousness of apartheid -- apartheid applied in gradation. The first and best off were the whites. The second on the ladder were coloreds and Indians like myself. And at the bottom of the ladder were Africans, like the President.
+
+When we arrived here in June of 1964, it was bitterly cold, raining, windy. And when we had to change into prison clothes, the President, Mr. Mbeki, Mr. Sisulu, who are all my seniors in age, and then were seven of us, they were all given short trousers to wear, according to the law. They were given no socks. I was given long trousers; I was given socks. The rationale behind the short trousers is that in South Africa in those years, and unfortunately it still persists to some extent, the rationale is all Africans, regardless of age, are boys or girls. And boys wear short trousers, so the President and others with him had to wear short trousers.
+
+The same type of discrimination in the food. Whereas I would get two spoons of sugar, they would get one spoon of sugar. They would not get bread. I would get bread.
+
+So from the start it was a struggle against apartheid, and "struggle" meant hunger strikes and so forth. The first victory was after a few years when we managed to equalize the clothing; and later, after many years, we equalized the food.
+
+We were sentenced to hard labor. We had to work with pick and shovels for eight hours a day, work we had never done before. So the first month, it was bleeding hands and blisters, but that was the challenge, because that is what the other side had identified to crush our spirits. And it was a challenge that we dare not lose, and we did not lose.
+
+There was the brutality of the warden. I just want to cite one example of the mentality of people who are supposed to look after us. We, of course, on this side of the prison were isolated from the bulk of the political prisoners, completely isolated.
+
+Now, the other prisoners on the other side, that is, the political prisoners, were working at the stone quarry and there was an altercation between a prisoner, Mr. Malumbo and a warden. They then asked the prisoner to dig a hole, and buried him up to here. It was a sweltering day, and when the prisoner complained of thirst they urinated on him. That was the type of the mentality of these people.
+
+You have, no doubt, come across the President's autobiography, "The Long Walk to Freedom," so I should just mention this wall. Where this wall is used to be the President's garden. And after the manuscript was written, in its completed form was given over to experts who transcribed it into small handwriting and smuggled it out of the country, we buried the manuscript here, the original.
+
+And when they started building this wall through our garden, that manuscript was discovered and we were then punished, three of us. The President has brought me into a lot of trouble, even in jail -- {LAUGHTER} -- so we were punished and we were deprived of our studies for four years at that time.
+
+{OTHER-SPEAK} I must say that they were imprudent, because the method was, I would write and when I finished a chapter, I gave it to him. {COMMENT="Inaudible"} So then they would make corrections, and then I would rewrite the chapter. That's how we came into trouble, because {COMMENT="Inaudible"} was identified in that manuscript. {/OTHER-SPEAK} 
+
+So 75 percent or more of what you read today in "The Long Walk of Freedom" was written here in prison by the President.
+
+Robben Island was a test. In addition to the philosophy of our liberation organizations, we were taught that we were fighting against a system, not against a people. On Robben Island, on the one hand we had the callousness, the brutality, the sadism. All the authorities were hell-bent on cracking our morale and our spirits. On the other hand, Robben Island symbolized a triumph -- a triumph of the human spirit over evil, a triumph of good over oppression, in short a triumph of the new South Africa over the old.
+
+The oppressors failed in their mission to induce a collective amnesia among the people of this country and the world, because we were told in so many words, in five years' time nobody will remember the name of Mandela. And they did everything possible to induce that collective amnesia. They failed. They failed in their endeavors to crush the spirits of the prisoners. They failed to deprive the people of their dignity and their humanity and of their civilized values. They failed in every respect.
+
+Mr. President, everything I have said is symbolized in one person, and that is our President. It was his leadership, his courage, his wisdom, his foresight that guided us through the 18 years that we spent here and the rest of our sentences, which we spent in other prisons. So we owe the transformation that we talk of -- the seeds were here.
+
+And the other side, we called them the enemy at the time, set out to crush our spirits. And Robben Island was tailor-made to induce a spirit of hatred, a spirit of revenge, retribution. But thanks to the leadership of our President, thanks to the philosophy of the liberation movement, we did not fall into those emotions of hatred.
+
+So the seeds of the negotiation process were here at Robben Island, because we realized, and we have maintained all the time, that there is no such thing as driving 5 million white people to sea. They are South African citizens. They may be on the opposite side. When freedom comes, we have to work together to build a new country. And again, we have to thank our President for that.
+
+Robben Island is unique, I think, in the world. I think it is one place where from prison -- almost literally from prison to Parliament to President.
+
+Mr. President, we are confident that when you leave Robben Island, you will leave as a friend of Robben Island, to carry the message of the triumph of Robben Island to your people and to people everywhere. And we have confidence that we can count on you in the future for your continued moral support. And when we develop Robben Island, as we are planning to do, as a universal symbol, we hope we can count on you also for your material support.
+
+I thank you very much, and welcome again to Robben Island. {APPLAUSE} 
+
+{/speech}

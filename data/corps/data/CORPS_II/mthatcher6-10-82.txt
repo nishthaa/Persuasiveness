@@ -1,0 +1,14 @@
+﻿{title} Speech at Young Conservative Ball (Falklands) {/title}
+{event} Young Conservative Ball (Falklands) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} October 6, 1982 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Defence (Falklands War 1982), Autobiographical comments {/description}
+
+{speech} 
+
+When a country has problems it is always the young people whom it calls upon to serve the cause of freedom and justice. {COMMENT="Hear, hear"} And I think we can be very proud indeed that our young generation has served with equal bravery, distinction and honour as any previous generation. {AUDIENCE} Hear, hears {/AUDIENCE} {SUSTAINED APPLAUSE ; CHEERS} 
+
+And I think all of those who have been at home have felt a new oneness. We really have felt that we are citizens of a free country. {AUDIENCE} Hear, hear {/AUDIENCE} {CHEERS ; APPLAUSE} {COMMENT="Music— Glenn Miller"} 
+
+{/speech}

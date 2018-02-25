@@ -1,0 +1,26 @@
+﻿{title} Remarks at a White House Luncheon for Members of the Presidential Task Force on the Arts and Humanities {/title}
+{event} East Room, White House {/event}
+{speaker} Hanna Gray {/speaker}
+{date} October 14, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Mr. President, Mrs. Reagan, members of the Task Force, distinguished guests:
+
+It is with a very deep sense of appreciation that we are presenting to you, Mr. President, the report of your Task Force on the Arts and Humanities. We are, above all, grateful for the concern you have shown for the health and the vigor of our nation's cultural life.
+
+You provided us with a stimulating occasion to consider the opportunities and the obligations which all of us share to sustain and to strengthen this country's commitment to the arts and to the humanities. The hallmark of that commitment lies in a devotion to the essential freedoms of thought and expression.
+
+A society that recognizes the enduring significance of the arts and the humanities to the quality and to the future of our civilization will set high value also on diversity and on independence of initiative. This conviction asserts a confidence in the power and possibilities of scholarship and of education at their best, a dedication to the values and to the varieties of the creative and performing arts at their most vital. It rests on a regard for the cultivation of inherited tradition and also for encouraging the risk-taking that gives rise to new forms of learning and artistic accomplishment.
+
+It is a difficult task, the task of leadership, to balance so many pressing needs and complex goals, to assess the claims of the future against those of the present, to stimulate the distinctive and cooperative roles of the public and the private sectors. In that context, we know that you will give consideration to those activities which over the generations will shape the capacities and the potential of an educated and creative people. We hope very much that the work of our task force will be of some use as you direct that process.
+
+And in saying that, I know that I speak not only for the members of the Task Force, for the staff which has served the Task Force so ably, but also for the two Cochairmen who were not able to be present today -- for Ambassador Terra who had to be absent today, and for Chuck Heston who has, however, written a statement.
+
+And perhaps I could close with that. His statement says, "I regret that the film I'm shooting in British Columbia keeps me from joining you to second the convictions I know Hanna will express. I've been preaching the independence and perseverance of the artist all summer. Now I'm trying to practice it." {LAUGHTER} "My thoughts are very much with you. I am grateful for your trust in us." Signed, Chuck Heston.
+
+Mr. President, we thank you again. This is our report. 
+
+{/speech}

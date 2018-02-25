@@ -1,0 +1,20 @@
+﻿{title} Remarks at Lebanon Donors' Conference Closing Press Conference {/title}
+{event} Paris, France {/event}
+{speaker} Saud al-Faysal {/speaker}
+{date} January 26, 2007 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President, for including me in this press conference and I especially thank you for the special honor of giving me the last word. It's not often that I have that privilege. {LAUGHTER}
+
+I won't add much to what has been said here. Thanks, of course, must be given to the President, as the Secretary of State has said, not for just this meeting, but for perhaps a lifetime of interest in the Lebanon, the idea of the Lebanon, and helping Lebanon to survive the crises that have always been beyond its capacity and always been not their responsibility.
+
+I think the conference succeeded in achieving its objectives. The friends of Lebanon have come through again in spite of past experiences, which is now the duty of the Lebanese to prove that they can work together with the international community to bring back to Lebanon what it has lost in the strife that they have faced in the past.
+
+So we go from this conference fully confident that if we have the support of the Lebanese people, because this aid is for all the Lebanese, as the Prime Minister has said, then Lebanon will come back to what it was, and then it can live in peace and security. The importance in Lebanon is in its makeup. We talk about confrontation; of religious confrontation, of ethnic confrontation in the Middle East, of a struggle between civilizations. Lebanon represents all those, and if can live in peace with itself, it certainly can convey these ideas and the possibility of their success to the whole region. And we certainly need that not only in the Middle East, but in the international community.
+
+Thank you again, Mr. President, for all the work that you have done. Thank you, Mr. Prime Minister. 
+
+{/speech}

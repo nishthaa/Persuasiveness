@@ -1,0 +1,36 @@
+﻿{title} Speech at State Government Dinner in Melbourne {/title}
+{event} State Government Dinner in Melbourne {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} August 3, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Australia and NZ), Union of UK nations {/description}
+
+{speech} 
+
+Mr. Premier, My Lord Mayor, Ladies and Gentlemen:
+
+First, may I thank you, Premier, for your very kind words of welcome and for your hospitality this evening and for your witty speech! I assure you, I know the Scots and the Irish and the Welsh very well indeed. They are extremely fortunate in their nearest neighbour! {APPLAUSE} The most tolerant people in the world—we English!
+
+The Irish, the Scots and the Welsh come to our country and they run practically everything. Indeed, we are jolly lucky now and then to have an English Prime Minister and truth to tell, that is when we flourish best! {APPLAUSE}
+
+I am delighted to be back in Melbourne for the first time since the Commonwealth Heads of Government meeting here in 1981 and I can already see what a tremendous amount of development has gone on since that visit—witness this Centre, which is truly beautiful and must be a tremendous asset to the City.
+
+Australia's bicentenary is very nearly Melbourne's 200th anniversary as well, and you have had a long and distinguished history since Captains Matthew Flinders and John Murray first visited Port Phillip Bay. You also have the particular distinction of having been founded unofficially by individual enterprise, and that is still reflected in the sort of city and state you are today.
+
+Melbourne, to us, is a byword for beauty, for graceful and elegant buildings, for wide streets, lovely parks and gardens—and noisy demonstrations! And, of course, for this magnificent Victorian Art Centre, and no-one can stand here without recalling that Melbourne was the birthplace of Sydney Nolan, whose paintings brought to millions of people the harsh and vivid reality of the Australian Outback. It is remarkable to think that only 150 or so years ago the site of your present city was purchased, if I remember my history, for forty blankets, thirty axes, a hundred knives, fifty scissors and two hundred hankies—quite a bargain!
+
+It reminds me of the story of a senior common room in Oxford, where the members were discussing how to invest some college funds and the bursar recommended land. "After all," he said, "land has proved a very good investment for the last one thousand years!" His colleagues agreed—all except the history don. "That is all very well" he said, "but you have to remember that the last thousand years have been quite exceptional!"
+
+Mr. Premier, it is a great privilege to be in Australia for this bicentenary year. We have been watching your celebrations from afar with a touch of envy. They look like being one of the best and longest parties in history. More seriously, they have stirred fresh interest in Australia in our country. In the last few weeks in London, we have had the superb National Ballet at Covent Garden, a major Australian art exhibition—"Angry Penguins"—at the Hayward Gallery, and an Australian play "Emerald City" in the West End, and Australia has hardly been off our television screens.
+
+The fact is that despite all the talk of Britain and Australia drifting apart, there will always be a deep and abiding British interest in Australia. Of course there is, when millions of people are linked across the globe by personal and family ties, by trade, by defence cooperation, by sport and by the best political system ever devised—parliamentary democracy—and where better to say that than in Melbourne, the home of the first Federal Parliament and the proud possessor of one of the finest parliamentary buildings in the world, and in the State of Victoria which was the first place in the world to introduce the secret ballot in 1856. Indeed, it was known for many years as the "Australian ballot".
+
+There may be other things which make a British Prime Minister feel at home here, above all in Victoria your reputation for financial soundness and solidity. That has been the corner-stone of our revival in Britain and it has brought us to new levels of prosperity and enterprise and it is making us an excellent partner for Australia in its third century.
+
+Mr. Premier, there have been twenty-seven British prime ministers since you named your city after Lord Melbourne and some of them have stayed Prime Minister a bit longer than others. Well, the great Lord Melbourne and I have one thing—probably only one thing—in common: we have both been friends of Victoria—of the great Queen Victoria in his case—and I would like to think of the State of Victoria in mine, and I can tell you that this British Prime Minister and this British Government want a stronger relationship with Australia in the future.
+
+Britain's interest has been re-awakened by the bicentenary. We rejoice that we have a strong bond of friendship with this great and successful nation which you have built and we know how important it is for us all that you play a powerful role in the Pacific, and we both cherish our joint heritage of parliamentary democracy and a rule of law.
+
+Our future lies closer together in ideals, in trade and commerce and in staunch defence of liberty, so in that spirit may I ask everyone to rise and drink a toast to the State of Victoria and its Premier, to its continued success and to the links of friendship between Britain and Australia! {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,182 @@
+﻿{title} The Second Carlton Lecture: "Why democracy will last" {/title}
+{event} ----- {/event} 
+{speaker} Margaret Thatcher {/speaker}
+{date} November 26, 1984 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+
+{description} Conservative Party (history), British constitution (general discussions), Conservative Party (organisation), Women, Law and order, Conservatism, Privatised and state industries, Strikes and other union action, Industry, Defence (general), Religion/Morality, Terrorism, Labour Party and Socialism, Liberal and Social Demoratic Parties {/description}
+
+{speech}
+ 
+Mr Chairman, my Lords, ladies and gentlemen. just over two years ago—as you have reminded us—Mr. Harold Macmillan delivered the First Carlton Lecture. All of us who were present to hear it or who have since read it hoped that this would be the first of a distinguished series. And you do me a great honour in inviting me to deliver the second. 
+
+When he was Prime Minister, Mr. Macmillan gave me my first Ministerial job in 1961. Some twenty years later, as Prime Minister myself, it gave me the greatest pleasure to recommend Mr. Macmillan for his highly deserved and widely acclaimed earldom on the occasion of his 90th birthday. {APPLAUSE} 
+
+Today, the Earl of Stockton may have a distinguished title; he may sit in a different Chamber; but he speaks with the brilliance, wit, and understanding with which he has always spoken. 
+
+His Lecture was entitled "Civilisation under Threat" because he thought—and I quote his own words—something "vague and meaningless and a little pompous would be about right". {LAUGHTER} Needless to say, the Lecture was everything but that. 
+
+The title I first toyed with, for my Lecture, was "Democracy under Threat"—because there are, as we know, enemies of democracy both within and without. But that would have been too pessimistic a title, because the defenders of democracy are far the more numerous. The overwhelming majority of the British people are democrats. Britain's democratic institutions are resilient. And the heart of our country is strong. 
+
+I have confidence and faith in our people and have therefore called my Lecture: "Why Democracy will last" 
+
+We meet here as practitioners in the craft of democracy. Indeed, this great Club is a workshop of that craft. The families of some of those in this room have been practising this skill for several generations. Others have become master-craftsmen in one generation. Still more are serving their apprenticeships for the future. 
+
+Democracy has always been, and remains, one of the rarer forms of government. The United Nations now numbers 159 countries but no more than about 60 could be described as democracies. 
+
+So steady and inevitable was our own progress towards democracy—so familiar are the landmarks—Magna Carta 1215, Simon de Montfort's Parliament in 1265, Habeas Corpus in 1679, the Glorious Revolution of 1688, the Reform Bills from 1832, leading to universal suffrage—so steady and inevitable has been that progress, that it is easy to forget how unusual is our history. 
+
+If we look wider, in the past or the present, we see not only how rare but how vulnerable democracy is: the brief flowering of Athens in the ancient world; the instant destruction of the fledgling Russian democracy in 1917 by Lenin's coup d'etat; and the infancy of most real democracies outside Europe now. 
+
+And even if we look at the kind of representative democracy which we practice in Britain today, we realise how long has been the road from Runnymede. 
+
+As you know, Mr Chairman, I always quote some of Kipling in every speech. {LAUGHTER} He had a marvellous poem -- The Reeds of Runnymede: 
+
+"At Runnymede, at Runnymede!
+Your rights were won at Runnymede:
+No freeman shall be fined or bound,
+Or dispossessed of freehold ground,
+Except by lawful judgement found
+And passed upon him by his peers.
+Forget not, after all these years,
+The Charter signed at Runnymede.
+"And still when Mob or Monarch lays
+Too rude a hand on English ways,
+The whisper wakes, the shudder plays
+Across the reeds at Runnymede.
+And Thames, that knows the moods of kings,
+And crowds and priests and suchlike things,
+Rolls deep and dreadful as he brings
+Their warning down from Runnymede!"
+
+The first of the great Parliamentary Reform Bills actually occurred in the lifetime of the father of one member of our present House of Lords, Lady Elliot of Harwood. Her father, Sir Charles Tennant, was born in 1823. 
+
+Votes for women, albeit for those aged thirty or over, {LAUGHTER} were one of the few beneficial consequences of the First World War. That was the only time when the age of thirty, in the life of women, has been of statutory significance. {LAUGHTER}
+
+Votes for women under thirty, on the same terms as men, came during my own lifetime. It was as late as 1950—by which time the university seats had been abolished—that the first general election was held, based on the principle of "one person, one vote". 1950. 
+
+How recent then is democracy, in one sense, even in our country. But freedom depends on more than just a voting system. Long before democracy was valued, long before we had this form of representative government, long before universal suffrage, we prided ourselves on being a free people. 
+
+We'd freed ourselves from fear of foreign domination. We'd freed ourselves from absolute monarchy. Above all, we'd developed the common law which established protection for the common man against the over-mighty and powerful. The debt we owe to the judges over many centuries has been incalculable. 
+
+There is perhaps no more eloquent statement of eighteenth century England's reverence for freedom than that attributed to the Chief Justice, Lord Mansfield, in the case of James Somerset, the slave. He said: 
+
+"The air of England has long been too pure for a slave, and every man is free who breathes it. Every man who comes into England is entitled to the protection of English law, whatever oppression he may heretofore have suffered, and whatever may be the colour of his skin." 
+
+That was in eighteenth century, long before even the great reform bills. We would have called herself a free people long before we had today's form of representative democracy. 
+
+By the nineteenth century, Tennyson—the great poet of my native Lincolnshire—was able to call this nation: "A land of settled government, a land of just renown". 
+
+But if we are to preserve and indeed strengthen democracy, we must encourage those forces which sustain it, which are friendly to it, and identify and isolate those elements which subvert it, which are its enemies. And the democracy of which we speak is not the counterfeit model of communism but genuine democracy. 
+
+Economists and politicians have not always been the friends of freedom. Indeed, one of them would have led us into serfdom from the middle class comfort of a house in Highgate {LAUGHTER} and from the publicly provided reading rooms of the British Museum. {LAUGHTER} 
+
+But others knew more of human nature and had more respect for the importance of the individual. 
+
+Great political economists, the greatest of them Adam Smith, have shown how a market economy, by devolving the power of consumer choice to customers, runs with the grain of democracy, which disperses the power of political choice to voters. 
+
+The economic enemies of democracy are those who would impose on people systems of production and distribution based on compulsion, not on people's choice. 
+
+Many live under systems whose rulers know only too well the connection between economic and political freedom, for they suppress economic freedoms precisely to prevent that political freedom which would ultimately follow. 
+
+But are there not closer to home some trends and fashions of thought which contain, in more respectable guise, the seed of the same danger? There are. 
+
+If some powerful group of producers says to us: "You've got to buy our product, whether or not you want it, we'll force you to do so by use of monopoly power or political muscle," then those producers are taking away from their fellow citizens an economic freedom—and that is true, even if we were feeble enough to vote to allow it, because we thought: "Anything for a quiet life". 
+
+Oh, I've heard that phrase in my political lifetime. {LAUGHTER} "Anything for a quiet life". And if we voted for that we would be taking away our economic freedoms, and our economic freedoms underpin our political freedoms, and our people freedoms, our democracy. 
+
+And if they are prepared to rob us of our economic freedoms, what is to stop them taking away other freedoms as well? 
+
+Let us never forget: democracies can, and in the past have, voted for measures which lead to their own destruction. The job of democratic leaders is to warn that measures which may seem easy or even popular, which may end some immediate conflict, must be resisted if in the end they risk destroying democracy itself. 
+{CHEERS ; APPLAUSE} 
+
+Doubtless consensus politicians mocked Demosthenes when he warned that the blandishments of King Philip of Macedon had only one object—the extinction of freedom in the Greek cities. But he was right. They certainly mocked Churchill in a comparable case. And he was right too. 
+
+Doubtless we could settle back into allowing industries, which we know should modernise, to levy on us all the compulsory costs of their own inefficiency, of their own protection. But that way lies, in the end, the erosion of the economic freedoms on which democracy rests, just as surely as Greek weakness in the face of the Macedonian King led to the extinction of political freedoms. 
+
+So—certain economic systems, the market economy, is the friend of democracy. It underpins it. 
+
+Technology too has profound implications for political life. 
+
+Huge concentrations of people in great buildings simply repeating mechanical routines will be a thing of the past—and thank goodness for that. 
+
+We can look forward to more and varied work being dispersed amongst smaller groups; less mass organisation of people for mechanical purposes; more dispersal of economic power. All these bode well for a diverse and democratic society. 
+
+But other technical developments are more sombre. In the last century the Swiss Cantons, secure in their mountains; Britain, secure behind her Navy; the New England cities, far from European dynastic wars; all could live in confident independence because, with reasonable vigilance, there was not much danger of destruction from outside. 
+
+Powerful modern weapons and nuclear technology will never again allow us to live in so secure a world. Even if every nuclear weapon were destroyed, the knowledge of how to make them cannot be disinvented. Now only a ceaseless vigilance can keep us safe. 
+
+But having said all this—said a little about how economics can affect democracy, how technology can affect it—let us never forget that the case for democracy rests ultimately on morality. Now somebody once said—I can't remember who it was—that when politicians start to talk about morality, you had better count the spoons. {LAUGHTER} But there is no way round the word if we are to discuss what is the greatest internal threat to democracy. 
+
+In the old days, political writers used to argue about something called "the protection of minorities". How could minority groups in a democracy be protected against the majority? Surely the 51 per cent might claim legitimacy for persecution of the 49 per cent? 
+
+But democracy is about more than majorities. It is about the right of every individual to freedom and justice: a right founded upon the Old and New Testaments, which remind us of the dignity of each individual, his right to choose and his duty to serve. These rights are God-given, and not State-given. 
+
+They are rights which have been evolved and upheld across the centuries by our rule of law: a rule of law which safeguards individuals and minorities; a rule of law which is the cement of a free society. 
+
+But what I think we are now seeing is the reverse problem, and we haven't properly faced up to it yet—the problem of the protection of the majority. 
+
+Because there has come into existence a fashionable view, convenient to many special interest groups, that there is no need to accept the verdict of the majority: that the minority should be quite free to bully, even coerce, to get the verdict reversed. 
+
+Marxists, of course, always had an excuse when they were outvoted: their opponents, they said, must have ‘false consciousness’: their views didn't really count. 
+
+But the Marxists, as usual, provide only bogus intellectual top-dressing for groups who seek only their own self-interest. 
+
+Plenty of groups operate more simply. They don't care whether they have persuaded their fellow citizens or not, or whether constitutionally elected governments undertake properly approved policies. These minorities, will coerce the system to meet their own objectives, if we let them get away with it. 
+
+Many of the new ‘campaigning’ pressure groups, run by professionals who move from campaign to campaign—some in the trade unions; some even in parts of the system of government itself—they have seen how our democracy has evolved rules to temper the power of the majority—and rightly so—and provide safeguards and rights for the minority. 
+
+They have spotted that, if minorities bend the rules or simply ignore them, they may succeed in manipulating the whole system. The minority indeed, may in the end, effectively coerce the majority. You may recall that Burke had a phrase for it, as always:- "All that is needed for evil men to triumph is for good men to do nothing." 
+
+Now I hope I won't be thought too provocative if I complain again about the sloppy use of the word ‘consensus’ in such cases. If there is a national debate and a constitutional vote about some matter, and if a recalcitrant minority says "the vote be damned, we are going to do our level best to stop the majority having its way", then, Mr Chairman, it's no good saying "we must seek consensus, we must negotiate". 
+
+Because such a group will never consent, whatever the majority thinks, until it gets what it wants. That is when we have to stand up and be counted, that is when we have to do what we believe to be right. {CHEERS ; APPLAUSE} 
+
+We must never give in to the oldest and least democratic trick of all—the coercion of the many by the ruthless manipulating few. {CHEERS ; APPLAUSE} 
+
+As soon as we surrender the basic rule which says we must persuade our fellow citizens, not coerce them, then we have joined the ranks of the enemies of democracy. 
+
+And now that democracy has been won, it is not heroic to flout the law of the land as if we still struggled in a quagmire where civilisation had yet to be built. 
+
+The concept of fair play—a British way of saying "respect for the rules"—must not be used to allow the minority to overbear the tolerant majority. 
+
+Yet these are the very dangers which we face in Britain today. At one end of the spectrum are the terrorist gangs within our borders, and the terrorist states which finance and arm them. At the other are the Hard Left operating inside our system, conspiring to use union power and the apparatus of local government to break, defy and subvert the law. {CHEERS} Their course of action is characterised by a calculated hostility towards our Courts of Justice. 
+
+Now our Courts have long been distinguished for their impartiality. Our judges are famous for their fairmindedness, their objectivity and their learning. But it is precisely because the Courts uphold the principles of reasoned justice and equality before the law that the Fascist Left is contemptuous of them. 
+
+Who is there to speak for the majority? The Labour Party cannot—it is itself the victim of a takeover of the passive majority by a ruthless minority. {CHEERS ; APPLAUSE} We see moderate Labour politicians having to eat their words or take their leave. 
+
+And the Alliance? It is a house divided: divided on principle, divided on policy, divided not once but many times over. 
+
+A unique responsibility is therefore placed on today's Conservative Party. And speaking to you in this building, it is right that I should dwell for a moment on the role of our Party. 
+
+There are in the free world a number of powerful and distinguished parties in the Conservative tradition. But I think it is fair to say that none can rival our own Conservative Party for the length of its service to the nation, the durability of its philosophy, its tenacity of tradition, combined with its willingness to embrace and refine necessary change and, above all for the sheer centrality of its role in the political life of our society. {APPLAUSE} Our party can reasonably claim to be the leading democratic party in the world – 
+
+Oh, I think you should clap that. {LAUGHTER ; APPLAUSE} 
+
+In our long history, the Conservative Party—as our name implies—has sought, successfully, to conserve many things: the Established Church, the Monarchy, the House of Lords, the constitutional integrity of the United Kingdom. But now the mantle has fallen on us to conserve the very principle of Parliamentary democracy and the rule of law itself {CHEERS} -- to conserve them for all people, of all parties and of none. 
+
+Mr Chairman, each generation has to stand up for democracy. It can't take anything for granted and may have to fight fundamental battles anew. 
+
+You know that marvellous quotation from Goethe: 
+
+That which thy fathers bequeated thee
+Earn it anew if thou wouldst possess it.
+
+My predecessor, in the first Carlton Lecture, dealt eloquently with the whole of civilisation—only he could {LAUGHTER}; the culture of the cities of Guatemala, the Oxford of 1914, Bretton Woods, even the cumbersome diplodocus—or diplo doc us according to where you were educated—roaming in the valley of the Thames who didn't get as far as Oxford {LAUGHTER}—a vast array of lost worlds, a vast array of lost worlds surveyed with inimitable style. 
+
+I have concentrated on one strand of his argument—the uniqueness and vulnerability of our freedoms and our democracy—because I am still in the business of building defences for those freedoms and standing up for that democracy and justice in the immediate hurly burly of political life. That is why I have pointed both to the dangers and to the opportunities. 
+
+If we don't guard against the dangers and rise to the opportunities, Lord Stockton's heirs may, in some distant lecture, add us to his lost worlds. 
+
+But as you've gathered, from the title I chose, I am confident. 
+
+Britons will never lack brave hearts nor sound laws to defend their freedoms. And when injustice threatens we can mobilise the common sense and common law of Britain; and look to our Parliamentary democracy to signal dangers and to shape or revise the laws. 
+
+This year, as before in our history, we have seen men and women with brave hearts defying violence, scorning intimidation, and defending their rights to uphold our laws. {APPLAUSE} 
+
+By their action we have seen a new birth of leadership in Britain, and that is the most important thing, the most enduring thing, that is going to come out of this coal strike—a new birth of leadership. {APPLAUSE} 
+
+Individuals do count. Truth will prevail. Democracy does work and will endure. And we will defend it with out political lives. Let that be the message of this, the Second Carlton Lecture. {APPLAUSE}
+
+{/speech}

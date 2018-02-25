@@ -1,0 +1,33 @@
+﻿{title} Remarks by the First Lady and the Second Lady during Major League Baseball/VA Visit {/title}
+{event} Major League Baseball/VA Visit {/event}
+{speaker} Michelle Obama {/speaker}
+{date} October 28, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you, everyone. Please sit. You've done enough. You can sit. {LAUGHTER}
+First I want to thank Jill -- Jill, my partner in --
+{AUDIENCE-MEMBER} {COMMENT="Inaudible"} {/AUDIENCE-MEMBER} 
+Pardon me? What was that back there? {LAUGHTER} I want to thank Jill for her partnership, her friendship, her support. She has been just a phenomenal support to me, not just in this particular effort but everything that we've been through and will have to go through. I want us all to give her another round of applause. {APPLAUSE}
+And I want to thank everyone in Major League Baseball for all that you're doing for our veterans. This has just been a phenomenal effort to bring exposure and awareness, and we are just all so very grateful that Major League Baseball has decided to take on this issue at a time that is so important and is such a celebratory time in Major League Baseball. So we thank you all.
+And thanks for everyone here at the VA. Thank you, thank you, thank you. We are so proud and so honored to be here.
+Last week I spent some time with Secretary Shinseki and the staff at the VA headquarters in Washington to underscore the importance of the VA's mission and to thank the VA staff there and all across America for their service to our nation's veterans. And I've done that because in addition to thanking veterans, it's important to thank the staff who make things possible. So often we forget the men and women behind the scenes who make things work.
+And I know that many of you are veterans yourselves, the people who work at the VA, the people who work at facilities like this, and your work couldn't be more important. It could not be more important.
+So I am happy to be here today. I'm happy with every minute that I spend time with our men and women in uniform and our veterans.
+Each and every day, they selflessly and courageously serve this nation. They demonstrate their commitment to upholding America's highest ideals. And they make an enormous sacrifice for each of us, for our country, and for the peace and security that we all enjoy.
+Today's visit is a vivid reminder that for many of them, the battle continues even after they come home. But when I talk with these brave men and women, they speak less about themselves and more about the stress that their sacrifice puts on their families who live each day without them and hold everything together in their absence. That's all these folks think about and worry about.
+As a nation, we have a responsibility to honor their service by doing everything we can to support our servicemen and women, our veterans, and their families. That's a duty that we have. {APPLAUSE}
+Now, for government, for government, that means living up to our responsibility to guaranteeing our veterans the care that they were promised and the benefits that they have earned.
+In fact, in addition -- {APPLAUSE} -- yes -- {APPLAUSE} -- in addition to an historic increase in VA funding, which is part of the bill that President Obama has signed today -- or will sign, if he hasn't signed it today -- gives the family members of wounded veterans federal family leave protection so that they can for -- care for their loved ones without losing their jobs, something very simple, very basic. {APPLAUSE} So those are the types of things that government can do.
+But providing our military and their families with the support they deserve requires far more than government can do, as Jill pointed out. It requires all of us to be very active in this effort.
+And Jill and I have obviously made it a personal priority to ask all Americans to join the cause by supporting our military and their families. And as Jill said, there are just so many ways that people can help on their own.
+And I've said this so many times before. If you are a business owner, big or small, you can help a returning soldier or a veteran or a spouse by helping them get or keep a job. We have to think about that.
+If you have professional skill of any kind, whether you're a lawyer, particularly if you're a mental health professional, or an accountant, you can provide your services pro bono to military families who need assistance. That's something to think about.
+Or you can do something, as Jill said, as simple as offering to drive a carpool, or to offer babysitting, or making a meal. Just so many small things can really make the difference and make sure that our veterans and our men and women in uniform know that we care and that we're thinking about them.
+And above all, each of us can simply reach out and do something really small, and say thank you. {APPLAUSE} Each and every one of us is living in a community that has some family who has been touched in some way. They're in our schools, in our churches, they're walking through the streets at the grocery store. Sometimes they're easily identified, sometimes they're not. But as Jill said, part of why we're here is that we want to urge all Americans who see -- watch the game tonight, get a chance to see our PSA, hear the sound of our voices, to never forget that these folks have made sacrifices. And we owe for what they've done for us. {APPLAUSE}
+So let's take the time to be more aware of these heroes in our midst, and honor them by doing more service not just for them but for all our communities. We are so incredibly grateful and proud of all of you.
+And with that, we will come down and shake some hands. So thank you very much. {APPLAUSE} 
+
+{/speech}

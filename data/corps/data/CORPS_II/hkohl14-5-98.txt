@@ -1,0 +1,46 @@
+﻿{title} Remarks by the PresidentAnd Chancellor Kohl at Airlift Remembrance Ceremony {/title}
+{event} Berlin Airlift Remembrance {/event}
+{speaker} Helmut Kohl {/speaker}
+{date} May 14, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, my good friend; my Lord Mayor; Excellencies; ladies and gentlemen; schoolboys, schoolgirls, and all you students out there -- {APPLAUSE} -- I would like to welcome you, Mr. President, here to the Tempelhof Airport in Berlin.
+
+This airport in the heart of the German capital symbolizes in a special measure America's bond with Berlin. It stands for one of the most spectacular relief operations history has ever seen. The 50th anniversary of the day of the Berlin airlift is due in a few weeks' time. When the Soviet Union, Stalin, in June 1948, ordered a blockade of all the overland routes to Berlin, it was the Western allies, especially our American friends, who for months on end kept people in the free part of Berlin supplied from the air.
+
+Day in, day out, those planes, soon fondly dubbed Rosinenbombers by the people of Berlin, and one of the most spectacular achievements of aviation and technology, secured the freedom of Berlin. The Berlin population, but all other German citizens, too, learned what it meant not to be alone in the hour of need. We know that this city owes its survival and freedom during the Cold War to the firm resolve of the United States and our other Western allies. {APPLAUSE}
+
+Here, in Berlin, Mr. President, Germans and Americans after the second world war once again experienced a mutual bond and commitment. And here in the course of time, victors in war became protectors and partners; adversaries became allies and friends. The airlift came to symbolize the unshakable strength of Western democracies. And the whole world will never forget this -- the steadfast determination of the Western allies not to yield an inch in the face of the communist threat. {APPLAUSE}
+
+This experience generated a desire to join together on a firm and long-term basis in the Atlantic Alliance. And in this alliance, we have been now working for many decades together. The extraordinary help we received from the Western allies only a few years after the end of the second world war was by no means a matter of course, and it took its place as one of the great memories we have experienced in history.
+
+It was an aid which also took its toll in human life. Mr. President, ladies and gentlemen, a few meters from here you have the monument to the airlift. It reminds us of the 87 people who gave their lives in the service of freedom.
+
+I am very pleased that today so many members of the American forces are with us here. {APPLAUSE} And I would like to give a very special welcome to those veterans who participated in the airlift at that time. {APPLAUSE} In a very particular way, in a very personal way, you made your contribution to German-American friendship, and for this I thank you on behalf of the citizens of Berlin and behalf of all Germany. {APPLAUSE} And to you, the veterans of the airlift, I would like to assure you that we will always honor the memory of your comrades. And at this hour, our thoughts go to the families of those who did not return.
+
+Mr. President, ladies and gentlemen, over the past decade, some seven million American servicemen and servicewomen have been stationed in Germany to defend our freedom. {APPLAUSE} Together with their families, it makes about 15 million Americans who, faraway from their own home, served in this country to maintain peace and liberty, together with our allies and together with the servicemen and women of our Bundeswehr. {APPLAUSE}
+
+In their day-to-day contacts with their German neighbors, they were able to make many close personal ties and we are very grateful because this was one of the fundaments of the close friendship between our peoples. It is not least these personal encounters and everyday impressions and experiences which make German-American relations a meaningful part of daily life. {APPLAUSE}
+
+I would like to emphasize that the American servicemen have made an essential contribution to the friendship across the Atlantic. This friendship and partnership, Mr. President, with the United States is one of the carrying pillars of German foreign policy. In a particular way, as Germans, we have experienced this when we received the gift of unification. {APPLAUSE}
+
+When these dramatic changes in the East of Europe unfolded, and finally the wall came down, we Germans received so much help and support from no one else but our American friends. And this is something we will never forget. {APPLAUSE} While others hesitated and some people were full of doubts, the United States, without ifs and buts, took the lead and encouraged us and supported us on the road to German unity. This unswerving commitment of our American friends -- to this we owe our thanks for the fact that the wall, the barbed wire, that divided Berlin for such a long time could finally be overcome. {APPLAUSE}
+
+You, Mr. President, and your administration, have constantly worked together to strengthen the German-American partnership. And all of us will never forget that day four years ago when we walked together through the Brandenburg Gate. In the moving speech you made at that time, you emphasized that America would continue to stand for the citizens of Berlin and the German people. You said, "now and for always," at the time. For this we thank you again, Mr. President. {APPLAUSE}
+
+Let me assure you, Mr. President, that here in Germany you will have true friends and reliable partners in future. Our close relations are built on three pillars: First of all, our common values, which link us politically, spiritually, and morally. Secondly, on our common interests. And third, our common commitment to a world economic order based on the principle of liberty, which is extremely important for the world economy.
+
+Mr. President, sir, today, we are experiencing a time of dramatic change, and together, Germans and Americans, Americans and Germans, must face the challenges of the new century which starts in two years time in a spirit of partnership. And this means that we Germans have a particular responsibility. And, of course, we will accept this responsibility.
+
+For us, at this time of change, it is extremely important to know that we have you as a friend and partner in the White House. And my personal thanks go to you for this. {APPLAUSE}
+
+Yesterday, together in our speeches, we made this clear: We see our tasks as overcoming once and for all the divided Europe during the decades of East-West confrontation. We need to give the young democracies in Central, Eastern and Southeastern Europe a helping hand to help themselves so that they can become part of our common future. This, for us Germans and for our American friends, is extremely important. Our target, Mr. President, is to complete the building of the European house, but we want our American friends to have a permanent right of abode in this house. {APPLAUSE}
+
+Mr. President, ladies and gentlemen, close cooperation between our two countries remains an important foundation for a positive future. Our common commitment to human dignity, freedom, and democracy, our support of a policy of peace throughout the world is the basis of our joint activities.
+
+Mr. President, ladies and gentlemen -- and I say this in particular to the many young people who I am pleased to see here today -- let us continue along this path together, looking back on what we have achieved, and convinced of our vision that we will live in peace and freedom. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,51 @@
+﻿{title} Speech at Lunch Given by the Jamaican Prime Minister (Edward Seaga) {/title}
+{event} Lunch Given by the Jamaican Prime Minister (Edward Seaga) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} July 18, 1987 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Americas excluding USA), Arts and Entertainment, Economy (general discussions), Foreign policy (development, aid, etc), European Union (general), Trade, Foreign policy (Africa), Commonwealth (South Africa {/description}
+
+{speech} 
+
+Rt. Hon. Prime Minister, Hon. Ministers, Your Excellencies, Ladies and Gentlemen:
+
+May I first thank you very warmly indeed, Prime Minister, for inviting me to visit Jamaica in this 25th anniversary year of your independence and for making me so welcome with the hospitality for which Jamaica is renowned.
+
+It has sadly, as you said Prime Minister, to be a short visit. Even so, I have this morning seen something both of your history and of your more recent achievements and I have been very impressed and I congratulate you, Prime Minister, and all Jamaicans, for what you have achieved during these twenty-five years.
+
+When Christopher Columbus, to whom you referred, first came here nearly five hundred years ago, he immediately called it "the fairest Isle that eyes have ever beheld". I came by a rather different route, but I reach just the same conclusion now. Moreover, your courtesy, friendliness and cheerfulness make others warm immediately to you. The deep Christian commitment of Jamaicans is admired and indeed envied.
+
+Our recently retired High Commissioner wrote when he left Kingston that he and his wife had come across more thoroughly good people in Jamaica than anywhere else they had served, and you cannot receive a finer tribute than that. But then Jamaica, like the rest of the English-speaking Caribbean, has become very much a part of our life in Britain. To someone of my generation, it is perhaps more truthful to say that I see why others find the music of Bob Marley so stimulating, although no-one can fail to be moved by the message of a song like "Get Up, Stand Up" with its call to people to believe in their own dignity and their own effort.
+
+And your poets have had a remarkable influence too. Edward Braithwaite showed in "Rites" that not only can West Indians play the best cricket in the world, they can also write the best poems about it.
+
+Prime Minister, you and I must be two of the Heads of Government today with the longest continuous service in office. I note what you said about the fashion to serve three terms. I will be so very pleased if I set a fashion that catches on throughout this part of the Commonwealth in particular. {APPLAUSE}
+
+Our experience has many parallels. We have both had to confront very difficult economic problems and we have tackled them in similar ways. We both believe in strong government, in sound financial management, in overcoming inflation and in promoting enterprise as the best way to create jobs.
+
+Jamaica has not had an easy time in recent years. Many of the problems with which you have had to deal came about through no fault of Jamaica's, but thanks to your determined efforts to increase economic reforms the future now looks much better. Such reform or adjustment is a difficult process. It takes time, but I believe that if you explain frankly to people why firm measures are needed then they will give you their support. They can see that in the long run this is the only way to the better life for themselves and their families which is their aim. That has been our experience in Britain and we are now seeing the results, and I am delighted to see that Jamaica's performance is also now improving markedly, thanks, Prime Minister, to your leadership.
+
+It is because of our confidence in Jamaica's future, Prime Minister, that I am glad to announce today the British Government's decision to make available a further loan of £7½ million as an indication of our desire to help and support what you are doing.
+
+When you came to Britain in 1984 we had a long talk, and you told me then that more than anything you wanted to improve the lot of children and that year would be the first in which every child attending school in Jamaica got a full set of text-books. I remember thinking at the time what a very sensible, noble and far-seeing aim that was.
+
+Education of our children is vital to our future prosperity and success. I understand, Prime Minister, that you have it in mind to use some part of our loan for a text-book rental scheme for Jamaica's schools. That is a characteristically imaginative proposal—one which will bring real benefits to the children and young people of Jamaica—and I do hope that it will be possible to put this scheme into action rapidly.
+
+While we are on the subject of the help which Britain can give Jamaica, can I also say that we shall continue to fight hard in the European Community—and we have quite a bit of experience of fighting in that organisation!—to make sure that Jamaica and other Caribbean countries go on enjoying the preferential arrangements for sugar and bananas under the Lome Convention. I know how important that is to you.
+
+Prime Minister, you and I will meet in a few months time at the Commonwealth Heads of Government Meeting in Vancouver. Our last session in the Bahamas was dominated by the single issue of South Africa and you spoke about it in your speech just a moment ago. I thought you might, and may I just respond.
+
+It is, of course, a vitally important issue. May I make it clear apartheid is an utterly repulsive and detestable system and it must go. There has to be fundamental change in South Africa, but it must come about by dialogue, not by violence.
+
+What we need are positive measures to help the black people of Southern Africa and that is why we in Britain are devoting some £20 million in the next five years to assistance for black South Africans and we contributed a further one billion dollars in the last five years to the development of the neighbouring African states.
+
+So while South Africa must certainly be discussed at Vancouver, I hope that we shall also devote plenty of time to other issues, as indeed the Commonwealth Secretary-General has proposed and in particular, I would like to see us discuss problems of development and debt. I know, Prime Minister, that with your tremendous experience and expertise in this field, you recently presented some very interesting ideas for dealing with debt problems. We are studying them with all the care and attention which they deserve and I look forward to discussing them with you this afternoon.
+
+Prime Minister, Ladies and Gentlemen, short visits should be marked by short speeches. I want to thank you once more for your generous hospitality and say how much I am looking forward to our talks this afternoon. It is very cheering to find such warmth and such friendship. An occasion like this brings to mind Polonius' words in Hamlet:
+
+"The friends thou hast and their adoption tried, grapple them to thy soul with hoops of steel"
+That, I believe, expresses better than anything the feelings which we in Britain have for Jamaica and it is in that spirit that I raise my glass to drink a toast to you, Prime Minister, to the success of your policies, to your health and happiness, and to the lasting friendship between Britain and Jamaica.
+
+Prime Minister, your health, success and happiness! 
+
+{/speech}

@@ -1,0 +1,136 @@
+﻿{title} Speech at Lord Mayor's Banquet {/title}
+{event} Lord Mayor's Banquet {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 13, 1989 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Executive (appointments), Foreign policy (Central and Eastern Europe), Foreign policy (USSR and successor states), Media, Foreign policy (USA), Economy (general discussions), Conservatism, Voluntary sector and charity, Foreign policy (general discussions), Industry, Monetary policy, Trade, Pay, Foreign policy (Asia), European Union Single Market, Economic, monetary and political union, European Union (general), Defence (general) {/description}
+
+{speech} 
+
+My Lord Mayor, my Late Lord Mayor, Your Grace, My Lord High Chancellor, Your Excellencies, My Lords, Ladies and Gentlemen.
+
+May I start by thanking you, My Lord Mayor, for your toast to Her Majesty's Ministers, a company whose turnover has recently exceeded market expectations.
+
+May I compliment you also on your most excellent speech and congratulate you on your election to this most distinguished office.
+
+You and I share the privilege of being grocers, I by birth and you, so to speak, by profession. That has taken you to an important position in Allied Lyons—not, I can reassure Your Grace, a newly formed company for the slaughter of Christians, but a major force in the food industry.
+
+As fellow grocers we naturally stand shoulder to shoulder in rejecting G.K. Chesterton's gross slander against us. You will recall it:
+
+"God made the wicked grocer for a mystery and a sign that men night shun the awful shops and go to inns to dine"
+Though that night explain why I subsequently studied for the Bar.
+
+I join you in paying tribute to your predecessor, Sir Christopher Collett, who had the double privilege not only of following in his grandfather's footsteps, but of holding the Mayoralty in the 800th year of the City of London. He has upheld both traditions, family and City, with distinction.
+
+My Lord Mayor, we are witnessing great events. Fifty years ago the peace of Europe was shattered by the sound of armies on the march. Today the plains of central Europe resound once more, this time to the swirl of people on the move.
+
+The message is clear, when people are free to choose they choose freedom, they turn their backs on a system which has been discredited—not by Western propaganda but by first-hand experience.
+
+An American writer visiting the home of communism in 1919 remarked:
+
+"I have seen the future and it works".
+
+Seventy years on, we know that it does not.
+
+Yes, My Lord Mayor, these are exciting times and the City is right at the heart of them. Just eighteen months ago President Reagan spoke here in this Guildhall. Six months ago President Gorbachev did likewise.
+
+The excitement comes because we are experiencing the culmination of a battle of ideas, a battle which has been fought out over more than a century, a contest between two fundamentally different philosophies.
+
+On the one side liberty, human rights, a rule of law and the belief that the task of Government, as you, My Lord Mayor have put it, is to serve the nation.
+
+On the other, a doctrine which holds that Government should have a central plan to cover every aspect of life and that people should conform, whatever their personal wishes. A doctrine that makes the state all powerful and the individual count for nothing.
+
+There is no doubt where we stand. But our fundamental beliefs came to be questioned by some people, particularly during the great depression of the 1920s and 30s when they began to wonder whether the alternative system, the system of communism, would be the wave of the future.
+
+Of course they should have known better. They should have recognised the inner contradictions in the communist system which meant that it could only prevail by oppression and force.
+
+Later new technology began to strip away the lie upon which communism depended. You cannot isolate people from new ideas when they can tune into radio broadcasts which tell them what is really going on in the world outside. Nor can you keep people down indefinitely when television can bring them pictures of a better life elsewhere.
+
+For more than twenty years after the last war, we were told how the Soviet Union would overtake the United States, how communism would eventually bury capitalism and how the worldwide victory of socialism was inevitable.
+
+Some were mesmerised by this propaganda. The West felt itself on the defensive. The diplomatic talk was not of the spread of freedom but of the containment of communism. Even as recently as the 1970s we were encouraged to accept that communism in Eastern Europe was there to stay and there was not much we could do about it.
+
+Enormous credit is due to President Reagan. He gave confidence back to America and the whole of the Western world. He ended the psychology of defeat and retreat and went out to spread liberty and democracy.
+
+President Bush is carrying on that great campaign, drawing on his own wide international experience and the scenes we have recently witnessed on our television screens could never have come about without the boldness, the vision and the courage of President Gorbachev.
+
+In Britain in those years we became used to the notion of inevitable decline, that the best we could hope for was to manage that decline and that nothing we could do would set us on the upward path again.
+
+But then, because of the sort of people we are, we said: "Enough, we can do better than this. Look at our history, look at how we used our liberties to create wealth. Look at how we created one of the greatest empires ever seen. We will go back to those fundamental principles and we will rebuild our confidence."
+
+People woke up again to the fact that wealth is not created by governments but by the vitality, initiative and enterprise of individuals who want to build something: a business, an industry, a place of learning, a theatre, an orchestra. And as you know, My Lord Mayor, a part of their fundamental belief was that as they prospered themselves so they must use their wealth to help others prosper.
+
+And so we began to climb back. We rebuilt our economic strength. We re-established respect for Britain abroad and more and more we found the ideas that we had rediscovered were spreading to other countries as they began to free up their economies and return to the values which across the years had made Europe one of the great civilisations of the world.
+
+I am not one who, to quote an American author, believes that democracy and enterprise have finally won the battle of ideas, that therefore we have arrived, as he said, at the end of history and that there is nothing left to fight for. That would be unutterably complacent, indeed foolish. There will always be threats to freedom, not only from frontal assaults, but more insidiously by erosion from within.
+
+What we have done, and by we I mean Britain and the United States and the Western European countries, is to put freedom once more on the offensive, a peaceful offensive. We have shown that genuine democracy is best able to meet people's needs and aspirations.
+
+We have shown that enterprise is the best way to create the wealth you need to bring a higher standard of living and all the other benefits which we in the West now enjoy.
+
+And the power and attraction of our example is evident in the unprecedented ferment we are now witnessing in Eastern Europe.
+
+My Lord Mayor, I need hardly remind this audience of the many economic achievements of this country in the last few years. They are not measured just in statistics, but in changing attitudes and in our much greater influence in the wider world.
+
+There is no better illustration of our economic vitality than the number of people setting up in business on their own—over 1,600 every week this year.
+
+And the City has been among the first to lend a hand in helping and advising young people on how to get started. Only last month the Late Lord Mayor and I were able to see this in practice at the Blackfriars Foundry, premises once used to cast the type for Fleet Street—in the days when type was cast and Fleet Street was in Fleet Street. Thanks to the generosity of the City, those premises have now been turned into workshops for the businesses of tomorrow.
+
+But My Lord Mayor, so powerful has been the sense of enterprise that the economy has been growing at a rate we simply could not sustain and this very success has given us problems. Inflation is too high and we have to take the necessary action. Of course high interest rates are painful, but nothing like as damaging as prolonged inflation. That would undermine the whole basis of our prosperity.
+
+The defeat of inflation has to be the overriding priority. The measures taken to achieve that will also help to reduce the trade deficit.
+
+But a word of warning, you referred to it obliquely, My Lord Mayor, our costs are rising faster than those of our competitors. I know that high interest rates are unwelcome for many businesses. But an extra 1 percent on pay adds nearly three times as much to costs as a single percentage point on interest rates. And pay has risen sharply this year.
+
+Our export performance has been good. But our businesses are losing far too many opportunities in the home market. Many of the things we import are not specialised high technology goods, they are ordinary products. There is no shortage of demand for them and I hope British industry will see to it that more of that demand is met by firms in this country.
+
+My Lord Mayor, one very bright spot in our trade performance is the contribution that comes from the City of London. Financial services earned a surplus last year of over £7 billion. When markets are open, you in the City can compete with the best—and win.
+
+But all too often our markets are more open to the rest of the world, including our European partners, than theirs are to us. If world trade is to continue to flourish, we must all play by the same rules.
+
+There are some encouraging signs. Earlier this autumn I visited Japan and addressed a large audience of businessmen. In my characteristically gentle way, I just hinted at some of the ways Japanese markets might be made more open. Believe it or not the audience actually applauded and I have a feeling the message is finally getting through.
+
+Within the European Community it is Britain that has consistently championed greater freedom. There is always a minority that wants protection for their particular industry in their particular country. And that is why we went for majority voting to implement the Single Market Programme.
+
+And most of the time you will find that Britain is part of the majority—the majority that wants to get rid of constraints. Far from being the slowest ship in the convoy, we are well up front. Especially when it comes to putting into practice what has been agreed. Of the sixty-eight Single Market measures which everyone is supposed to have in operation by now, we have put into effect sixty-five. Some countries have implemented less than half. Only seven of the sixty-eight measures are in force in all Member countries. So our record is good.
+
+That same desire to get rid of restrictions will guide us when it comes to closer economic and monetary cooperation in Europe. We are happy with Stage 1 of the Delors Report because it is rooted in free market policies and fair competition.
+
+But beyond that, the Delors proposals would abolish the pound sterling and all other national currencies in favour of a single currency run by a European central bank. That institution would control our interest rates and monetary policy. And Brussels would control our budgetary policy.
+
+It is ironic, at a time when Eastern Europe is moving towards greater democracy, that some in the Community want to take economic and monetary policies away from our national Parliaments and hand them over to a body which is not democratically accountable.
+
+Anyone who read the debate in the House of Commons the other day will realise how strong is the resolve in all parts of the House not to give up Parliament's sovereignty in matters which are so central to its very existence. And that is why Britain has proposed an alternative way forward.
+
+My Lord Mayor, when I spoke at Bruges a year or so ago in a speech which caused just a little bit of a stir, I reminded people that the European Community is only one manifestation of Europe's identity—that Warsaw, Prague and Budapest are great European cities, just as European as London, Paris and Rome.
+
+Even a year ago, we could scarcely have imagined the extent and the speed of the changes which have since swept the Soviet Union, Poland, Hungary and now East Germany. We should honour those in the Communist countries who never let repression and dictatorship break their spirit or their unshakeable belief in liberty and who are now seeing their hopes realised. We must give them every possible encouragement and support. We are doing just that in all our contacts with the Soviet Union under Mr. Gorbachev and in the practical help with food, training, trade, that we are giving to Poland and Hungary. We cannot and must not let their brave efforts fail. {APPLAUSE}
+
+In East Germany, the objective must be to see genuine democracy, with free elections and more than one party. To attain that in an orderly way which preserves stability in Europe would itself be a huge achievement. Moreover, as we have already seen in the Soviet Union, it is easier to make political changes than it is to carry out economic reform. Economic reform requires the acceptance of initiative and responsibility by people themselves and that is very difficult in countries which have never known these qualities.
+
+My Lord Mayor, the way in which we in the West respond to these historic changes could be crucial in determining their success. We want to see democracy extend throughout the Soviet Union and Eastern Europe and we want it to last.
+
+Once the demand for reform starts, there is a tendency for it to run very fast. Indeed, the very speed of change could put the goal of democracy in jeopardy. Strong emotions have been aroused on all sides by recent events. The need now is to take a measured view of the way ahead.
+
+These developments put a special responsibility on those of us who are members of the European Community. While continuing to build up cooperation among the Twelve, we must not allow ourselves to become obsessed with the details of the Community's internal business as though nothing were happening elsewhere. We must not take a narrow, blinkered approach.
+
+We have to remain open and outward-looking, ready to help, looking at these changes in Eastern Europe as part of the broad sweep of history, as part of the eternal battle between freedom and central control.
+
+We must stretch out the hand of cooperation and develop new forms of association with the emerging democracies of Eastern Europe—Poland, Hungary, East Germany—and we hope others will follow. After all, the European Community is a powerful example of how European states can work together in freedom and it would be natural for the Eastern European countries to believe they will benefit from closer contact with it.
+
+The Community should see what is happening as a great turning point in Europe's history and its response must measure up to that.
+
+We must also remember that times of great change are times of great uncertainty, even danger. The Librarian of the United States Congress put it very well when he said this:
+
+"There is no more insecure time in the life of an empire than when it is facing the devolution of its power; there is no more dangerous time in the life of a religion (Communism being after all a secular religion) than when it has lost its inner faith but retains its outer power."
+Very wise words!
+
+How is the time for us in the West to stay true to the policies and the principles that have brought us safely through the years of confrontation and Cold War since 1945. I don't believe that the great changes now happening would have come about had it not been for NATO and the strength and resolve it has shown {APPLAUSE} and it must be through NATO that we continue to keep the peace by tried and tested means, while welcoming every step that allows us to do so safely at lower levels of forces and weapons.
+
+My Lord Mayor, all of us present at this great banquet are involved in public life in one way or another—in government, in business, in banking, in the law, in diplomacy. We should recognise how immensely privileged we are to be living in these historic times, how fortunate to have a share of responsibility for the way events unfold.
+
+Our thoughts are already beginning to turn to the future which lies beyond the Millennium, but before that the decade ahead will test all our skill, our wisdom, our will and our nerve if we are to steer these great events to a successful conclusion, if we are to achieve the full flowering of democracy that has been our greatest hope and our noblest endeavour.
+
+I thank you, My Lord Mayor, for your toast to Her Majesty's Ministers. {APPLAUSE}
+
+{/speech}

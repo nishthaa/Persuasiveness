@@ -1,0 +1,33 @@
+﻿{title} Speech to European Parliament {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Karl von Wogau {/speaker}
+{date} December 9, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr President, ladies and gentlemen. The summit we are discussing today certainly yielded no momentous decisions. But if the Community were to act on the words we have just heard from the previous speaker and follow the precepts he proposes, we might as well write it off. If these precepts were followed in his country, our unemployment figures would soon be twice as high as they are today. {APPLAUSE} 
+
+The European Council meeting in London was the last summit—or so we assume—before the Single European Act. It was certainly also a signal for an acceleration of developments within the European Community. In some respects the past year separating the Luxembourg and the London summits was rather like waiting for Godot, a period of waiting for the Single European Act, improved decision-making procedures which will enable us to open up the Community internal market by 1992.
+
+In the last six months, it has to be said, certain successes were achieved, for example the abolition of controls on the movements of capital. We await further steps along these lines in the next six months, namely the abolition of exchange controls. If you just look at what citizens of the European Community have to pay when they make small transfers across the Community's internal frontiers, the justice of our demands is obvious: there must be cross-border competition in the services sector also, and there must be greater transparency and a more reasonable approach here.
+
+In the past year there has also been considerable concerted movement towards greater stability in the European Community. If next year's inflation rate in the European Community is kept at the expected 3%; that will be a great achievement, indeed, primarily a success in terms of social policy. {APPLAUSE} 
+
+Who has actually suffered from an inflation rate of 6%; or 7%;? Not the big entrepreneurs! Not the millionaires! It was the small man who suffered, and this is why a policy of stability is also an extremely effective social policy. {APPLAUSE} 
+This success is also an important precondition of further advance towards European Monetary Union. I fully expect to see ECU accounts next year, in the Federal Republic for example—Mr Stoltenberg and Mr Pöhl please take note. Of course we should also be very glad if the United Kingdom also decided next year that the time was ripe to join the European Monetary System. {APPLAUSE} 
+
+But there is yet another test of whether we are serious about achieving results by 1992. The ministers are on trial here. If we do not manage to get the framework programme approved, something which will lend a powerful impetus to realization of the internal market, then that would be a declaration of bankruptcy. Consequently we should urge not only the Heads of State and Government, but also the appropriate ministers, to approve the framework programme on a reasonable scale.
+
+It is a well known fact that we are currently behind schedule as regards implementation of the white paper. But it would certainly be a mistake if Commission and Council of Ministers confined themselves next year to simply ticking off what has and what has not been implemented.
+
+We must concentrate on the areas of main importance. One such area is the Community of advanced technology, common standards, mutual recognition of qualifications. The Community patent and trade mark provide the framework for more communality in the high-technology market.
+
+Secondly, our Heads of State and Government, our parliaments and our governments face challenges in the area of taxation. Difficult decisions face us here.
+
+The same goes for the area of administrative and legal cooperation, for if we open up the frontiers between our countries, we must reinforce the controls operated at our external frontiers and ensure that cooperation between the bodies responsible for security and health is improved. This is the third major precondition for the attainment of our objective.
+
+{APPLAUSE} 
+
+{/speech}

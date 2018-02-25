@@ -1,0 +1,18 @@
+﻿{title} Remarks by the Vice President at the Hudson Institute's James H. Doolittle Award Luncheon Honoring Secretary of Defense Donald Rumsfeld {/title}
+{event} Hudson Institute's James H. Doolittle Award Luncheon, The Renaissance Mayflower Hotel, Washington, D.C. {/event}
+{speaker} Herbert I. London {/speaker}
+{date} May 13, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hudson Institute has broken with tradition. For the first time, we honor a sitting Cabinet member, Secretary Don Rumsfeld. It is an honor for me to be in his presence, truly a great American. The Secretary -- {APPLAUSE}
+
+The Secretary is a long-time friend of Hudson Institute, who 25 years ago regularly consulted with Hudson's founder, the late Herman Kahn. Before we present the award, we have the pleasure of hearing from the 1998 Doolittle Award winner, Vice President Dick Cheney. It is altogether appropriate that the Vice President pay tribute to the Secretary. In 1969, Mr. Rumsfeld, then head of the Office of Economic Opportunity in the White House, spotted a talented, brilliant, young congressional staffer and hired him as his special assistant. That special assistant was Dick Cheney. Their lives have been intertwined ever since.
+
+In the Ford White House, Mr. Cheney served as deputy chief of staff under Mr. Rumsfeld. When Mr. Rumsfeld became Secretary of Defense, he became the youngest White House Chief of Staff at the age of 34. The Vice President went on to serve with great distinction in the House of Representatives, and as Secretary of Defense from 1989 to 1993, and led U.S. forces during the first Persian Gulf War. He became Vice President of the United States in January, 2001. And since then, his creative thinking and his unflappable persona have been of inestimable value to our nation and to the free world.
+
+Ladies and gentlemen, I had the chance to interview and to introduce Vice President Cheney when he received this award several years ago. It is always an honor to be able to introduce him. It is my distinct pleasure to introduce the Vice President of the United States, Richard Cheney. {APPLAUSE} 
+
+{/speech}

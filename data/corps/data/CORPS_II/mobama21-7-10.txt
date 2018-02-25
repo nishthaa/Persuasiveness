@@ -1,0 +1,30 @@
+﻿{title} Remarks by the First Lady at Cooper Hewitt Design Awards Luncheon {/title}
+{event} Cooper Hewitt Design Awards Luncheon {/event}
+{speaker} Michelle Obama {/speaker}
+{date} July 21, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everyone, and welcome to the White House.
+It is a pleasure to be here today as we honor some of our country's most talented, most visionary, most public-minded designers -- folks whose work has literally changed the way we look at the world and how we live our daily lives.
+Our honorees today come from a wide variety of disciplines and fields: from architecture and landscape, to product design, interior design and much more.
+But all of you share the same relentless commitment to excellence. Each of you practices your craft at the intersection of art and science, form and function -- grounding inspiration and innovation in fundamental principles of math and physics and engineering.
+And all of you have spent your lives pushing boundaries. We know a little bit about boundary pushing. {LAUGHTER} Or just outright ignoring them altogether. {LAUGHTER} Refusing to be confined by the world as it is, but instead having the courage, even the audacity, to pursue your vision of the world as it can and as it should be.
+The great jazz musician Miles Davis, one of my husband's favorites, once said, “Don't play what's there, play what's not there.” And I think that's pretty much a good description of what each of you does every day. You're really playing what's not there.
+You find solutions that we never thought of. You reveal and create beauty we never could have imagined or seen on our own. But each of you has also committed yourself to a fundamental principle, one best articulated, I believe, by one of today's honorees, Tom Dair, the president and co-founder of Smart Design. As he put it -- and this is a quote -- “Design is about people, not things.”
+What you do impacts just about every moment of our lives -- from the words we read, to the public spaces we enjoy, to the devices that help us do our jobs and run our homes and care for our families. Your work can determine whether a family has shelter or whether a village has clean drinking water. It can help fight disease, educate a child, and ensure we pass on cleaner, healthier world -- planet to all our children and grandchildren. And your efforts grace our world with works of beauty that lift our spirits and stir our souls like nothing else can.
+But we honor you here today not just for your creations and your innovations but for the inspiration that all of you are providing to the next generation of creators and innovators and thinkers.
+And I know that just today -- and I heard just a little bit -- you guys did something amazing. You really raised the bar. And that's exactly what we were hoping you'd do. You took part in a Teen Design Fair -- it's really fabulous, I can't wait to hear more of the details -- that occurred right here in Washington to help introduce what I believe were more than 400 young people to careers in design. And I know that many of you are involved in similar efforts like this back at home where you live and work.
+And we know the impact that experiences like this can have on the life of our young people -- giving them role models for success and exposing them to new possibilities, helping give them direction and shape their dreams.
+But we also know that far too few young people in this country have access to programs and opportunities like the one we did today. Even those who live just minutes from our great museums and cultural centers may feel like these resources are far beyond their reach.
+And one of my goals as First Lady is to help bridge that gap. And that's why I've been working to make sure that the White House is a showcase for America's rich cultural life, and I want to open up these doors to as many of our young people as possible, hosting them right here, in these same seats at these same tables, for concerts and workshops and mentoring sessions. I want all our young people in this nation to know that they have a place in our museums and in our theaters, in our design studios, in our concert halls, and in all halls of their very own White House.
+And I've got a partner in that effort, standing behind me. I'm pleased to have the honor of introducing Dr. Wayne Clough, as you know, the head of our nation's Smithsonian Institution, someone who shares the same mission. And we were just talking about his travels, his works, his meetings with Secretary Duncan to do more to make sure that the experiences of the Smithsonian are available to kids living in the most remote places right here in this country.
+Back when the Smithsonian was founded in the mid-1800s, it was focused primarily on science. And it wasn't until later that it expanded into culture, history, and then the arts.
+And that's actually a pretty good summary of the trajectory of Dr. Clough's career. Wayne came to the Smithsonian from the Georgia Institute of Technology, where he was the president. And in one news article, he is described as -- and this is a quote -- “a geotechnical engineer who reads and writes poetry” -- go figure -- {LAUGHTER} -- “quotes Faulkner, and likes indie films and the symphony.”
+And he has brought to this current role that passion for art and science, and that embrace of both that makes our past and future one.
+And during his time at the helm of the Smithsonian, he's worked tirelessly to ensure that as many people as possible -- particularly our young people -- can benefit from everything this national treasure has to offer.
+So it is my pleasure not only to join you for lunch and to sit next to Tim Gunn -- how cool -- {LAUGHTER} -- but to pass the mic on to my dear friend, someone who has been such a huge support to me in this role and has made this day possible, along with the work that so many of you do. He helps lift it up. It is my pleasure to introduce Secretary Wayne Clough. {APPLAUSE} 
+
+{/speech}

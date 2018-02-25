@@ -1,0 +1,25 @@
+﻿{title} Remarks by President Obama and Commerce Secretary Nominee Gary Locke {/title}
+{event} ----- {/event}
+{speaker} Gary Locke {/speaker}
+{date} February 25, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. President. I'm truly humbled and honored to be asked to join your economic team and to serve as Secretary of Commerce.
+As I flew across the country yesterday from Seattle, I saw the cities and farmlands of America below me. And I thought of all those businesses, small and large, that are struggling -- struggling to meet payroll; struggling to provide benefits to their employees; wondering about their future and viability as companies. Most of all, I thought about all those families in those communities who are hurting and worried about their future.
+Mr. President, I know you hear their concerns. The American people and I fully support you and have confidence in your bold strategies to turn our economy around, to rejuvenate the health of American businesses, to preserve and create good family wage jobs, to restore our country to an era of lasting prosperity.
+You eloquently outlined your strategies last night on how America will rebuild, recover and emerge stronger than ever before. Working with the professionals at the Department of Commerce, I'm committed to making the Department an active and integral partner in advancing your economic policies and restoring the American Dream to all Americans.
+Our nation's economic success is tied directly to America continuing to lead in technology and innovation, and in exporting those products, services and ideas to nations around the globe. The Department of Commerce plays a critical role in nurturing innovation, expanding global markets, protecting and managing our ocean fisheries, and fostering economic growth. The Department of Commerce can and will help create the jobs and the economic vitality our nation needs.
+When I was first sworn in as governor of the great state of Washington, I told the story of how a hundred years ago, my grandfather came from China as a teenager and worked for a family as a houseboy in exchange for English lessons -- just one mile from the Governor's Mansion. It took our family 100 years to move that one mile, a journey possible only in America.
+And during World War II, my father served in the United States Army as a staff sergeant and landed on the shores of Normandy. As a kid I lived in public housing, and my mom and dad worked very hard in the neighborhood grocery store that they owned.
+We grew up on the values of get a good education, work hard, and take care of each other. It was a struggle, but thanks to their sacrifices, I received the best education America offered. And here I am today, proud to have the opportunity to serve all the people of our great nation.
+My family's story is America's story. Our story is just one of hundreds of millions since the birth of our nation, of people coming from every part of the world in pursuit of the American Dream of freedom, hope and opportunity. In hard times, Americans have rallied together, sacrificed and even given their lives for our country, because they believe in the essential goodness and promise of America.
+Americans are prepared to do the same today. They believe in your leadership, Mr. President, and want you to succeed because they want America to succeed. They want a better future for themselves and their children.
+We will harness the resources and the talent of the Department of Commerce to help you fulfill your commitment to the American people to build a stronger and more prosperous nation. I embrace this opportunity to serve you and the American people.
+And finally I want to thank my family -- my parents and brother and sisters and the extended Locke clan, but especially my beautiful and truly gifted and loving wife, Mona, and the joys of our lives, Emily, Dylan and Madeline. Today would not have been possible without their love, support and sacrifices. And thank you, Mr. President, for this opportunity.
+{OTHER-SPEAK} Congratulations. You'll be great. {/OTHER-SPEAK} Thank you.
+{OTHER-SPEAK} All right, thank you everybody. {/OTHER-SPEAK} 
+
+{/speech}

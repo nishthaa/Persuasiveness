@@ -1,0 +1,35 @@
+﻿{title} The house Negro and the field Negro {/title}
+{event} ----- {/event}
+{speaker} Malcolm X {/speaker}
+{date} February 4, 1965 {/date}
+{source} http://www.themilitant.com {/source}
+{description} During a visit to Selma, Alabama, Malcolm spoke to 300 young civil rights fighters at Brown Chapel AME Church. This is an excerpt {/description}
+
+
+{speech} 
+
+If the federal government does not find it within its power and ability to investigate a criminal organization such as the Klan, then you and I are within our rights to wire Secretary- General U Thant of the United Nations and charge the federal government in this country, behind Lyndon B. Johnson, with being derelict in its duty to protect the human rights of twenty-two million Black people in this country. And in their failure to protect our human rights, they are violating the United Nations Charter, and they are not qualified to continue to sit in that international body and talk about what human rights should be done in other countries on this earth. {APPLAUSE}
+
+I have to say this, then I'll sit down. Back during slavery, when Black people like me talked to the slaves, they didn't kill 'em, they sent some old house Negro along behind him to undo what he said. You have to read the history of slavery to understand this.
+
+There were two kinds of Negroes. There was that old house Negro and the field Negro. And the house Negro always looked out for his master. When the field Negroes got too much out of line, he held them back in check. He put 'em back on the plantation.
+
+The house Negro could afford to do that because he lived better than the field Negro. He ate better, he dressed better, and he lived in a better house. He lived right up next to his master - in the attic or the basement. He ate the same food his master ate and wore his same clothes. And he could talk just like his master - good diction. And he loved his master more than his master loved himself. That's why he didn't want his master hurt.
+
+If the master got sick, he'd say, "What's the matter, boss, we sick?" {LAUGHTER} When the master's house caught afire, he'd try and put the fire out. He didn't want his master's house burned. He never wanted his master's property threatened. And he was more defensive of it than the master was. That was the house Negro.
+
+But then you had some field Negroes, who lived in huts, had nothing to lose. They wore the worst kind of clothes. They ate the worst food. And they caught hell. They felt the sting of the lash. They hated their master. Oh yes, they did.
+
+If the master got sick, they'd pray that the master died. {LAUGHTER ; APPLAUSE} If the master's house caught afire, they'd pray for a strong wind to come along. {LAUGHTER} This was the difference between the two.
+
+And today you still have house Negroes and field Negroes. {APPLAUSE}
+
+I'm a field Negro. If I can't live in the house as a human being, I'm praying for a wind to come along. If the master won't treat me right and he's sick, I'll tell the doctor to go in the other direction. {LAUGHTER} But if all of us are going to live as human beings, as brothers, then I'm for a society of human beings that can practice brotherhood. {APPLAUSE}
+
+But before I sit down, I want to thank you for listening to me. I hope I haven't put anybody on the spot. I'm not intending to try and stir you up and make you do something that you wouldn't have done anyway. {LAUGHTER ; APPLAUSE}
+
+I pray that God will bless you in everything that you do. I pray that you will grow intellectually, so that you can understand the problems of the world and where you fit into, in that world picture. And I pray that all the fear that has ever been in your heart will be taken out, and when you look at that man, if you know he's nothing but a coward, you won't fear him. If he wasn't a coward, he wouldn't gang up on you. He wouldn't need to sneak around here. {APPLAUSE} This is how they function. They function in mobs - that's a coward. They put on a sheet so you won't know who they are - that's a coward.
+
+No! The time will come when that sheet will be ripped off. If the federal government doesn't take it off, we'll take it off. 
+
+{/speech} 

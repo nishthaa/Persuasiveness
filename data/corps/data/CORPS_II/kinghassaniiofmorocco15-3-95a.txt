@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President And King Hassan II of Morocco in Exchange of Toasts at State Dinner {/title}
+{event} Exchange of Toasts at State Dinner {/event}
+{speaker} King Hassan II of Morocco {/speaker}
+{date} March 15, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President and great friend, Mrs. Clinton, ladies and gentlemen. Once again, I wish to thank you, Mr. President, for your warm welcome and hospitality; and thank Mrs. Clinton for putting in the special touch that will make this evening a memorable event.
+
+The important talks we had today, Mr. President, were stamped with healthy frankness. They were motivated mainly by a major aim to bring tensions down, particularly in the Middle East. Now, the Soviet Union is no longer. The task of the United States of America is not any easier; rather, because it's better identified, this task is more delicate.
+
+We remain convinced, however, that because of its genius, its creative faculties, and its altruism, the American people will tackle successfully global issues. This I know you will accomplish with sensitiveness and humanism, despite the specificity and diversity of the issues on hand.
+
+I pray all of you, ladies and gentlemen, to join me to raising a toast to the President of the United States of America and my great friend, Mr. Bill Clinton. Long life to the United States of America. Long life to the Moroccan-American friendship.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

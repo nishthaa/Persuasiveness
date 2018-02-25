@@ -1,0 +1,26 @@
+﻿{title} Toast Remarks by the President and Governor Douglas at the 2010 Governors' Ball {/title}
+{event} 2010 Governors' Ball {/event}
+{speaker} Jim Douglas {/speaker}
+{date} February 21, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, I thought you might explain that I'm not the entertainment, either, and I appreciate that. {LAUGHTER}
+
+Mr. President, on behalf of all my colleagues and the spouses and guests of the governors who are here tonight, I want to thank you for your hospitality.
+
+As you may know, yesterday the First Lady addressed the National Governors Association. We appreciated her message. And she gave us a little hint and said that you were working on your dance moves up at Camp David. {LAUGHTER} Now, I don't know if any of the governors have been preparing, but based on the photographic evidence to which you referred, I hope they have. {LAUGHTER}
+
+Well, this is a challenging time for all of us to serve as chief executives at the federal or state level -- I'd say an economy that's still undergoing a great deal of stress, as you noted. Many of our friends and neighbors are struggling to get by. It's so essential that we all work together in the public interest to bring our states and the American people back to a position of prosperity so that we can move our country into a prosperous future.
+
+This is also a time when we are sending young men and women abroad to serve in uniform. And as Commanders-in-Chief of our National Guards, we share your commitment, Mr. President, to their well-being. We appreciate your leadership and your support and care of our men and women in uniform.
+
+The framers of our country designed a federal system of certain responsibilities for the federal government and others reserved to the states. And it's our responsibility as their successors to maintain that delicate and creative fabric of governance; to continue to act in the best interest of the people whom we serve.
+
+So, Mr. President, on behalf of the governors of America and others here tonight, I want to offer a toast to you, to the First Lady, and to the people of this great country.
+
+{COMMENT="A toast is offered"} 
+
+{/speech}

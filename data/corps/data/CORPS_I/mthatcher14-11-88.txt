@@ -1,0 +1,103 @@
+﻿{title} Speech at Lord Mayor’s Banquet {/title}
+{event} ----- {/event} 
+{speaker} Margaret Thatcher {/speaker}
+{date} November 14, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+
+{description} Autobiography (marriage and children), Parliament, Economy (general discussions), Monetary policy, Public spending and borrowing, Taxation, Voluntary sector and charity, Foreign policy (USSR and successor states), Civil liberties, Foreign policy (USA), Defence (general), Foreign policy (Western Europe - non - EU), Trade, European Union (general), Economic, monetary and political union, European Union Single Market, Northern Ireland, Terrorism, Media {/description}
+
+{speech}
+ 
+My Lord Mayor, My Late Lord Mayor, Your Grace, Lord Chancellor, Excellencies, My Lords, Ladies and Gentlemen. My sincere thanks to you My Lord Mayor for your toast to Her Majesty's Ministers and for your very kind remarks and generally for the most excellent way in which you so kindly proposed the toast. May I join you in stressing what a marvellous year's service your predecessor has given to all that is best in the City of London. 
+
+It is my privilege My Lord Mayor to congratulate you on your election. It is an historic and distinguished office which you hold and it must give you particular pleasure since you are following in the steps of your grandfather, Sir Charles Collett, who was Lord Mayor 55 years ago. 
+
+Like your grandfather, as you reminded us, you My Lord Mayor are a member of the Glovers and as you see I too am a glover and proud of it. 
+
+Yes I have always liked gloves, though taking the gloves off tends to go with the job of Prime Minister. 
+
+As you told us My Lord Mayor you are also an accountant, a profession I have long been close to. I married one and may I say he has subtracted nothing but added immeasurably to my life. 
+
+The last year has been a particularly busy one for Her Majesty's Ministers. Tomorrow will see the completion of the first year's work of the new Parliament and what a Parliamentary session it has been—the fourth longest this century, ninety-six days when the Commons had to sit after midnight, forty-four Government measures with some truly radical reforms which will chart the course into the next century and, and I say this with particular feeling, eighty days when I have had to answer Prime Minister's Questions. 
+
+So I hope My Lord Mayor you will feel that Her Majesty's Ministers have earned some of the praise which you so kindly offered for indeed the last year has been one of major achievements. Since we last met, the economy has been growing at approaching five percent in real terms although you will recall that this time last year it was the prospect of recession that many people feared in the wake of Black Monday. 
+
+Since we last met, unemployment has fallen by another half a million and we have a higher standard of living across all income groups than this country has ever known. 
+
+And this record has been mirrored by the continuing achievements of the City. As you have reminded us My Lord Mayor, financial services are one of the success stories of the decade. Indeed they now earn for us ten percent of our entire national income. So much for those who knock the City. 
+
+But if anything, the performance of the economy over the last year has been a little too strong. Buoyant investment has been a very good thing but too much consumption has been financed by too much borrowing so we have taken action to make sure that inflation is kept firmly in check because the defeat of inflation remains our top priority. 
+
+The higher interest rates will increase both the incentives and rewards to the millions who save and at the same time they will discourage excessive borrowing and in due course they will help to reduce the deficit on trade. 
+
+And as you know, we have kept total public spending under firm control. Indeed, for the first time in over twenty years, spending by Government now takes less than forty percent of the national income. That is a very good thing and it is a very great achievement. 
+
+But because the economy has been prospering, we have been able to find extra money for the Health Service, for scientific research, for defence and for education and this follows major tax changes in the Budget. The basic rate of income tax, twenty-five percent, is now the same as the standard rate of five shillings in the pound when your grandfather My Lord Mayor was in office and the top rate of tax, forty per cent, is now lower than it was then because we believe that when tax rates are at sensible levels, people have the incentive to work harder and to earn more, hence a strong economy, a buoyant level of tax revenue and a budget surplus. So as a result, we are now steadily repaying the national debt. 
+
+Not so long ago, the appointment of Commissioners for the reduction of the national debt seemed a quaint anachronism but now their time has come. If we were to keep up the present rate of debt repayment, then in twenty years they could have made themselves redundant. Just as well then My Lord Mayor that being a Commissioner is only a part-time job. I confess that they do have some other work to do, for one of them is Chancellor of the Exchequer, others are the Governor of the Bank of England, the Speaker of the House of Commons, the Lord Chief Justice and the Master of the Rolls. So they will not be idle. 
+
+My Lord Mayor, the highest standards of living the British people now enjoy are being matched by higher standards of giving. 
+
+As you have reminded us, it is here in the City of London that many of the seeds of private generosity were sown. The funds donated or bequeathed within the square mile over the centuries have established and maintained not only the many fine schools and institutions to which you have referred, but they have also established or maintained valued amenities like Epping Forest, Burnham Beeches and now Hampstead Heath, that everyone can enjoy. 
+
+Today we see that example being followed in many other areas. Only last week we were told that large companies could be giving as much as £1,000 million a year to charity and that ordinary people are now giving some £2,700 million a year to charity. That is real evidence that the true spirit of voluntary service and voluntary giving is flourishing in the hearts of British people. 
+
+But of course what is given has first to be earned and good as this last year has been, we have to do even better. As someone remarked, when you think you are doing reasonably well, you must be comparing yourself with the wrong man. 
+
+That is right, if we do not take our chances, someone else will for we have to compete in the markets of the world. That means that we must make sure that while the small investor is protected, the City does not become over-regulated. It also means that we have to stay right at the forefront of technological change and it means responding to the needs of a wholly new generation of capitalists. They are the people who now own their homes and own some shares, who can now expect some inheritance from their relatives and who now have a considerable stake in pensions and in insurance schemes. They are the people who are looking for an efficient service at a reasonable cost and that My Lord Mayor is a particular challenge for the City of London which I know you are eager to meet. 
+
+My Lord Mayor, Lord Acton wrote that history is the onward march of liberty. Sometimes it has required great faith to believe that but now we are seeing that faith rewarded. 
+
+A few days ago I stood before Father Popieluszko's grave in Warsaw. I stood in Saint Brygida's Church in Gdansk and I felt people's love of liberty, their yearning for freedom as never before. Nothing could be more moving or more inspiring because it showed that even where the institutions of democracy have been erased people will always long to be free. 
+
+Indeed when we look around the world we see so many signs of hope. We see people demanding more freedom and openness, wanting a greater say in their own affairs and destiny. We see democracy resurgent. 
+
+We need to ask ourselves "What is it that has turned the tide in freedom's favour?" and how we can make sure that tide becomes irresistible. 
+
+In the first place, honour must go to those who never lost hope; who continued to believe in freedom and fight for it against the most desperate odds: Dr. Sakharov, Anatol Sharansky, Lech Walesa, three of the countless thousands, many of whose names we do not know and shall never know; people who never surrendered, but always fought on for fundamental human rights. And there are those, too, who fought against foreign occupation of their lands, in particular the people of Afghanistan. 
+
+Nearer home, are the countries and governments which, by their determination to defend their own freedom, have given hope and inspiration to those who are not free, and for this let us thank more than anyone President Reagan for ending the West's retreat from world responsibility, for restoring the pride and leadership of the United States and for giving the West back its confidence—confidence not only in the success of free enterprise, but also in the values which guide our societies. He has left America stronger, prouder, greater than ever before and we thank him for it {APPLAUSE} 
+
+In George Bush, we welcome a worthy successor. We know him as a friend. We admire him as a man of unrivalled experience in government, and we respect him because he stands for all that is best in America. He will continue to provide the forthright leadership which the West has come to expect from an American President. We congratulate him and wish him every success in his great office {APPLAUSE} 
+
+But it is also the policies of the democratic governments which have brought about this great sea change in world affairs; policies to which we must remain true now that they are beginning to reap success. 
+
+First, the need for strong defence. My Lord Mayor, there is no contradiction between maintaining secure defences and working to bridge the East-West divide and to reduce weapons and forces on both sides—far from it. The experience of the last few years has shown us that it is just when countries and alliances feel secure that they are most ready to negotiate. Nothing could be more shortsighted for the West than to run down its defences unilaterally at the first sign of more peaceful and stable relationships between East and West. Nothing would be more likely to convince those with whom we negotiate that they would not need to make any concessions because we should cut our defences anyway. Britain will not do that! We shall maintain and update our defences. A sure defence is expensive, but nothing like as expensive as weakness could turn out to be! {APPLAUSE} 
+
+Our example is one which I hope our partners and allies will follow, because Europe must show that she is willing to bear a reasonable share of the burden of defending herself. 
+
+And second, after a sure defence, we must continue to encourage change and reform in the Soviet Union and Eastern Europe. We want to see their countries more prosperous, with their people enjoying a fuller share of life's benefits. We very much welcome what Mr. Gorbachev is trying to achieve in the Soviet Union, but we should not expect change to come quickly. The vested interests opposed to it are immensely strong, as Mr. Gorbachev frequently reminds us. 
+
+We are going to find ourselves facing societies of a very different nature from our own for many years to come. Nevertheless, we must do everything we can to stretch out hands across the divide. All the visits which I have undertaken, including the recent one to Poland, have been made in that spirit and I am very pleased to announce tonight that Mr. Gorbachev has accepted our invitation to pay an official visit to Britain and that he and Mrs. Gorbachev will come here next month from the 12th to 14th December. We shall give them a very warm welcome {APPLAUSE} 
+
+And third, we in the West must continue the sound economic policies agreed at successive Economic Summits. They have proved their worth. They have shown that the whole world economy is stronger when the Summit Seven act together to sustain policies of low inflation, steady growth and open markets. Indeed, their impact has gone beyond this. Countries all round the world are following our example of reducing the role of the State and giving greater scope to enterprise, choice and responsibility, and that is not just an economic message—it is a political message in two words: freedom works. 
+
+And fourth, we must make the European Community a model of economic freedom. My Lord Mayor, there is a town in Belgium called Bruges. People occasionally make speeches there and those speeches sometimes cause just the tiniest ripple of controversy! But far better a lively controversy than the silence and apathy of conformity. 
+
+My message then—and my message tonight—is a simple one: 
+
+First: action taken in common does not have to mean more central control in Europe. When Ministers come together at the centre in Brussels, the aim should be to reduce the number of decisions which they have to take and increase the number which are left to individual firms, managers and ordinary people throughout Europe. 
+
+Second, we must get on with completing the European Single Market and not be diverted from it until the job is done. 
+
+And third, we must ensure that while bringing down barriers within Europe we do not erect new ones against the rest of the world under the guise of reciprocity or bilateralism or whatever is the current jargon. 
+
+The choice of 1992 to complete the Single Market is in a way symbolic. It is the 500th anniversary of Christopher Columbus's great voyage of discovery. You may remember that he believed he was going to find India—but found something quite different! He believed there would be crocks of gold on the beach—and it all turned out to be rather more difficult! 
+
+Well, the Single Market may be a bit like that. It, too, is a great adventure and its success will be measured not in Brussels, but in the market place of the world and as heirs to the great merchant adventurers of that time, I know that the City will welcome and respond to the challenge of 1992. 
+
+When I spoke in this great Guildhall a year ago, it was in the shadow of the Enniskillen bombing. Since then, another nineteen civilians and thirty-six members of the security forces have lost their lives at the hands of the IRA terrorists. In recent weeks, the Government has announced additional measures to deal with terrorism, measures which make it easier to get at the sources of their finances; measures which affect the conclusions which the courts can draw from a suspect's refusal to answer questions; and measures to limit the access to radio and television of terrorist organisations and those who support them. Other measures will be announced in due course. 
+
+The Government has been accused by some in the press and media of undermining their freedom to report what they want. To answer that charge, perhaps I can refer to a letter I received from the mother of a young serviceman who was murdered by the IRA. She said—and I quote: 
+
+"Where is the freedom of the press, I hear them cry. Where is my son's freedom?" she said.
+
+Yes, My Lord Mayor, some of these measures do restrict freedom, but those who choose to live by the bomb and the gun and those who support them cannot in all circumstances be accorded exactly the same rights as everyone else {APPLAUSE} 
+
+We do sometimes have to sacrifice a little of the freedom we cherish in order to defend ourselves from those whose aim is to destroy that freedom altogether and that is a decision which we should not afraid to take, because in the battle against terrorism we shall never give in. The only victory will be our victory—the victory of democracy and a free society! {APPLAUSE} 
+
+My Lord Mayor, we have rising prosperity and rising generosity at home. We see a rising spirit of cooperation in the world. We can be optimistic about the future, but one thing is sure: there will be just as many challenges and just as many opportunities ahead of us. History will not do our work for us. The future is in our own hands. It will be up to free men and women to surmount the challenges and grasp the opportunities. I believe they will and that the years ahead will be great ones for this country. 
+
+Thank you my Lord Mayor for your generous toast. May I wish you great happiness and success in the year to come. {APPLAUSE}
+
+{/speech}

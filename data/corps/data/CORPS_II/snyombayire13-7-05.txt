@@ -1,0 +1,24 @@
+﻿{title} Transcript: Keynote Address of President Clinton at Campus Progress National Student Conference {/title}
+{event} Campus Progress National Student Conference {/event}
+{speaker} Stephanie Nyombayire {/speaker}
+{date} July 13, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good afternoon, everyone. As Mr. Podesta said, my name is Stephanie Nyombayire and I am currently a student of Swarthmore College, but I'm originally from Rwanda. Eleven years ago, over 100 of my family members, including my grandparents, my aunts and uncles along with their children were killed during the Rwandan genocide: the most systematic, fastest, and most well organized genocide known to history. In just 100 days, Hutu extremists picked up machetes, clubs, and any weapons they could find and slaughtered half of the Tutsi population and moderate Hutus, while the international community sat by and watched.
+
+Today, it is my honor to introduce the first and only president who had the courage to honor and to stand up for the million Rwandan lives lost and to apologize for the world's inaction. However, President Clinton did not stop by apologizing, but has since worked relentlessly to ensure that the people of Rwanda are never again abandoned. His foundation, the William J. Clinton Foundation is helping Rwanda implement a five-year plan to fight against the HIV/AIDS. He is also currently working with the Organization of African First Ladies Against HIV to fight and provide treatment for HIV positive children, to over 2 million of them, in Africa.
+
+This willingness to stand up and fight for what we believe in must be the hallmark of the student progressive community. For me, this means doing everything in my power to ensure that we do everything we can to help put an end to the Darfur genocide because as we speak 400,000 people have died and more than two million have been displaced. We at Swarthmore College, thanks to the support of the Center for American Progress, have created the Genocide Intervention Fund. The Genocide Intervention Fund has engaged and empowered citizens to have a hand in putting an end to genocide. Our efforts have raised close to a quarter million dollars in support of the African Union peacekeeping mission in Darfur, as well as for lobbying and public awareness campaigns throughout the country.
+
+We're also launching a new online campaign this week with the American Progress Action Fund. Through this campaign, beawitness.org, we're urging the television networks to increase their broadcast and their coverage of the Darfur genocide because citizens will not and cannot act if they don't even know about it. We believe that we must refuse to let the words “never again” continue to be void of meaning because, as President Clinton stated in his 1998 address to Rwanda, “We must and we owe it to those who have died, and to those who survived who loved them, our every effort to increase our vigilance and strengthen our stand against those who commit such atrocities.”
+
+And it is for this reason that I would like to ask each and every one of you sitting in this room – students, educators and policymakers – to follow the honorable path that President Clinton has chosen so many times and to stand up and fight against the ongoing genocide in Darfur.
+
+Through his never ending efforts in combating global problems such as hunger and HIV, as well as to his tireless dedication to providing help and assistance in times of crisis, President Clinton is showing the world that it is not enough to speak out against an issue: instead, we must all follow our words with action. And through his words and his action, Mr. Clinton has surely offered the world an example that I hope each and every one of you here will follow.
+
+Ladies and gentlemen, please join me in welcoming President Clinton. {SUSTAINED APPLAUSE} 
+
+{/speech}

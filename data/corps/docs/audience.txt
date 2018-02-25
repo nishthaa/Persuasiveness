@@ -1,0 +1,288 @@
+{AUDIENCE} 4 more years! 4 more years! 4 more years! {/AUDIENCE}  35
+{AUDIENCE} 50 States! 50 States! 50 States! {/AUDIENCE}  3
+{AUDIENCE} Aaahh. {/AUDIENCE}  1
+{AUDIENCE} Ahhh. {/AUDIENCE}  1
+{AUDIENCE} Alan, Alan, Alan, Alan {/AUDIENCE}  2
+{AUDIENCE} Aloha! {/AUDIENCE}  1
+{AUDIENCE} Aloha. {/AUDIENCE}  1
+{AUDIENCE} Amen {/AUDIENCE}  10
+{AUDIENCE} amen! {/AUDIENCE}  1
+{AUDIENCE} Amen! {/AUDIENCE}  3
+{AUDIENCE} Amen. {/AUDIENCE}  6
+{AUDIENCE} And remain drug-free and proud. {/AUDIENCE}  1
+{AUDIENCE} Army. {/AUDIENCE}  1
+{AUDIENCE} Awww -- {/AUDIENCE}  1
+{AUDIENCE} Awww! {/AUDIENCE}  1
+{AUDIENCE} Bienvenidos. {/AUDIENCE}  1
+{AUDIENCE} Bill Clinton {/AUDIENCE}  1
+{AUDIENCE} Bring it on. {/AUDIENCE}  2
+{AUDIENCE} Bring it on. Bring it on. {/AUDIENCE}  1
+{AUDIENCE} Bring it on. Bring it on. Bring it on. Bring it on. {/AUDIENCE}  2
+{AUDIENCE} Bring them home! Bring them home! {/AUDIENCE}  1
+{AUDIENCE} Britain! {/AUDIENCE}  2
+{AUDIENCE} Buenos dias. {/AUDIENCE}  1
+{AUDIENCE} Buenos días. {/AUDIENCE}  1
+{AUDIENCE} Bush! Bush! Bush! {/AUDIENCE}  12
+{AUDIENCE} Bush, Bush, out the door. Bush, Bush, out the door. {/AUDIENCE}  1
+{AUDIENCE} Bush-Cheney rules! Bush-Cheney rules! Bush-Cheney rules! {/AUDIENCE}  1
+{AUDIENCE} Cheney! Cheney! Cheney! {/AUDIENCE}  9
+{AUDIENCE} Cheney! Cheney! Cheney! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Clin-ton! Clin-ton! {/AUDIENCE}  2
+{AUDIENCE} Coop! Coop! Coop! {/AUDIENCE}  1
+{AUDIENCE} D! {/AUDIENCE}  2
+{AUDIENCE} Dean, Dean, Dean, Dean. {/AUDIENCE}  1
+{AUDIENCE} Do better! {/AUDIENCE}  1
+{AUDIENCE} Dole-Kemp. Dole-Kemp. {/AUDIENCE}  1
+{AUDIENCE} Don't go! {/AUDIENCE}  1
+{AUDIENCE} Drew Brees! {/AUDIENCE}  1
+{AUDIENCE} Duke! Duke! Duke! {/AUDIENCE}  2
+{AUDIENCE} Durbin! Durbin! Durbin! {/AUDIENCE}  2
+{AUDIENCE} Edwards! Edwards! Edwards! {/AUDIENCE}  1
+{AUDIENCE} Edwards, Edwards, Edwards, Edwards... {/AUDIENCE}  2
+{AUDIENCE} Edwards. Edwards. Edwards. {/AUDIENCE}  1
+{AUDIENCE} Everywhere, everywhere, everywhere, everywhere. {/AUDIENCE}  1
+{AUDIENCE} Ezola! Ezola! {/AUDIENCE}  2
+{AUDIENCE} Faced with adversity, I will persevere. {/AUDIENCE}  1
+{AUDIENCE} Fine {/AUDIENCE}  1
+{AUDIENCE} Fine! {/AUDIENCE}  1
+{AUDIENCE} Finish {/AUDIENCE}  1
+{AUDIENCE} Fired up! {/AUDIENCE}  13
+{AUDIENCE} Fired up! Fired up! Fired up! {/AUDIENCE}  1
+{AUDIENCE} Fired up! Ready to go! Fired up! Ready to go! {/AUDIENCE}  1
+{AUDIENCE} Flip-flop! Flip-flop! Flip-flop! {/AUDIENCE}  39
+{AUDIENCE} For shame! {/AUDIENCE}  1
+{AUDIENCE} Forty more years! {/AUDIENCE}  1
+{AUDIENCE} Forward! {/AUDIENCE}  2
+{AUDIENCE} Four more years! {/AUDIENCE}  13
+{AUDIENCE} Four more years! Four more years! {/AUDIENCE}  12
+{AUDIENCE} Four more years! Four more years! Four more years! {/AUDIENCE}  342
+{AUDIENCE} Four more years! Four more years! Four more years! Flip-flop! Flip-flop! Flip-flop! {/AUDIENCE}  1
+{AUDIENCE} Four more years! Four more years! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Four more years! Four more years! Four more years! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Four more years! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Four more years! Six more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Four more years, four more years! {/AUDIENCE}  7
+{AUDIENCE} Four more years, four more years, four more years! {/AUDIENCE}  1
+{AUDIENCE} Four more years, four more years. {/AUDIENCE}  1
+{AUDIENCE} Fritz is a wimp! Fritz is a wimp! Fritz is a wimp! {/AUDIENCE}  1
+{AUDIENCE} George Bush! {/AUDIENCE}  2
+{AUDIENCE} George Bush! George Bush! George Bush! {/AUDIENCE}  2
+{AUDIENCE} Go Al, go. Go Al, go. Go Al, go. {/AUDIENCE}  4
+{AUDIENCE} Go away! {/AUDIENCE}  1
+{AUDIENCE} Go! {/AUDIENCE}  2
+{AUDIENCE} Go, go, go. Go, go, go. {/AUDIENCE}  1
+{AUDIENCE} Go, Joe, go. Go, Joe, go. {/AUDIENCE}  1
+{AUDIENCE} Go, Joe, go. Go, Joe, go. Go, Joe, go. {/AUDIENCE}  1
+{AUDIENCE} Good afternoon! {/AUDIENCE}  3
+{AUDIENCE} Good afternoon. {/AUDIENCE}  6
+{AUDIENCE} Good evening! {/AUDIENCE}  1
+{AUDIENCE} Good evening. {/AUDIENCE}  2
+{AUDIENCE} Good morning! {/AUDIENCE}  3
+{AUDIENCE} Good morning. {/AUDIENCE}  10
+{AUDIENCE} Good! {/AUDIENCE}  3
+{AUDIENCE} Gore, Gore, Gore, Gore! {/AUDIENCE}  1
+{AUDIENCE} Grab a mop! Grab a mop! Grab a mop! {/AUDIENCE}  2
+{AUDIENCE} Great! {/AUDIENCE}  1
+{AUDIENCE} Happy birthday! {/AUDIENCE}  1
+{AUDIENCE} Hasn't changed in 16 years. {/AUDIENCE}  1
+{AUDIENCE} Have no idea! {/AUDIENCE}  1
+{AUDIENCE} Health care now! Health care now! Health care now! {/AUDIENCE}  1
+{AUDIENCE} Hear hear! {/AUDIENCE}  1
+{AUDIENCE} Hear, bear! {/AUDIENCE}  1
+{AUDIENCE} Hear, hear {/AUDIENCE}  2
+{AUDIENCE} Hear, hear! {/AUDIENCE}  17
+{AUDIENCE} Hear, hears {/AUDIENCE}  1
+{AUDIENCE} Hecklers {/AUDIENCE}  2
+{AUDIENCE} Hello! {/AUDIENCE}  3
+{AUDIENCE} Help is on the way. {/AUDIENCE}  3
+{AUDIENCE} Hey! {/AUDIENCE}  3
+{AUDIENCE} Hi! {/AUDIENCE}  1
+{AUDIENCE} Hi. {/AUDIENCE}  1
+{AUDIENCE} Ho ah! {/AUDIENCE}  1
+{AUDIENCE} Hooah! {/AUDIENCE}  24
+{AUDIENCE} Hooah. {/AUDIENCE}  38
+{AUDIENCE} Howdy! {/AUDIENCE}  1
+{AUDIENCE} I pledge to lead a healthy, drug-free lifestyle. {/AUDIENCE}  1
+{AUDIENCE} I pledge to stand up for what I know is right. {/AUDIENCE}  1
+{AUDIENCE} I will help my friends say no. {/AUDIENCE}  1
+{AUDIENCE} I will say no to alcohol. {/AUDIENCE}  1
+{AUDIENCE} I will say no to other drugs. {/AUDIENCE}  1
+{AUDIENCE} It’s time for them to go! {/AUDIENCE}  3
+{AUDIENCE} It’s time for them to go!!!! {/AUDIENCE}  1
+{AUDIENCE} Jerry! Jerry! Jerry! {/AUDIENCE}  1
+{AUDIENCE} Jesse! Jesse! {/AUDIENCE}  1
+{AUDIENCE} Jesse! Jesse! Jesse! Jesse! {/AUDIENCE}  1
+{AUDIENCE} Jesse. Jesse. Jesse. {/AUDIENCE}  1
+{AUDIENCE} Joe. Joe. Joe. {/AUDIENCE}  1
+{AUDIENCE} Judy! Judy! Judy! {/AUDIENCE}  1
+{AUDIENCE} Just say no! Just say no! Just say no! {/AUDIENCE}  3
+{AUDIENCE} Just say yes! {/AUDIENCE}  1
+{AUDIENCE} Keep hope alive. {/AUDIENCE}  1
+{AUDIENCE} Keep hope alive. Keep hope alive {/AUDIENCE}  1
+{AUDIENCE} Keep hope alive. Keep hope alive. Keep hope alive. {/AUDIENCE}  2
+{AUDIENCE} Kerry! Kerry! Kerry! {/AUDIENCE}  1
+{AUDIENCE} Kerry! Kerry! Kerry! Kerry! {/AUDIENCE}  1
+{AUDIENCE} Kerry! Kerry! Kerry! Kerry! Kerry! {/AUDIENCE}  1
+{AUDIENCE} Kerry, Kerry, all the way. Kerry, Kerry, all the way. {/AUDIENCE}  1
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry {/AUDIENCE}  1
+{AUDIENCE} Kerry, Kerry, Kerry, Kerry. {/AUDIENCE}  5
+{AUDIENCE} Kerry, Kerry, Kerry. {/AUDIENCE}  1
+{AUDIENCE} Kerry, Kerry, Kerry... {/AUDIENCE}  3
+{AUDIENCE} Kerry. Kerry. Kerry. {/AUDIENCE}  1
+{AUDIENCE} Kimball! {/AUDIENCE}  1
+{AUDIENCE} Kramer! Kramer! Kramer! {/AUDIENCE}  1
+{AUDIENCE} Kucinich {/AUDIENCE}  1
+{AUDIENCE} Landslide, U.S.A.! Landslide, U.S.A.! Landslide, U.S.A.! {/AUDIENCE}  3
+{AUDIENCE} Laura! Laura! Laura! {/AUDIENCE}  1
+{AUDIENCE} Let's go, Joe. Let's go, Joe. {/AUDIENCE}  5
+{AUDIENCE} Let's go, Reagan! Let's go, Reagan! Let's go, Reagan! {/AUDIENCE}  1
+{AUDIENCE} Martha! {/AUDIENCE}  4
+{AUDIENCE} Mr. President ! {/AUDIENCE}  1
+{AUDIENCE} Mrs. Reagan! {/AUDIENCE}  1
+{AUDIENCE} Nancy! {/AUDIENCE}  1
+{AUDIENCE} Nancy! Nancy! Nancy! Nancy! {/AUDIENCE}  1
+{AUDIENCE} Never! {/AUDIENCE}  1
+{AUDIENCE} No new taxes! {/AUDIENCE}  1
+{AUDIENCE} No scab workers! No scab workers! {/AUDIENCE}  2
+{AUDIENCE} No war! {/AUDIENCE}  1
+{AUDIENCE} No way! {/AUDIENCE}  4
+{AUDIENCE} No! {/AUDIENCE}  386
+{AUDIENCE} No! 4 more years! 4 more years! 4 more years! {/AUDIENCE}  1
+{AUDIENCE} No! Four more years! Four more years! Four more years! {/AUDIENCE}  2
+{AUDIENCE} Now! {/AUDIENCE}  1
+{AUDIENCE} Now! Now! {/AUDIENCE}  2
+{AUDIENCE} Obama! {/AUDIENCE}  2
+{AUDIENCE} Obama! Obama! Obama! {/AUDIENCE}  5
+{AUDIENCE} Obama! Obama! Obama! Obama {/AUDIENCE}  1
+{AUDIENCE} Obama! Obama! Obama! Obama! {/AUDIENCE}  1
+{AUDIENCE} Obama! Obama! Obama! Obama! Obama! {/AUDIENCE}  1
+{AUDIENCE} Oh! {/AUDIENCE}  4
+{AUDIENCE} Oh, ah. {/AUDIENCE}  2
+{AUDIENCE} Oh. {/AUDIENCE}  1
+{AUDIENCE} Ohhhh. {/AUDIENCE}  1
+{AUDIENCE} O-H-I-O. {/AUDIENCE}  1
+{AUDIENCE} one flesh {/AUDIENCE}  1
+{AUDIENCE} Oo-hah! {/AUDIENCE}  4
+{AUDIENCE} Ooh-rah! {/AUDIENCE}  1
+{AUDIENCE} Ooh-rah. {/AUDIENCE}  3
+{AUDIENCE} Oooh. {/AUDIENCE}  1
+{AUDIENCE} Out with Tip! Out with Tip! Out with Tip! {/AUDIENCE}  1
+{AUDIENCE} Paul! {/AUDIENCE}  2
+{AUDIENCE} Paula! Paula! Paula! {/AUDIENCE}  1
+{AUDIENCE} Pete! Pete! Pete! {/AUDIENCE}  6
+{AUDIENCE} Ready to go! {/AUDIENCE}  13
+{AUDIENCE} Reagan! Reagan! Reagan! {/AUDIENCE}  37
+{AUDIENCE} Reagan! Reagan! Reagan! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Reagan-Bush! Reagan-Bush! Reagan-Bush! {/AUDIENCE}  2
+{AUDIENCE} Re-fund! Re-fund! {/AUDIENCE}  2
+{AUDIENCE} Republicans! {/AUDIENCE}  1
+{AUDIENCE} Republicans! Republicans! Republicans! {/AUDIENCE}  1
+{AUDIENCE} Right! {/AUDIENCE}  1
+{AUDIENCE} Roll tide, roll! {/AUDIENCE}  1
+{AUDIENCE} Ronald Reagan! Ronald Reagan! Ronald Reagan! {/AUDIENCE}  1
+{AUDIENCE} Ronnie! Ronnie! Ronnie! {/AUDIENCE}  2
+{AUDIENCE} Rubbish! {/AUDIENCE}  1
+{AUDIENCE} Run, Christian, run! {/AUDIENCE}  1
+{AUDIENCE} Ruth! Ruth! {/AUDIENCE}  1
+{AUDIENCE} SDI! SDI! SDI! {/AUDIENCE}  1
+{AUDIENCE} Sea Wolf! {/AUDIENCE}  1
+{AUDIENCE} Semper Fi! {/AUDIENCE}  1
+{AUDIENCE} Si se puede! Si se puede! Si se puede! {/AUDIENCE}  1
+{AUDIENCE} Sit down. {/AUDIENCE}  1
+{AUDIENCE} Six more years! Six more years! Six more years! {/AUDIENCE}  1
+{AUDIENCE} Stay out the Bushes. Stay out the Bushes. Stay out the Bushes {/AUDIENCE}  1
+{AUDIENCE} Stay tough, Ron! {/AUDIENCE}  1
+{AUDIENCE} Stop this war! {/AUDIENCE}  1
+{AUDIENCE} Take back Congress! {/AUDIENCE}  1
+{AUDIENCE} Teachers! {/AUDIENCE}  2
+{AUDIENCE} Tell it {/AUDIENCE}  20
+{AUDIENCE} Tell it. {/AUDIENCE}  1
+{AUDIENCE} Tell it's {/AUDIENCE}  1
+{AUDIENCE} Thank you! {/AUDIENCE}  3
+{AUDIENCE} Thank you! Thank you! Thank you! {/AUDIENCE}  1
+{AUDIENCE} Thank you, thank you. {/AUDIENCE}  1
+{AUDIENCE} Thank you. {/AUDIENCE}  1
+{AUDIENCE} That’s right! {/AUDIENCE}  1
+{AUDIENCE} That's all right. {/AUDIENCE}  1
+{AUDIENCE} That's right! {/AUDIENCE}  3
+{AUDIENCE} The cheerleaders! {/AUDIENCE}  2
+{AUDIENCE} The people! {/AUDIENCE}  1
+{AUDIENCE} T-K-E! T-K-E! T-K-E! {/AUDIENCE}  1
+{AUDIENCE} True. {/AUDIENCE}  5
+{AUDIENCE} TV. {/AUDIENCE}  1
+{AUDIENCE} U.S.A. ! U.S.A. ! U.S.A. ! {/AUDIENCE}  2
+{AUDIENCE} U.S.A.! {/AUDIENCE}  2
+{AUDIENCE} U.S.A.! U.S.A.! {/AUDIENCE}  2
+{AUDIENCE} U.S.A.! U.S.A.! U.S.A! {/AUDIENCE}  1
+{AUDIENCE} U.S.A.! U.S.A.! U.S.A.! {/AUDIENCE}  41
+{AUDIENCE} U.S.A.! U.S.A.! U.S.A.! Reagan! Reagan! Reagan! {/AUDIENCE}  1
+{AUDIENCE} U-S-A! U-S-A! {/AUDIENCE}  1
+{AUDIENCE} USA! USA! USA! {/AUDIENCE}  12
+{AUDIENCE} USA! USA! USA! USA! {/AUDIENCE}  1
+{AUDIENCE} U-S-A, U-S-A! {/AUDIENCE}  2
+{AUDIENCE} USA, USA, USA {/AUDIENCE}  1
+{AUDIENCE} Viva Bush! Viva Bush! Viva Bush! {/AUDIENCE}  1
+{AUDIENCE} Vote Reform! {/AUDIENCE}  1
+{AUDIENCE} War Eagle! {/AUDIENCE}  1
+{AUDIENCE} war! {/AUDIENCE}  2
+{AUDIENCE} We are ND! We are ND! {/AUDIENCE}  1
+{AUDIENCE} We can't wait! We can't wait! We can't wait! {/AUDIENCE}  1
+{AUDIENCE} We do! {/AUDIENCE}  1
+{AUDIENCE} We don't quit! We don't quit! We don't quit! {/AUDIENCE}  1
+{AUDIENCE} We in Deshler think you're the best! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} We love Laura! {/AUDIENCE}  1
+{AUDIENCE} We love Reagan! {/AUDIENCE}  1
+{AUDIENCE} We love Ronnie! We love Ronnie! We love Ronnie! {/AUDIENCE}  2
+{AUDIENCE} We love you! {/AUDIENCE}  6
+{AUDIENCE} We love you! We love you! We love you! {/AUDIENCE}  1
+{AUDIENCE} We love you, Bill! {/AUDIENCE}  1
+{AUDIENCE} We love you, Mr. President! {/AUDIENCE}  1
+{AUDIENCE} We love you, Reagan! {/AUDIENCE}  1
+{AUDIENCE} We love you, Ron! {/AUDIENCE}  3
+{AUDIENCE} We love you, Ronnie! {/AUDIENCE}  2
+{AUDIENCE} We love you, Ronnie! We love you, Reagan! {/AUDIENCE}  1
+{AUDIENCE} We love you, Ronnie. Oh, yes, we do. We love you, Ronnie. We will be true. When you're not near us, we're blue. Oh, Ronnie, we love you. {/AUDIENCE}  1
+{AUDIENCE} We love you. {/AUDIENCE}  1
+{AUDIENCE} We still believe, Howard! {/AUDIENCE}  1
+{AUDIENCE} We want Bush! We want Bush! We want Bush! {/AUDIENCE}  2
+{AUDIENCE} We want Reagan! We want Reagan! We want Reagan! {/AUDIENCE}  2
+{AUDIENCE} We want the joke! {/AUDIENCE}  1
+{AUDIENCE} We want to know too {/AUDIENCE}  1
+{AUDIENCE} We're glad to have you. {/AUDIENCE}  1
+{AUDIENCE} We're number one! We're number one! We're number one! {/AUDIENCE}  1
+{AUDIENCE} When, when, when, when. {/AUDIENCE}  1
+{AUDIENCE} When, when, when. {/AUDIENCE}  1
+{AUDIENCE} Where's Chelsea? {/AUDIENCE}  1
+{AUDIENCE} Whooa! {/AUDIENCE}  9
+{AUDIENCE} Why 100,000 more cops instead of more shelters? {/AUDIENCE}  1
+{AUDIENCE} wife {/AUDIENCE}  1
+{AUDIENCE} Win! {/AUDIENCE}  1
+{AUDIENCE} Win, Pat, win! Win, Pat, win! {/AUDIENCE}  8
+{AUDIENCE} Win, win, win, win. {/AUDIENCE}  1
+{AUDIENCE} Woo, woo, woo {/AUDIENCE}  1
+{AUDIENCE} Yes we can! Yes we can! {/AUDIENCE}  1
+{AUDIENCE} Yes we can! Yes we can! Yes we can! {/AUDIENCE}  11
+{AUDIENCE} Yes we can! Yes we can! Yes we can! Yes we can! {/AUDIENCE}  1
+{AUDIENCE} Yes we can. {/AUDIENCE}  1
+{AUDIENCE} Yes we did! Yes we did! Yes we did! {/AUDIENCE}  1
+{AUDIENCE} Yes we did! Yes we did! Yes we did! Yes we did! Yes we did! Yes we did! Yes we did! {/AUDIENCE}  1
+{AUDIENCE} Yes we will! Yes we will! Yes we will! {/AUDIENCE}  1
+{AUDIENCE} Yes! {/AUDIENCE}  257
+{AUDIENCE} Yes! Bush! Bush! Bush! {/AUDIENCE}  1
+{AUDIENCE} Yes! Four more years! Four more years! Four more years! {/AUDIENCE}  1
+{AUDIENCE} Yes! R.B.! R.B.! R.B.! {/AUDIENCE}  1
+{AUDIENCE} Yes! Reagan! Reagan! Reagan! {/AUDIENCE}  2
+{AUDIENCE} Yes! Voinovich! Voinovich! Voinovich! {/AUDIENCE}  1
+{AUDIENCE} Yes, they did. {/AUDIENCE}  1
+{AUDIENCE} Yes, we can! Yes, we can! {/AUDIENCE}  2
+{AUDIENCE} Yes, we can! Yes, we can! Yes, we can! {/AUDIENCE}  2
+{AUDIENCE} Yes, we can! Yes, we can! Yes, we can! Yes, we can! {/AUDIENCE}  4
+{AUDIENCE} Yes, we can. {/AUDIENCE}  1
+{AUDIENCE} You are! {/AUDIENCE}  1
+{AUDIENCE} You bet we will! {/AUDIENCE}  1
+{AUDIENCE} You broke your promise! {/AUDIENCE}  2
+{AUDIENCE} You will! {/AUDIENCE}  1
+{AUDIENCE} You! {/AUDIENCE}  2
+{AUDIENCE} You're doing one hell of a job! {/AUDIENCE}  1
+{AUDIENCE} You're here. {/AUDIENCE}  1
+{AUDIENCE} You're not getting older; you're just getting better. {/AUDIENCE}  1

@@ -1,0 +1,32 @@
+﻿{title} Remarks by President Clinton And President Kim of South Korea In Exchange of Toasts {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Kim Dae-jung {/speaker}
+{date} July 27, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President and Mrs. Clinton, ladies and gentlemen: I would like to thank President and Mrs. Clinton for this sumptuous dinner for me, my wife and my party, as well as the warm words of welcome given in our honor.
+
+My trip to the United States this time was a very tight schedule, but very kindly, President Clinton and Mrs. Clinton sent us nice Arkansas water from Hot Springs National Park -- {LAUGHTER ; APPLAUSE} -- to the Blair House where I'm staying now. The water was so refreshing and energizing that I feel I can make another trip like this one tomorrow. {LAUGHTER}
+
+Over the past two years President Clinton and I have met on four occasions and held many telephone conversations to discuss the challenges facing both of our countries. I should like to pay tribute to the outstanding leadership President Clinton has demonstrated in finding solutions to the issues of the Korean Peninsula and other international issues.
+
+Ladies and gentlemen, the history of friendship between our two countries dates back more than one century. However, it was not until the Korean War broke out that our two peoples became blood-sharing brothers. The blood and sweat shed by many young Americans in the war helped Korea to achieve democracy and prosperity in the ensuing 45 years.
+
+This afternoon, President Clinton and myself, and numerous Korean War veterans and American citizens attended the dedication ceremony of the Korean War Veterans Memorial. I think it certainly had a great historic importance of upgrading the Korean-American alliance to a higher level, and it also provided an important opportunity to reunite the American people.
+
+America's contributions to Korea did not end there. The U.S. assisted Korea as it emerged from over three decades of colonial rule to cultivate the seeds of democracy. The Korean people were forced to tread a long, thorny path in order to realize the basic democratic principle that the people are the true masters of the nation. However, the Korean people managed to overcome every difficulty and sacrifice, and finally inaugurated a fully-civilian government.
+
+We are grateful to the government and people of the United States for having shown sustained concern and support for the growth of democracy in the Republic of Korea. The United States has also continuously helped Korea develop a market economy. Thanks to the principles of free trade geared toward a borderless world, the Republic of Korea was able to shed the yoke of poverty, even as we faced the threat of communism. American people can take pride and pleasure in Korea's success, in our newly enjoyed full democracy and our growing prosperity.
+
+Korea and the United States have now become partners, mutually helping each other on the road to ever greater prosperity. Korea is now a most trustworthy ally of the United States, and will continue to cooperate with you in promoting world peace and global development. You can count on us to support every American effort to further spread peace, liberty, and human rights in the world.
+
+The Korean people are proud to call the United States as their most trusted ally. And I'm convinced that in the future our two nations will become even closer and mature partners.
+
+Ladies and gentlemen, please join me in a toast to the everlasting prosperity of the United States, the good health of President and Mrs. Clinton, and eternal friendship between our two peoples. Thank you.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

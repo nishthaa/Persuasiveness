@@ -1,0 +1,27 @@
+﻿{title} Speech at White House arrival ceremony {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 16, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+Mr. President: 
+
+May I thank you most warmly for those kind words of welcome and for this marvellous ceremony, which I shall never forget. 
+
+It is a great honour to be your last official guest after eight historic years of your Presidency—one of the greatest in America's history {APPLAUSE} . It is an opportunity to affirm anew the deep friendship, not only between ourselves but between the British and American peoples; an opportunity to salute all that you have accomplished over these eight years on behalf of this great nation and of free people everywhere; and an opportunity to look ahead to the bright promise of the future. 
+
+Mr. President, when you welcomed me to the White House on my first official visit to Washington under your Presidency, you forecast two things: first, that the decade would be less dangerous if the West maintained the strength required for peace; and second, that Britain and America would stand by side in that endeavour. Both promises have been honoured and honoured handsomely. 
+
+We thank you for being such a staunch and loyal ally and friend to our country. Together, our nations have faced the challenges of our time and have not flinched. We forged ahead with strengthening the peace, spreading prosperity and safeguarding liberty. Your conviction, Mr. President, that the only sure peace is one founded on a strong defence has enabled us to take a first historic step in the reduction of nuclear arms. 
+
+You, Sir, have presided over a period of economic expansion unparalleled in peacetime in recent American history, but above all, Mr. President, you have restored faith in the American dream—a dream of boundless opportunity built on enterprise, individual effort and personal generosity. As a result, respect for America stands high in the world today, and thanks to your courage and your leadership the fire of individual freedom burns more brightly not just in America, not just in the West, but right across the world. 
+
+We in Britain, Mr. President, have been proud to be your partners in that great adventure. We counted it a privilege to join you in enlarging freedom and furthering the democratic way of life. 
+
+Two hundred years ago, Tom Paine told the founders of this great nation: "We have it in our power to begin the world over again!" Mr. President, the office which you hold is the greatest in the world but it is the man who holds that office—you, Sir—who has enabled us to begin the world over again. We salute and thank you for it! {APPLAUSE}
+
+{/speech}

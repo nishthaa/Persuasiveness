@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President in Announcing Domestic Policy Cabinet Staff {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Mack McLarty {/speaker}
+{date} December 20, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mr. Vice President, muchas gracias, abrogado, buenas tardes. {LAUGHTER} You didn't think I could or work do that. {LAUGHTER} And I certainly did so with considerable trepidation after Aida's wonderful comments, and with Secretary Cisneros, Secretary Pena, General McCaffrey, Ambassador Babbitt, and others.
+
+Thank you for your comments. I look forward to serving in your second term as Counselor to the President and in my new role as Special Envoy to the Americas. I look forward to participating in the National Economic Council, working with Gene Sperling and Chief of Staff Erskine Bowles and others, and building on the record that we have built to date in terms of reducing the deficit in the right way and really seeing the strongest economic recovery that we have probably seen in 30 years.
+
+That solid economic growth has really been powered by exports. And as Secretary Reich and others have spoken about so eloquently, it is a reflection of the efficiency of our companies and the productivity of the working men and women of this country.
+
+Exports have been a key factor in that solid economic growth, and Latin America and the Caribbean are a natural market and natural partners in that regard. That is why you, Mr. President, and the Vice President convened the Summit of the Americas in 1994, and I was proud to participate in that historic meeting. Exports to the region now are over $100 billion, and by the year 2010 they are anticipated to exceed our combined exports to the European Union and Japan. And as Secretary-designate Pena and I were speaking earlier, Venezuela has now replaced Saudi Arabia as our number one supplier of oil.
+
+But the summit agenda is much broader than just economic integration. It is about supporting the democratization that has taken place in the region; that has been a remarkable transformation in the past 10 years. It is also about supporting and developing sustainable development not only in terms of environmental stewardship, but also in terms of health and education.
+
+Mr. President, thank you for this opportunity. I look forward to working to develop a true partnership in the Americas, a partnership based on mutual respect and trust and dignity.
+
+I want to thank my wonderful wife, Donna, who has traveled to the regions a number of times both with me and on her own; and our two sons, Mark and Franklin -- Mark who has both studied and worked there for several years prior to his current endeavors. I look forward to continuing my role as Counselor and serving as Special Envoy to the Americas. Thank you. {APPLAUSE} 
+
+{/speech}

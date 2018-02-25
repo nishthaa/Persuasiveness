@@ -1,0 +1,21 @@
+﻿{title} Remarks at the State Department Correspondents Association's Inaugural Newsmaker Breakfast {/title}
+{event} State Department Correspondents Association's Inaugural Newsmaker Breakfast {/event}
+{speaker} Mr. Mackler {/speaker}
+{date} January 5, 2006 {/date}
+{source} http://www.state.gov/secretary/rm/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I'm working on the assumption that we're going to want maximum time for questions so if you're willing to give up your eggs or bagel or whatever -- so we're going to get started very quickly right now. Madame Secretary has graciously accepted to start right away.
+
+
+I'd like to welcome you to this Inaugural Newsmaker Breakfast for the State Department Correspondents Association. This is an event that we are hoping to hold on a regular basis. This is the first in a kickoff of series and I'd like to thank everybody who made this possible: the executive committee, Elise Labott and Steve Weisman, Janine Zacharia, who was helping out as treasurer; and of course our friends, Pam Stevens -- is Pam around? -- who helped us; and of course, Sean; and Jim Wilkinson, I'm sure you had something to do with it, Jim, somewhere along the line; and of course, a tribute, by the way, also to Donna O'Neill, who is going to be working transcript, and I think maybe that's one of the unappreciated parts of the Press Office there and we'd really like to thank because we always depend upon your work, Donna, and the work of your crew, so thank you very much for being here with us at our event today.
+
+
+As I said, this is the first in a series of events that the State Department Correspondents Association will be holding. It is really a tribute and a testimony to the growth of the identity and the strength of the association as a cohesive force to promote and express the interests of State Department correspondents. It has been built on the work of many people over the years, including many of our past presidents, who are sitting at the head table. There's Charlie Wolfson and Carol Giacomo and Barry Schweid, and of course there's George Gedda, who today is making his first public appearance. I am so glad to see you. {APPLAUSE}
+
+
+When it came, obviously, to our first guest, it really was a no-brainer; news seems to follow Secretary Rice wherever she goes. And wherever we follow her, whether it be a tough story or however tough the story gets, we know that we're in the presence of an uncommon measure of graciousness and class. So Secretary Rice, welcome to our breakfast table, and thank you for being here. {APPLAUSE} 
+
+{/speech}

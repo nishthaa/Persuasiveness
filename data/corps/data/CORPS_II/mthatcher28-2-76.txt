@@ -1,0 +1,248 @@
+﻿{title} Speech to Conservative Trade Unionists Conference {/title}
+{event} Manchester {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} February 28, 1976 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+This afternoon I want to explode a myth—one of the most absurd myths of our national and political life.
+
+It is a myth which causes damage not only to the Conservative Party, but also to the country because of the false divisions it creates. Let me put an end to it in the most straight forward way.
+
+The Conservative Party is not hostile to Trade Unions, but believes in a strong and responsible Trades Union movement. {APPLAUSE}
+
+Strong to protect and represent the interests of people at work.
+
+Responsible in the way it uses its power, concerned not only for today's pay and conditions of service, but to create a flourishing commerce and industry that will provide jobs and prosperity tomorrow as well.
+
+Without organised labour, large scale industry would not function as well as it should.
+
+But it could operate much better if there were genuine trust and understanding between employers and the work force—between management and trade union officials, including shop stewards.
+
+We have suffered too much and too long from management and unions regarding each other with suspicion—sometimes behaving more as adversaries than as partners in a joint venture. 
+
+We are all on the same side—the side of a Britain that is prosperous and strong—that can produce goods and services for tomorrow's world, and provide the jobs and stability that are so much desired. 
+
+There is another very good reason why the Conservative Party would not want to work against the unions.
+
+Our next Conservative Government will have been elected with the help of millions of votes from individual members of trade unions.
+
+About a third of all trade unionists regularly vote for us.
+
+Here at this Conference of Conservative Trade Unionists you speak for many of these people.
+
+How could the Conservative Party work against you and your colleagues, and the millions of other supporters whom you represent?
+
+This does not mean that we think everything about our Trade Unions is perfect.
+
+We are worried about the apparent unrepresentative nature of some Trade Union officials, and the fact that the power of some Union leaders seems on occasion to be used more for furthering political ends than for the benefit of their members.
+
+You would never suppose from the way that some trade union officials speak and act that thousands of their members are Conservative voters.
+
+The Conservative viewpoint, and indeed that of moderate or politically uncommitted Trade Unionists is under-represented both in the TUC and among the leadership of many unions.
+
+It is up to Conservative Trade Unionists to put this right!
+
+That is why at the Party Conference at Blackpool last autumn I called on our supporters, who are members of the Unions, to go out and take an active part in the work of their Unions.
+
+One of the things we must make crystal clear is that the true aims of trade unionists can only be fulfilled in a free society, and a Conservative Government is one that is dedicated to a belief in freedom.
+
+Trade Unions can only advance when there is freedom of expression.
+
+They can only negotiate when they are not subject to totalitarian oppression.
+
+What sort of Trade Unions are there in Russia?
+
+Or in Czechoslavakia?
+
+Or in East Germany?
+
+Or for that matter in any of the dictatorships of the Right?
+
+In such countries Trade Unions, where they exist at all, exist in name only for they have no freedom to carry out any of the functions of genuine trade unionism.
+
+In reality they are no more than pawns of an all-powerful state.
+
+To operate properly, trade unions require not just a free society, but a free and prosperous economy as well.
+
+The Unions realise this in the United States, for instance. In America you will find no more vigorous defenders of the free enterprise system than the Trade Union movement.
+
+We support free Trade Unionism in a free society. But as Jim Prior said this morning, this must not exclude individual freedom—our most cherished possession.
+
+This problem arises in questions concerning the Closed Shop.
+
+We know that many union officials and members see advantages in a Closed Shop.
+
+Many managements, too, find their existence helpful in their dealings with their employees, if only because they can negotiate agreements which affect all their work-force and which they expect to be binding on all.
+
+Most Closed Shop agreements accept the right of the man with a religious objection to opt out.
+
+But in our view this exception is too narrow.
+
+In Parliament this week, Lord Hailsham moved an amendment to provide compensation for the loss of a job when someone wouldn't join a Closed Shop union on genuine grounds of conscience.
+
+But it is not only the loss of job that concerns us.
+
+It is also the right of a person to keep his job when he refuses to join a Union, on genuine grounds of conscience.
+
+It is not a simple matter, as the debates in both Houses of Parliament have shown.
+
+Nevertheless we are sure that there must be proper provision for an effective conscience clause.
+
+We also have to make certain that the introduction of a Closed Shop does not damage the freedom of the press.
+
+I find it difficult to believe that those who run our trade unions really want to deny individuals the freedom which appears to be theirs under the European Convention of Human Rights.
+
+Further, where a person has been expelled from his Union, it is only fair that he should have a right of appeal to an independent body, and if necessary to the High Court.
+
+This is a right which the present Government is doing its best to abolish.
+
+These are the points about which we feel strongly.
+
+I believe that many Trades Unionists will share another concern that we have:
+
+That the democracy, on which Unions pride themselves, is not always as much in evidence as we would wish.
+
+Sometimes this is due to apathy among Union members; but whatever the cause, it is right that they should have the maximum opportunity to exercise their voting rights.
+
+That is one reason why we support postal ballots delivered to all members' homes, or secret ballots held on employers' premises in employers' time.
+
+This would enable members fully to participate in the election of Union officials, where there are provisions for such elections.
+
+We do not propose to make this compulsory.
+
+But we do intend to offer Government aid to every Union to cover the cost of postage and the printing and impartial counting of such ballots.
+
+—An enabling clause to finance some of the expenses of holding union ballots; —freedom of the press —a conscience clause —and a right of appeal to the courts.
+
+These are specific points we wish to pursue. Others may arise from time to time.
+
+But we don't intend any major legislation, like the Industrial Relations Act, to regulate the affairs of Unions.
+
+The Labour Government of 1966/70 and ours of 1970/74 learned that such major changes can lead to more disharmony than they are worth.
+
+Recently the Chancellor of West Germany paid a visit to this country.
+
+With Germany's economic record in the last twenty years, it is inevitable that we should compare some of our institutions and methods with theirs.
+
+In this country there are 114 unions affiliated to the TUC.
+
+They contain some ten million members.
+
+In addition there about 380 registered unions containing about a million or so members which are not affiliated to the TUC.
+
+Most people realise that, from the point of view of industrial efficiency and raising the living standards of members, nearly 500 unions are too many.
+
+For instance, there are more than 17 unions involved in the car industry alone compared with one only in the American and Japanese industries.
+
+No wonder there are inter-union disputes and clashes.
+
+In West Germany there are only 20 basic trade unions to serve the whole of industry and commerce.
+
+Broadly speaking, there is one union for each major industry.
+
+Now, I am not suggesting that everything they do in Germany is better than we do here, far from it—or that we should necessarily copy them.
+
+But it is likely that if we had a smaller number of unions, there would be fewer difficulties and much higher output.
+
+This suggestion has been made many times and was perhaps in the mind of that great trade unionist, Ernest Bevin who, when Foreign Secretary, initiated the reorganisation and construction of the German trade unions in the pattern they are today.
+
+It would not then have been possible to begin to do the same in Britain, because we were not ready for any such change.
+
+But to this day the German trade unions express their gratitude to our Trade Union movement for their help in building such a progressive and smooth-running trade union organisation, which has done so much for the prosperity of Germany.
+
+It was one of our most successful exports, which could well be put on to the production line at home.
+
+In Britain today there is a gradual movement towards fewer unions, but difficulties can occur, some of them financial, which prevent or slow up amalgamations.
+
+If Government can help, for instance towards financial obligations arising out of mergers, I believe it should consider doing so.
+
+One of the most exciting developments in industry today is the increasing part which the individual employee is playing.
+
+I warmly welcome this.
+
+We believe in the greater participation and involvement of employees before decisions are taken by management.
+
+In particular, employees need to know about proposed changes of plan and the introduction of new machinery which may affect their future.
+
+Any they want to know in good time so they have a chance to express their views.
+
+Indeed, their experience may enable them to foresee things which had escaped the notice of management.
+
+Where recognised trade unions exist, of course they must play a full part, using their own negotiating machinery, or consultative committees, or where Works Councils are functioning well and effectively, they also provide a good basis to build on.
+
+What is vital, though, is that the right to participate should be available to all employees whether trade unionists or not.
+
+The variety to be found between one company and another, and between individual factories and work places, is such that no blueprint for participation can or should be laid down.
+
+We are watching with interest the development of ideas on this subject within the EEC.
+
+So far some of the important ideas emerging from the Commission seem closer to Conservative thinking than that of the official TUC.
+
+But as in so many other industrial relations matters, we believe that the law has a limited role.
+
+Partnership and co-operation at work are essential for economic recovery.
+
+That co-operation is developing as the need for it is understood, and as unions and management attitudes change.
+
+At national level, the same need for co-operation prevails.
+
+The next Conservative Government should not have any difficulty in working with trade unions.
+
+The economic problems of the nation have to be mastered whether there is a Labour or a Conservative Government.
+
+The great majority of trade union leaders are reasonable people who know the truth of this.
+
+They know too that a very large element of their members will be supporters of a Conservative Government.
+
+In fact, a much larger element than the one which supports the tiny band of extremists who at present cause so much trouble.
+
+In Government we shall consult with the trade union movement and its representatives.
+
+We shall consult with commerce and industry and its representatives through the CBI.
+
+We shall consult with other organisations, representing so much else in the community.
+
+But I want to make this clear.
+
+We are not in the business of handing over the Government of this country to any group, however important, which has not been elected to govern.
+
+It is Parliament and no other body, which is elected to run the affairs of this country in the best interests of all the people.
+
+Too much deference to the views of any outside organisation will take us towards a corporate state.
+
+By a corporate state, I mean a state which is not run by the elected representatives of the people but by groups which for one reason or another occupy seats of power enabling them to act in concert with the government—and over the head of Parliament.
+
+I want to add a special final word to Conservative Trade Unionists, not only in this hall, but throughout the country.
+
+You are stronger than you think.
+
+A tiny number of unrepresentative Communists, Trotskyists and International Socialists has been able to capture many of the key positions in the unions.
+
+They have done it by assiduously attending branch meetings and volunteering to do the tiresome but necessary chores of union work.
+
+These people do not have the political support of more than a small fraction of union members.
+
+With the political support of a third of trade union members behind them, Conservative trade unionists could easily obtain influential positions in many unions.
+
+They are there for the taking, if you are prepared to do the work.
+
+Conservative trade unionists don't have to be afraid of declaring their faith.
+
+They can get just as good bargains for their members as any other unionists can.
+
+But even more important, as well as being able and tough negotiators, they will recognise the need to make industry more profitable—through co-operation, not conflict.
+
+That is the only lasting way to get higher wages and a higher standard of living for trade union members.
+
+So I say to Conservative Trade Unionists—
+
+"Go out and fight for your beliefs.
+
+Fight boldly for strong and free trade unions.
+
+Fight to defend the freedom of the individual." 
+
+{/speech}

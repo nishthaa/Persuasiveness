@@ -1,0 +1,22 @@
+﻿{title} Transcript: Keynote Address of President Clinton at Campus Progress National Student Conference {/title}
+{event} Campus Progress National Student Conference {/event}
+{speaker} Keisha Senter {/speaker}
+{date} July 13, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Hi, everyone. Hello? If I can get you all to quite down just a little. I hope you all are enjoying the conference so far. We are extremely excited to have each one of you here today. All of you are dynamic, young, progressive leaders. In fact, we had to shut down the conference registration a month ago due to overwhelming demand, but you guys made it, so have fun, learn as much as possible, and try to meet as many people as you can. I'm going to try myself, too.
+
+I am Keisha Senter. As the Speakers Bureau coordinator for Campus Progress, I get to mix all kinds of issues, experts, and artists to create some really awesome events and I absolutely love it. We've held more than 60 events across the country in our first semester, including Al Sharpton and Armstrong Williams at Howard University, debates about John Bolton at Brown University and Ohio State University, and filmmakers presenting important films on subjects from the murder of Emmitt Louis Till to Michael Moore's visit to Utah, to a struggle over sex education and gay rights in a Texas community.
+
+As for me, when I was in college I thought I was going to be a biologist dissecting frogs and all of that and my mom wanted me to be a doctor, except for one small detail: that's not my passion. This is. You guys are. So what does my story have to do with you? It means that I am one of you and I am telling you to follow your passion: connect, engage and speak up. We can help you organize debates, lectures, films, performances, workshops, and whatever else to help get your progressive message across, for when we win the battle of ideas, we can change the world.
+
+And speaking of changing the world, let me introduce three world changers: our leader at the Center for America Progress, John Podesta; one of my new heroes, Stephanie Nyombayire; and finally – I got to tell you, over the past semester you all called Campus Progress and wanted us to get you certain speakers most of all. You wanted Oprah Winfrey; some asked for Tom Cat. One person even asked for Ashley Olsen, but there was one name that came up more than any other. I didn't get any of those other speakers, but today I am proud to say that we have the speaker you really wanted, someone who knows a little something about leadership and policy and politics and just about everything else. Ladies and gentlemen, please welcome John Podesta, Stephanie Nyombayire, and President William Jefferson Clinton. {APPLAUSE}
+
+Okay. You all can, you can take your seats. He is going to be out in one second. {LAUGHTER} When it comes to connecting at the Center for American Progress, John Podesta is all about connecting, and how we do it is what drives him. He founded the Center for American Progress after being chief of staff for President Clinton. Prior to his stint to the White House, John did a range of jobs on Capitol Hill. For example, counselor to Senator Thomas Daschle and chief counsel for the Senate Agricultural Committee. Let me tell you a little something about John. He walked into our last conference meeting yesterday and we were all stressed out and frazzled, and he was like, “Hey, why aren't you all smiling?” And then, he walked out chuckling with a big smile on his face. Well, John, we might have been stressed out then, but we're all smiling now.
+
+Ladies and gentlemen, please join me in welcoming my boss, John Podesta. {APPLAUSE} 
+
+{/speech}

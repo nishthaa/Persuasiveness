@@ -1,0 +1,38 @@
+﻿{title} President Celebrates Asian Pacific American Heritage Month {/title}
+{event} The East Room {/event}
+{speaker} Susilo Bambang Yudhoyono {/speaker}
+{date} May 25, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Bush, distinguished guests, ladies and gentlemen. Thank you, Mr. President, for inviting me to join you here today. I stand before you here to deliver a message of thanks from a grateful nation halfway around the world.
+
+My country, Indonesia, suffered most from the horrible tsunami last December. Some 200,000 people were killed in a matter of minutes, and over 500,000 survivors lost their homes.
+
+When I arrived in Aceh the day after the tsunami, almost everything close to the sea had been destroyed, flattened to the ground, swept by the waves. Nothing had ever prepared us for something like this -- nothing. It was under these circumstances that we experienced an incredible display of global solidarity immediately after the tsunami. And it was during this desperate time that American servicemen came and helped.
+
+The USS Abraham Lincoln arrived with its much needed helicopters to help deliver food and supplies to survivors that could not be reached by land. And USS hospital ship Mercy provided medical care to the injured and the sick, at a time when we were all worried that more people would die from diseases than from the tsunami.
+
+I remember my heart almost sank one day when I heard that a U.S. Seahawk helicopter had crashed. But I was glad to hear directly from Ambassador Lynn Pascoe that the crews were all right, even though their Seahawk had to make an emergency landing on a paddy field. And not surprisingly, the crews were itching to get back into action to save lives.
+
+America has every reason to be proud for what your government, your heroism, and your volunteers have done for the tsunami victims. This was a time for valor and selfless sacrifice. The tsunami produced a lot of heroes: heroes who saved lives, heroes who gave hope to those who are suffering, and Americans were among these heroes. You all should be proud of that.
+
+The funds that have been collected from millions of Americans will be very helpful to help the Acehnese rebuild their lives. But I want you to know what really mattered was that they all came from the heart. What really mattered was that each of you reached not so much into your pocket as into the new depth of your conscience, compassion and solidarity. What really mattered was that you saw the pain of others and tried to help. And with all our tears, words and deeds, what we all did together was to prove that the greatest wrath of nature was no match for the greater force that is the human spirit.
+
+I said something earlier about reaching out. Let me read you a letter from Maggie, a third grader from K-4 Elementary in Charlevoix, Michigan, which, through some good fortune, I managed to obtain from AmeriCorps. Maggie was writing to a tsunami kid she did not know. This is what Maggie wrote: "Dear friends: Hi. My name is Maggie. I am sorry what happened in your country. I have heard some things about it. I hope your family and friends are okay. In church, I pray for you and your country. In school, we are raising money for your country. We have a loose-change bucket, and kids bring money in. Also, we are making tsunami bracelet to raise money, too. I have made you one. I hope you like it. I will continue praying for you and your country in church. Your friend, Maggie."
+
+I faxed Maggie's letter to Aceh, to be passed on to an Acehnese youngster, and a few days later I received a response letter from Nada Lutfiah, a young girl from Banda Aceh. That is what Nada looks like.
+
+{OTHER-SPEAK} There's your picture. Is this her? {/OTHER-SPEAK} 
+
+Yes, sorry. This is her. {LAUGHTER} Nada looks like -- {APPLAUSE} Nada Lutfiah. {APPLAUSE} Nada wrote to Maggie, and I translate into English. "My good friend: Hello, friend. My name is Nada Lutfiah. I was so happy and my heart was touched to receive the letter you sent us. My family, my dad, mom, older brother and younger brother have disappeared, and now I live with my cousins. I hope you are healthy and well where you are. I am so glad you are paying attention to us here. I hope to receive your bracelet in the coming days, because I want to wear it on my arm to remind me that I have new friend. Your friend, Nada."
+
+I have asked my Ambassador Soemadi to personally deliver Nada's letter and photo to Maggie in Michigan.
+
+These two letters are extraordinary, both in the words they conveyed, and in the fact that two youngsters from entirely different background made a connection: An American girl who prays at church, collects lose change and make bracelet for tsunami kids two oceans away; an Indonesian Muslim girl who lost all her family, and wants to kill the pain and is eager just to be a kid again, just like Maggie. I think the world will be a better place if all of us start to have connections and conversation the way Maggie and Nada did.
+
+I thank you very much. {APPLAUSE} 
+
+{/speech}

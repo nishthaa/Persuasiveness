@@ -1,0 +1,29 @@
+﻿{title} Speech at South Carolina Democratic Party {/title}
+{event} ----- {/event}
+{speaker} Al Sharpton {/speaker}
+{date} May 3, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+… to the chair and to all of you who have gathered today for this convention. I'm honored to be here as one who has announced my intentions to run in the 2004 primary in South Carolina. 
+
+I think it is important that we understand that next year is not just another election. This is about the fundamental way that the United States will be governed in the 21st century. We have in the White House a man whose priorities are clearly against the grain of what is in the interest for all Americans, and we have the mandate to retire George Bush in 2004. {APPLAUSE} 
+
+I do not understand a man that says that we need millions and billions of dollars to occupy Iraq, but we don't have any money for the 50 states we already occupy. {APPLAUSE} 
+
+I don't understand a man who says he's against affirmative action and preferences, when he is the most preferred person that ever sat in the Oval Office as a president of the United States. {APPLAUSE} 
+
+Well what do you mean Reverend? He went to undergraduate under preferences. His grades wasn't high enough; they gave him points from being from outside of New England. Then when he graduated undergrad school, grades still wasn't quite there so he used family points to go to Yale. {APPLAUSE} That's not enough. I said all over this country, he is the personification of a set-aside program. {LAUGHTER ; APPLAUSE} The Supreme Court set aside a whole election to make him the President of the United States. {APPLAUSE} 
+
+I'm in this race because we need to change the premise we govern. Sharpton campaign will advocate the right to vote as a constitutional amendment. We don't have that yet. Had we had that and argued that in the court in 2000 Gore would be president today. {APPLAUSE} We lost because we're still arguing states' rights, which empowered Katherine Harris, rather than federal rights from the Constitution that would empower the American people. We must have the right to vote in the Constitution. {APPLAUSE} We must have the right to health care. We must have the right to quality education. 
+
+I propose a $250 billion, five year plan to rebuild the infrastructure--bridges, tunnels, highways, and in the name of homeland security the ports. 
+
+We must repeal Bush's tax cut. While they are rewarding the rich and siccing the IRS on the poor the working and middle class people of this country must stand up. It is time for the real Americans to stand up, and they are in the Democratic party, and we are coming back in 2004. {APPLAUSE} 
+
+Let me say this and let me be clear. We must win next year. People say well Reverend, why and how can we win? We can win if we bring into the fold the disaffected, the disillusioned. One of the things I'm doing starting tomorrow right here in two churches in Columbia is registering a lot of people that have not voted because I learned one thing in my grandmama's field in Alabama. The way to move a donkey is to slap the donkey. I'm going to slap the donkey 'til the donkey kicks and we kick George Bush out of the White House. {APPLAUSE} I'm going to slap the donkey! {APPLAUSE} 
+
+{/speech} 

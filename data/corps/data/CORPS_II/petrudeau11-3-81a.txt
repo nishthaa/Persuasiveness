@@ -1,0 +1,46 @@
+﻿{title} Address of the President and Prime Minister Pierre Elliott Trudeau of Canada Before a Joint Session of the Parliament in Ottawa {/title}
+{event} Joint Session of the Parliament in Ottawa {/event}
+{speaker} Pierre Elliott Trudeau {/speaker}
+{date} March 11, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The Prime Minister spoke at 11:15 a.m. in the House of Commons Chamber at the Centre Block.Earlier in the day, the President met with former Canadian Prime Minister Joe Clark at Rideau Hall and then participated in a tree-planting ceremony near the Governor General's residence. {/description}
+
+{speech} 
+
+Mr. Speaker of the Senate, Madam Speaker of the House, Mr. President, Mrs. Reagan, distinguished American visitors, honorable members of the Senate, members of the House of Commons, Excellencies, mesdames et messieurs:
+
+Mr. President, yesterday I welcomed you to Canada. Well, I repeat that welcome now because in this chamber Canada's democracy finds its ultimate expression. Here, in a special way, we speak on behalf of the people of Canada. And here, the people of Canada are honored to receive you, sir.
+
+Nations do not choose their neighbors; geography does that. The sense of neighborhood, however, is more than a product of geography; it is a creation of people who may live as far apart as California and Quebec. It is what makes neighbors of Canada and Mexico, for instance. Canadians have noted this sense in you, Mr. President, and they know that it gives a particular meaning to your visit to Ottawa.
+
+{COMMENT="In French"} Our neighborhood, Mr. President, is not only a place but a state of mind, not only North America but the New World. We share the dreams that have made this continent a beacon, a hope, and a haven for people everywhere. We share the courage and joy in hard work that enabled us to build two great federal states side by side, from our first landfalls on the Atlantic to our last frontiers on the Pacific. We cherish what we have made. We are determined to preserve it, but at the same time we have been glad to admit others to the bounty and freedom we have found here.
+
+{COMMENT="In English"} It is right that we should celebrate what we hold in common. At the same time, it is necessary that we remember and respect what makes us different. More than 200 years ago our paths diverged although our goals remained the same. You created a great republic with a presidential system. We evolved as a constitutional monarchy under a parliamentary system. You placed yourselves from the outset under a written constitution that you continue to revere today. We are only now finishing the work of writing ours and bringing it home. You fought a tragic civil war. We have recently undergone the experience of a referendum that involved no violence, but nonetheless touched the very fiber of this country. The differences of history affect our relations today because they affect our perceptions, our approaches, our priorities.
+
+You, Mr. President, would perhaps agree with Thoreau where he says of the United States Government, and I quote, "...this government of itself never furthered any enterprise, but by the alacrity with which it got out if its way. It does not settle the West. It does not educate. The character inherent in the American people has done all that has been accomplished..."
+
+The character of the Canadian people, Mr. President, has also made Canada. But here in Canada, our own realities have sometimes made it necessary for governments to further enterprise. Those realities and that necessity are still with us today.
+
+{COMMENT="In French"} Mr. President, you have come to Canada at a busy moment in our history. We are still engaged in the task of nation-making. As an American you will understand the challenge before us. We are seeking to perfect our democracy and strengthen our unity. Sometimes, the noise we make will reach your ears. I can assure you, however, that out of the tumult and heat of creation we are forging a stronger Canada. To borrow someone's definition of a megalopolis, we are determined that we will not emerge from our present debate as a "loose confederation of shopping centers."
+
+In the years ahead, the United States will face a dynamic neighbor to the north. As we put our house in order, we in Canada will grow in self-confidence. We will see our interests more clearly and pursue them more vigorously. What will not change, however, is our deep friendship with the United States. Indeed, the relationship between our two countries will grow as Canada grows. Certainly, we will have some lively discussions over the back fence. But we have always spoken plainly to each other, plainly but with mutual respect, because that is the way sovereign equals and close friends should speak to each other.
+
+{COMMENT="In English"} Mr. President, you take on your awesome responsibilities at a time of stress and crisis in international affairs. The world badly needs the courage and wisdom of the United States, that courage that it can provide under your leadership, sir. I speak for all Canadians when I say we are ready to work with you in the cause of stability, security, and humanity.
+
+Your task, our joint task, will not be an easy one. Many people fear that the world has become too complicated, that events have spiraled beyond the control of individuals or governments. They're tempted to give up, to opt out, and to hide from reality and responsibility. That way lies oblivion.
+
+I believe that we must neither cower before reality nor oversimplify it. Yet complexity should not obscure plain truth. On this most favored of continents, we can not simply turn our gaze inwards and ignore poverty, ignorance, and injustice elsewhere.
+
+To the East, Mr. President, we face a system that seems ill-designed to respond to change and growth. Nevertheless, the Soviet Union and the Eastern European states may come to accommodate themselves at least to the dynamics of their own region. If, for example, the Polish people are able to work out their own destiny within a framework accepted by their neighbors, then they will have matched revolution with a no less remarkable evolution. Through courage and restraint they will have begun the process of making their reality more Polish and their system more responsive, more adaptable, and ultimately more stable.
+
+In the West, Mr. President, we have a long familiarity with the pressures of change. In the past decade our economies have undergone a severe test, as trusted assumptions have been found wanting. In the 1970's we were buffetted by the rude shock of rapid energy price increases. We were forced to recognize that the old monopoly of economic power was coming to an end. And yet for all the strains upon us, our political and economic framework has survived, survived at least as well as the chicken and the neck to which Winston Churchill once referred in this chamber.
+
+Each of the Western countries has met the challenge of change in its own way. Since all of us have our own distinctive economic strengths and weaknesses, our solutions have had to be diverse. We have found no simple answers. We've fashioned no single way. With cooperation and consultation, however, we've been able to complement our various approaches.
+
+At another level, though, we do have a single approach. Let there be no doubt about our unity in the defense of our most precious heritage -- that democracy which is envied by those who rightly crave it and feared by those who wrongly deny its force.
+
+As to North and South, we are not dismayed by the complexity of the problems. The poverty of the developing countries does not have to be permanent, nor is it unalloyed. The gap between the two groups is neither racial nor unbridgeable. In the growth of the oil-producing states, in the vigor of the newly industrialized countries, there is convincing evidence of the dynamism and potential of the developing world. In the unity of the South, there's not so much an identity of circumstances as an idea, a point of view, a shared sense of injustice. The poorer peoples are at the mercy of circumstances that leave them out of balance, often out of hope, and too often vulnerable to opportunists who come poaching in troubled waters. The industrialized democracies have not only a human duty but a strategic obligation to help developing countries in their struggle, their survival, and their success.
+
+Mr. President, humanity will prevail. We in the New World can never be pessimists, for we are, in a very real sense, the custodians of the future. You have reminded us of this, sir, on both sides of the 49th parallel. You've done so by evoking a past in which both our peoples have been the architects of change, not its victims. I wish you well in your task and comfort in your burden. May part of that comfort come from the assurance of Canada's abiding friendship for your country and for your people. 
+
+{/speech}

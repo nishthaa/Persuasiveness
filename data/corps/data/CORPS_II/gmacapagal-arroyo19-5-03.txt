@@ -1,0 +1,31 @@
+﻿{title} President Bush Welcomes President Arroyo in State Arrival Ceremony {/title}
+{event} Remarks by President Bush and President Arroyo of the Philippines at State Arrival Ceremony {/event}
+{speaker} Gloria Macapagal-Arroyo {/speaker}
+{date} May 19, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} For Immediate ReleaseOffice of the Press Secretary {/description}
+
+{speech} 
+
+Thank you very much. President Bush, Mrs. Bush, Vice President Cheney, Mrs. Cheney, Secretary Powell, Mrs. Powell, Secretary Rumsfeld, General Myers, officials of the U.S. government, excellencies of the diplomatic corps, ladies and gentlemen. Thank you, President Bush, for inviting me to this state visit. It only confirms that relations between our two countries are deeper and warmer today than they have been in a very long time. {APPLAUSE}
+
+Today our two countries have a revitalized and maturing alliance, rooted in shared history, shared values, a common interest in global peace and prosperity, and a real commitment to combating terrorism and advancing freedom.
+
+Our alliance abides strong as ever, even as the world today requires a new perspective on political and economic security in Asia Pacific. This new perspective must recognize that while Asia must take greater responsibility for its own political and economic security, it must also recognize that strong relations with the U.S. will contribute greatly to regional peace and prosperity, stability and security, especially from terrorism. {APPLAUSE}
+
+Thus we, your friends, must find a way to support continued and active engagement with the U.S. at a time when there are some forces in my region working against such a relationship. Although wisdom counsels commitment, in the face of terror the temptation to disengage is strong. We must fight that temptation, because the answer to fear is confrontation. Indeed, we must close ranks and stand firm against terrorist threats, however grave, however armed, and from whatever quarter. {APPLAUSE}
+
+
+To spare themselves, some countries might prefer an accommodation with terrorism. The Philippines has chosen to fight terrorism. {APPLAUSE} We compensate for such modest means as we command with an unshakable resolve to defeat terrorism once and for all, and with faith in the justice of our cause and our friendship with the United States.
+
+Our war on terrorism has made significant gains, but the threat is far from over. The war is not yet won. But it will be won, there can be no doubt. How long and at what cost are the only things in doubt. As the terrorist attack in Riyadh, which took both Filipino and American lives, shows, for the Philippines, the new perspective on economic and political security in Asia Pacific must take into account the over seven million of our men and women who, in seeking a better life abroad, contribute greatly to the development of economies around the world, not least that of the United States.
+
+I am proud of these Filipino Americans. {APPLAUSE} I am proud of the contributions that Filipinos and Filipino Americans make to the American economy and society. In a quiet, but equally substantive way, we can compare it to the contribution made by Philippine World War II veterans to the defense of our common freedom and security. {APPLAUSE}
+
+I also take pride in the robust economic and trade ties that bind the Philippines and the United States. The Philippines is pursuing long-needed economic reforms. The current and continuing reforms will strengthen the Philippine republic. They will make easier Philippine and American economic cooperation, and they will promote the cost of fighting world poverty.
+
+I appreciate the help of President Bush in our work to alleviate poverty and other socio-economic ills from which terrorism draws its strength. Like the fear on which it feeds, terrorism can be contagious, and it will not be contained unless we agree on a comprehensive approach for defeating it in Southeast Asia.
+
+And so, in looking forward to discussing that comprehensive approach, I look forward to my talks with President Bush and his officials in this administration. And I hope President Bush reciprocates this visit by accepting a state visit to the Philippines towards the end of this year. Thank you. {APPLAUSE} 
+
+{/speech}

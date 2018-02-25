@@ -1,0 +1,59 @@
+﻿{title} Speech to the British Chambers of Commerce {/title}
+{event} Savoy Hotel, Central London {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} January 10, 1979 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+The grave events facing us today have overshadowed what I had intended to say.
+
+Unfortunately Parliament is not due to reassemble until Monday and the nation has therefore been deprived of the daily Questions to Ministers by Members, and regular statements on urgent matters, which we should be having. Indeed, sometimes I think the silence has been deafening, although industry and commerce have already experienced considerable disruption and endless worry. 
+
+Should the lorry drivers' strike be made official, it would seem that a State of Emergency is inevitable.
+
+The Emergency regulations would then have to be debated in Parliament within a few days of being laid.
+
+Whatever the outcome of the negotiations I am feel strongly that the whole situation must be discussed by Members of Parliament as soon as possible.
+
+I have therefore asked the Prime Minister, by letter this morning, for a statement to the House on Monday, followed by a full debate at the earliest opportunity, and the business previously announced will have to be changed accordingly. 
+
+There comes a moment in the life of a country when a Government of whatever political complexion has an overriding responsibility to keep essential supplies and services going.
+
+In this, its immediate and prime duty, it deserves the co-operation of Parliament.
+
+In the longer run we must consider the fundamental problems arising from the industrial situation, including the whole question of Trade Union power and the way it is used. {APPLAUSE}
+
+But just now, the priority is to get goods moving to their destination. 
+During the difficult times ahead, I trust we shall all keep in mind the welfare of those least capable of looking after themselves and do everything possible to minimise the harm to them. 
+
+And it is not only those who can't look after themselves who will suffer. We are all victims.
+
+To many people it seems that we are subsidising strikers on the grounds of hardship to their families, to enable them to inflict far more serious and widespread hardship on others. Hardship leading to loss of jobs, loss of orders closure of schools, reduced services for the sick, destruction of business, damage to livestock, shortage of supplies everywhere.
+
+These are the immediate problems and we shall come through them, but we can't have government by daily expedient much longer. It is time we got to grips with the causes of this recurring situation and taking public opinion with us, tackled them at their roots.
+
+The victim of the action of a particular union is often another union and its members and their families and it's very ironic indeed that the power of a unionist now is to damage others, and he has precious little capacity to protect himself and his own family from the damage occasioned by others.
+
+I don't believe you can have free collective bargaining unless there is a true balance of power between the parties who are bargaining {AUDIENCE} Hear, hear! {/AUDIENCE} , and there isn't. I don't believe you can have it unless the rights and the obligations of the parties are evenly balanced, and I don't believe you can have it unless the consequences of failure attached to each party with similar severity.
+
+Years ago when the law was made and, uh ... uh, became what it is today, it was undoubtedly the employee who had the hard end of the bargain and therefore we as Conservatives came in to redress the balance in his favour. Today it is undoubtedly the employer who has the bad end and the difficult end, and doesn't have sufficient of the balance on his side. Now every power must imply a responsibility and if power is not used responsibly then we in Parliament shall have to look at its distribution with a view to changing it to get a true balance of power. {AUDIENCE} Hear, hear! {/AUDIENCE} That, of course, is the role of Parliament and you know, and sometimes if governments would stop doing things which they do badly and start to do things which they don't do at all, we might get very much better government in this country. {APPLAUSE}
+
+All right, those are the difficulties. Let's just look at the scope for opportunity. There is scope, there is hope. You know it's not trade unionism as such that is the difficulty because you've only got to look at the way trade unions act in other countries and the way in which they've built up prosperity which has rivalled us and then overtaken us and left us far behind. So it's not trade unionism as such that is the difficulty. It's either the laws which attach to it in this country which make them more powerful than in any other country, or the way the powers are used.
+
+The real ground for hope is that there are some 11 to 12 million members of trade unions and I would say there are at least ten-and-a-half of those who are just as fed up about the situation as the rest of us are. {AUDIENCE} Hear, hear! {/AUDIENCE} And they too are only too willing and anxious for governments to take action which will make their voice heard. You will know better than I do that there are many who do go on strike who don't want to go on strike but are fearful of the consequences if they don't obey their union, or they might have their union card taken away and loose their livelihood. There are many who would like to cross the picket lines but who daren't, and when you see some of the scenes in picket lines it's not for us to criticise when we haven't in fact all of us experienced the task, the difficulties, the fear of actually crossing those lines. But our hope lies in that vast majority of British opinion, whether in trade unions or not, who are decent and honourable and wish to do a good day's for a good day's pay and wish to continue their work uninterrupted by constant disruption. {APPLAUSE} There is I believe too an increasing awareness among public opinion and increasing willingness to see measures taken to put the matter right. So there is in fact a great deal of scope for action. 
+
+One of the problems with economists these days is that they really do clothe simple propositions with really rather extravagant jargon to make them sound very much cleverer than they are. {LAUGHTER} It simply means that if you pay more money or mint more money than is warranted by the production of goods and services the currency will be debased. And if I might say so, there's nothing new about that, rulers have been doing it for years, Diocletian started it in 300 AD {AUDIENCE} Hear, hear! {/AUDIENCE} and he started to replace the silver in the coinage with copper. He then got difficulties. He then was the first person who tried to impose a wages and prices policy, he had some thousand regulations about it, and then he said: I shall have one hand tied behind my back unless I have sanctions. Well there's nothing new in this but he had real tough sanctions, he said, death or deportation. {LAUGHTER} You'll be glad to hear that the policy even with those sanctions proved totally unenforceable. Oh, he got the prices controlled all right, trouble is he got them controlled at such a level that no one produced the goods.
+
+Let's have a look at the particular difficulties which have held back this country. The worst one, undoubtedly far worse here than anywhere else, is restrictive practices. You know there are far bigger wages to be obtained in fact by reducing restrictive practices in this country than almost anywhere else in the world, for the simple reason that we've got more restrictive practices.
+
+And I think most of you will agree that we could get 30 per cent more production out of the investment we've got now if we were able to diminish and finally demolish those restrictive practices. The second difficulty is not we're low investors, it is that you just cannot get the proper effective return on the investment you put in. And it doesn't exactly encourage more people to put it in when they can't get a return and if they do get a return, they're taxed out of existence.
+
+Which brings me to the third point, I think the greatest difficulty and deterrent of all is the very high personal tax which we experience here, far higher at personal rates than our counterparts overseas.
+
+Now those are the difficulties. All right then, what about the other side of the balance sheet. What is the scope?
+
+Top of my party's policy I have put tax incentives, reduction of personal income tax and reduction and mitigation of the effect of capital transfer tax. Once we really have tackled the tax problem I hope we shall get a burgeoning of small businesses. Again, it is I believe a question of tax incentives. Those that, uh ... new jobs also come from small businesses. Genuine jobs don't come from government, they come from genuine goods and products which you produce and people genuinely want to buy. 
+
+{/speech}

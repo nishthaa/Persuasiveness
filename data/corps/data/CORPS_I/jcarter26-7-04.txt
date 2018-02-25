@@ -1,0 +1,110 @@
+﻿{title} Jimmy Carter Address Democratic National Convention {/title} 
+{event} ----- {/event} 
+{speaker} Jimmy Carter {/speaker} 
+{date} July 26, 2004 {/date} 
+{source} http://transcripts.cnn.com/ {/source} 
+ 
+{description} ----- {/description} 
+ 
+{speech} 
+ 
+My name is Jimmy Carter, and I'm not running for president. {LAUGHTER ; APPLAUSE} 
+
+But here's what I will be doing: everything I can to put John Kerry in the White House with John Edwards right there beside him. {APPLAUSE}
+
+Twenty-eight years ago I was running for president. And I said then, "I want a government as good and as honest and as decent and as competent and as compassionate as are the American people." 
+
+I say this again tonight, and that's exactly what we will have next January with John Kerry as president of the United States of America. {APPLAUSE}
+
+As many of you may know, my first chosen career was in the United States Navy, where I served as a submarine officer. At that time, my shipmates and I were ready for combat and prepared to give our lives to defend our nation and its principles. At the same time, we always prayed that our readiness would preserve the peace. 
+
+I served under two presidents, Harry Truman and Dwight Eisenhower, men who represented different political parties, both of whom had faced their active military responsibilities with honor. {APPLAUSE}
+
+They knew the horrors of war. And later as commanders in chief, they exercised restraint and judgment, and they had a clear sense of mission. 
+
+We had a confidence -- we had a confidence that our leaders, both military and civilian, would not put our soldiers and sailors in harm's way by initiating wars of choice unless America's vital interests were in danger. {APPLAUSE}
+
+We also were sure that these presidents would not mislead us when issues involved our national security. {APPLAUSE}
+
+Today, our Democratic Party is led by another former naval officer, one who volunteered for military service. He showed up when assigned to duty... {APPLAUSE}
+
+... and he served with honor and distinction. He also knows the horrors of war and the responsibilities of leadership. And I am confident that next January, he will restore the judgment and maturity to our government that nowadays is sorely lacking. {APPLAUSE}
+
+I am proud to call Lieutenant John Kerry my shipmate, and I am ready to follow him to victory in November. {APPLAUSE}
+
+As you all know, our country faces many challenges at home involving energy, taxation, the environment, education and health. To meet these challenges, we need new leaders in Washington whose policies are shaped by working American families instead of the super- rich and their armies of lobbyists in Washington. {APPLAUSE}
+
+But the biggest reason to make John Kerry president is even more important. It is to safeguard the security of our nation. {APPLAUSE}
+
+Today, our dominant international challenge is to restore the greatness of America, based on... {APPLAUSE}
+
+... based on telling the truth, a commitment to peace, and respect for civil liberties at home and basic human rights around the world. {APPLAUSE}
+
+Truth is the foundation of our global leadership, but our credibility has been shattered and we are left increasingly isolated and vulnerable in a hostile world. 
+
+Without truth, without trust, America cannot flourish. Trust is at the very heart of our democracy, the sacred covenant between a president and the people.
+
+When that trust is violated, the bonds that hold our republic together begin to weaken. 
+
+After 9/11, America stood proud -- wounded, but determined and united. A cowardly attack on innocent civilians brought us an unprecedented level of cooperation and understanding around the world. But in just 34 months, we have watched with deep concern as all this good will has been squandered by a virtually unbroken series of mistakes and miscalculations. {APPLAUSE}
+
+Unilateral acts and demands have isolated the United States from the very nations we need to join us in combating terrorism.
+
+Let us not forget that the Soviets lost the Cold War because the American people combined the exercise of power with adherence to basic principles, based on sustained bipartisan support. 
+
+We understood the positive link between the defense of our own freedom and the promotion of human rights.
+
+But recent policies have cost our nation its reputation as the world's most admired champion of freedom and justice. {APPLAUSE}
+
+What a difference these few months of extremism have made.
+
+The United States has alienated its allies, dismayed its friends, and inadvertently gratified its enemies by proclaiming a confused and disturbing strategy of preemptive war. 
+
+With our allies disunited, the world resenting us, and the Middle East ablaze, we need John Kerry to restore life to the global war against terrorism. {APPLAUSE}
+
+In the meantime, the Middle East peace process has come to a screeching halt. For the first time since Israel became a nation, all former presidents, Democratic and Republican, have attempted to secure a comprehensive peace for Israel with hope and justice for the Palestinians. 
+
+The achievements of Camp David a quarter century ago and the more recent progress made by President Bill Clinton are now in peril.
+
+Instead, violence has gripped the Holy Land, with the region increasingly swept by anti-American passions. This must change. {APPLAUSE}
+
+Elsewhere, North Korea's nuclear menace, a threat far more real and immediate than any posed by Saddam Hussein, has been allowed to advance unheeded, with potentially ominous consequences for peace and stability in Northeast Asia. 
+
+These are some of the prices of our government has paid for this radical departure from the basic American principles and values that are espoused by John Kerry. {APPLAUSE}
+
+In repudiating extremism, we need to recommit ourselves to a few common-sense principles that should transcend partisan differences. 
+
+First, we cannot enhance our own security if we place in jeopardy what is most precious to us, namely the centrality of human rights in our daily lives and in global affairs. {APPLAUSE}
+
+Second, we cannot maintain our historic self-confidence as a people if we generate public panic. {APPLAUSE}
+
+Third, we cannot do our duty as citizens and patriots if we pursue an agenda that polarizes and divides our country. {APPLAUSE}
+
+Next, we cannot be true to ourselves if we mistreat others. 
+
+And finally, in the world at large, we cannot lead if our leaders mislead. {APPLAUSE}
+
+You can't be a war president one day and claim to be a peace president the next, depending on the latest political polls. {APPLAUSE}
+
+When our national security requires military action, John Kerry has already proven in Vietnam that he will not hesitate to act. And as a proven defender of our national security, John Kerry will strengthen the global alliance against terrorism while avoiding unnecessary wars. {APPLAUSE}
+
+Ultimately, the basic issue is whether America will provide global leadership that springs from the unity and the integrity of the American people, or whether extremist doctrines, the manipulation of the truth, will define America's role in the world. 
+
+At stake is nothing less than our nation's soul. {APPLAUSE}
+
+In a few months, I will, God willing, enter my 81st year of my life. {APPLAUSE}
+
+And in many ways, the last few months have been some of the most disturbing of all. But I am not discouraged. I really am not. I do not despair for our country. I never do. I believe tonight, as I always have, that the essential decency and compassion and common sense of the American people will prevail. {APPLAUSE}
+
+And so I say to you... {APPLAUSE}
+
+And so I say to you and to others around the world, whether they wish us well or ill: Do not underestimate us Americans. {APPLAUSE}
+
+We lack neither strength nor wisdom. There is a road that leads to a bright and hopeful future. What America needs is leadership. {APPLAUSE}
+
+Our job, my fellow Americans, is to ensure that the leaders of this great country will be John Kerry and John Edwards. {APPLAUSE}
+
+Thank you, and God bless America. {APPLAUSE} 
+
+ 
+{/speech} 

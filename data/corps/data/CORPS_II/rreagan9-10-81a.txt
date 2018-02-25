@@ -1,0 +1,36 @@
+﻿{title} Remarks at the Presentation Ceremony for the Presidential Medal of Freedom {/title}
+{event} East Room, White House {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} October 9, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I don't know why I should think of this at this lovely luncheon with all of you here today, but I did think of it. Many years ago in the days of austerity in England, after the Labor government had just gotten in, I'd arrived for the royal command performance at the Savoy Hotel. I went down to the dining room and knew that there was rationing and you couldn't get food such as we've had today, but then on the menu I saw pheasant. And I thought, well, you can't go wrong if you can get pheasant. So, I ordered pheasant. I didn't know about their custom of serving game birds. And the waiter came in and with a flourish removed the silver lid, and I was looking at a bird that was looking back at me. {LAUGHTER} The head and the ruff were on, the eyes were open, the big yellow legs were there attached to him. So, it did kind of curb my appetite a little. {LAUGHTER}
+
+But the very next day, Virginia Mayo and her husband, Michael O'Shea, arrived. And we went down to the dining room together. And I saw his eyes stop -- I just knew, at the same place on the menu. I knew what was in his mind, and he ordered. Then I waited and didn't say a word. {LAUGHTER} And the same flourish and the silver lid removed and there was that bird looking at him, but he topped me. As the waiter started away, he grabbed him by the coattail, and the waiter, surprised, stopped. And Mike said, "Bring me liniment and I'll have that bird flying again in 15 minutes." {LAUGHTER}
+
+Now, that story has absolutely nothing to do with today's luncheon. {LAUGHTER} Well, maybe if I reach a little it does, because we have some high fliers here with us today who have flown, in the line of achievement in their own lives and in their service to humanity, very high.
+
+The President's medal of freedom is the highest civilian honor that's given in the United States. What the Olympic Gold Medal is to athletes, what the Congressional Medal of Honor is to the military, the Presidential Medal of Freedom is to the private United States citizen. The names of those who have received this honor are stars in the American sky -- Helen Keller, Aaron Copland, Walt Disney, Carl Sandburg, General Omar Bradley, Dr. Jonas Salk, Jessie Owens. The list goes on through the most illustrious and prominent of our citizens.
+
+And today, we're adding the names of Charles Thornton, a man whose energy and enterprise are symbolic of America herself; Morris Leibman, an honored American possessing a fine legal mind and a true humanitarian heart; Walter Judd, a doctor who ministered to the world's need for freedom and liberty; Bryce Harlow, an architect of public policy whose contributions have strengthened our democracy's political process; Ella Grasso, a genuine public servant who fought against death as she fought for political principle, with dignity; and Eubie Blake, an historical figure in American performing arts and one of the greatest ragtime composers and pianists.
+
+Now, let me tell you how these six recipients have strengthened our freedom by reading to you something the historian Edward Gibbon wrote about ancient Athens, the first democracy and the fountainhead of Western culture. He wrote that when the Athenians finally wanted not to give to society but for society to give to them, when the freedom they wished for was freedom from responsibility, then Athens ceased to be free.
+
+The recipients today have given greatly to our society in music, public service, and humanitarian activities. They've met their responsibilities to freedom. By giving of themselves and their energies, they've kept this society diverse, and in diversity there is liberty.
+
+Perhaps this award is called the Medal of Freedom also because our Nation allowed these great Americans to pursue their interests unhindered. And when individuals are free to follow their hearts and talents, the common good benefits. America has given these honorees freedom, and they've discharged that responsibility with brilliant distinction.
+
+Let me read the citation and present the medal to each recipient who will then, we hope, say a few words to us.
+
+To Charles B. Thornton:
+
+{COMMENT="The President read the citation, the text of which follows"} 
+
+Industrialist, warrior and humanitarian, Tex Thornton's life has embodied all that is best in the worlds of commerce, military service and civic duty. In all three realms, Tex Thornton has never failed to give generously of his boundless energy, his unfailing courage, and his deep love of country. In war and peace, in public service and the private sector, Tex Thornton has earned the esteem of all Americans who value patriotism, enterprise and compassion as cornerstones of our nation's greatness.
+
+And we regret in sorrow that because of his health, he cannot be here to accept this in person. But we're pleased that his son, Charles Bates Thornton, Jr. is here to accept for his father. 
+
+{/speech}

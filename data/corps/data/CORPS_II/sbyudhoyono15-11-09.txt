@@ -1,0 +1,24 @@
+﻿{title} Remarks by President Obama and President Yudhoyono of Indonesia After Bilateral Meeting {/title}
+{event} Bilateral Meeting {/event}
+{speaker} Susilo Bambang Yudhoyono {/speaker}
+{date} November 15, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. {APPLAUSE}
+
+Yes, President Obama and I had a very good discussion on wide range of issues of common interests. President Obama is a friend of Indonesia. He knows Indonesia very well, and he is well respected in Indonesia.
+
+In this meeting, I told President Obama that I really appreciate his fresh new approach to the world, to many international issues, including his positive outreach to the Islamic world.
+
+We also renewed our commitment to elevate our relation at higher level for comprehensive partnerships, and I welcome also the future cooperation between Indonesia and the United States in various fields such as trade and investment, education and technology, climate change, food and energy security, countering communicable diseases and also counterterrorism and people-to-people contact.
+
+And lastly, as has been shared by President Obama, I look forward to welcoming President Obama to Indonesia next year, and he will be warmly welcomed by the Indonesian people.
+
+Thank you.
+
+{OTHER-SPEAK} Thank you so much. {/OTHER-SPEAK} {APPLAUSE} 
+
+{/speech}

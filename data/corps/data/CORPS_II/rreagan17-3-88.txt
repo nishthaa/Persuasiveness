@@ -1,0 +1,24 @@
+﻿{title} Remarks at a St. Patrick's Day Luncheon in Alexandria, Virginia {/title}
+{event} St. Patrick's Day Luncheon in Alexandria {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} March 17, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President spoke at 1:12 p.m. at Ireland's Own restaurant. {/description}
+
+{speech} 
+
+Well, thank you very much. I know that they've got me scheduled. So, I just have a minute or two to say something here, and first of all, a very great thank you to Pat Troy, the owner of this particular place. Jack Kilpatrick and I -- this has been a very happy surprise. We just thought we were coming over here for a St. Patrick's Day lunch. {LAUGHTER} It was quite a surprise, but a very pleasant surprise.
+
+
+
+You know, my father told me when I was that high that the Irish built the jails in this country and then filled them. {LAUGHTER} And then I -- no, I'll tell you, you're thinking what I did, and for a long time I was very chary about saying anything. I didn't know why he was so proud of that -- {LAUGHTER} -- until I got a ticket once from a Chicago cop. {LAUGHTER} And when I heard that brogue I found out what he meant. {LAUGHTER} The police forces of America are largely Irish. So, by now, I can tell you, I've got a pub named after me in Ballyporeen. {LAUGHTER} But I just want you to know -- you know, I'm very leery about ethnic jokes now in my position. {LAUGHTER} So, the only ones I can tell are Irish. {LAUGHTER}
+
+
+
+Well, no, I really set out to tell you that on that same trip to Ballyporeen, where I found that pub, I went up on Cashel Rock later, where St. Patrick erected the first cross in Ireland. And the young Irish guide who was showing me around took me through the cemetery, and he stopped beside one very ancient, large tombstone there. And the inscription on the tombstone read: "Remember me as you pass by. For as you are, so once was I. And as I am, you too will be. So, be content to follow me." And that was too much for some Irishmen of more recent vintage -- {LAUGHTER} -- who had scratched underneath, "To follow you I am content. I wish I knew which way you went." {LAUGHTER}
+
+
+
+Well, I thank you all for this, and a happy St. Patrick's Day to all of you. And why didn't I find this place 7 years ago? {LAUGHTER} 
+
+{/speech}

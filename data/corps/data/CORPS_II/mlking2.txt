@@ -1,0 +1,155 @@
+﻿{title} Our God Is Marching On! {/title}
+{event} ----- {/event}
+{speaker} Martin Luther King {/speaker}
+{date} 25 March 1965 {/date}
+{source} http://www.stanford.edu/group/King/publications/speeches/ {/source}
+{description} ----- {/description}
+
+
+{speech}
+
+My dear and abiding friends, Ralph Abernathy, and to all of the distinguished Americans seated here on the rostrum, my friends and co-workers of the state of Alabama, and to all of the freedom-loving people who have assembled here this afternoon from all over our nation and from all over the world: Last Sunday, more than eight thousand of us started on a mighty walk from Selma, Alabama. We have walked through desolate valleys and across the trying hills. We have walked on meandering highways and rested our bodies on rocky byways. Some of our faces are burned from the outpourings of the sweltering sun. Some have literally slept in the mud. We have been drenched by the rains. {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} Our bodies are tired and our feet are somewhat sore. 
+
+But today as I stand before you and think back over that great march, I can say, as Sister Pollard said—a seventy-year-old Negro woman who lived in this community during the bus boycott—and one day, she was asked while walking if she didn't want to ride. And when she answered, "No," the person said, "Well, aren't you tired?" And with her ungrammatical profundity, she said, "My feets is tired, but my soul is rested." {AUDIENCE-MEMBER} Yes, sir. All right {/AUDIENCE-MEMBER} And in a real sense this afternoon, we can say that our feet are tired, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} but our souls are rested. 
+
+They told us we wouldn't get here. And there were those who said that we would get here only over their dead bodies, {AUDIENCE-MEMBER} Well. Yes, sir. Talk {/AUDIENCE-MEMBER} but all the world today knows that we are here and we are standing before the forces of power in the state of Alabama saying, "We ain't goin' let nobody turn us around." {AUDIENCE-MEMBER} Yes, sir. Speak {/AUDIENCE-MEMBER} {APPLAUSE}
+
+Now it is not an accident that one of the great marches of American history should terminate in Montgomery, Alabama. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Just ten years ago, in this very city, a new philosophy was born of the Negro struggle. Montgomery was the first city in the South in which the entire Negro community united and squarely faced its age-old oppressors. {AUDIENCE-MEMBER} Yes, sir. Well {/AUDIENCE-MEMBER} Out of this struggle, more than bus desegregation was won; a new idea, more powerful than guns or clubs was born. Negroes took it and carried it across the South in epic battles {AUDIENCE-MEMBER} Yes, sir. Speak {/AUDIENCE-MEMBER} that electrified the nation {AUDIENCE-MEMBER} Well {/AUDIENCE-MEMBER} and the world. 
+
+Yet, strangely, the climactic conflicts always were fought and won on Alabama soil. After Montgomery's, heroic confrontations loomed up in Mississippi, Arkansas, Georgia, and elsewhere. But not until the colossus of segregation was challenged in Birmingham did the conscience of America begin to bleed. White America was profoundly aroused by Birmingham because it witnessed the whole community of Negroes facing terror and brutality with majestic scorn and heroic courage. And from the wells of this democratic spirit, the nation finally forced Congress {AUDIENCE-MEMBER} Well {/AUDIENCE-MEMBER} to write legislation {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} in the hope that it would eradicate the stain of Birmingham. The Civil Rights Act of 1964 gave Negroes some part of their rightful dignity, {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER} but without the vote it was dignity without strength. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Once more the method of nonviolent resistance {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} was unsheathed from its scabbard, and once again an entire community was mobilized to confront the adversary. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} And again the brutality of a dying order shrieks across the land. Yet, Selma, Alabama, became a shining moment in the conscience of man. If the worst in American life lurked in its dark streets, the best of American instincts arose passionately from across the nation to overcome it. {AUDIENCE-MEMBER} Yes, sir. Speak {/AUDIENCE-MEMBER} There never was a moment in American history {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} more honorable and more inspiring than the pilgrimage of clergymen and laymen of every race and faith pouring into Selma to face danger {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} at the side of its embattled Negroes.
+
+The confrontation of good and evil compressed in the tiny community of Selma {AUDIENCE-MEMBER} Speak, speak {/AUDIENCE-MEMBER} generated the massive power {AUDIENCE-MEMBER} Yes, sir. Yes, sir {/AUDIENCE-MEMBER} to turn the whole nation to a new course. A president born in the South {AUDIENCE-MEMBER} Well {/AUDIENCE-MEMBER} had the sensitivity to feel the will of the country, {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER} and in an address that will live in history as one of the most passionate pleas for human rights ever made by a president of our nation, he pledged the might of the federal government to cast off the centuries-old blight. President Johnson rightly praised the courage of the Negro for awakening the conscience of the nation. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+On our part we must pay our profound respects to the white Americans who cherish their democratic traditions over the ugly customs and privileges of generations and come forth boldly to join hands with us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} From Montgomery to Birmingham, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} from Birmingham to Selma, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} from Selma back to Montgomery, {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} a trail wound in a circle long and often bloody, yet it has become a highway up from darkness. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Alabama has tried to nurture and defend evil, but evil is choking to death in the dusty roads and streets of this state. {AUDIENCE-MEMBER} Yes, sir. Speak, sir {/AUDIENCE-MEMBER} So I stand before you this afternoon {AUDIENCE-MEMBER} Speak, sir. Well {/AUDIENCE-MEMBER} with the conviction that segregation is on its deathbed in Alabama, and the only thing uncertain about it is how costly the segregationists and Wallace will make the funeral. {AUDIENCE-MEMBER} Go ahead. Yes, sir {/AUDIENCE-MEMBER} {APPLAUSE} 
+
+Our whole campaign in Alabama has been centered around the right to vote. In focusing the attention of the nation and the world today on the flagrant denial of the right to vote, we are exposing the very origin, the root cause, of racial segregation in the Southland. Racial segregation as a way of life did not come about as a natural result of hatred between the races immediately after the Civil War. There were no laws segregating the races then. And as the noted historian, C. Vann Woodward, in his book, The Strange Career of Jim Crow, clearly points out, the segregation of the races was really a political stratagem employed by the emerging Bourbon interests in the South to keep the southern masses divided and southern labor the cheapest in the land. You see, it was a simple thing to keep the poor white masses working for near-starvation wages in the years that followed the Civil War. Why, if the poor white plantation or mill worker became dissatisfied with his low wages, the plantation or mill owner would merely threaten to fire him and hire former Negro slaves and pay him even less. Thus, the southern wage level was kept almost unbearably low. 
+
+Toward the end of the Reconstruction era, something very significant happened. {AUDIENCE-MEMBER} Listen to him {/AUDIENCE-MEMBER} That is what was known as the Populist Movement. {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER} The leaders of this movement began awakening the poor white masses {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} and the former Negro slaves to the fact that they were being fleeced by the emerging Bourbon interests. Not only that, but they began uniting the Negro and white masses {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} into a voting bloc that threatened to drive the Bourbon interests from the command posts of political power in the South. 
+
+To meet this threat, the southern aristocracy began immediately to engineer this development of a segregated society. {AUDIENCE-MEMBER} Right {/AUDIENCE-MEMBER} I want you to follow me through here because this is very important to see the roots of racism and the denial of the right to vote. Through their control of mass media, they revised the doctrine of white supremacy. They saturated the thinking of the poor white masses with it, {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} thus clouding their minds to the real issue involved in the Populist Movement. They then directed the placement on the books of the South of laws that made it a crime for Negroes and whites to come together as equals at any level. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} And that did it. That crippled and eventually destroyed the Populist Movement of the nineteenth century. 
+
+If it may be said of the slavery era that the white man took the world and gave the Negro Jesus, then it may be said of the Reconstruction era that the southern aristocracy took the world and gave the poor white man Jim Crow. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} He gave him Jim Crow. {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} And when his wrinkled stomach cried out for the food that his empty pockets could not provide, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} he ate Jim Crow, a psychological bird that told him that no matter how bad off he was, at least he was a white man, better than the black man. {AUDIENCE-MEMBER} Right sir {/AUDIENCE-MEMBER} And he ate Jim Crow. {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} And when his undernourished children cried out for the necessities that his low wages could not provide, he showed them the Jim Crow signs on the buses and in the stores, on the streets and in the public buildings. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} And his children, too, learned to feed upon Jim Crow, {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} their last outpost of psychological oblivion. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Thus, the threat of the free exercise of the ballot by the Negro and the white masses alike {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} resulted in the establishment of a segregated society. They segregated southern money from the poor whites; they segregated southern mores from the rich whites; {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} they segregated southern churches from Christianity {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} ; they segregated southern minds from honest thinking; {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} and they segregated the Negro from everything. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} That's what happened when the Negro and white masses of the South threatened to unite and build a great society: a society of justice where none would pray upon the weakness of others; a society of plenty where greed and poverty would be done away; a society of brotherhood where every man would respect the dignity and worth of human personality. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+We've come a long way since that travesty of justice was perpetrated upon the American mind. James Weldon Johnson put it eloquently. He said: 
+
+We have come over a way
+
+That with tears hath been watered. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+We have come treading our paths
+
+Through the blood of the slaughtered. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+Out of the gloomy past, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Till now we stand at last
+
+Where the white gleam
+
+Of our bright star is cast. {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER}
+
+Today I want to tell the city of Selma, {AUDIENCE-MEMBER} Tell them, Doctor {/AUDIENCE-MEMBER} today I want to say to the state of Alabama, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} today I want to say to the people of America and the nations of the world, that we are not about to turn around. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} We are on the move now. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Yes, we are on the move and no wave of racism can stop us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} We are on the move now. The burning of our churches will not deter us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The bombing of our homes will not dissuade us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} We are on the move now. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The beating and killing of our clergymen and young people will not divert us. We are on the move now. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The wanton release of their known murderers would not discourage us. We are on the move now. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Like an idea whose time has come, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} not even the marching of mighty armies can halt us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} We are moving to the land of freedom. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Let us therefore continue our triumphant march {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} to the realization of the American dream. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Let us march on segregated housing {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} until every ghetto or social and economic depression dissolves, and Negroes and whites live side by side in decent, safe, and sanitary housing. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Let us march on segregated schools {AUDIENCE-MEMBER} Let us march, Tell it {/AUDIENCE-MEMBER} until every vestige of segregated and inferior education becomes a thing of the past, and Negroes and whites study side-by-side in the socially-healing context of the classroom.
+
+Let us march on poverty {AUDIENCE-MEMBER} Let us march {/AUDIENCE-MEMBER} until no American parent has to skip a meal so that their children may eat. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} March on poverty {AUDIENCE-MEMBER} Let us march {/AUDIENCE-MEMBER} until no starved man walks the streets of our cities and towns {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} in search of jobs that do not exist. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}  Let us march on poverty {AUDIENCE-MEMBER} Let us march {/AUDIENCE-MEMBER} until wrinkled stomachs in Mississippi are filled, {AUDIENCE-MEMBER} That's right {/AUDIENCE-MEMBER} and the idle industries of Appalachia are realized and revitalized, and broken lives in sweltering ghettos are mended and remolded. 
+
+Let us march on ballot boxes, {AUDIENCE-MEMBER} Let's march {/AUDIENCE-MEMBER} march on ballot boxes until race-baiters disappear from the political arena. 
+
+Let us march on ballot boxes until the salient misdeeds of bloodthirsty mobs {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} will be transformed into the calculated good deeds of orderly citizens. {AUDIENCE-MEMBER} Speak, Doctor {/AUDIENCE-MEMBER}  
+
+Let us march on ballot boxes {AUDIENCE-MEMBER} Let us march {/AUDIENCE-MEMBER} until the Wallaces of our nation tremble away in silence. 
+
+Let us march on ballot boxes {AUDIENCE-MEMBER} Let us march {/AUDIENCE-MEMBER} until we send to our city councils {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} , state legislatures, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} and the United States Congress, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} men who will not fear to do justly, love mercy, and walk humbly with thy God. 
+
+Let us march on ballot boxes {AUDIENCE-MEMBER} Let us march . March {/AUDIENCE-MEMBER} until brotherhood becomes more than a meaningless word in an opening prayer, but the order of the day on every legislative agenda. 
+
+Let us march on ballot boxes {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} until all over Alabama God's children will be able to walk the earth in decency and honor. 
+
+There is nothing wrong with marching in this sense. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The Bible tells us that the mighty men of Joshua merely walked about the walled city of Jericho {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} and the barriers to freedom came tumbling down. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} I like that old Negro spiritual, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} "Joshua Fit the Battle of Jericho." In its simple, yet colorful, depiction {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} of that great moment in biblical history, it tells us that: 
+
+Joshua fit the battle of Jericho, {AUDIENCE-MEMBER} Tell it {/AUDIENCE-MEMBER} 
+
+Joshua fit the battle of Jericho, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+And the walls come tumbling down. {AUDIENCE-MEMBER} Yes, sir. Tell it {/AUDIENCE-MEMBER} 
+
+Up to the walls of Jericho they marched, spear in hand. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+"Go blow them ramhorns," Joshua cried, 
+
+"‘Cause the battle am in my hand." {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+These words I have given you just as they were given us by the unknown, long-dead, dark-skinned originator. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Some now long-gone black bard bequeathed to posterity these words in ungrammatical form, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} yet with emphatic pertinence for all of us today. {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER}
+
+The battle is in our hands. And we can answer with creative nonviolence the call to higher ground to which the new directions of our struggle summons us. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The road ahead is not altogether a smooth one. {AUDIENCE-MEMBER} No! {/AUDIENCE-MEMBER} There are no broad highways that lead us easily and inevitably to quick solutions. But we must keep going. 
+
+In the glow of the lamplight on my desk a few nights ago, I gazed again upon the wondrous sign of our times, full of hope and promise of the future. {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} And I smiled to see in the newspaper photographs of many a decade ago, the faces so bright, so solemn, of our valiant heroes, the people of Montgomery. To this list may be added the names of all those {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} who have fought and, yes, died in the nonviolent army of our day: Medgar Evers, {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} three civil rights workers in Mississippi last summer, {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} William Moore, as has already been mentioned, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} the Reverend James Reeb, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Jimmy Lee Jackson, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} and four little girls in the church of God in Birmingham on Sunday morning. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} But in spite of this, we must go on and be sure that they did not die in vain. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The pattern of their feet as they walked through Jim Crow barriers in the great stride toward freedom is the thunder of the marching men of Joshua, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} and the world rocks beneath their tread. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+My people, my people, listen. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The battle is in our hands. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The battle is in our hands in Mississippi and Alabama and all over the United States. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} I know there is a cry today in Alabama, {AUDIENCE-MEMBER} Uh huh {/AUDIENCE-MEMBER} we see it in numerous editorials: "When will Martin Luther King, SCLC, SNCC, and all of these civil rights agitators and all of the white clergymen and labor leaders and students and others get out of our community and let Alabama return to normalcy?" 
+
+But I have a message that I would like to leave with Alabama this evening. {AUDIENCE-MEMBER} Tell it {/AUDIENCE-MEMBER} That is exactly what we don't want, and we will not allow it to happen, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} for we know that it was normalcy in Marion {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} that led to the brutal murder of Jimmy Lee Jackson. {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} It was normalcy in Birmingham {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} that led to the murder on Sunday morning of four beautiful, unoffending, innocent girls. It was normalcy on Highway 80 {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} that led state troopers to use tear gas and horses and billy clubs against unarmed human beings who were simply marching for justice. {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER} It was normalcy by a cafe in Selma, Alabama, that led to the brutal beating of Reverend James Reeb. 
+
+It is normalcy all over our country {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} which leaves the Negro perishing on a lonely island of poverty in the midst of vast ocean of material prosperity. It is normalcy all over Alabama {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} that prevents the Negro from becoming a registered voter. {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} No, we will not allow Alabama {AUDIENCE-MEMBER} Go ahead {/AUDIENCE-MEMBER} to return to normalcy. {APPLAUSE} 
+
+The only normalcy that we will settle for {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} is the normalcy that recognizes the dignity and worth of all of God's children. The only normalcy that we will settle for is the normalcy that allows judgment to run down like waters, and righteousness like a mighty stream. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} The only normalcy that we will settle for is the normalcy of brotherhood, the normalcy of true peace, the normalcy of justice. 
+
+And so as we go away this afternoon, let us go away more than ever before committed to this struggle and committed to nonviolence. I must admit to you that there are still some difficult days ahead. We are still in for a season of suffering in many of the black belt counties of Alabama, many areas of Mississippi, many areas of Louisiana. I must admit to you that there are still jail cells waiting for us, and dark and difficult moments. But if we will go on with the faith that nonviolence and its power can transform dark yesterdays into bright tomorrows, we will be able to change all of these conditions. 
+
+And so I plead with you this afternoon as we go ahead: remain committed to nonviolence. Our aim must never be to defeat or humiliate the white man, but to win his friendship and understanding. We must come to see that the end we seek is a society at peace with itself, a society that can live with its conscience. And that will be a day not of the white man, not of the black man. That will be the day of man as man. {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} 
+
+I know you are asking today, "How long will it take?" {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER} Somebody's asking, "How long will prejudice blind the visions of men, darken their understanding, and drive bright-eyed wisdom from her sacred throne?" Somebody's asking, "When will wounded justice, lying prostrate on the streets of Selma and Birmingham and communities all over the South, be lifted from this dust of shame to reign supreme among the children of men?" Somebody's asking, "When will the radiant star of hope be plunged against the nocturnal bosom of this lonely night, {AUDIENCE-MEMBER} Speak, speak, speak {/AUDIENCE-MEMBER} plucked from weary souls with chains of fear and the manacles of death? How long will justice be crucified, {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} and truth bear it?" {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+I come to say to you this afternoon, however difficult the moment, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} however frustrating the hour, it will not be long, {AUDIENCE-MEMBER} No sir {/AUDIENCE-MEMBER} because "truth crushed to earth will rise again." {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+How long? Not long, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} because "no lie can live forever." {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+How long? Not long, {AUDIENCE-MEMBER} All right. How long {/AUDIENCE-MEMBER} because "you shall reap what you sow." {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+How long? {AUDIENCE-MEMBER} How long? {/AUDIENCE-MEMBER} Not long: {AUDIENCE-MEMBER} Not long {/AUDIENCE-MEMBER}
+
+Truth forever on the scaffold, {AUDIENCE-MEMBER} Speak {/AUDIENCE-MEMBER} 
+
+Wrong forever on the throne, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+Yet that scaffold sways the future, {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+And, behind the dim unknown,
+
+Standeth God within the shadow, 
+
+Keeping watch above his own. 
+
+How long? Not long, because the arc of the moral universe is long, but it bends toward justice. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+How long? Not long, {AUDIENCE-MEMBER} Not long {/AUDIENCE-MEMBER} because:
+
+Mine eyes have seen the glory of the coming of the Lord; {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+He is trampling out the vintage where the grapes of wrath are stored; {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER}
+
+He has loosed the fateful lightning of his terrible swift sword; {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER}
+
+His truth is marching on. {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} 
+
+He has sounded forth the trumpet that shall never call retreat; {AUDIENCE-MEMBER} Speak, sir {/AUDIENCE-MEMBER}
+
+He is sifting out the hearts of men before His judgment seat. {AUDIENCE-MEMBER} That's right {/AUDIENCE-MEMBER} 
+
+O, be swift, my soul, to answer Him! Be jubilant my feet!
+
+Our God is marching on. {AUDIENCE-MEMBER} Yes! {/AUDIENCE-MEMBER} 
+
+Glory, hallelujah! {AUDIENCE-MEMBER} Yes, sir {/AUDIENCE-MEMBER} Glory, hallelujah! {AUDIENCE-MEMBER} All right {/AUDIENCE-MEMBER} 
+
+Glory, hallelujah! Glory, hallelujah! 
+
+His truth is marching on. {APPLAUSE}
+
+{/speech}{AUDIENCE-MEMBER} 

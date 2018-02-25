@@ -1,0 +1,36 @@
+﻿{title} Speech at South Carolina Democratic Party {/title} 
+{event} ----- {/event} 
+{speaker} Richard Gephardt {/speaker} 
+{date} May 3, 2003 {/date} 
+{source} http://www.gwu.edu {/source} 
+ 
+{description} ----- {/description} 
+ 
+{speech} 
+ 
+I want to tell you a little bit about my background before I hit a few issues today. My dad was a teamster and a milk truck driver in St. Louis, Missouri. Never got through high school. My mother was a secretary; neither did she. But they worked hard. They provided opportunity for me and my brother. 
+
+When I was in the 7th grade, my principal called my parents up to school--I thought I was in trouble. The principal said have you saved any money so your son can go to college? My folks didn't have any money. But I'll never forget, my mother came home and she was so excited that the principal thought I could actually go to college. And she said we're going to start saving five and ten dollars a week, whatever we can. And I got a church scholarship and my parents' savings and I had three jobs. And I got to go to Northwestern University, University of Michigan Law School. Got a great education. I'm an example of the American Dream and I think it's time we had a president again who's lived the lives of most Americans, don't you? {CHEERS ; APPLAUSE} 
+
+I worked hard to help Bill Clinton and Al Gore pass the economic policies of the early 1990s. We got the budget into balance. We made investments in education with Secretary Riley at the helm of the greatest Education Department we've had in fifty years in this country. {CHEERS ; APPLAUSE} 
+
+There was a man that really understood education; there was a man who really did leave no child behind. {CHEERS ; APPLAUSE} 
+
+And then here comes this president. After we've helped create the best economy in fifty years in this country. Unemployment was down near 3 percent nationally. Home sales and ownership was at the highest level in the history of the country. Growth was up; unemployment was down. Inflation was down; jobs were up. Everything was going in the right direction and here comes this president and he squandered it. The surplus that we were talking about. Remember the discussion of the surplus that we had helped build in this country, a magnificent achievement of the American people, and this president squandered it in twelve months. Let's get back to sound leadership that'll move this economy in the right direction. {CHEERS ; APPLAUSE} 
+
+In my first week as president I will go to the Congress and I will ask the Congress to rescind the Bush tax cut. {CHEERS ; APPLAUSE} And I will use that revenue to give every company in this country--large, medium and small, whether or not they pay taxes--I'll give them a tax credit that's equal to 60 percent of the cost of health care for their employees. It will cover part-time employees and full time employees. It'll cover retired employees and active employees. It'll cover everybody who works in this country. It'll be a refundable tax credit. I'll put money in CHIPS; I'll put money in COBRA {COMMENT="inaudible"} employees; I'll put money in Medicare and Medicaid. I want everybody in this country covered with quality health insurance no matter {COMMENT="inaudible"}. {CHEERS ; APPLAUSE} 
+
+But if you want to see terror in somebody's eyes you get a parent of a child who's very ill and they don't have health insurance and they don't know how they're going to pay for the next treatment. That folks is terror, and I'm here to tell you something today... {COMMENT="recording interrupted"}
+...and Bill Clinton and the Democratic Congress put in place-- Thank you. {LAUGHTER ; APPLAUSE} That came at the right time. 
+
+I want after school programs, I want pre-school programs, I want smaller classroom size, I want to help the local school districts build more buildings for education, and finally I want to see that we get our best and brightest young people to decide to become teachers. 
+
+We have another child, Kate, who's a teacher. She's in early childhood, and when she was training to be a teacher, she'd call me all the time and she'd say dad should I really do this? Finally, I said to her Kate why do you keep asking me this question? She said because my classmates laugh at me because I'm not going to make any money. And I said well Kate money's not what's important in life; what's important is what's in your heart. I said become a teacher; it's what you always wanted to do. And she went ahead and got her degree; even got her graduate degree. She went out to get her first job. $17,000 a year. Then she came home and she said dad now I know what they were laughing about. I said Kate I know you can't pay your college loans and live on your own, so you can live with us. She is living with us. She's going to be living with us for a long time. {APPLAUSE} 
+
+I can't solve all those problems, but when I'm president I'll have a program that says to every young person in this country, if you'll train to be a teacher and you'll teach where we need you for five years, we will pay your college loans. {APPLAUSE} 
+
+Now let me end with this; let me give you my philosophy of life. It is very simple. We are all tied together whether you like it or not. If somebody's child doesn't get a good education--winds up on drugs or welfare or prison, all the rest of us pay the bills. If somebody doesn't have health care or winds up in the emergency room with problems worse than they should have, all the rest of us who have health insurance pay the bills, whether we like it or not. 
+
+The Republicans believe we're all separate and it's survival of the fittest. If you make it fine; if you don't, it's fine too. I don't believe that. I believe we are tied together. Martin Luther King said it right. He said we're all tied into a single garment of destiny. What affects one directly, affects all the rest of us indirectly. And he said I can't be what I ought to be until you are what you ought to be. {APPLAUSE} That's the kind of president I will be. Nobody left behind; nobody left out. We will make this country better than it's ever been. We will be tied together. We will succeed together. Thank you. God bless you. God bless America. {APPLAUSE} 
+ 
+{/speech} 

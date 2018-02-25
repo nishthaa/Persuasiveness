@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President, the Vice President, Attorney General Janet Reno, Sarah Brady, Melanie Musick, and Jim Brady During Signing Ceremony of the Brady Bill {/title}
+{event} The East Room {/event}
+{speaker} Sarah Brady {/speaker}
+{date} November 30, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, General Reno. She didn't tell you that on that courthouse step alone, fighting for the Brady Bill, there was one other woman -- the Attorney General herself. And right along the way this year since we've been fortunate enough to have her in Washington, she's been right along with us.
+
+It's a special day for us all. I don't think it every occurred to me that I would be this emotional. And I walked in and looked at the faces here and the memories that come back over these past seven years -- every face I look at brings back a different memory.
+
+And I want to thank a lot of people here, and I'm going to try to do it as quickly as possible. Everybody here has helped. And each of you in your own way reflects many others across the country. First of all, I want to say to have an administration, an Attorney General, a Vice President, and a President who we knew would sign this bill is of the utmost importance.
+
+I'd like to draw attention also to another President, who we feel very close to, President Ronald Reagan, who supported it and came out for the Brady Bill, and who made it a badge of honor for Republicans -- {APPLAUSE} -- and brought this bill into the arena where it was not a partisan issue.
+
+I would like to thank the men and women in blue who have by the hundreds of thousands come to Washington to fight for this over the years, marched for us, been in press conferences, and more than anything else who day in and day out give their lives for all of us. {APPLAUSE}
+
+To our bill sponsors, Senator Metzenbaum, Congressman Schumer, Congressman Sensenbrenner, and our very first Ed Feighan, and all the rest of the members of Congress who had the guts to speak out early and support us all along the way when sometimes it wasn't easy. And I know one of the earliest ones was a Senator from Texas - - and in Texas that wasn't so easy in those days; and he now, of course, sits on the President's Cabinet. So for all the Congress who have supported us, my thanks.
+
+Our friends, Handgun Control, board and staff, are phenomenal. Over the years, they've worked their heart out. And I want to talk a little bit about the victims around the country who have suffered and suffered terribly, and who've gotten involved in this movement. And I know today for them is a very special day, and we thank them for what they've done.
+
+For everyone who's gotten involved, I can't -- I don't know how to say that this is all part of everything a team, a large team, did together.
+
+There's one man in particular now I want to talk about, and that is a gentleman by the name of Pete Shields, who was my predecessor. And it was Pete Shields who made this movement what it is. Before anyone else got involved or thought, he, after losing his son to gunfire, quit his job, came to Washington and decided to work for this noble cause. Pete Shields was Chairman of Handgun Control when I joined; and he was until the year before his death, until he passed away last winter. And we owe a great debt of -- a great debt of gratitude to Pete and to Pete's family -- {APPLAUSE} 
+
+And I only have one or two other words I want to say. Our critics have said that the Brady Bill was only symbolic. Well, I think there is some symbolism in the Brady Bill -- it's symbolic of teamwork, of people from all over this nation working together to pass something that the people wanted. I think it's symbolic that members of Congress could stand up to a large lobby. I think it's symbolic of a lot of things. But I don't want anyone to feel that that's all it is. The Brady Bill is not just symbolism. It will begin to make a difference. It will begin to save lives. We read in The Post this morning that in four states alone, over 50,000 people were stopped in the last four years from getting weapons illegally -- or over the counter. It will help.
+
+And to tell you a little bit on a personal level of how it would have helped her, I want to introduce a very special young woman. Her name is Melanie Musick. I met her several years ago when she came, like so many of the victims have come to Washington to help us, she came to tell her story and to plead. And her story is one of many in the past, and one of many in the future who we hope will be saved by the Brady Bill.
+
+And now I'd like to introduce to you a very special young woman, Melanie Musick. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by President Clinton, President Vaclav Havel of the Czech Republic, and President Michal Kovac of the Slovak Republic in the Dedication of the National Czech and Slovak Museum {/title}
+{event} Cedar Rapids, Iowa {/event}
+{speaker} Vaclav Havel {/speaker}
+{date} October 21, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Dear Presidents, Mr. Governor, senators and congressmen, ladies and gentlemen. I hope you will excuse me for speaking in Czech, but I really do think that the occasion warrants it. {LAUGHTER ; APPLAUSE} 
+
+When I traveled here to Cedar Rapids and pondered upon the meaning of this trip, I thought, among other things, of a small train station not far away from Prague, and a small train station not far away from here. I recalled the fate of a man who 100 years ago made the journey between these two places. And I thought of the music which accompanied him as he went.
+
+Some of you may have guessed that the stations are those of Nelahozeves, in the vicinity of Prague, and of Spillville, Iowa; that the man I am talking about is Antonin Dvorak, and the music, the Czech and American melodies which were the background for the unique new world symphony.
+
+Antonin Dvorak, as you know well, was neither the first nor the last Czech to undertake this kind of a journey. At first hundreds, and later thousands and tens of thousands of Czech feet were treading the same pass, from the heart of Europe to the harbors on the East Coast of the United States. From there to the center of the Midwest -- Chicago -- and farther on to Iowa, Nebraska, Kansas, Wisconsin and a number of other places.
+
+Many of our fellow countrymen eventually settled here in Cedar Rapids. They came here to Iowa to find here freedom, prosperity and mutual tolerance. It was here that they felt that "this is the land" which, as I have been told, is the original Indian meaning of the word Iowa.
+
+The Czech and Slovak National Museum, whose opening we are celebrating here today, portrays this journey of our fellow countrymen with period photographs, artifacts and papers. It is and remains a memorial of their courage, their hard work, their readiness to overcome obstacles. And they believe in the future and in a higher providence. I am glad, and I feel honored to be able to congratulate you today on the completion of this magnificent work.
+
+During the 100 years which have passed since Dvorak's visit to Iowa, the people in which the local Czech settlers have their roots has gone a long way as well. It was a journey in time rather than in space. But the goals were the same -- freedom, tolerance and prosperity.
+
+After decades of oppression and absence of freedom, we have now reached a situation when we, too, can say in our home, "this is the land." It seems that our respective pasts have brought us to the same or at least a similar point. We are united by the same ideals. We believe in the same values. And we share the desire to cherish and protect them. Our experience, often a bitter one, has taught us that they cannot be simply taken for granted as something that will just be there forever, even if we were to do nothing for it.
+
+Perhaps this fact is best expressed in the motto of the state of Iowa: Our liberties we prize, and our rights we will maintain. It is these words that guided the steps of the Czech travelers here to Iowa. They might as well have guided our own steps on our own journey.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

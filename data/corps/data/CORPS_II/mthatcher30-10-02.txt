@@ -1,0 +1,29 @@
+﻿{title} Remarks opening new wing of Churchill Archives Centre {/title}
+{event} Opening of new wing of Churchill Archives Centre {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} October 30, 2002 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Around 1115. Sir John Boyd, the Master of Churchill College, opened the proceedings with a lengthy introduction. He concluded his speech with an apology for its length, hence MT's opening remarks {/description}
+
+{speech}
+
+Master, you could have gone on for much longer and I would have drunk in every word. {LAUGHTER}
+Master, My Lords, Ladies and Gentlemen, I am just very pleased to be here to open this extension to the Churchill Archives Centre. This building is testimony to the generosity of many people and institutions. It will house the papers of past and future public figures, and even the occasional politician. {LAUGHTER}
+
+Winston Churchill once observed: "We shape our buildings. Thereafter they shape us". That will be particularly so of this centre. The papers of British statesmen are unlikely ever again to be as revealing as they were when letters – not phone calls, or even emails – when letters were the ordinary means of communication. Moreover, in this country, Prime Ministers only take away with them a limted – a very limited – {COMMENT="MT gave a mock grimace"} {LAUGHTER} quantity of material, unlike America, where so much of an Administration's records finish up in the Presidential Library.
+
+But with these qualifications, politicians' private papers offer insights that could not be gained from any source. As such, {COMMENT="Pauses aircraft fly overhead"} -- when the planes have gone over -- as such, they allow historians to understand what we did, what we didn't do, and who knows, perhaps what we ought to have done.
+
+I have always had a high regard for those who write history. Several have been close friends and advisers. And it is good that the general public is nowadays so fascinated by our past. This can only be beneficial. While it is true that history's lessons can only be applied with the greatest care to what are very different situations, it is also true that a knowledge of the past gives us a good basis on which to make sound judgment about the present. As such it provides a necessary foundation for statesmanship. So the material contained in the Churchill Archives, as in other archives, is a real national asset, which I hope that generations of researchers will quarry to good effect.
+
+I would just offer two friendly warnings. First, even the fullest record, in my experience, never conveys the essence of a crisis. Having read through much of the documentation of my premiership when I was working on my memoirs, I was often struck by the way in which the mood of the moment was lost. Tension and trouble – and in government there are plenty of both – are efficiently smoothed away by the note-takers.
+
+Secondly, and more generally, I caution against politicians or historians imagining that a knowledge of the facts and access to past experience alone provide the answers to the most important questions. Convictions drawn from outside politics are also required in order to take the right political decisions. Our beliefs – and indeed our instincts – must anchor us firmly if we are not to capsize in the daily storms of politics. There is more to leadership than enlightened pragmatism. But perhaps the papers in the Churchill Archives Centre will suggest that too.
+
+Now my friends, let's get on with the business of the day.
+
+{COMMENT="Pauses and turns"} Where are the scissors? {LAUGHTER ; SUSTAINED APPLAUSE}
+
+There was a battle about whether we should go to the left or to the right. {LAUGHTER ; APPLAUSE} {COMMENT="MT cuts ribbon"}
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by President Bush and President Kwasniewski at Luncheon with Polish American Leaders {/title}
+{event} Luncheon with Polish American Leaders, Polish Cultural Center, Troy, Michigan {/event}
+{speaker} Aleksander Kwaśniewski {/speaker}
+{date} July 18, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Mr. President, dear friends, Governor, ladies and gentlemen, when I came here I met kids speaking Polish, and I think that's a good opportunity to exercise Polish a little bit. So I would like to use this opportunity and to say some words in Polish. But I hope -- yes, she is prepared, she will translate me.
+
+Ladies and gentlemen, first of all, I would like to express my joy in meeting you here in Michigan, in the state which, according to data, has nearly 1 million of people who admit they have Polish roots.
+
+Ladies and gentlemen, I want to say that you feel it immediately, when only you put your foot on this land you can feel immediately that you are like at home, among friends, among members of your family.
+
+And here I would like to greet you on behalf of the whole, democratic and free Poland. I want to greet everybody who is present here, all Polish people who admit their Polish roots, but not only here, in the state of Michigan, in the whole United States. And I would like to thank you for everything, what you are doing, for Poland, for United States, and for the whole world. {APPLAUSE}
+
+I would like to say that this visit is extraordinary, not only because of the fact that this is a state visit, but this is the extraordinary visit because of great atmosphere which we can feel all the time. And I would like to thank very much President Bush for creating this atmosphere. I want to thank him for the support he's delivering for Poland. I want to thank him for his contribution to the world's security and stability, for his unbreakable spirit in the fight against terrorism, and in the fight to defend the universal values we are so very much attached to in Poland and in the United States, the values which are so important for all of us all over the world. {APPLAUSE}
+
+I would like also to express the words of the highest appreciation to the First Lady, to Mrs. Laura Bush. And I would like to appreciate very much her friendship, her hospitality for Polish people. And because our First Lady and the American First Lady are now in Philadelphia, I think that you have to give a very loud applaud, so they could hear you there in Philadelphia. {APPLAUSE}
+
+Again, again, yes please. {APPLAUSE}
+
+We are living now at the beginning of the 21st century, in a different world. This world is better, but it is also difficult. It is full of challenges. And we have to meet these challenges.
+
+So the Polish American friendship should make a contribution to the future, to the good future of our families of people who live in our countries, people who live in our towns, in our villages, people who live all over the world. The world is small today, but it's even smaller because of the possibilities of good communications, possibilities to travel. And I think that we should all wish ourselves to make a very big effort in order to make these values even more universal -- good values, and values of living in peace. {APPLAUSE}
+
+God bless America, God bless Poland, God bless you. Thank you very much. {APPLAUSE} 
+
+{/speech}

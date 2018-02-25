@@ -1,0 +1,28 @@
+﻿{title} Remarks at a Luncheon in Honor of His Excellency Manmohan Singh, Prime Minister of the Republic of India {/title}
+{event} Benjamin Franklin Room, Washington, DC {/event}
+{speaker} Manmohan Singh {/speaker}
+{date} July 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Dr. Rice, distinguished ladies and gentlemen, I thank you for your gracious welcome and for the excellent arrangements for my visit. Never before in my life, I have met such a large group of the best and the brightest people from the United States and I thank you, Dr. Rice, for providing me with this unique opportunity. I now sense what is it that makes America such a great country.
+
+We in India -- {APPLAUSE} -- we in India have greatly welcomed the extent to which the President's U.S. Administration under President Bush has taken forward efforts to affect a major transformation in the relationship between India and the United States. Madame, we recognize your central role in contributing to this great effort. Indeed, your own visit to India in March marked a significant {COMMENT="Inaudible"} point in our relations.
+
+Ladies and gentlemen, the refashioning of this bilateral relationship is not merely a matter of diplomatic process. Our vision of relations with the United States is a long-term and strategic one, based on shared values and commitments. What we have embarked upon is, therefore, not just for tomorrow but I sincerely hope and believe that it is for generations to come.
+
+Our partnership draws upon the values of pluralism and the diversity that is such a defining characteristic of both our societies. We believe that with the experience of the last 15 years since we unshackled the forces of creativity and competitiveness, India has a stronger basis for shouldering greater global responsibility.
+
+As I told President Bush earlier today, this creates increasing opportunities for both our countries to work together as partners. But more importantly, we recognize that in this increasingly interdependent world in which we live, just as prosperity is indivisible, so too is adversity. This underlines the imperative for both our nations to expand our cooperation in every facet of human endeavor to deal with the challenges {COMMENT="Inaudible"} upon the processes of globalization.
+
+In this context, the success of the Indian-American community has added a new vibrancy to our historic relations. I take pride in the achievements of American Indians, if I may put that that way, for their creativity, for their spirit of adventure and enterprise. They have done us all proud and I -- {APPLAUSE} -- and I have no reason to doubt that their contribution to the enrichment of the life of this great country is equally appreciated by all concerned. This community has played a very valuable role as a bridge between our cultures. And in doing so, they have helped accelerate the transformation of this relationship.
+
+I, therefore, believe that we are at the beginning of an exciting new period in our partnership. It's the juncture that we will one day look upon -- look back upon as a defining moment in history.
+
+Ladies and gentlemen, I would like to conclude by asking you to join me in proposing a toast to the good health of Secretary Rice and to the continued development of the India-U.S. partnership in years to come. I thank you.
+
+{APPLAUSE} 
+
+{/speech}

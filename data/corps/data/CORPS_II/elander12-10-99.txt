@@ -1,0 +1,82 @@
+﻿{title} Millennium Evening at the White House Informatics Meets Genomics {/title}
+{event} East Room {/event}
+{speaker} Eric Lander {/speaker}
+{date} October 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mrs. Clinton. I want to thank both the President and the First Lady for the invitation to speak here tonight. We are in the midst of one of the most remarkable revolutions in the history of mankind. The revolution was sparked by scientific curiosity about life, but its consequences would be so far-reaching as to touch every aspect of society. It is an information revolution, unlocking databases of human heredity and evolutionary history. It is a medical revolution, holding the prospect that our children's children will never die of cancer. And it is an intellectual revolution that may reshape, for better of for worse, our notions of human potential.
+
+I refer, of course, to the revolution in genetics and genomics. Now, genetics is the study of biological diversity within a species. This is my favorite slide to illustrate the spectacular degree of diversity in our own species. It's a famous old picture of Wilt Chamberlain and Willie Shoemaker, and it shows the wonderful range of differences in such traits as height, weight, skin color.
+
+But it's also emblematic for me of the many differences you don't see -- in susceptibility to heart disease, cancer, asthma and diabetes. All these differences are underlain by the action of multiple genes working together with environment. Now, to geneticists, such differences provide clues to the common biological mechanisms at work in all of us.
+
+Genetics is quintessentially a child of the 20th century, born in the opening moments of this century. Of course, genetics does go back to Gregor Mendel's experiments with peas in 1865, but the work was largely ignored for 35 years. The real explosion began with three papers that rediscovered Mendel's work, the first of which appeared, as if keeping an appointment with history, in January 1900.
+
+Now, at the start of the century, heredity was known to obey certain laws of transmission, but the hereditary information itself was a complete mystery. By quarter-century, heredity had a physical basis and a cellular structure -- the chromosomes. Chromosomes carried genes, whatever they were.
+
+By mid-century, heredity had a molecular basis, in the form of deoxyribonucleic acid, DNA. It was clear that DNA somehow encoded the instructions to make every protein in our body: the hemoglobin in our blood, the keratin in our hair and the olfactory receptors with which we smell the fragrance of a spring day.
+
+But, at the same time, it wasn't possible to read even a single gene. Now, three-quarters of the way through the century the recombinant DNA revolution burst on the scene, making it possible not only to read DNA sequences, but to isolate, modify and propagate genes, giving rise to the entire biotechnology industry.
+
+And, now, as the century draws to a close, we're turning from the study of individual genes, genetics, to global views of all genes simultaneously -- genomics. We stand on the verge of having the complete sequence of the human genome, the complete 3 billion letters of genetic instructions for the human being, comprising roughly 100,000 genes.
+
+Biologists will barely pause to mark this milestone, eager to race on to understand the information in the genome. But we should reflect a moment on the extraordinary journey, covering nearly 10 orders of magnitude, 10 powers of 10, in 10 decades.
+
+Genetics has been largely the story of undirected, curiosity-driven research; arcane experiments about fruit fly families and bacterial defense mechanisms that paid huge dividends. The human genome project itself is the handiwork of thousands of scientists around the world in academia and in industry. But the American people and their government deserve special credit for having had the vision to launch this project more than 10 years ago, to invest in basic science when its benefits were still unclear. And I particularly want to acknowledge the leadership of Dr. Francis Collins, the Director of the Human Genome Project who is, of course, here tonight. {APPLAUSE}
+
+Now, what will it mean to know the complete sequence of a genome? The right analogy, I believe, is with the discovery of chemistry's period table of the elements in the late 1800s. The recognition that all of matter could be described in terms of about 100 building blocks set the stage for chemistry in the 20th century. It rendered chemistry finite and predictable. It gave rise, on the one hand, to the chemical industry, among the other -- the theory of quantum mechanics.
+
+Oh, genomics is now providing biology's periodic table. Not 100 elements, but 100,000 genes. Not rows and columns, but a more complex tree, showing the similarities amongst genes. The effect will be much the same -- to render biology finite. Scientists will know that every phenomenon must be explainable in terms of this measly list of 100,000 components. And just as the chemistry textbooks have the periodic table in the front cover of the textbook, so, too, will biology textbooks of the sequence of a human genome. Conveniently, one human genome fits snugly on a single CD rom.
+
+How is genomics being used in medicine? First of all, to find genes for disease susceptibility. This can be done by correlating the inheritance patterns of a disease in families with the inheritance pattern of chromosomal regions, to home in on the location of a disease gene and discern its nature.
+
+For cystic fibrosis, for example, the DNA sequence looked like this -- lots and lots of letters. And I call your attention to this tiny spot boxed in red, which I've blown up in the next slide there. That's right. The deletion of those three letters, C,T,T, encoding a single amino acid, phenylalanine, is the cause of cystic fibrosis in a vast majority of cases. About five people in this room carry that mutation. They're not, themselves, at risk, but they could have children with CF if they marry another carrier. And if on the way out of this room, everyone were to spit in a test tube, we would be able to analyze the DNA and call you back tomorrow and let you know which of you were carriers.
+
+But there's more. If we toss the sequence of a cystic fibrosis gene into the computer and ask if the computer's ever seen anything like it before, the computer responds, yes, there are dozens of genes that are similar. They all reside at the cell's surface and they transport molecules. And that's before doing even a single experiment. We have a very good guess that the cystic fibrosis gene is a transporter, which indeed turns out to be right.
+
+This shows clearly the power of transforming biology into an information-based science. Discoveries can be leveraged a hundred times over. The same approach has been used to identify genes from many diseases, including early onset breast cancer and colon cancer.
+
+And here's a provocative example. There's a gene on chromosome 19 called apolipoprotein-E. It has three common alternative spellings in the population, called E-2, E-3 and E-4. Turns out, if you happen to have a double dose -- two copies -- of the E-4 spelling, you have an especially high risk of Alzheimer's disease later in life -- perhaps a 50 percent chance. About six people in this room have a double dose of E-4. And if, on the way out, you spit in the test tube, we can ring you back tomorrow and let you know if you're one of those people with high risk for Alzheimer's disease.
+
+Do you want to know? I certainly don't. There's no therapy today for it. But at least the knowledge that apo-E is involved in the disease has propelled pharmaceutical companies to search for drugs that block its action.
+
+Now, one consequence of the periodic table is that we can build detectors to follow how each gene is turned on and off under different conditions in the cell. By taking such global views, we can begin to infer the wiring diagram, the circuits and software of the cell, so to speak.
+
+Everywhere, the focus is on mechanisms. We're beginning to understand diseases as mechanical processes, uncovering the cellular clockwork driving the mayhem of disease. Even aging is beginning to be understood as a programmed, molecular process -- raising the prospect that someday we may be able to slow its course.
+
+Nowhere will the impact be greater than on cancer. Cancer treatment today consists largely of giving poisons to which rapidly dividing tumor cells are slightly more sensitive to normal cells. It's a blunt weapon, indeed. Now, for the first time, the features that distinguish cancer cells from normal cells are becoming clear. They suggest dozens of ways to specifically kill cancers. They go by arcane names like angiogenesis inhibitors and telomere blockers and antibody-mediated destruction. But these rational strategies will together provide us with multi-drug cocktails from which tumors can't escape. It will take patience and steady investment, but it's already clear that by the end of the next century cancer will no longer be the dread scourge that it is today.
+
+And quite apart from its medical significance, the texture variation in the human genome holds great fascination. Any two human beings on this Earth are 99.9 percent identical at the DNA level -- only one difference in a thousand letters. So as you look to your neighbor to the left and to the right, you should appreciate how nearly identical you are. {LAUGHTER}
+
+On the other hand, one difference in a thousand letters in a genome of 3 billion letters still translates to 3 million differences between any two individuals. So if you look to your left and your right again, you can also revel in your absolute uniqueness. {LAUGHTER}
+
+DNA also teaches us about human history. Rare spelling differences in DNA can be used to trace human migrations. For example, scientists can recognize the descendants of chromosomes that ancient Phoenician traders left behind when they visited Italian seaports. DNA also tells us that we are a very young and closely related species. DNA variation reveals a human family tree in which all 6 billion humans on this Earth -- and I understand that last night at midnight, we officially passed 6 billion with a little baby born in Sarajevo -- all 6 billion humans on this Earth trace back to a small group of about 50,000 humans that lived in Africa a mere 7,000 generations ago, about 150,000 years ago.
+
+The common genetic variance in the human population today largely traces back to that initial family population in Africa. And although the general public may imagine that there are sharp differences among racial and ethnic groups, most genetic variations are distributed across all groups.
+
+Now, there is one crucial way in which my periodic table analogy breaks down. The chemical periodic table pertains to atoms and molecules. The biological periodic table speaks of people. The social consequences of genomics will be far-reaching, and I hope we'll have an opportunity to discuss them this evening.
+
+Let me touch on one very briefly. In the short-term, the most pressing challenges will be to deal with the flood of genetic information. The key issue, I think, is privacy. We must protect the privacy of genetic information, so every citizen can get the information essential to their health without fear of repercussions. Should insurance companies have a right to know genetic information before providing health insurance? What about employers? The government? Even overzealous journalists?
+
+There's been some progress in passing laws to prevent genetic discrimination in group health insurance, but there's currently no protection for individual health insurance, employment and general privacy. There's much work to be done.
+
+Now, in the long-term, the most unsettling question will be whether we should ever re-engineer the human genome. Well-meaning enthusiasts are sure to begin proposing ways to improve the human genome -- to prevent cancer, slow aging, enhance memory. Concerning this last possibility, I'm sure you've all read that Princeton University, my alma mater, has expanded its educational mission. Biologists there are producing smarter mice by adding genes for certain neurotransmitter receptors.
+
+But the notion that we can improve humans with a quick gene fix is, of course, naive. Human physiology is a delicate balance, and simplistic efforts are likely to do more harm than good. Just imagine the prospect of a product recall for a gene introduced into the human population that we later realized wasn't such a good idea. {LAUGHTER}
+
+Well, we can delay these prospects for a while by emphasizing our profound ignorance, but that's only a temporary solution. There will come a time when we can do such things safely, and we must discuss what we should do. Should we ever make a human being in someone's image, according to someone's plan? Would crossing this threshold turn human beings into products of manufacture? If we cross this threshold, will we ever return?
+
+And then, finally, the most important issue will be the subtle ways in which genetic knowledge influences our own views of human potential. There is a risk that we may fall into a naive biological determinism, hewing to individuals as specified by their genes, limited by their genes.
+
+This would be a colossal mistake. History is littered with supposedly scientific pronouncements about the limits of women, of African Americans, of Southern Europeans, of Asians, of Jews. Science has done a singularly poor job when it has sought to define limits on the human spirit, and on human potential.
+
+Now, we need more nuanced ways to understand the role of genes and the range of human diversity. I'm particularly fond of this poster, from an exhibit at the Musee du Langue in Paris. It reads: "Tout parent, tout different." It can be translated two ways: all the same, all different; or all related, all different.
+
+And this is, of course, a central theme -- perhaps the central theme in the American conversation. When Thomas Jefferson wrote the Declaration of Independence -- "We hold these truths to be self-evident that all men are created equal," -- the words, in fact, had a rather narrow meaning. But they have grown with the country, reinterpreted through the centuries by Elizabeth Katie Stanton at Seneca Falls, by Abraham Lincoln at Gettysburg, by Martin Luther King on the steps of the Lincoln Memorial. That fundamental credo that people must be judged for how they act, not for accidents at birth, will have even greater importance as we develop thousands of new ways in which we could, in principle, subdivide a people.
+
+What a remarkable time. Genomics is opening breathtaking horizons in scientific understanding and medical progress. At the same time, it is presenting us with complex social choices. I know of no scientific field in which it is more exciting or more important for us all to imagine the future. Thank you very much. {APPLAUSE} 
+
+{/speech}

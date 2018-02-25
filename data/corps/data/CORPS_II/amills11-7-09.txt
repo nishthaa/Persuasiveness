@@ -1,0 +1,16 @@
+﻿{title} Remarks By President Obama and President Mills Of Ghana after Bilateral Meeting {/title}
+{event} Bilateral Meeting {/event}
+{speaker} Atta Mills {/speaker}
+{date} July 11, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We indeed consider as well as an honor and a privilege to have with us President Barack Obama. We're happy that this is the first country that he's visiting as U.S. President, and we like the positive signals that this visit is sending and will continue to send.
+
+We want to congratulate you on the choice of Ghana and want to tell you that this encourages us also to sustain the gains that we have made in our democratic processes. And many Ghanaians, indeed, I can say without any fear of contradiction, that all Ghanaians want to see you. I wish it was possible for me to send you to every home in Ghana. {LAUGHTER}
+
+But, once again, welcome to your own home, and we hope that this relationship is going to go from strength to strength, and that this monumental visit of yours is going to be all to the benefit of our respective people and to Accra, Ghana. {APPLAUSE} 
+
+{/speech}

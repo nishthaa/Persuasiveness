@@ -1,0 +1,33 @@
+﻿{title} Remarks by the President in Announcement of Deputy Secretary of Treasury Lawrence Summers {/title}
+{event} Announcement of Deputy Secretary of Treasury Lawrence Summers {/event}
+{speaker} Stuart Eizenstat {/speaker}
+{date} May 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Secretary Albright, Secretary Rubin, John, members of the Cabinet, members of Congress. Mr. President, I'm greatly appreciative of the confidence you've placed in me by making this appointment. I've been privileged to serve you at home and abroad and your administration in a number of different roles. But of all of them, I've felt particularly privileged to work with my longtime, dear friend and colleague and your great Secretary of State, Madeleine Albright. She's been an inspiration and leaving her side will be very difficult.
+
+I've also come to appreciate both as U.S. Ambassador to the European Union and Under Secretary of State the tremendous national resource that we have in our career Foreign Service, both here and abroad. They serve their country remarkably well and with far too little recognition. Leaving them will also be very difficult.
+
+Subject to the will of the Senate, I look forward to working with Larry Summers as his deputy and partner. He has long been recognized as one of the great economic thinkers of our generation. But he's also demonstrated during the global financial crisis the vision, the sound judgment under fire, and the courage which have earned him worldwide acclaim.
+
+It is also a particular privilege to work at a Treasury Department shaped by Secretary Robert Rubin, who will be remembered, as the President said so well, as one of the most successful and influential secretaries of the Treasury in all American history.
+
+I look forward to the same partnership with Larry as Larry enjoyed with you, Bob.
+
+I also appreciate, Mr. President, your willingness to continue to permit me to lead the administration's efforts related to Holocaust Euro asset issues and property restitution where I will continue to work directly with Secretary Albright and the State Department.
+
+I've learned from my various positions in your administration, Mr. President, that one of our most fundamental strengths and sources of influence around the world comes from the strength of our economy, which you, Vice President Gore, Secretary Rubin, Deputy Secretary Summers, Gene Sperling and others have helped create. The great American job machine is the envy of the entire world.
+
+I take it as our essential mandate to do everything possible to continue the remarkable economic performance which the Clinton-Gore administration has given the American people and, indeed, the world at large. This means keeping American companies competitive by opening markets abroad and preparing our
+workers for the challenges of a new millennium.
+
+Permit me, Mr. President, to end by expressing my love, affection and appreciation to my family, as Larry has done to his -- my wife, Fran, my son, Jay; and daughter-in-law, Jessica; and her mother, Lisa; the two grandchildren whom Jay and Jessica have given us, Menachem, 22 months, and Bracha, four days -- her first White House event, Mr. President. {LAUGHTER} My son, Brian; his fiancee, Erin; my dear mother, Sylvia; my mother-in-law, Sarah Taylor. And only our fathers are missing, but I feel their presence very strongly here -- for their unstinting love, their support, their devotion, and their sacrifice during my public service.
+
+Thank you again, Mr. President. {APPLAUSE}
+
+{OTHER-SPEAK} Thank you very much, ladies and gentlemen. Thank you. {/OTHER-SPEAK} {APPLAUSE} 
+
+{/speech}

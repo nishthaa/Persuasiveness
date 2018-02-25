@@ -1,0 +1,26 @@
+﻿{title} Remarks by The President at Banquet in Honor of Dr. Billy Graham and Mrs. Ruth Graham {/title}
+{event} Banquet in Honor of Dr. Billy Graham and Mrs. Ruth Graham {/event}
+{speaker} Billy Graham {/speaker}
+{date} May 2, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Banquet Honoring Billy Graham {/description}
+
+{speech} 
+
+I'm glad that that's on tape so I can play that to my neighbors and friends -- {LAUGHTER} -- for years to come. Because President Clinton has been a friend for so many years, I feel like it is very difficult after he became President, because I led the Inaugural prayer, and when I stepped down I said, "Mr. President," and I almost said, "Bill," because I'd called him Bill so long. And I feel like calling him Bill again tonight after those warm words of a brother.
+
+So much has been said today, and I only have one little story to tell you that I've told you before, about a time when I was on an airplane. And we were going from New York to Charlotte. And a man got on board and he was as drunk as any man I've seen. And he sat down, and he finally decided that he wanted to fly the plane. {LAUGHTER} So he got up and staggered toward the cockpit. And the copilot had to come back and put him back in his seat.
+
+And the man sitting across the aisle from him was the Mayor of Charlotte by the name of John Belk. And this man turned to me and he said, "You're Billy Graham." I was sitting behind him, and I said, "Yes, I'm Billy Graham." I admitted it. {LAUGHTER} And he said, "Put her there." He said, "Your sermons have certainly helped me." {LAUGHTER} So not all the sermons and not all the travel has accomplished everything that we would like. {LAUGHTER}
+
+But I want to say a word of appreciation and thanks to the President, to all of those who participated today, and to the hospitals -- the Memorial Mission Hospital in Ashville, and for that magnificent Children's Hospital that they've built, which is going to take care of hundreds of children from Appalacia and different parts of the world. They brought a tremendous staff there. I held in my hand a few days ago a baby, one pound and one ounce, and they'd already given him open-heart surgery. And he was going to make it.
+
+And that's the kind of thing that they're doing. And whether you have any money or don't have any money you can get in there and they'll take your children. And we're so grateful that that is in North Carolina, and we're so grateful that Ruth and I don't know how to express it. We never dreamed that it would be named for us. But we consider that we're a part of that hospital now.
+
+I had a member of my staff, T.W. Wilson, who was disappearing every little while. I wondered where he was going, and I would ask. And they said, Willy has a hospital meeting in Ashville. I thought they meant that he was going to the hospital. But they had put him on the committee, and he helped, and we're very grateful.
+
+And I'm grateful to all of you tonight for every part that you've put in this. And if you're from that part of North Carolina, I hope to see you down there, maybe not on the golf course as the President said -- I played golf every day of my life nearly until a few years ago, except Sundays, and I gave it up. I'm not going to tell you why I gave it up -- {LAUGHTER} -- but there wasn't enough exercise to me, and there's not enough money to pay those fees. {LAUGHTER} I almost went to the government for a loan. {LAUGHTER ; APPLAUSE} 
+
+So, thank you, and God bless you all. {APPLAUSE} 
+
+{/speech}

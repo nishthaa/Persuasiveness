@@ -1,0 +1,76 @@
+﻿{title} Speech to Ulster Unionist Council (Business Lunch) {/title}
+{event} Belfast {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 19, 1978 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I feel particular pleasure in making this speech in Northern Ireland at the luncheon organised by the Ulster Unionist Council. Many members of the CBI are with us and others in the industrial and business worlds who are striving to rebuild the economy of the Province.
+
+Many of my predecessors as Leaders of the Conservative and Unionist Party have spoken on similar occasions in the past. Our two Parties share one overriding common purpose: the maintenance and strengthening of the Union of Great Britain and Northern Ireland. {APPLAUSE} And with the support of all those who believe in the Union, we'll continue to uphold the clear and democratically expressed wish of the majority of Ulster people to remain citizens of the United Kingdom. {AUDIENCE} Hear, hear! {/AUDIENCE} 
+
+I know that talk of a "Federal Ireland" may be fashionable in certain circles: it is not a fashion that my party intends to follow. {AUDIENCE} Hear, hear! {/AUDIENCE} We shall not consider any plans for the political future of this part of the United Kingdom which could result in the weakening of the Union. There are, nevertheless, questions of common concern which it is right for the United Kingdom and the Republic of Ireland, like any two sovereign States with a common land frontier, to discuss.
+
+Foremost is the need for closer co-operation on security. Throughout the present crisis in Ulster, the attitude of successive Governments in the Republic to the problem of extradition of terrorists has given us much anxiety. It has imposed constraints on the work of our Security Forces and courts in the United Kingdom. We must go on trying to persuade the Irish Government to revise its views. After all, the job of the two Governments is to eliminate terrorism from both the Republic and Ulster.
+
+The Security Forces are our shield against the terrorist. In Opposition, we have made constructive suggestions to help them in their work. Many of these have been taken up by the Government. We must never let down those who have risked and suffered so much on our behalf.
+
+In the last three days we have been reminded yet again that the police risk their lives hourly and may have to make the final sacrifice. Our sympathies go to the family of the latest victim of these brutal and senseless attacks.
+
+Yesterday, I visited the Army and the Ulster Defence Regiment at Ballykinler; this afternoon I shall be going to the RUC Training School at Enniskillen. To all of them, men and women, I wish to say:
+
+
+"Thank you for all that you have done and are doing in this historic struggle to preserve democratic government in this part of the United Kingdom. You are not only fighting for a secure future for Ulster. You are fighting to ensure that violence will not triumph. We salute your courage and resolve".
+The people of Ulster are entitled to look to political parties at Westminster to help them resolve their constitutional problems. Airey Neave and his team have spoken of the action which the next Conservative Government will be taking in the areas of most concern: regional administration, education and the economy.
+
+With my full agreement and that of his colleagues, Airey Neave has been talking of our plans to restore the upper tier of local government which was removed in October 1973. Ulster is the only part of the United Kingdom where regional services are not under the control of the locally elected representatives.
+
+We shall therefore seek to establish one or more directly elected Northern Ireland Regional Councils.
+
+These would have a wide range of powers, such as those which local authorities have in other parts of the United Kingdom. Local councillors would thus be able to perform the same role in Northern Ireland as they do elsewhere. They would also exercise control over the area boards. There will be scope for all political Parties to participate in these new institutions.
+
+Education is one of those responsibilities which we want to see back in the hands of locally elected representatives. The
+
+The Government seem convinced that the people of Northern Ireland ought to welcome their efforts to impose a universal comprehensive system of secondary education on the Province.
+
+Many of the parents of Ulster's schoolchildren have different ideas, and have formed the Ulster Parents' Union. We agree with them when they reject the Government's argument that a universal comprehensive system should replace the excellent grammar schools of this Province.
+
+We shall put these questions in the hands of Regional Councillors and let the people decide through their elected representatives.
+
+We have also placed beyond all doubt our desire to see Northern Ireland fairly represented at Westminster. When the Prime Minister announced his acceptance of the report of the Speaker's Conference on 19th April, I called for early legislation and promised it our full support.
+
+Yet according to Mr. Michael Foot, there is now no possibility of a Bill in this session.
+
+It may well be left to the next Conservative Government to introduce it at an early stage in the next Parliament.
+
+The people of Northern Ireland have shown quite remarkable resilience.
+
+I think it's a tremendous tribute that since 1969 manufacturing output has increased much faster here than in other parts of the United Kingdom. The spirit of initiative and enterprise for which Ulster has long been famous remains strong.
+
+I think that in the last two years industrialists both at home and abroad have been demonstrating their confidence in the future of the Northern Ireland economy. Investment in new enterprises has started to revive. Last week General Motors announced its intention of establishing a plan for manufacturing seat belts on the outskirts of Belfast. Such welcome developments will help to provide the extra jobs that Northern Ireland so desperately needs. I would like to make it clear that we Conservatives recognize that the government will have to go on providing substantial assistance to Northern Ireland's industry for some time to come. As Geoffrey Howe said in Belfast last year, we do accept that in present conditions public expenditure per head in Northern Ireland must remain higher than in other parts of the United Kingdom. Like other regions with special problems, Northern Ireland needs special measures if those problems are to be solved.
+
+But if we are to halt and then to reverse the long years of our country's economic decline, fundamental changes of policy and of attitude are required at almost every level and I think that's as true of Northern Ireland as it is of the United Kingdom as a whole, because I am not prepared to preside over a country that's going into perpetual economic decline. And I think Conservative policies are designed as much for Ulster as they are for Great Britain.
+
+May I perhaps summarize them in a few words? We shall reduce the present rates of direct taxation providing employees and businessmen alike with the incentives that they have lacked during these last four years. We're concerned particularly to see a strong revival in small businesses. In Northern Ireland they play an even more vital role than in Great Britain. It was interesting when I was round Mackies this morning, one of the managers said that the scourge of things in both Ulster and United Kingdom now can be summed up in three words: inflation, taxation and regulation, and there's too much of each one, and we must reverse indeed ... applause 
+
+We shall reduce the share of resources required for the public sector, and impose rigid cash limits on State spending.
+
+We shall put an end to further nationalisation.
+
+Last week we opposed the National Insurance surcharge, which will take an estimated £40 million out of the Northern Ireland economy, and which, the CBI believes, will put something like 2,000 jobs at risk in Northern Ireland alone.
+
+We will create a nationwide capital-owning democracy, in which all our people will have the chance to save for themselves and for their families.
+
+In all this, we recognise the need to restore a sound currency and honest finance. A country which has no confidence in its currency, can have no confidence in itself.
+
+We will ensure that those who serve their country in the Armed Forces receive proper rewards which will put to an end the present serious reductions in strength in the Army, the Navy and the Air Force.
+
+I am determined that the next Conservative Government will place special emphasis on the individual citizen and on freedom under the law.
+
+As John Stuart Mill said, in the long run the worth of a nation is the worth of the citizens who compose it. A nation which dwarfs its citizens will find that with small men, no great thing can be accomplished.
+
+These ideals are shared by a great majority of the people of Ulster, who believe in the rule of law, in the value of the family, its hopes and ambitions. Those ideals have sustained Ulster in these tragic years. May they help to guide her towards a new era of peace and progress within the united family of one Kingdom. 
+
+{/speech}

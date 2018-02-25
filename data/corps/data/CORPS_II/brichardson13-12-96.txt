@@ -1,0 +1,30 @@
+﻿{title} Press Conference of the President {/title}
+{event} Room 450, Old Executive Office Building {/event}
+{speaker} Bill Richardson {/speaker}
+{date} December 13, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+To the people of New Mexico, particularly those in my congressional district, I couldn't be here without your support. New Mexico will now have a seat in the President's Cabinet.
+
+A la communidad Hispana de los Estados Unidos, gracias y lo representare con arruyo.
+
+To the first Americans -- Native Americans, thank you. To Secretary-designate Albright, I hope my shoes can fill your big heels. {LAUGHTER}
+
+Mr. President, this is an honor and a challenge. The United States was the driving force behind the creation of the United Nations. It was established out of the ashes of holocaust and war for the purpose of making the future less bloody and less unjust than the past.
+
+But although we played the primary role in creating the U.N., we've always been ambivalent about it. We support its goals and the principles upon which it is based. But we're jealous of our own prerogatives. This administration has sought to meld those attitudes, working hard to reform and strengthen the U.N., while making it clear that we would continue to rely on our own resources and alliances for the protection of our vital economic and security interests.
+
+Considerable progress has been made. Thanks in large measure to American initiatives, supported both by the administration and the Congress, the U.N. of today is more disciplined, more accountable and in many ways more effective than it was four years ago. I look forward, if confirmed, to building on that progress.
+
+The next U.N. Ambassador will have a new Secretary General with whom to work. He will have a robust agenda of reform initiatives to propose. He will have the responsibility of working with other key member states to make U.N. peacekeeping better planned, better managed, and more successful than it has been. He will continue to expand the Security Council in a responsible way that does not compromise its effectiveness. He will work with others to encourage implementing a range of consensus international goals in the areas of development, the environment, and human rights, including women's rights. Last, but definitely not least, he will need to work closely with Congress to find a mutually acceptable means for paying our outstanding U.N. bills.
+
+This is a difficult agenda. I know it, but I welcome it, Mr. President, because it's an agenda that matters to our interests, to our people, to those from around the world to look to us for leadership. To the peoples of the developing world of Africa, Asia, and Latin America, I hope to be your bridge.
+
+Finally, once again, to Senator Bingaman, my constituents in New Mexico, thank you. To my colleagues in the United States Congress, I am proud to have been a member of that body and proud to say, like Billy Daley just did -- that I'm proud to be a public servant and a politician.
+
+Mr. Vice President, Mr. President, thank you. {APPLAUSE} 
+
+{/speech}

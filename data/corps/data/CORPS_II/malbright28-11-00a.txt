@@ -1,0 +1,30 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Madeleine Albright {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you. What a pleasure to be here. And the warmth and strength of this audience -- we had a great dinner last night, and I think we got everybody totally in the right mood. So I'm very pleased. Thank you, Madam First Lady -- or should I say Senator-elect. I'm sure I speak for everyone -- {APPLAUSE} -- we were just saying that all of us, no matter where we live, believe we are your constituents. {LAUGHTER}
+
+Mr. President, Secretary Riley, Senator Leahy, Congressman Leach and distinguished members of the Presidential panel and Excellencies from the Diplomatic Corps, good friends and colleagues and guests. This is truly a remarkable occasion and I'm so pleased to be able to be a part of it.
+
+I begin by thanking the President for convening this conference, and to all of you for participating. And I look forward to having what we say in diplomatic terms, a frank and productive discussion on an increasingly vital subject.
+
+And the truth is, whenever I have traveled in the past for the last few years, I have been totally impressed and very aware of the fact that culture has had the most direct influence on our world events. Cultural factors play a pivotal role in many of the international challenges we face, from establishing rules for trade to finding common ground in the pursuit of peace.
+
+And that's why our cultural diplomacy programs are central -- and I underline that -- central -- to the success of American foreign policy. They help us educate our citizens about the national experience of others and help friends abroad gain knowledge about the dynamism and diversity of our own culture. And that's why it was so important that we were able to bring cultural and public diplomacy programs into the mainstream of U.S. foreign policy, when we brought USIA and all the various programs that it involved within the State Department, itself, and why we have to continue working together on a bipartisan basis to finance them more generously.
+
+As the First Lady has said, we are fortunate this morning to have a panel of unparalleled accomplishment and demonstrated wisdom to launch this discussion, and fortunate as well to hear from the person whom I'm about to introduce.
+
+When President Clinton took office, he confronted a world transformed by technological and political change. The old rules of national security no longer applied, and the new rules had not yet been written. There was a real risk that America, in the absence of a Cold War threat, would retreat from our responsibilities and turn our back on the world.
+
+Instead, under this President, our nation has restored its international economic leadership and been a mighty force for peace from Northern Ireland and the Balkans to North Korea and Africa. Today, America enjoys greater prosperity than we've ever known, in a world more free than it has ever been.
+
+But President Clinton has also understood that real leadership is not measured only in economic and security terms. And that's why he has brought his message of openness and mutual respect to every corner of the earth. He has led efforts to humanize and democratize globalization through debt relief, trade benefits for less developed nations and training in 21st Century skills. He's inspired millions around the globe to pursue and strengthen freedom and led the campaign against HIV/AIDS and championed the rights of women and girls. And he has also thought and spoken eloquently about the topic we are going to discuss here today.
+
+Americans may be grateful for a chief executive who helped our country enter the new century secure, prosperous and at peace. And the world may be grateful that America has a leader who understands the importance of cultural diplomacy. And I am always grateful to have the opportunity to introduce the President of the United States, William Jefferson Clinton. {APPLAUSE} 
+
+{/speech}

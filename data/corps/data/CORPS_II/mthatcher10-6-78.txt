@@ -1,0 +1,260 @@
+﻿{title} Speech to Welsh Conservative Party Conference {/title}
+{event} Pier Pavilion, Llandudno, Gwynedd, North Wales {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 10, 1978 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Llandudno—here that my ambitions for a Parliamentary career really started. One rung of the ladder. Let us go after more Conservative membs. of Parl. from Wales to add to Nick Edwards' splendid band.
+
+Mr. Chairman, Ladies and Gentlemen, "The Decline and Fall of the Roman Empire" took Gibbon six whole volumes and several years to bring to a successful conclusion.
+
+Don't be alarmed. The decline and fall of the Labour Government will be encompassed rather more swiftly.
+
+Indeed, the decline, has already happened and the fall is now only a matter of time.
+
+Providing, we Conservatives and those who share our beliefs give our undivided attention to ridding the country of its Socialist yoke.
+
+This Conference hall in LlanDIDno today is heartening evidence of the increasing number of people in Wales who are with us.
+
+Ladies and Gentlemen, I have the feeling you're ready for the fray. So am I.
+
+It would perhaps be strange if it were otherwise. For more than 10 years out of the last 14 our country has laboured under Labour.
+
+First under Harold Wilson and then under James Callaghan, Labour has been tried and found wanting. But the pattern's always the same. High hopes and lavish promises ending in full-blooded economic crisis. Then you get a juddering, shuddering halt—for the time being—of the Socialist measures which caused the crisis, a call for international rescue by the forces of capitalism. The rescue over, the whole process begins again. As it did this week.
+
+What are we to make of a Government which promises single figure inflation "for ever" on Tuesday, and produces a double figure bank rate on Thursday and all but a double figure mortgage rate on Friday? Of course we all knew that when Mr. Callaghan said he could "see no reason why inflation should ever get back to double figures" he was simply whistling in the dark. But now we really are entitled to wonder if he is living in a make-believe world of his own.
+
+And what are we to make of a Government which proudly announced in March that it was going to "save" a hundred thousand jobs which didn't really exist, and then acts in June to destroy a hundred thousand jobs that do?
+
+A job creation scheme on the one had and a job destruction scheme on the other.
+
+It may be good Socialism but it is the economics of the mad-house.
+
+Let me make it clear. We don't criticise the Government for acting on Thursday to try to rescue international confidence. They had lost it and they had to do something to try to restore it.
+
+What we do attack is the way that the sacrifices made last year to slow the pace of inflation have once again been wasted: wasted because as soon as the last crisis receded from his mind, Denis Healey went on another spending spree with our money. And remember there is no such thing as public money, there is only {COMMENT="Words missing"} .
+
+And who has to carry the the can for Labour's total failure to manage the economy properly? Once again it is the wealth producing part of the nation, mostly working in private industry, which suffers. It is the efforts of the self-employed and small businesses which are destroyed by the onward march of Socialism. And it is the independent spirit which has been the pride and salvation of our people.
+
+It is not the public sector that will feel the pinch. Will the payroll tax—imposed at a time when nearly 1½ million people are already out of work—cut a single bureaucrat from the pay roll of the Inland Revenue?
+
+I doubt it.
+
+Consider for a moment just what this extra tax does as well as being a tax on jobs.
+
+By adding to costs, it will add to prices—all round.
+
+It is a tax on food, housing, fuel, transport, clothing, repairs, the tourist trade—indeed everything.
+
+The CBI calculates it will add another 1½%; to the cost of living. But of course that won't come through until after October.
+
+It is a tax on exports—just when we need more.
+
+It is equivalent to an extra 4p. on income tax.
+
+In fact it is a cynical political manoeuvre designed by a Labour Government which cares little for its effect in the longer term—providing it doesn't show before the election.
+
+But of course the extra tax was only a part of the Budget.
+
+What an indictment of the Government that with output barely back to the levels of four years ago when we were in office with unemployment at levels unknown since the 1930's, it has to slap on another credit squeeze to try and avert yet another sterling crisis of its own making.
+
+And of course Mr. Callaghan when Chancellor was no stranger to those.
+
+What a tragedy for Britain that the Liberals decided 15 months ago to keep this Government in power. What a price the electors have had to pay because the Liberals were frightened to face them. End of first section released to press.
+
+Labour has pursued many policies which have increased unemployment. It then sought to cure that unemployment by measures which have made work but which have not created wealth.
+
+In a healthy economy, work creates wealth and therefore prosperity. But ours is not a healthy economy, and many of the jobs that have been created are artificial.
+
+Let us go for prosperity with work, not work without prosperity.
+
+What, then, is the answer to these problems? What is the Tory alternative?
+
+One very important answer is evident here in Wales. The small business.
+
+When an old industry or plant dies, as some must, there has to be seed on the ground to grow and prosper in its turn.
+
+The small business is that seed.
+
+Be they farmers, shopkeepers, manufacturers, hotel keepers, together they provide services, variety, new products, new ideas—and new jobs.
+
+In Wales alone, a recent survey by the National Federation of Self Employed suggested that 20,000 genuine jobs could be created if the restrictive provisions of Labour's employment legislation were removed. In the U.K. as a whole, the survey suggested that up to 1 million new jobs could be created by small businessmen, given the chance.
+
+Even Harold Lever, the Minister responsible for Small Businesses, has admitted that Socialist legislation, such as the misnamed Employment Protection Act, may be a hindrance to job creation, Our own surveys have shown the same. The evidence overwhelmingly suggests that small firms could be a springboard for recovery in the labour markets—if Labour's shackles were removed.
+
+So, three weeks ago, I asked the Prime Minister in the House of Commons, to review—not to amend or repeal or tear up, but simply to review—this legislation to give both the employer and employee a fair deal.
+
+But he apparently knows better than his ministers, better than the hundreds of small businessmen we have interviewed, better even than the tens of thousands of members of the NFSE, the employers themselves. For he rejected my modest proposal out of hand. There will be no review. There will be no new jobs. Just an extra tax on existing jobs to make things even more difficult.
+
+We will not get these new jobs until we get a Conservative Government, which believes in small businesses and will stand by them. Not out of electoral convenience, but out of conviction.
+
+Standards of living have suffered visibly.
+
+But the standard of living alone is not the whole story. The quality of life and upholding the law are equally vital.
+
+Improved material standards are of little use to pensioners if they are frightened to venture out of their homes, and may even be attacked within their own homes.
+
+What's the good of a higher pension if you're too afraid to go out to collect it?
+
+A larger wage packet is of little comfort to a father if he is worried about the safety of his children at a weekend football match.
+
+We have all heard of frightening examples of these problems recently.
+
+The Conservative Party does not exaggerate the growing threat to personal safety and law and order. But unlike the present Government we are not complacent about it. We ignore it at our peril.
+
+And after all—we politicians don't choose the issues, the people do.
+
+In Wales in the last four years, the number of crimes of all kinds has increased by half, and the number of crimes of violence by more than half.
+
+What is particularly disturbing is the growing number of young persons getting into serious trouble. This has occurred at a time when the Children and Young Persons Act has taken away from Magistrates the power to deal with young offenders other than to fine them.
+
+Some of these offenders—a few—are no longer children but nothing less than vicious young thugs. The safety and well-being of the vast majority must not be imperilled by a few, no matter what their age.
+
+So we will amend the Act, and restore to Magistrates the power to deal with young offenders directly and, if necessary, firmly.
+
+We are also determined to restore proper pay and conditions to the police force. To lower the morale of the police is to lower the nation's defences against crime. To protect the citizen as he goes about his lawful business should be the prime duty of Government.
+
+The law is there to be obeyed and respected. No nation will retain its freedom for long if it loses its respect for the law.
+
+Not so long ago, in response to Conservative pressure and parental complaints, the Government launched a "Great Debate" on Education.
+
+It was, indeed, time for the Government to listen to the people's cries of frustration as they saw education falling rapidly into decline.
+
+According to Her Majesty's Inspectors of Education in Wales, "standards of school leavers are not satisfying present-day requirements. In terms of truancy and examination achievements at the lower end of the spectrum, Wales is noticably worse than any region of England." 
+
+The National Coal Board reports that 10–15%; of the school leavers it interviews in Wales are virtually unemployable because of their lack of literacy and numeracy.
+
+The Training Services Agency in Wales has found that the percentage of school leavers entering apprenticeships in Wales is lower than elsewhere in the United Kingdom, while the CBI reports that "many smaller firms prefer to employ older persons rather then school leavers" so as to avoid having to provide elementary tuition in the basic educational skills. And this after each child has had eleven years of compulsory education or at least of compulsory schooling.
+
+There seems no doubt that the present education system is not doing its best for our children, even though enormous sums are spent on it.
+
+It costs £297 to provide a place in primary school for a year, £773 for a sixth form place and £2,400 for a university place. We spend more on education than we do on defence or health.
+
+We are entitled to expect good value and also to expect the authorities to be responsive to the needs and wishes of parents. After all, elected representatives and officials are accountable to the taxpaying public for what they do.
+
+Education is not about waiting for children to learn if they wish. It is about teaching them things they need to know. Use of language, use of figures, practical skills, general knowledge, right and wrong and something of our ideals and heritage. That is what the vast majority of parents want.
+
+That is what we must see their children are given.
+
+Last year, in Wales as throughout the United Kingdom, fewer houses were built than in almost any year since 1950.
+
+Further, one in six Welsh homes are officially designated as being below standard.
+
+Scope, you would have thought, for home improvements.
+
+In 1973 under the Conservatives, there were nearly 24,000 home improvement grants in Wales. In the last 3 years of Socialism, the average has been only 8,000 homes improved, a third of the Tory total.
+
+Had the Conservative successes continued, nearly 60,000 families in Wales would today be living in better homes.
+
+But instead of building a better Britain, this Government has built only a bigger bureaucracy.
+
+Not surprisingly, Mr. Callaghan is much more at home at the disarmament Conference in New York than he was at the NATO Summit.
+
+After all, he and his Government have had some success at disarmament—though unfortunately only in this country.
+
+The Labour Government has already cut, or plans to cut £10 thousand million of our defence spending. And it has made these damaging cuts at a time when the Russians and the Warsaw pact are stronger than they have ever been.
+
+Even Norway, Belgium and the Netherlands spend more on defence per head of the population than we do. That means, the Governments of those countries, along with West Germany, France and the United States, are prepared to spend more on defending the way of life of their people than our Government is.
+
+And to add to all the other damage Labour has done to defence, it has refused to pay our forces properly.
+
+As a result of this scandal, many of the most valuable officers and men have already left the services or are anxious to do so.
+
+Never has a British Government so neglected our armed services.
+
+I pledge that a Conservative Government will restore services' pay to full comparability next year, and I very much hope that in the meantime the servicemen will decide to remain in the forces.
+
+We have witnessed the bitter fruits of Labour's policies recently in Africa. Partly because of Britain's military weakness and partly because of this Government's natural weakness in dealing with the Russians, this country has stood on the sidelines while others have acted to defend Western interests and save Western lives.
+
+The Russians only respect you when you stand up to them. Ernest Bevin knew that when we had to have an airlift to Berlin in 1948. So did President Kennedy in 1962 when the Russians tried to put nuclear missiles in Cuba.
+
+What would have happened by now if they hadn't been men of courage and resolve, and if they hadn't had the forces and materials available to do it. It is a sobering thought and one we should do well to ponder.
+
+Last October at our Blackpool Conference I made a prophesy.
+
+"In the coming months", I said, "you will see a carefully orchestrated campaign by the Labour Party and Labour Government to portray me as "extremely this" and "extremely that"—not to mention "extremely the other". A whole battery of extremist labels will be bandied about ... the closer the election looms the faster and more furious will the bandying become."
+
+And that's what happened. With the election looming closer the bandying has indeed become faster and more furious.
+
+Easy labels, empty phrases like "right-wing", "extremist", "reactionary"—all intended to imply the same thing, a sort of early return to the Middle Ages—are being tossed about wildly like leaves in a high wind. Let's just catch a few of them and pin them down with the truth.
+
+Is it extremist to want to cut taxes and leave more money in people's pockets? If so, then I'm an extremist. {AUDIENCE} Hear, hear! {/AUDIENCE} {APPLAUSE} And so are the majority of the British people.
+
+Is it extremist to be deeply concerned about declining standards in our schools and hospitals? If so, then I'm an extremist, and so are the majority of our people.
+
+Is it extremist to be profoundly worried by the increase in lawlessness and the growth of violence in our streets, to say nothing of violence on the picket line, a picket line given the stamp of respectability by cabinet ministers. {AUDIENCE} Hear, hear! {/AUDIENCE} {APPLAUSE} 
+
+If so, I'm an extremist and so are the great majority.
+
+Is it extremist to oppose the Callaghan government's run-down of the armed forces, is it extremist to be concerned about the strength of our defences? If so, I'm an extremist and proud of it, and so are the great majority.
+
+Above all, is it extremist to listen to the voice of the people, and having listened to make proposals to deal with their very real and pressing problems? If so, if to put facts before fiction and people before political dogma is to be extreme, then yes, indeed, I am an extremist and I'm in marvellous company. {AUDIENCE} Hear, hear! {/AUDIENCE} {APPLAUSE} And today at Llandudno I make this pledge: there'll be no extremism in the coming Conservative government. A change of direction for our country—yes. A new and lively sense of purpose—yes. A progressive putting of our house in order—yes. These things there will be and not a day too soon, but extremism there will not be in either our policies or in our party. {AUDIENCE} Hear, hear! {/AUDIENCE} 
+
+Of course Labour don't really believe all this talk of right-wing reaction and the rest of their jargon. It's a cover, a smokescreen, a well-worn Socialist-Marxist ploy. Try to conceal the beam in your own eye by attributing it to your opponent.
+
+It won't work—and I'll tell you why. Beam and boom away as they will, or mutter soft words in tones of smug complacency, they can't hide the stick they carry behind their backs.
+
+The Socialist stick of still more taxes.
+
+The Socialist stick of still more nationalisation.
+
+The Socialist stick of mounting bureaucratic control, of lack of choice in education, of the steady growth of the power of the State over the life of the individual.
+
+You may not like the Socialist stick. The fact is, so long as they are in power, you are stuck with it, because they are stuck with their Left.
+
+Who are the real extremists? Ask Reg Prentice. He found them among his former colleagues and when he could stomach them no longer he turned to us. And very welcome he is, as are many other former Labour supporters who have abandoned the modern Labour Party because they see the way it's going.
+
+Oh yes, there are "extremists" and their ranks are growing, but not in the Conservative Party.
+
+Today at LlanDIDno I make this pledge. There will be no "extremism" in the coming Conservative government.
+
+A change of direction for our country—yes.
+
+A new and lively sense of purpose—yes.
+
+A progressive putting of our house in order—yes.
+
+These things there will be—and not a day too soon. But extremism there will not be, in either our policies or our Party.
+
+If Labour really want to know where the face of extremism is to be found, let them tear off the mask of moderation and look in the mirror.
+
+It's not Margaret Thatcher they'll see reflected. It's Doctor Jekyll and Mr. Callaghan. End of section released to press.
+
+Mr. Chairman, I began with the decline and fall of the Labour Party. Let me end with the rise and resurgence of Great Britain.
+
+There are some who say that Great Britain's decline is irreversible.
+
+I reject that view and I reject it utterly.
+
+There is nothing wrong with the British people:—
+nothing wrong with their ability to create or invent,
+nothing wrong with their willingness to work—given the incentive to do so,
+nothing wrong with their deep-rooted sense of decency, fairmindedness and tolerance,
+nothing wrong with their devotion to their family, service to their community, or pride in their country.
+
+The seat of Britain's decline lies not in its people but in its Government—in particular in the decade of Socialist Government we have endured over these last fourteen years.
+
+We need a Government that will change our country's course—that will change it for the better in the only possible way by unleashing the talent, the energy and the spirit of each and every citizen.
+
+We need a Government that will put its faith:
+in the individual instead of the State,
+in free enterprise instead of State ownership,
+in greater opportunity instead of greater taxation.
+
+We need a Government that will regard personal success as something to be warmly encouraged instead of being bitterly envied.
+
+We need a Government that will allow people to choose for themselves instead of choosing for them.
+
+We need:
+a Government that will impartially uphold the rule of law instead of allowing it to be frayed at the edge by its political friends;
+a Government that will firmly tackle the rise in crime instead of weakly trying to explain it away;
+a Government that regards expenditure on defence as a necessity and not as an embarrassment.
+
+We need a Government that will build Britain's resurgence, not on the dictates of politicians, but on the deeply-rooted strengths of her people.
+
+We shall form such a Government, and, with your help, I firmly believe we shall do so before this Conference meets again. 
+
+{/speech}

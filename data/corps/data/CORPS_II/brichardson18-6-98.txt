@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President on Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/title}
+{event} Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/event}
+{speaker} Bill Richardson {/speaker}
+{date} June 18, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mr. Vice President, members of the national security team, Senators Bingaman, Congressman Becerra, friends and family. Mr. President, thank you for honoring me by nominating me to a second Cabinet position, the first in the foreign policy area as your U.N. Ambassador, and now as your Secretary of Energy in the domestic arena.
+
+Mr. President, as an Hispanic American, I thank you for your commitment for being the most prolific appointer of Latinos of any President. Your leadership in this area is unquestioned.
+
+In the foreign policy arena, one often talks about strategic partners. I want to thank my most important strategic partner, Barbara Richardson, for her assistance. {APPLAUSE}
+
+Mr. President, let me also say that I've enjoyed the enormous support of the Vice President, whose friendship, commitment and support has always been there. And I thank him.
+
+During my tenure as U.N. Ambassador, Mr. President, I have seen your leadership produce breakthroughs on NATO enlargement, Northern Ireland, China, and a host of other instances where your personal intervention made a difference. On Iraq, I saw your policy of diplomacy backed by force make a difference with Secretary General Annan in easing the tensions there. Today, Mr. President, America is the foremost player on international economic issues because of your domestic leadership on the economy in creating one of the most successful peacetime economies in history.
+
+Mr. President, I, too, leave the best job in government -- U.N. Ambassador -- to assume a challenging post at Energy. Let me just briefly say something about the United Nations. I am convinced the United Nations is good for America, and good for the world. It has advanced America's interests in Iraq, in Kosovo, on the subcontinent, on refugees, on human rights, on creating democracies. Under Secretary General Kofi Annan's leadership, the U.N. is reforming itself and responding to many challenges. As the President and Secretary of State have often said, we must pay our dues at the U.N.
+
+To my 184 Ambassador colleagues at the U.N., and the thousands of U.N. staff members, you have my unqualified support and admiration.
+
+I very much look forward to leading the Department of Energy as it carries out its important and diverse missions. The Department must continue its leadership on energy issues because a healthy energy sector is a critical element of a vibrant and growing U.S. economy. The Department's ability to maintain a safe and reliable nuclear stockpile will support your efforts, Mr. President, to security a Comprehensive Test Ban Treaty, a treaty made all that more important by recent events.
+
+Finally, the Department's Cold War legacy of environmental cleanup must proceed successfully in many communities around the country. The national labs play a critical role in this effort. The Department of Energy's many talented and dedicated scientists will support these efforts, especially in the area of technological advancement so important to the nation's success in the 21st century.
+
+I'm excited about this challenge. I look forward to working within the administration on a host, a variety of these issues.
+
+I want to thank also a great national security team -- Secretary Albright, Secretary Cohen, Sandy Berger, George Tennant, Joe Ralston, Leon Fuerth -- they're terrific. It's a great, cohesive, important team.
+
+And speaking of energy, Dick Holbrooke will be a great U.N. Ambassador -- a great negotiator, a great strategist, and a great human being.
+
+Thank you, Mr. President. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,52 @@
+﻿{title} Speech at Central Park {/title}
+{event} ----- {/event}
+{speaker} Coretta Scott King {/speaker}
+{date} April 27, 1968 {/date}
+{source} http://www.brown.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Mr. Dellinger, my dear friends of peace and freedom, I come to New York today with the strong feeling that my dearly beloved husband, who was snatched suddenly from our midst, slightly more than three weeks ago now, would have wanted me to be present today. Though my heart is heavy with grief from having suffered an irreparable personal loss, my faith in the redemptive will of God is stronger today than ever before. As many of you probably know, my husband had accepted an invitation to speak to you today. And had he been here, I am sure he would have lifted your hearts and spirits to new levels of understanding in his customary fashion. I would like to share with you some notes taken from my husband's pockets upon his death. He carried many scraps of paper upon which he scribbled notes, or his many speeches. Among these notes was one set which he never delivered. Perhaps they were his early thoughts for the message he was to give to you today. I am sure he would have developed and delivered them in his usual eloquent and inspired fashion. I simply read them to you as he recorded them. 
+
+And I quote, Ten Commandments on Vietnam. Thou shalt not believe in a military victory. {APPLAUSE} Number two: thou shalt not believe in a political victory. {APPLAUSE} Number three: thou shalt not believe that they, the Vietnamese, love us. {APPLAUSE} Number four: thou shalt not believe that the Saigon government has the support of the people. {APPLAUSE} Number five: thou shalt not believe that the majority of the South Vietnamese look upon the Vietcong as terrorists. {APPLAUSE} Number six: thou shalt not believe the figures of killed enemies are killed Americans. {APPLAUSE} Number seven: thou shalt not believe that the generals know best. {APPLAUSE} Number eight: thou shalt not believe that the enemy's victory means communism. {APPLAUSE} Number nine: thou shalt not believe that the world supports the United States. {APPLAUSE} Number ten: thou shalt not kill. {SUSTAINED APPLAUSE} 
+
+These are Martin Luther King's Ten Commandments on Vietnam. You who have worked with and loved my husband so much, you who have kept alive the burning issue of war in the American conscience, you who will not be deluded by talk of peace, but who press on in the knowledge that the work of peacemaking must continue until the last gun is silent. I come to you in my grief only because you keep alive the work and dreams for which my husband gave his life. My husband derived so much of his strength and inspiration from the love of people who shared his dream, that I too now come hoping you might strengthen me for the lonely road ahead. {SUSTAINED APPLAUSE} 
+
+It was on April 4th, 1967 that my husband gave his major address against the war in Vietnam. On April 4th, 1968, he was assassinated. I remember how he agonized over the great misunderstanding which took place as a result of his position on the Vietnam war. His motives were questioned, his credentials were challenged, and his loyalty to this nation maligned. Now, one year later, we see almost unbelievable results coming from all of our united efforts. Had we then suggested the possibility of two peace candidates as frontrunners for the presidency of the United States, our sanity certainly would have been questioned. Yet I need not trace for you how many of our hopes have been realized in these twelve short months. Never in the history of this nation have the people been so forceful in reversing the policy of our government in regard to war. We are indeed on the threshold of a new day for the peacemakers. {APPLAUSE} 
+
+But just as conscientious action has reversed the tide of public opinion and government policy, we must now turn our attention and the sole force of the movement of people of good will to the problems of the poor here at home. My husband always saw the problem of racism and poverty here at home and militarism abroad as two sides of the same coin. In fact, it is even very clear that our policy at home is to try to solve social problems through military means, just as we have done abroad. The interrelatedness of domestic and foreign affairs is no longer questioned. The bombs we drop on the people of Vietnam continue to explode at home with all of their devastating potential. And so I would invite you to join us in Washington in our effort to enable the poor people of this nation to enjoy a fair share of America's blessing. {APPLAUSE} 
+
+There is no reason why a nation as rich as ours should be blighted by poverty, disease and illiteracy. It is plain that we don't care about our poor people, except to exploit them as cheap labor and victimize them through excessive rents and consumer prices. {APPLAUSE} Our congress passes laws which subsidize corporation farms, oil companies, airlines and houses for suburbia. But when they turn their attention to the poor, they suddenly become concerned about balancing the budget and cut back on funds for Head Start, {APPLAUSE} Medicare and mental health appropriations. The most tragic of these cuts is the welfare section to the Social Security amendment, which freezes federal funds for millions of needy children who are desperately poor but who do not receive public assistance. It forces mothers to leave their children and accept work or training, leaving their children to grow up in the streets as tomorrow's social problems. This law must be repealed, {APPLAUSE} and I encourage you to join welfare mothers on May 12th, Mother's Day, and call upon congress to establish a guaranteed annual income instead of these racist and archaic measures, {APPLAUSE} these measures which dehumanize God's children and create more social problems then they solve. 
+
+We will be marching towards Washington soon. On Thursday, May 2nd, we will return to Memphis to begin where my husband was slain and kick off this poor people's campaign. We will be marching towards Washington to demand that America share its abundant life with all its citizens. {APPLAUSE} We should arrive in Washington by May 17th. I invite you to support the purposes of this march, and to join us in Washington on May 30th for the Memorial Day weekend. {APPLAUSE} 
+
+I would now like to address myself to the women. The woman power of this nation can be the power which makes us whole and heals the broken community now so shattered by war and poverty and racism. I have great faith in the power of women who will dedicate themselves wholeheartedly to the task of remaking our society. I believe that the women of this nation and the world are the best and last hope for a world of peace and brotherhood. This challenge is simply but profoundly stated in the words of one of the greatest black poets, the late Langston Hughes. He called the poem "Mother to Son," but it speaks to the sons and the daughters of this generation and those yet unborn. It speaks of the determination and the indestructible spirit of a black people who refuse to be conquered. This spirit must somehow be imbued in the hearts and souls of women and their sons everywhere. Listen to this black mother as she councils her son in all of her ungrammatical profundity: 
+
+Well, son, I'll tell you: 
+Life for me ain't been no crystal stair.
+It's had tacks in it,
+And splinters,
+And boards torn up,
+And places with no carpet on the floor—
+Bare.
+But all the time 
+I'se been a-climbin' on,
+And reachin' landin's,
+And turnin' corners,
+And sometimes goin' in the dark
+Where there ain't been no light.
+So, boy, don't you turn back.
+Don't you set down on the steps.
+'Cause you finds it's kinder hard.
+Don't you stop now—
+For I'se still goin', honey,
+I'se still climbin',
+And life for me ain't been no crystal stair.
+
+
+With this determination, with this faith, we will be able to create new homes, new communities, new cities, a new nation. Yay, a new world, which we desperately need. Thank you. {SUSTAINED APPLAUSE} 
+
+
+{/speech} 

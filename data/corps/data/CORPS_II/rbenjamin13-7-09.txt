@@ -1,0 +1,26 @@
+﻿{title} Remarks By The President in Announcement Of U.S. Surgeon General {/title}
+{event} Announcement Of U.S. Surgeon General {/event}
+{speaker} Regina Benjamin {/speaker}
+{date} July 13, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President. And thank you, Secretary Sebelius, for being here with me.
+I am honored and I am humbled to be nominated to serve as United States Surgeon General. This is a physician's dream. But for me, it's more than just a job.
+Public health issues are very personal to me. My father died with diabetes and hypertension. My older brother, and only sibling, died at age 44 of HIV-related illness. My mother died of lung cancer, because as a young girl, she wanted to smoke just like her twin brother could. My Uncle Buddy, my mother's twin, who's one of the few surviving black World War II prisoners of war, is at home right now, on oxygen, struggling for each breath because of the years of smoking.
+My family is not here with me today, at least not in person, because of preventable diseases. While I can't -- or I cannot change my family's past, I can be a voice in the movement to improve our nation's health care and our nation's health for the future.
+These are trying times in the health care field. And as a nation, we have reached a sobering realization: Our health care system simply cannot continue on the path that we're on. Millions of Americans can't afford health insurance, or they don't have the basic health services available where they live. I went back home to Alabama as part of my obligation to the National Health Service Corps. It's a program that provides underserved communities in America with qualified clinicians. The National Health Service Corps paid for my medical school education, and in return placed me in an area that desperately needed physicians, and I stayed.
+So, in 1990, I founded the Bayou La Batre Rural Health Clinic in Alabama. And as a physician, my priority has always been the needs of my patients. I decided I would treat patients regardless of their ability to pay. However, it's not been a easy road. As has been explained, hurricanes destroyed my office and devastated our community. And for years I've worked to find resources to sustain a doctor's office that treats patients without health insurance or the ability to pay out of their pockets.
+It should not be this hard for doctors and other health care providers to care for their patients. It shouldn't be this expensive for Americans to get health care in this country. And, Mr. President, thank you for putting health care reform at the top of your domestic agenda.
+My hope, if confirmed as Surgeon General, is to be America's doctor, America's family physician. As we work toward a solution to this health care crisis, I promise to communicate directly with the American people to help guide them through whatever changes may come with health care reform.
+I want to ensure that no one -- no one -- falls through the cracks as we improve our health care system. I will also work to shine a light on the inspiring work of the 6,200 members of the U.S. Public Health Service Commissioned Corps. These men and women serve on the front lines in the nation's fight against disease and poor health conditions.
+I'd like to close by thanking two of my medical school professors. First, former Surgeon General, Dr. David Satcher, who instilled in me a passion for community medicine. As a medical student, he required me to go out into these small towns, spend time with rural physicians and participate in public health projects. Those experiences no doubt led me to open my practice in Bayou La Batre.
+I must also thank former Secretary of Health and Human Services, Dr. Louis Sullivan. Dr. Sullivan was my dean and he taught me hematology. But more importantly, he taught me leadership. From him I learned how to impact policy at the federal, state, and local levels to help our patients and to help our community. I am indebted to both of my mentors.
+And, finally, I'd like to thank my staff and my patients at our rural health clinic in Bayou La Batre. All of the work over the past 20 years have been for them and for patients like them, and today is no different. So thank you, Mr. President, for having the confidence in me. And if confirmed, I promise I will give you and the American people my best.
+Thank you. {APPLAUSE}
+{OTHER-SPEAK} Mr. President, are you going to get more involved in health care? The senators say you ought to. {/OTHER-SPEAK} 
+{OTHER-SPEAK} That was a good one, Bill. {LAUGHTER} We're going to get this done. {/OTHER-SPEAK} 
+
+{/speech}

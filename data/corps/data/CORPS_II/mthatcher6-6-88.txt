@@ -1,0 +1,48 @@
+﻿{title} Speech at Teesside Business in the Community Reception {/title}
+{event} Teesside {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 6, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Industry, Employment, Media, Autobiographical comments {/description}
+
+{speech} 
+
+{COMMENT="Opening remarks"} 
+
+You know that last September I visited Teesside because I was rather anxious about whether we were making enough effort to try to get new development there.
+
+It was a very exciting visit. I found a lot already happening, but many of you who know the area will be aware of its special characteristics. It relied rather heavily on employers in heavy industry to provide jobs, particularly in chemicals and of course in steel and it had not got a tradition behind it of quite so many independent smaller businesses or medium-size businesses. That of itself presents a problem. We have tackled it by having up there both an enterprise zone—and I must remind you that, of course, these days enterprise zones are particularly valuable because you can write off the capital development required rather more quickly in an enterprise zone these days than you can outside it—and also an urban development. Also, the other regional development grants are obviously available.
+
+I found new electronic industries starting up. There were some very good CADCAM-design up there and a number of small workshops being developed by the English Development Corporation.
+
+I had a very colourful encounter with a gentleman who became quite famous because he came up to me with about a thousand applications for jobs and said: "I have made these thousand applications and I just have not got a job yet!" and I said: "Well, I am very sorry, but I am sure if you go and get some training you will find it easier to get a job because there are quite a number of jobs which employers cannot fill for lack of skills!" and it was with great pleasure that a few weeks ago I saw in the press that he had actually got a job. What was more impressive than that, he was actually thanking me for the advice! {LAUGHTER} This is indeed a rare occurrence and I would like to say thank you to him.
+
+The Urban Development Corporation under Mr. Norman had only been started just a fortnight, I think, when I came up and the fact that I was going spurred them on to enormous efforts so they had something to announce the day I was there, which was using the old Smith Docks—the Marine Development Corporation—which they were using as a centre for laying all the latest equipment for telecommunications and various other things as well. There are three companies. It now employs something like 450 people and they will be employing about a thousand shortly.
+
+I did not want either Teesside or those who have helped us so far—or the businessmen in the north or the businessmen in the south—to think that we just went in, did a visit, came out and forgot all about it, so when "Business in the Community" under Sir Hector Laing suggested that I held this reception to bring northern businessmen and southern businessmen together, I took up the offer with alacrity and that is why we are here—to try to boost once again Teesside.
+
+For this purpose, a video has been prepared to show you the tremendous opportunities which it presents and it does, you know. I think people who do not travel in these areas tend to get a completely false picture of them. When they go there and see for themselves, they do see really very considerable opportunities and now that every piece of office space in London is quite prohibitive in its rent and the houses are quite prohibitive, many people are thinking of moving further north where, of course, the time taken to get to work … . {COMMENT="Is shorter?"} and really, salary-for-salary, the standard of living there is very much higher.
+
+First, then, I am going to ask Mr. Norman to talk to you about the opportunities and then Mr. Clarke to show you the video.
+
+{OTHER-SPEAK} Thank you. {/OTHER-SPEAK} {APPLAUSE}
+
+{COMMENT="Remarks by the prime minister after the showing of the video"} 
+
+Now, as you saw, that film was made by a few members of "Business in the Community"—they financed it. Tyne-Tees made the film and I would just like to congratulate everyone who had anything to do with it—I thought it was excellent and gave a marvellous picture of the opportunities up there.
+
+We have here today a number of people who actually took part in that film. Mr. Hall is here, isn't he? Is John Hall here?
+
+Can anyone who took part or who was depicted stand up so the other businessmen can tackle them in the reception? Mr. Hall did the Gateshead Metro Centre which I visited during the election campaign as a matter of fact—a very successful result we got from visiting it! {LAUGHTER} David McKee, ICI are here and of course Sansom. All of these people have taken part. It was excellent, so thank you very much and if people would like to have a word with them about what it is really like up there, they can do so afterwards.
+
+I just want to explain to you that not all Teesside is quite like that, which is why I went up there and why we are hoping that more of you will go up there, although it is getting so much better every day and as I saw some of the young people in that film, I was reminded, as I went round the Youth Employment Centres of the number of young people who are now taking up enterprise allowance grants to start up their own business, and that is enormously encouraging because it means that the enterprise which built part of that area is still there.
+
+You may recall that when I went up last September pictures appeared in the press on a large, lonely, derelict site in Teesdale and I was photographed alone looking around against some rather strange buildings in the background and not very much on the ground and dereliction very obvious, and my staff said to me: "Why in the world did you allow yourself to be photographed in that position?" and I said: "Well, quite simple, because within four years I am going to be photographed on that site full of buildings and that will just show you what we can do in Teesside and what enterprise can do!"
+
+Now, today, I am very happy to tell you that the site was in fact purchased by the Urban Development Corporation to facilitate things. They have now reached agreement with a major consortium of companies, including Murray International, Taylor Woodrow, McLean Holmes, to regenerate that 250 acres of derelict land. The initiative will involve a quality mix of office accommodation, homes, specialist retail and leisure amenities and it is a £100 million pound development which will bring new life to that area, and with the new Tees bridge, it will link with the traditional town centre across the river. So it was good judgement on my part to be photographed on that site and I think Mr. Norman made absolutely certain that that site was going to be developed—and it will.
+
+The other thing that I have to announce today concerns British Urban Development which, as you know, is a consortium of eleven leading property construction and civil engineering companies which has been formed to redevelop our inner cities. It has been working closely with Mr. Norman on two major proposals and one for a European chemicals centre on the north bank of the River Tees. We are very anxious to take advantage of the skill of that area—the known skills—to establish this centre around the disused Middlesbrough dock close to the town centre of Middlesbrough, and the British Urban Development Group are going to lead a trade mission to Japan to sell to Far East business people the benefits of their proposed new centre. It will be extremely good and having had ICI there for many years, we can establish a real European chemicals centre in that part of the world and that too is an announcement we have to make today. So things are happening there and people are taking advantage of the opportunities.
+
+I should just point out that one of the reasons of having an Urban Development Corporation is you have no planning difficulties. They become the planning authority and, as you know, that means a lot if you want to get on! 
+
+{/speech}

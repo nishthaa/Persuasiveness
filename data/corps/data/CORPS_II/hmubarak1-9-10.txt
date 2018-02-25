@@ -1,0 +1,34 @@
+﻿{title} Remarks by President Obama, President Mubarak, His Majesty King Abdullah, Prime Minister Netanyahu and President Abbas Before Working Dinner {/title}
+{event} Working Dinner {/event}
+{speaker} Hosni Mubarak {/speaker}
+{date} September 1, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="As prepared for delivery"} I am pleased to participate with you today in relaunching direct peace negotiations between Palestinians and Israelis. Like you, and the millions of Palestinians, Israelis, Arabs and the rest of the world, I look forward that these negotiations be final and decisive, and that they lead to a peace agreement within one year.
+
+Our meet today would not have taken place without the considerable effort exerted by the American administration under the leadership of President Obama. I pay tribute to you, Mr. President, for your personal, serious commit and for your determination to work for a peaceful settlement of the question of Palestine since the early days of your presidency. I appreciate your perseverance throughout the past period to overcome the difficulties facing the relaunching of the negotiations.
+
+{COMMENT="Continued as translated"} I consider this invitation a manifestation of your commitment and a significant message that the United States will shepherd these negotiations seriously and at the highest level.
+
+No one realizes the value of peace more than those who have known wars and their havoc. It was my destiny to witness over many events in our region during the years of war and peace. I have gone through wars and hostilities, and have participated in the quest for peace since the first day of my administration. I have never spared an effort to push it forward, and I still look forward to its success and completion.
+
+The efforts to achieve peace between the Palestinians and the Israelis encountered many difficulties since the Madrid Conference in October 1999, and progress and regression, breakthroughs and setbacks, but the occupation of the Palestinian Territory remains an independent -- an independent Palestinian state is yet -- remains a dream in the conscious of the Palestinian people.There is no doubt that this situation should raise great frustration and anger among our people, for it is no longer acceptable or conceivable on the verge of the second decade of the third millennium that we fail to achieve just and true peace -- peace that would put an end to the century of conflict, fulfill the legitimate aspirations of the Palestinian people, lift the occupation, allow for the establishment of normal relations between the Palestinians and Israelis.
+
+It is true that reaching a just and comprehensive peace treaty between both sides has been an elusive hope for almost two decades. Yet the accumulated experience of both parties, the extended rounds of negotiations, and the previous understandings, particularly during the Clinton parameters of 2000, and subsequent understandings of Taba and with the previous Israeli government, all contributed in setting the outline of the final settlement.
+
+This outline has become well known to the international community and to both peoples -- the Palestinian and Israeli people. Hence, it is expected that the current negotiations will not start from scratch or in void. No doubt, the position of the international community, as is stated in the consecutive statements of the Quartet, in particular, in its latest August 20th statement, paid due respect to relevant international resolutions and supported the outline of final settlements using different formulation without prejudice to the outcome of negotiations.
+
+It has stressed that the aim of the soon-to-start direct negotiation is to reach a peaceful settlement that would end the Israeli occupation which began in 1967, allowing for the independent and sovereign state of Palestine to emerge and live side by side in peace and security with the state of Israel.
+
+I met with Prime Minister Netanyahu many times since he took office last year. In our meetings, I listened to assertions on his willingness to achieve peace with the Palestinians, and for history to record his name for such an achievement. I say to him today that I look forward to achieving those assertions in reality, and his success in achieving the long-awaited peace, which I know the people of Israel yearn for, just like all other people in the region.Reaching just peace with the Palestinians will require from Israel taking important and decisive decisions -- decisions that are undoubtedly difficult yet they will be necessary to achieve peace and stability, and in a different context than the one that prevailed before.Settlement activities on the Palestinian Territory are contrary to international law. They will not create rights for Israel, nor are they going to achieve peace or security for Israel. It is, therefore, a priority to completely freeze all these activities until the entire negotiation process comes to a successful end.
+
+I say to the Israelis, seize the current opportunity. Do not let it slip through your fingers. Make comprehensive peace your goal. Extend your hand to meet the hand already extended in the Arab Peace Initiative. I say to President Mahmoud Abbas, Egypt will continue its faithful support to the patient Palestinian people and their just cause. We will continue our concerted efforts to help fulfill the aspirations of your people and retrieve their legitimate rights. We will stand by you until the independent state of Palestine on the land occupied since 1967 with East Jerusalem as its capital. We will also continue our efforts to achieve Palestinian reconciliation for the sake of the Palestinian national interest.
+
+Once again, I'd like to express my thanks to President Obama, and I renew Egypt's commitment to continue exerting all efforts, sharing honest advice and a commitment to the principles on which Arab and regional policy rests upon.
+
+Please accept my appreciation, and peace be upon you. {APPLAUSE} 
+
+{/speech}

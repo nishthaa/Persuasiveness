@@ -1,0 +1,40 @@
+﻿{title} Remarks by President Clinton and Chancellor Kohl of the Federal Republic of Germany in Exchange of Toasts {/title}
+{event} Exchange of Toasts, State Dining Room {/event}
+{speaker} Helmut Kohl {/speaker}
+{date} February 9, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, dear Bill; Mrs. Clinton; Excellencies; ladies and gentlemen: First of all, a very formal, kind thanks. I would like to thank you, Mr. President, and you, Mrs. Clinton, also on behalf of the members of my delegation, most warmly for the great hospitality that we have enjoyed once again here in the White House and on the Hill this afternoon.
+
+But first and foremost, I would like to thank the President, my good friend, for the way in which he expressed his words of welcome, and for the warmth that emanated from them. He was not talking, first and foremost, of politics -- day to day politics that we have to deal with, he was talking about something that was much more important -- the things that move us as people. And, Bill, you were so kind as to introduce a German word here in this congregation. And this word is so valuable to us, not because it is a German word, but because it captures something that I think moves all of us. When we talk about heimat, about our home, we talk about what was before us, about ancestors, about history of those generations that lived before us, and who determined the way we are today.
+
+Bill, you also kindly referred to my house that is about 18 kilometers away from the great cathedrals of Speyer and Worms. Those were the cathedrals that were instrumental in shaping European history. And it was in Worms that Martin Luther faced the Emperor, his adversary, and said to him: "Here I stand, and I can do no other." And it was in Worms that we had our oldest synagogue that was then desecrated by the National Socialists.
+
+And I think we exported a lot of this history to America. William Penn was here, and before he was able to come here, he went over to Germany, and he recruited people from the villages and towns, and they moved across the rivers of Germany, and they moved across the sea, and they founded Pennsylvania. And from our villages, every third person virtually emigrated to America throughout these centuries. And they left their traces, their imprint on this country.
+
+And I very consciously refer to them today and in this year. This leads me to those who had to leave their home, because they were expelled, persecuted by the National Socialists. And I think if we try to guard this concept of home, heimat, in our hearts, that is also the memory of one's own family roots -- of the parents, the fathers, the mothers, the sisters, grandparents. And each and every one treasures this image in his heart. And I, as a German, know very well how bad it is to lose your heimat, your home.
+
+And this is why, Mr. President, it is so important that five years before the end of this century, that has seen so much suffering, so much distress, we should do everything we can so that people may stay in their home, may not lose their home, and find their peace.
+
+I'm saying this here, in this house, quite consciously, with great gratitude. Because all the presidents who lived and worked here in this house, as of the end of the Second World War, all of them worked towards making it possible for us in Germany to keep our home, have made it possible for us in the larger and free part of Germany to keep peace and freedom. And those who were instrumental in bringing that about were not only presidents, I should notice, but ministers, members of the government and Secretaries of State. And I'm looking at Henry Kissinger, just among others. Members of Congress from the two parties. And millions of Americans who helped us -- soldiers.
+
+I would only remind all of you, of those people who launched the Hoover Food Aid, and I very well remember those days, believe me, in 1946 when we were half starved and we were standing there in the school yard in the morning at 10:00 a.m., waiting for the trucks bringing the Hoover Food Aid to the school.
+
+And, ladies and gentlemen, something grew out of that common experience in Germany that cannot simply be sort of forgotten -- friendship, trust, trust in your great people. And part of that image, part of that common history, obviously, is also the gift that was handed down to us by history in 1989-1990 -- German unification. They, today -- politics -- seems to be so absorbing, so important to us every day. But what I was able to talk to you about here tonight, I think, is what I consider to be the essence of our human experience.
+
+And, Bill, I would still hold that all of us that we were talking about here tonight is more important than what we were talking about today. And I am grateful that I had the opportunity to tell you this today here -- tonight here, during this festive dinner. Now, we have five years ahead of us until the year 2000. And I think we still have a fantastic opportunity to redress a few of the ills that beset us. And my message to you is, we would like to do that together with you.
+
+I should like to use this opportunity to thank your President for the help and assistance that we have been given by you, particularly now during these times of tremendous change and transformation. And one can actually illustrate this by using a pertinent image.
+
+I very well remember the occasion when Ronald Reagan went to Berlin with me, and we were standing there in front of the Brandenburg Gate, and he was calling out to Gorbachev at the time: "Mr. Gorbachev, open that gate." And I was standing there later with George Bush. And we already had the sort of feeling that there was a change about to come. And Bill Clinton and Hillary Clinton and my wife and myself were fortunate enough, then, to walk through that gate. And it was possible because you stood shoulder to shoulder with us.
+
+There is a philosopher in Germany whom I hold at very high regard, a philosopher of this century. And I learned something from him that I have remembered and cherished ever since. And the sentence is that, "Remembrance is the gratitude of the heart." And I would like all of us to raise our glasses to that.
+
+To the health and the well-being of the President and Mrs. Clinton, and may the ties of friendship prosper between Germans and Americans.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

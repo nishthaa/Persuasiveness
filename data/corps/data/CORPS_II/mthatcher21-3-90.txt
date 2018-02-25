@@ -1,0 +1,56 @@
+﻿{title} Speech at dinner for Czech President (Vaclav Havel) {/title}
+{event} Dinner for Czech President (Vaclav Havel) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} March 21, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} 1930 onwards. President Havel's speech follows MT's. {/description}
+
+{speech} 
+
+Mr. President, Your Excellencies, My Lords, Ladies and Gentlemen:
+
+First, may I welcome you, Mr. President, and your distinguished delegation very warmly to No. 10 Downing Street on this your first official visit to London. For us, it is a visit of very special significance and we hope it is also for you and that you will very much enjoy your brief stay with us in London.
+
+Mr. President, nothing has more distinguished and dignified our age than the struggle for human rights and freedom in Eastern Europe and the Soviet Union. It was a campaign conducted against tremendous, sometimes overwhelming odds; it demanded courage and conviction of the highest order.
+
+The battle was won by the heroism in the face of persecution and torment of countless thousands whose names we shall probably never know but among those fearless men and women a handful of names stand out as a symbol of all that is finest in the human spirit: Dr. Andrei Sakharov, Anatoly Shcharansky in the Soviet Union, Lech Walesa in Poland and you, Mr. President, and the student Jan Palach in Czechoslovakia—we honour you all. {APPLAUSE}
+
+During the darkest years of Stalinist oppression, you were an inspiration to your people. In your plays, you exposed and opposed the deceits and injustices of totalitarian rule. You stayed true to your principles through long periods of imprisonment and illness and among our guests tonight are several, led by Bernard Braine, who worked tirelessly during those years for your release.
+
+When freedom triumphed, it was with astonishing speed. Five months ago, we were protesting at your arrest. Two months ago, we were celebrating your election as President. Today, we welcome you here as leader of your country. Rarely in history can the power of ideals have been more convincingly demonstrated.
+
+Tonight, we pay warm and genuine tribute to you and your colleagues in ‘Charter 77' who pointed the way to freedom and brought Czechoslovakia to its rightful place as one of the free and democratic nations of Europe.
+
+In the soaring language and thought of your speeches as President, above all in a New Year's Address whose message of hope and plea for tolerance and responsibility moved us all, you have displayed a passion and vision before which the rest of us can only feel very humble indeed. You ended that speech, I recall, with a declaration which sums up everything which has been achieved in Eastern Europe and in the Baltic States and we hope will be achieved in time in the Soviet Union. You said: "People, your Government has returned to you!"
+
+That phrase is adapted from the words of the great Czech scholar and reformer of the 17th Century, Comenius. He, of course, was an exile in Britain. One of our greatest poets—Milton—described him as "a person sent hither by some good providence of a far country to be the occasion and incitement of great good to this island." That, Mr. President, was an age when they really knew how to pay compliments! {LAUGHTER} But we would like to say the same to you in the same language.
+
+But Comenius was only the first of several great figures of Czechoslovak history who spent time in Britain. Thomas Masaryk, the father of modern Czechoslovakia, worked here in London as a Professor at the School of Slavonic Studies in the early part of this century. His son, Jan, was Minister at the Court of St. James for 14 years, then Foreign Minister of the Government-in-Exile during the War. His regular broadcasts from London gave heart to his compatriots during their darkest hours.
+
+The third great figure to come here was President Benes, who spent most of his time in exile between 1938 and 1945 in Britain. Winston Churchill wrote of him:
+
+
+"In all his thoughts and his aims, he consistently sustained the main principles on which Western civilisation was founded and was ever true to the cause of his native land".
+President Benes had been forced into exile as a result of the Munich Agreement which Churchill and a few others condemned. I think each of us still feels some sense of shame over that Agreement and we still feel unease that the Western World watched as the Prague spring of 1968 was crushed by Soviet tanks. Yet it was from this modest house, which has seen so much history, that the great illusion of "Peace in our Time" was broadcast to the British people in 1938, but remember too that it was from here—downstairs in the Cabinet Room—that only 12 months later our nation was called to fight a war against tyranny and oppression. That was and is the true spirit of Britain and in the event of that year—1938/39—there is no shadow of doubt in anyone's mind that our cause was morally right.
+
+Other Czechoslovaks—airmen and soldiers—also came here and fought valiantly alongside British forces throughout the Second World War. We honour their memory and you, Sir, will be paying your own respects to them at Brookwood on Friday. They fought for a freedom which Communism then denied to Czechoslovakia after the War.
+
+For over 40 years, Czechoslovakia—as you yourself have put it—slumbered under the pall of Socialism, but then your humanistic and democratic traditions burst out once more in those two remarkable months last autumn in which a government which had ruled by fear and by force was swept away as your people demonstrated the invincibility of the human spirit.
+
+Now, you face the even more difficult and formidable task of restoring a full life to your people. You have said, Mr. President, that Czechoslovakia needs ideas, cooperation and investment rather than charity and those things—ideas, cooperation and investment—we can provide.
+
+We have today announced the start of a programme under our "Know-How Fund" and I am sure our guests this evening representing the business and financial world will be giving very serious consideration to investing in Czechoslovakia. They will have in mind the tremendous reserves of skill and enterprise which made Czechoslovakia in the 1930s one of the great industrial powers of Europe, reserves which will soon be harnessed to renew her strength.
+
+We also want to see Czechoslovakia return once more to Europe. In a speech in Bruges 18 months ago, which generated some slight interest, I urged the European Community not to be too introspective and not to forget that Prague, Warsaw and Budapest are great European cities which have traditionally been at the centre of our Continent's history.
+
+I hope we can rapidly develop a closer association between Czechoslovakia and the European Community which will restore those links and you will have our enthusiastic support too for your intention to join the Council of Europe.
+
+We also want to join with Czechoslovakia in strengthening the Helsinki Accords as a framework within which democracy and human rights can be made more secure and permanent from the Atlantic right across to the Pacific and the elections in East Germany last Sunday are the latest and most important step towards that goal.
+
+We do not see this as an alternative to NATO. Experience has taught us that we need the presence of American forces in Europe alongside our own armed forces to safeguard stability and security at a time of great uncertainty and change.
+
+Mr. President, we welcome you here as we welcome Czechoslovakia's return to the mainstream of Europe. We shall do all in our power to support and further the efforts of your people and to renew the friendship which brought our two nations together under your great predecessors and, Sir, together, along with our fellow Heads of Government and those they represent, we shall strive to shape a peaceful and fulfilling future.
+
+May I ask all our guests to rise and drink a toast to you, Mr. President, to the happiness and prosperity of your people and a further flowering of our longstanding friendship. To you, Sir, your people and friendship! {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,27 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Wole Soyinka {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. I sometimes think the answer to that is that artists are a crazy bunch of people in the world, seem to have a totally different temperament and sensibility from the more rational beings that inhabit the globe.
+
+Well, I think it has to do also with what should not exist, a kind of instinctive opposition of culture to politics. That kind of dichotomy really shouldn't exist; but then it happens because politics tend, I think, to have, as its first principle, the demonization of the other, whereas culture tends toward the humanization of the other.
+
+And I sometimes wonder if the seeming division between politics and culture -- which sometimes I translate as the difference, the division between power and freedom, one on the side of politics, the other on the side of culture, and I think the reason for that is simply because of the, particularly sometimes seemingly incompatible aspect of looking at the world -- is it to demonize the other or to humanize the other? And I find encounters like this very important in that respect because it seems to me that a theme is an attempt to bring the two sides together. I think maybe it's even part of the whole scheme of initiative of UNESCO, the dialogue of civilizations, which has as its basis the presentation of the other in humanized terms.
+
+I think the United States was represented at the conference of U.N. recently, at the initiative of President Khatami of Iran, and UNESCO, in which we met on a certain level, the artists, the intellectuals and so on, and were addressed by the politicians and, of course, they listened to us in turn.
+
+So for the artist, I think, who has a far more holistic outlook on the world than the average politician, I think -- maybe a few exceptions
+like the former Rhodes Scholar sitting on my right here -- {LAUGHTER} I think that what we need right now is a continuation of this philosophy behind the dialogue.
+
+It's not so much even spreading the cultural gospel of one to the other, but doing it on egalitarian terms. In other words, not with a sense of superiority, and above all, using culture to bridge the gap between peoples. It sounds romantic, of course; but then, if the other side -- politics -- is merely dividing peoples, I think then other human activities, such as culture, have a right also to be romantic in that sense.
+
+An example, one final example -- for instance, I look at a situation which I'm sure is on the mind of everybody here, the Middle East, where the issue really is one of a very profound demonization of conflicting parties. And I wonder what kind of a role culture, the presentation of the other in humanized terms, can play in a situation where politics, diplomacy, appears to fail; where it is the peoples who need to talk to one another, who need to be assisted to talk to one another, rather than the leadership talking between themselves, and even the leadership talking to their own and other peoples.
+
+So I think this is profoundly -- this way of seeing or perceiving the world, of sensing the world, which makes maybe some of us so daft as to risk the ire of dictators and so on, and go to jail for what they believe. Thank you. 
+
+{/speech}

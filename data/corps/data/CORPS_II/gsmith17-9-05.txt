@@ -1,0 +1,32 @@
+﻿{title} Clinton Global Initiative Workshop Summation and Action Plan Plenary {/title}
+{event} New York, NY {/event}
+{speaker} Gayle Smith {/speaker}
+{date} September 17, 2005 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Participants: President William J. Clinton, Former President of theUnited States, David Sandalow – Climate Change Panel, Lael Brainerd – Governance Panel, Gayle Smith – Poverty Panel, Rob Malley – Religion Panel {/description}
+
+{speech} 
+
+Thank you, Mr. President. And let me also begin by thanking my assistant and partner in crime in this, John Wyman, who enabled me with him to claim to be the tallest team in this entire conference. I'd also like to thank a bunch of people – Eric, Ed, Rosemary, Sharon, Genelle, Mary. There are a whole lot of people who worked heart and soul on this and were going out for a drink at 6:00 o'clock. We are indebted to all of you for everything you did to support us.
+{APPLAUSE}
+
+We had a better title than Lael and Evan, but I think even our title was wrong. Our discussions were less about the escape from poverty and more about the road to wealth creation. There was a recognition that we need to do more of what we're doing and do it better, that there needs to be more aid targeted to sectors like education and health, where they can effectively enable us to scale up quickly. That we need to do more on trade and especially to increase equitable market access. And obviously we need to do more to ensure that investments move beyond adding a charitable component to ensuring that development objectives are included in a business model. But more than that, in each session there was a clear recognition that we can reduce poverty by doing these things, but we cannot create wealth on a sustainable basis unless we make some fundamental structural changes in the way we operate. And everyone is ready to do that.
+
+The distinction underscored in almost every session was between helping people who are too poor to stay alive to stay alive for another six months, versus working with the poor to unleash the human, social and financial capital that can together enable them to generate wealth. It was a distinction, if you will, between a world in which the developed countries drive the global economy and the developing world is dragged along, and one in which a majority of capable, prosperous states and societies participate in a much bigger global market.
+
+President Thabo Mbeki of South Africa, -- Suwanna talked about this new partnership. And while they said that we're all being a lot nicer to each other in the developed and developing worlds, big question whether we're really there yet, and said that if we really want a new partnership we've got to be ready to make some hard decisions, taking first and foremost something like agricultural subsidies. President Mbeki said, enough talk about this. Everybody says they're ready to move on agricultural subsidies, but the United States says to Europe, oh, you go first. And Europe says back to the United States, no, no, no, you go first. As he said, it is time to stop talking about why we can't do things and time to go ahead and do it.
+
+In the kind of partnership we discussed, people were eager to see something where we could move from the kind of example we had from the chairman of TNT, Peter Baker, who explained how they had moved from sports marketing – I don't know if there are any sports people in the room – to development investment, where that would be the majority of investments in the developing world and not just emblematic of an impressive but growing minority.
+
+Aid would be streamlined. Donors would start to pool their resources, harmonize their policies, so that we're not putting a burden on the developing world, so that a country like Tanzania doesn't have to write 2,500 reports to donors every year in order to get the aid we provide.
+
+We had extraordinary discussions about how to bring capital to bear, whether through the micro-credit model popularized by Mohammad Yunus, the social venture model pursued by the Acumen Fund, or private investment designed to empower local producers and consumers, such as was described by Pierre Omidyar.
+
+One very interesting thing, I think, and a marked departure from the past. Patty Stonesifer pointed out that we've come a long way from the days when NGO's look at business as the enemy of development, and business looked at NGO's as a group of irritants. What we've got is a cooperation there and a real desire to see more. Now throughout this we got a lot of recommendations. Most of those recommendations were for you and for the Clinton Global Initiative. People want a comprehensive published database and directory of things that work. They want a place to put the best examples of best practices so people can see those and replicate those. They want more opportunities to network between NGO's and business. They want a way to provide a seal of approval, or if you will, a certified organic label to say that an NGO project, a government initiative or a private sector investment is really doing the right thing by development.
+
+Across the board people focus on the rate of return. The conclusion was that if we do what we need to do now and bring to bear the resources that we need, the will to change how we operate, and a commitment to level the playing field, we can forge the partnership we talked about and the returns on investment will pay dividends for generations to come.
+
+Finally, Mr. President, I'm happy to report that by a resounding majority everyone accepted your commitment to hold this conference on a regular and sustained basis. Thank you very much.
+{APPLAUSE} 
+
+{/speech}

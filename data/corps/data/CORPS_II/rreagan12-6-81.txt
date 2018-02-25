@@ -1,0 +1,32 @@
+﻿{title} Remarks at a White House Reception for the Republican National Committee {/title}
+{event} Reception for the Republican National Committee {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} June 12, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Nancy and I are both delighted that you're all here. We are kind of happy that we're here. {LAUGHTER}
+
+I know you've been reading a lot about what's going on here in Washington. Some of it's true. {LAUGHTER} We've been trying to follow the advice of Mark Twain, which was "Do what's right and you'll please some of the people and astound the rest." {LAUGHTER} There's been some criticism, however, that we don's have a definite foreign policy, that we haven't been doing enough about that, and that's not true at all. Just the other day, before he left for China, Al Haig sent a message to Brezhnev that said, "Roses are red, violets are blue, stay out of El Salvador and Poland, too." {LAUGHTER}
+
+But you know, this has been a great day and this tops it off just fine. This is George Bush's birthday. We have a great relationship, and George was very tactful; he hasn't told me how young he is. {LAUGHTER}
+
+But I thank all of you, seriously, for the work that you've done, not only in the last election but also throughout the years of even our losing campaigns, when we were winning those moral victories. {LAUGHTER} And our victory in November was due to the accumulated efforts that you've made, and it just took a little while for the message to get through.
+
+The victory at the polls leaves us with a tremendous responsibility to do the things that we've talked about for so long. I think I've learned in the last 5 months how important it is that we, as Republicans, continue to work together as a team to accomplish our objective. And thanks to your help in keeping the heat on at the State and local level, we've succeeded in getting our budget cuts through Congress. I worried for a while when that happened that maybe Dave Stockman was too young -- he rushed right out and got a giant piggybank. {LAUGHTER}
+
+But I can tell you right now that we're going to get the tax cuts also. And I jotted down here in my notes that that's because the American people are with us. And then I just happened to remember that wonderful line that Joe Louis said once during the war about the Lord, and I think maybe we ought to reverse that. We got them through because we're with the American people.
+
+I know you've heard some of the arguments that they're using over on the other side about why we shouldn't do this, and you've probably run into some of them yourself. And when they do, just tell them that our true choice is not between tax reduction on the one hand and avoidance of large Federal deficits on the other. An economy that's stifled by restrictive tax rates will never produce enough revenue to balance the budget, just as it will never produce enough jobs or enough profits. And when they try to argue that one with you, remind them that's what John F. Kennedy said when he passed his 2-year, 23-percent tax cut. It wound up with an increase in personal savings, an increase in investment, an increase in productivity and jobs, and even an increase in the total amount of revenues that the Federal Government received at the lower rates. And that's what we think is going to happen when we get our tax cut across the board.
+
+America is on the edge -- I think we're all aware of it -- of an era of good feelings. Our budget proposals, with the pruning of excessive regulations, steady monetary policy, can and will restore vitality to our economy. And, believe me, the better America is, the better it'll be for the Republican Party.
+
+You know, recent accounts have described sometimes the Democrats as being in disarray. So, what else is new? {LAUGHTER} Will Rogers, a number of years ago, made the point that he did not belong to any organized political party; he was a Democrat. {LAUGHTER} But we mustn't be lulled into self-confidence. We've got a great chairman, Dick Richards, and his primary goal is to build our party into a strong, efficient, and majority party -- and I think that can happen in 1982.
+
+Some historians are suggesting that the election of 1980 was a turning point, a watershed election which rearranged party loyalties for some time to come. And I think that you and I just don't want to embarrass those historians. {LAUGHTER} Let's make that come true.
+
+But looking around this room I see old friends -- Tommy Thomas right there. 
+
+{/speech}

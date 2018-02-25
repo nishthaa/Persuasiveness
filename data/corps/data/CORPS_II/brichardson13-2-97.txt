@@ -1,0 +1,28 @@
+﻿{title} Remarks by the Vice President at Swearing-in Ceremony of Bill Richardson as Ambassador to the United Nations {/title}
+{event} Swearing-in Ceremony of Bill Richardson as Ambassador to the United Nations {/event}
+{speaker} Bill Richardson {/speaker}
+{date} February 13, 1997 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, Mr. Vice President. Let me commence my 45-minute discourse here. {LAUGHTER}
+
+I am honored, Mr. Vice President, that President Clinton and yourself have nominated me to this very important post. First of all, thank you and the President.
+
+I want to acknowledge Barbara Richardson, my partner not just in marriage but in all types of life and politics; my family --my mother, my sister and her children -- that are here; my dear personal friends; and my distinguished senators from New Mexico, Senator Pete Domenici, a statesman, and Senator Jeff Bingaman, another statesman, who not only have been my friends, but my partners in representing New Mexico, and who are responsible for the 100 to 0 vote; Congressman Bonior -- Whip Bonior, who had to leave and make a population vote. As Chief Deputy Whip I served under him and I'm most grateful for his efforts.
+
+I have been the nominee in this position for 60 days now, and I want to thank Secretary Albright for her transition help as I got briefed and prepared for my confirmation. Her heels, as I said before, are going to be extremely difficult to fill and they keep getting bigger and bigger.
+
+Mr. Vice President, let me say that you gave the message about the United Nations and that message of the United Nations is that the U.N. is important to the United States. I'm a strong believer in the United Nations, but we must pay our dues. We need reform there. That is my mandate. That is my mission. And I have found in the last 60 days there are a lot of good, strong people at the United Nations, starting with the new Secretary General. I'm honored to be a member of the President's Cabinet that will exercise advice to you and the President in all of these matters relating to foreign policy.
+
+This morning was a traumatic experience for me because, for the first time, I had security at my door, and I resigned from the Congress of the United States. I've been in Congress for 14 years, representing the wonderful people of New Mexico. And to the people of New Mexico, I want to say thank you for their commitment to me. And if I can just say that thanks again , but with the hope and certainly my desire that someday I might represent them again.
+
+Let me conclude, Mr. Vice President, with a commitment to you and the President that Barbara and I will work extremely hard -- we leave for New York sometime this weekend -- to reenforce the ideals of democracy and human rights and advancing American interest at the United Nations, which is the cornerstone of your foreign policy. And if I could say something special for those from the developing world and Latin America, which is my heritage -- and I'm symbolically pleased that Mack McLarty is here -- that I believe, if anything, if I can be remembered as a bridge to the developing world, of Africa, Asia and Latin America, I think that will be an assessment that hopefully can be made when I finish this tenure.
+
+{COMMENT="Speaks in Spanish"}
+
+Mr. Vice President, you've honored me and my family today as I never have been honored before. And to the people of New Mexico, as represented by Senator Domenici and Senator Bingaman, thank you for the opportunity and the honor that you have given me not just to work with both of you, but to work on behalf of the people of New Mexico. 
+
+{/speech}

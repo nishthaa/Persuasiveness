@@ -1,0 +1,54 @@
+﻿{title} Remarks by the President in Announcement of Deputy Secretary of Treasury Lawrence Summers {/title}
+{event} Announcement of Deputy Secretary of Treasury Lawrence Summers {/event}
+{speaker} Robert Rubin {/speaker}
+{date} May 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{OTHER-SPEAK} Ladies and gentlemen, Bob Rubin. {/OTHER-SPEAK} {APPLAUSE} 
+
+Thank you.
+
+{OTHER-SPEAK} You're not used to this. {/OTHER-SPEAK} 
+
+No -- thank you all. For whatever reason, the President has always found that joke about my becoming a member of the middle class a lot funnier than I have. {LAUGHTER} On the other hand, I know some wonderful jokes about punctuality, so -- {LAUGHTER} -- life cuts a lot of different ways -- now that we've sort of leveled the playing field.
+
+Let me first thank all of you for coming here and for being with me and being with us in what is, for me at least, a very moving and in some ways, very difficult moment.
+
+It really has been a remarkable period since the President first took office six and a half years ago. It's been remarkable for the country and it's been remarkable for each of us who has had the opportunity and the privilege to serve in this administration. For me, I can say it's been a truly extraordinary experience -- personally, professionally, and with respect to what we have all, working together, accomplished.
+
+My view, Mr. President, you and the Vice President have repositioned our country with respect to fiscal discipline, with respect to leadership on international economic issues that are so critical to our economic well-being, and to the many other issues which, in their totality, have contributed so much to the economic conditions of the last six and a half years, and to positioning our country for the years and decades ahead.
+
+And I think it is particularly important that you have done so much to give the least well-off a real opportunity to join the economic mainstream. I think history will show that the President and the Vice President have accomplished this by consistent pursuit of a sound and sensible strategy and by what Larry Summers likes to call "enormous seriousness of purpose." Time and again, the President was faced with tough decisions, the kind that he described to you with respect to Mexico. And he made those tough decisions in the face of very difficult circumstances.
+
+It has been an enormous privilege for me to have the opportunity to take my 26 years of experience in the private sector and to bring them to deal with the issues of the country and to succeed my friend, Lloyd Bentsen, as Secretary of the Treasury.
+
+Coming from Washington to Wall Street has given me a new appreciation of the diversity of views in our country and the enormous diversity of life experiences in this large country. It has also given me a greatly deepened and broadened understanding of many issues and how our government works.
+
+From the very beginning, Mr. President, you have emphasized team work. You did that in setting up the NEC, which is now so ably chaired by Gene Sperling, and in choosing members of the economic team. I think it is unambiguously true that we have accomplished a lot more because we worked together. It is very hard to leave, because I feel deeply committed, very deeply committed to this administration, to the people with whom I've worked, to the issues -- with respect to which so much has been accomplished.
+
+But this almost six and a half years has been all-consuming, and I think it is time for me to go home to New York and to do whatever I'm going to do next. In doing so, I am absolutely confident that this administration will not miss a beat with respect to the economic issues.
+
+Mr. President, you and the Vice President have been our true policy leaders through this whole period. The economic team is extremely strong going forward, with many collective years of experience working together on the issues that face this country, on the issues which this administration will be dealing.
+
+At Treasury we will have a new Secretary, subject to the will of the Senate, who is one of the truly outstanding people that I have known in my life . Larry Summers is someone I have known for many, many years, and he possesses an extraordinary combination of great intellect, deep experience in the broad range of issues that he deals with, and an acute, practical common sense, as well as a very good sense of humor about himself -- and we both share that, because we both laugh at Larry. {LAUGHTER}
+
+It's really been one of the great pleasures of being Secretary. {LAUGHTER} Almost as funny as Alan Greenspan's jokes at our breakfasts about yield curves, which not everybody would appreciate, but Larry at least finds amusing, and I try to understand.
+
+In any event, Larry and I have been true partners through this whole period and has been a wonderful, wonderful partnership.
+
+Let me also say that I am absolutely delighted that Stu Eizenstat, who I've also known for a long, long time, is coming to Treasury to serve as Deputy Secretary, again subject to the approval of the Senate. Together, Larry and Stu as partners will provide strong leadership for what is truly an outstanding group of people, the people of Treasury -- career and non-career. And I have no doubt they will continue to be tremendously effective in meeting the many important challenges of their mission with respect to building the economy and with respect to law enforcement.
+
+That mission and the mission of the administration and the economic arena more generally will continue to pose many risks and many opportunities over the period ahead. And I think that that need for action will create the opportunity for major accomplishment.
+
+Let me conclude by saying that what I will miss most are the people that I've worked with in the time that I've worked here -- the people at the Treasury, the people at the White House that is now so ably managed by John Podesta, the people at the other agencies with whom I've worked so closely. I've had the good fortune throughout my life to be involved with outstanding institutions, and I think there is no question that by any standard, this administration has extraordinary people -- extraordinary in their abilities, extraordinary in their personal capacities, and extraordinary in the way that they work together.
+
+Most importantly, I want to thank Judy, my parents and my children for their understanding, their support and their good advice throughout a period that has affected all of our lives.
+
+I will continue to serve with full enthusiasm for the issues and full commitment until I step down, which I would expect to be sometime around the 4th of July. Then I will leave with great respect for the President, great respect for the Vice President, and with a very good feeling about what has been done during these past six and a half years, about my own experience, the strength of the economic team going forward and the potential for important accomplishments.
+
+Again, Mr. President, Mr. Vice President, thank you very much for the opportunity to serve. Thank you. {APPLAUSE} 
+
+{/speech}

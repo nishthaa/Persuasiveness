@@ -1,0 +1,44 @@
+﻿{title} Remarks with Malagasy President Marc Ravalomanana and Millennium Challenge Corporation Chief Executive Officer Paul Applegarth at Signing Ceremony for the Millennium Challenge Corporation's Compact With the Republic of Madagascar {/title}
+{event} Benjamin Franklin Room, Washington, DC {/event}
+{speaker} Paul Applegarth {/speaker}
+{date} April 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Maybe I'll reread yours. I think it's better than mine. {LAUGHTER}
+
+First of all, I'd like to thank all those who worked so hard to bring this first compact to fruition, including His Excellency President Ravalomanana and all of our distinguished guests from Madagascar, Dr. Rice, the other members of the board and their staff, Ambassadors Nesbitt and McGee and Ambassador Narisoa, and, of course, the dedicated MCC and Malagasy team members who really did work tirelessly day and night to bring us to today.
+
+This compact will give Madagascar almost $110 million over a period of the next four years. It is designed to increase incomes and create opportunities for rural Malagasy. Eighty percent of Madagascar's poor live in a rural area and many live on as little as 41 cents a day. We who come from the more fortunate places of the earth cannot really conceive of such a situation.
+
+We must make opportunities for those living in such hardship. They deserve a better day and a chance to succeed. The MCC is opening those doors of opportunity: land titling, financial sector reform, identifying good crop opportunities for farmers. We have a lot of confidence in the development program that is laid out in this compact. The compact will give the rural poor the opportunity to secure property rights. They'll finally get a piece of paper that acknowledges they own the piece of land they've been working on year after year.
+
+This title to the land will encourage them to invest and help them get credit if they want it to buy needed equipment. They'll get advice and technical assistance, and advisors will help them improve their opportunities to market their goods.
+
+It is no mystery why Madagascar was selected to apply for the Millennium Challenge Account. Under President Ravalomanana's leadership, Madagascar is taking concrete steps to create an environment where assistance will be effective.
+
+Recently, an independent third party complimented MCC by saying that the Madagascar compact was an "a rare example of a development aid agency doing virtually everything right." I would like to amend that comment to say that this is an example of one our partner countries doing virtually everything right.
+
+Doing it right, of course, is a key MCC principle and we share this with President Ravalomanana, doing it right fast.
+
+{LAUGHTER}
+
+We at MCC, and I personally, are very impressed by what we have heard and seen around your country, Mr. President. You have a group of very talented people to draw upon. For example, you engaged technical assistance to help you flesh out your plans, but it was local, not from ex-pats. Developing local capacity to work on the problems of poverty reduction and national development is one of MCC's objectives and we encourage our other partner countries to follow your example when they can.
+
+The program that you developed for the compact contains concrete steps that will bring Madagascar closer to achieving long-term economic growth, growth that will create jobs, that will sustain communities and that will bring Madagascar into the community of stable, democratic and prosperous nations. That is what is unique about Millennium Challenge. It is about reducing poverty through economic growth.
+
+Growth occurs fastest in countries like Madagascar that adopt and adhere to good policies. By rooting out corruption, upholding human rights, investing in health and education and supporting individual entrepreneurship, countries are putting themselves on the fastest track to poverty reduction and growth. This is one of the core lessons of development. MCC was designed to reward and reinforce those efforts and, looking forward, MCC will continue to identify from among the world's poorest countries those that are taking the hard steps necessary to create a framework for growth. We will help them to help themselves, decide how they will reduce poverty, develop a plan to do it, and manage their own development program in a way that will show results for this investment of U.S. taxpayer dollars.
+
+MCC and development assistance, in general, are about bringing the best of America to our relationship with the world and are a key component of U.S. national security. As the 9/11 Commission recommends, a comprehensive U.S. strategy to counter terrorism should include economic policies that encourage development, more open societies and opportunities for people to improve the lives of their families and to enhance prospects for their children's future. This is the mission of MCC, the mission of USAID and those elsewhere in the U.S. Government committed to development.
+
+Our President does not separate international security, political freedom and economic prosperity off into separate boxes. His vision is an integrated one and so is his strategy. The Madagascar compact is an example of MCC helping countries take effective control of their own development and we are poised to expand this circle of development. We hope to distribute a recommendation to our Board for a second compact by early next month and we now have potential relationships with as many as 30 countries, some of the poorest of the world, totaling 400 million people. That is worth celebrating.
+
+So with President Ravalamanana, Secretary Rice, Finance Minister Radavidson, members of the Board, Ambassadors McGee and Narisoa, and our distinguished guests from Madagascar who care to join me, let's make this official.
+
+{COMMENT="The compact was signed"} 
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President and Elena Kagan at Reception Honoring Her Confirmation {/title}
+{event} Honoring Elena Kagan's Confirmation as Supreme Court Justice {/event}
+{speaker} Elena Kagan {/speaker}
+{date} August 6, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much, Mr. President. Thank you for the honor you've given me and the trust you've placed in me by nominating me to the Supreme Court. I am deeply grateful.
+
+Thank you also for lending me some of your marvelous staff since my nomination. There's a lot of work and preparation that goes into the confirmation process. And I very much appreciate their tireless efforts. And one person deserves a special shout-out for her incomparable energy, expertise and wisdom, and that's the head of your judicial nominations team, Susan Davies. {APPLAUSE}
+
+I also want to thank the Judiciary Committee and the entire Senate for giving me such respectful and expeditious consideration. Chairman Leahy gave me wonderful advice throughout this process, and both he and Senator Sessions ensured that my hearing was serious and courteous. I also very much enjoyed meeting with 83 senators -- but really who's counting? -- {LAUGHTER} -- and enjoyed learning more about their concerns, their interests, and their deep commitments to public service.
+
+I'm delighted that many of my former colleagues from the Solicitor General's Office are here. It's the best law office in the country and I've learned every day from its members. Now, once I put on that robe, I'm only going to vote with them when they have the better of the argument, which, let's be frank, is not in every case. {LAUGHTER} But I will always -- {LAUGHTER} -- but I will always appreciate their integrity and professionalism and dedication.
+
+Finally, I want to thank my family and friends. I have a lot of family here today -- my brothers and sister-in-law, a nephew, a niece, aunts, uncles, cousins -- and I have a great many friends here as well. You came from all over the country as soon as you heard the Senate had approved my nomination. And I'm moved and deeply grateful for your support.
+
+And all around me in this room, I feel the presence of my parents. I wouldn't be standing here today if not for their love and sacrifice and devotion. And although my parents didn't live to see this day, what I can almost hear them saying -- and I think I can hear Justice Marshall saying this to me right now as well -- is that this appointment is not just an honor. Much more importantly, it is an obligation -- an obligation to protect and preserve the rule of law in this country; an obligation to uphold the rights and liberties afforded by our remarkable Constitution; and an obligation to provide what the inscription on the Supreme Court building promises: equal justice under law.
+
+Tomorrow, I will take two oaths to uphold this solemn obligation: one, to support and defend the Constitution; and the other, to administer justice without respect to persons, to the rich and poor alike.
+
+Today, Mr. President, I will simply say to you and to everyone here and across the nation that I will work my hardest and try my best to fulfill these commitments and to serve this country I love as well as I am able.
+
+Thank you. {APPLAUSE}
+
+{OTHER-SPEAK} I told Elena to go ahead and soak it in because I'm not sure they're allowed to clap in the Supreme Court. {LAUGHTER} But thank you very much for joining us, and please enjoy the reception. Thank you. {/OTHER-SPEAK} 
+
+{/speech}

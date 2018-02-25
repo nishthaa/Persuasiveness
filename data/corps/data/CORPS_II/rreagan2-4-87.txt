@@ -1,0 +1,18 @@
+﻿{title} Remarks Congratulating the University of Tennessee Lady Volunteers On Winning the National Collegiate Athletic Association Basketball Championship {/title}
+{event} Winning the National Collegiate Athletic Association Basketball Championship {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} April 2, 1987 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President spoke at 1:38 p.m. in the Rose Garden at the White House. The reporters' questions referred to the Senate's override of the President's veto of the Surface Transportation and Uniform Relocation Assistance Act of 1987. {/description}
+
+{speech} 
+
+Well, please be seated. We're delighted to have all of you here and to congratulate you on your stunning success this week. Leon Barmore, the coach of that fine Louisiana Tech team that you defeated, said that "Tennessee played the greatest defensive game I've ever seen." Well, believe me, I had a special feeling about all of you coming here today because, as perhaps you know, lately I've been playing a little defensive ball myself. {LAUGHTER}
+
+But I -- well, I do know what this victory meant to all of you and especially to coach Pat Summitt. Pat, after 12 years of tremendous effort, your coaching and the heart and skill of these terrific young ladies gave you the victory that you've so long deserved. Now, I heard that you were up until 3 o'clock in the morning devising that defensive strategy. Well, obviously it was sleep well lost, because it worked masterfully out on the court. So, it's wonderful to see someone as deserving as you lead this team to victory. And we all support you.
+
+And I want to compliment captain Shelley Sexton and the members of the team on a tremendous season, a season that demanded a great deal of each one of you. The University of Tennessee is a remarkable educational institution, and I think all of you have shown yourselves to be representatives of that great Volunteer educational and sports tradition. Your president, Ed Boling, is here, and Ed, I hope you'll take back my personal congratulations to the student body, the alumni, the trustees, and the people of your great State. Tell 'em for me that I was very proud to have such a great group of young athletes here at the White House today. Oh, and by the way, you might throw in my thanks for loaning me Howard Baker, too. {LAUGHTER}
+
+But again, Pat and ladies, each of you has done something very special this year: You've made your friends and neighbors and supporters very proud. And your victory is something to enjoy now, and to remember all your years. When I was playing college football, our coach used to tell us, in an effort to inspire us, that the things we would really remember the longest were the games we lost, and we'd be the rest of our lives thinking about, well, if we'd done this or done that. I have a hunch that you'll remember this game for a long time, and well you should. So, thank you all, and God bless you all. 
+
+{/speech}

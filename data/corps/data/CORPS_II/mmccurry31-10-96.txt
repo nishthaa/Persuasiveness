@@ -1,0 +1,22 @@
+﻿{title} Press Briefing by Mike Mccurry, Joe Lockhart, Ann Lewis, And Frank Duval {/title}
+{event} Gammage Auditorium, Arizona State University, Phoenix, Arizona {/event}
+{speaker} Mike Mccurry {/speaker}
+{date} October 31, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Good morning, everyone. The President will -- we've got a number of things here to entertain you until the President starts speaking. Let me just start by saying this is a day consistent with what we've done this week, where the President sums up his argument for reelection as he looks at the agenda that lies ahead and ties together various things that he's talked about during the course of this campaign for many, many months.
+
+Today our focus is on how we can strengthen the American family and those steps we can take to protect our communities from violence, and those things we can do to enhance the capacity of law enforcement through cops on the street, through protecting children from tobacco, drugs, gangs and violence.
+
+On those issues. the President will sum up his argument this morning and also provide some direct contrast to his record versus that of his principal opponent.
+
+What I'd like to do, too -- we can come back to that subject, if you want to, or other subjects. I'd like first, also -- part of our wind up this week, not only the President, his appearances on the various venues that we're speaking at, but we're also, as you've heard from our political folks, well over a million a day on the air. And we thought it would be useful for you to see a little bit of what that ad traffic looks like as we close out. Our ad traffic will shift as we go into the close out over the weekend, but just to give you some sense, because you've been traveling and you may not have seen it, what types of arguments we've been making to voters on the air and Mark Penn and Anne Lewis will do that.
+
+Before we do that I'd like to introduce Fred DuVal. I think all of you know that Fred has been serving as a deputy campaign manager for Clinton-Gore '96. He's a former chief of staff to Governor Bruce Babbitt, ran Bruce Babbitt's 1988 campaign. So he's our official resident expert on Arizona and he'll give you briefs on what's in play here in Arizona.
+
+Fred. And obviously, you will all join me in welcoming back my sidekick and partner in crime, Mr. Lockhart -- {APPLAUSE} -- who has an ample supply of witty one-liners stored up if you'd like him to entertain, too. 
+
+{/speech}

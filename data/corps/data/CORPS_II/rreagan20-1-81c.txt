@@ -1,0 +1,38 @@
+﻿{title} Remarks at the Inaugural Balls {/title}
+{event} Inaugural Balls {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} January 20, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} Washington Hilton Hotel (9:15 p.m.) {/description}
+
+{speech}
+
+The President. Ladies and gentlemen, Nancy, my Mike, his wife, Colleen:
+
+We're delighted to be here. I know that it can only be for a few minutes, because there are 10 of these, and we're going to get to all of them. And the fellows that are engineering getting us around say it's only going to take 4\1/2\ hours. {LAUGHTER} We're delighted to be here, and thank all of you for your being here.
+
+I think you might like to have a little news bulletin. I have just learned that the planes have landed in Algiers. Fifty-two -- and I just won't call them hostages; they were prisoners of war -- but they are all hale and hearty and are now, and you can imagine their happiness, they're preparing to board the American planes for the last leg of the trip to Wiesbaden. So, I thought you'd like to hear that.
+
+You know, thanks to Bob Gray, who introduced me here, and to Charlie Wick, the two of them as cochairmen of this inaugural, you agree that it's been a pretty fine inaugural so far? {CHEERS} I think it's been wonderful right down to those beautiful fireworks tonight that I hope you saw. And, incidentally, the Christmas tree lights have gone on.
+
+But almost 200 years ago at the first inaugural, people came by stagecoach. This time people all over America, millions of people, are attending this one by satellite, because in addition to these 10 balls here in Washington, there are in the neighborhood of 100 going on in various cities throughout the United States, and they are receiving, participating in these balls by large-screen television, that is being bounced off the satellite to them. And in each one of those cities, all of the proceeds are going to the charity of the choice of that community, in their own community, going to charity.
+
+So, again, I know we have to move on. But Nancy and I again just want to thank you from the bottom of our hearts. This has been a wonderful day. Thank you very much. Thank you.
+
+{AUDIENCE} Mrs. Reagan! {/AUDIENCE} 
+
+{OTHER-SPEAK} Thank you. No, they just wanted me {/OTHER-SPEAK} 
+
+-- They've got you saying something?
+
+{OTHER-SPEAK} No, with them calling me to come up here. {/OTHER-SPEAK} 
+
+The President. Oh, well, I'm glad you did.
+
+Thank you very much.
+
+I have finally decided I'm not going to wake up. It isn't a dream. {LAUGHTER} It really happened.
+
+But again, God bless you all. Thank you very much.
+
+{/speech}

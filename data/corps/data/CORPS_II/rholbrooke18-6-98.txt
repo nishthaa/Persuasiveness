@@ -1,0 +1,36 @@
+﻿{title} Remarks by the President on Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/title}
+{event} Nomination of Ambassador Bill Richardsonas Secretary Of Energy,and Richard Holbrooke as Ambassador to the United Nations {/event}
+{speaker} Richard Holbrooke {/speaker}
+{date} June 18, 1998 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mr. Vice President, Secretary Albright, Secretary Cohen, Sandy Berger, Ambassador Richardson, Erskine Bowles, General Ralston, many friends and family, thank you.
+
+When I was about 8 years old, my parents took me to a striking new complex that had recently been built on the East River in New York. These buildings, my father said, would become the most important in the world; they would prevent future wars.
+
+My father did not live to see how his dream for the U.N. dissolved in the face of the harsh realities of the Cold War and the inadequacies of the U.N. system itself. But I never forgot the initial visit and my father's noble, if overly idealistic, dream. Despite its many problems and failures, I still believe in the importance and even necessity of the United Nations.
+
+It is, therefore, Mr. President, with the greatest humility and pride that I accept your invitation, the Senate willing, to rejoin the administration as your Ambassador to the United Nations. Mr. President, you, the Vice President, Secretary Albright, Sandy Berger, Leon Fuerth, Strobe Talbott, and the rest of your magnificent national security team are committed to improving the United Nations, to making it more responsive to the demands of the post-Cold War world and to working closely with Congress to solving the extremely important problem of the arrears.
+
+I am proud to follow in the footsteps of my friends, Madeleine Albright, Bill Richardson, Tom Pickering -- each of whom set such a high standard of excellence in this post. I'm especially pleased that I will be working for and with Secretary Albright and Sandy Berger again; and for the first time in the Executive Branch with Secretary Cohen, who I've had the privilege of knowing as a friend since he entered the Congress in the 1970s.
+
+I am deeply honored to be part of Madeleine's team at the State Department, which she leads with such distinction. I'm equally pleased to rejoin my dear friend of over 20 years, Sandy Berger, who's been so masterful in guiding the national security system, the National Security Council, through a period of great challenge. And what an enormous honor it is to be serving again in the administration with Vice President Gore, a friend for so many years, whose support has meant so much to me and my family.
+
+I also want to thank my colleagues at Credit Suisse First Boston for supporting me and putting up with the fact that from time to time -- perhaps more than they wished -- I was absent from my duty to them as I took on special missions for Secretary Albright in the last two years.
+
+It will not be easy for my wife, Kati, and me to follow Bill and Barbara Richardson, who have left such a vivid mark on the United Nations and New York. The energy and intelligence with which they carried out their tasks will long be remembered. And Kati and I will remember their friendship to us.
+
+We are especially fortunate -- and I particularly -- that we now have a Secretary General of the United Nations, Kofi Annan, a remarkable, international civil servant. He and I and our wives have been friends for many years, and I look forward especially to especially to working closely with him.
+
+My friends have always meant a lot to me, and I owe many people a great deal. It's not possible to thank them all this morning, but I do thank those of you who came down from New York to join us. I hope Mr. President, Mr. Vice President, you'll permit me to introduce those of my family who are here -- and most of them are: My mother, Trudi Kearl, who, like my father, came to this country in the late 1930s from a Europe on the verge of war. My parents-in-law, Andre and Ilona Marton -- Andre is here, Ilona is not -- who, as the only journalists who with access to the outside world in October of 1956, sent the last unforgettable reports from Budapest as the Soviet tanks cracked down on the freedom fighters on the streets of Budapest, and then were smuggled out of Hungary with their two young daughters by the American Embassy. My wonderful step-daughter, Elizabeth Marton Jennings and her uncle Andrew; and my own sons, the pride of my life, David Holbrooke and Anthony Holbrooke -- both now television producers -- for all of you I will say, great television producers, in New York. {LAUGHTER}
+
+Two people could not be here today, my step-son Christopher and my wife, Kati, who were unable to get back in time from Colorado. Everyone who knows me knows that I would not be here today or gotten through Dayton without the support and love of Kati. I simply cannot adequately express what I owe to her or what she means to me.
+
+In closing, Mr. President, Mr. Vice President, I am humbled and moved by the opportunity to serve again, as part of a team and an administration that is writing a magnificent record of American leadership and dealing with the challenging new agenda in the post-Cold War world, and redefining America's role in the world along the lines of the items that the President mentioned a moment ago. With the consent of the Senate, I look forward to working with you again, although I sometimes feel that I never entirely left.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

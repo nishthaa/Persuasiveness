@@ -1,0 +1,48 @@
+﻿{title} Speech of Senator Kennedy at Portland Civic Auditorium, Oreg.,{/title} 
+{event} ----- {/event} 
+{speaker} John F. Kennedy {/speaker} 
+{date} September 7, 1960 {/date} 
+{source} http://www.jfklink.com/ {/source} 
+ 
+{description} Question and Answer Session has been removed {/description} 
+ 
+{speech} 
+ 
+Mrs. Green, Mrs. Neuberger, ladies and gentlemen: I am extremely indebted for a very generous introduction, as I was for a very generous seconding speech at the Los Angeles convention, by your distinguished Member of Congress and my faithful friend, Mrs. Green. {APPLAUSE} I am delighted to be here tonight sharing a platform with a distinguished Oregon family - the wife of a former Senator and friend and colleague of mine - and the next Senator from the State of Oregon to the U.S. Senate, Senator Neuberger to be. {APPLAUSE} 
+ 
+Ladies and gentlemen, this is an important election as Mrs. Green has suggested. I do not run for the office of the Presidency promising that if I am elected life will be easy, and that all the problems will be solved. In many ways, I think that the years will be as difficult in the 1960's as they were after the election 100 years ago of President Lincoln. In that election, Lincoln said that this Nation cannot exist half slave and half free. The question for the 1960's following this election will be whether the world can exist half slave and half free. {APPLAUSE} 
+ 
+We are concerned with what happens in this State, and we are concerned with what happens in this country. We are concerned that we shall have vigorous executive leadership in meeting the problems that the great Republic faces here at home. But we are also concerned that the United States shall maintain the peace and maintain our security and maintain our strength and our prestige. {APPLAUSE} 
+ 
+I do not believe that there is any American who can he satisfied with that strength and that prestige as it is reflected in events around us in the southern half of the globe. Americans wonder why it was that Africans who some years ago quoted Thomas Jefferson and Lincoln and Franklin Roosevelt now quote Karl Marx in the Congo. They wonder why the nations of South America who once were engaged in a great enterprise called the good neighbor policy should now stone the Vice President of the United States. They wonder why America, which was once regarded in the 1930's with so much friendship on the island of Cuba should now be reviled and attacked by the erratic leader of that island only 90 miles from our shore. {APPLAUSE} 
+ 
+It seems to me, and this is most dangerous for all of us, that we are all danger of losing the respect of the people of the world, because we are in danger of losing those very qualities which once caused them to respect us. 
+ 
+First, the people of the world respect strength. In former years they were grateful to the United States for the military protection that we guaranteed them. But now they are no longer certain that America's lead will continue in the future when they see the missile gap widen, and once our atomic monopoly begins to cease, and they are uneasy about a military strategy that relies so heavily upon massive retaliation, because they are not interested in seeing their house preserved, only to see it blown up. {APPLAUSE} 
+ 
+Second, the people of the world respect achievement. For most of the 20th century they admired American science and American education, which was second to none. But now they are not at all certain about which way the future lies. The first vehicle in outer space was called sputnik, not Vanguard. The first country to place its national emblem on the moon was the Soviet Union, not the United States. The first canine passengers to outer space who safely returned were named Strelka and Belka, not Rover or Fido, or even Checkers. {LAUGHTER ; APPLAUSE} 
+ 
+They wonder why the Soviet Union has an economic growth of two or three times as much as the great productive country of the United States, and they wonder why it was last year that the United States had the lowest percentage of economic growth increase of any major industrial society in the world. They wonder why Russia is turning out twice as many scientists and engineers as we are, and they are entitled to an answer. 
+ 
+Third, the peoples of the world respect sincerity. The reason the good neighbor policy was so successful was because the people of Latin America knew that here in the United States the policy of Franklin Roosevelt was marked by compassion and interest. The colored people of Africa and Asia believed in Harry Truman's point 4 because they knew that he practiced in his administration those policies without regard to race or creed for all Americans. But now they are doubtful about a party which has shown no real concern in the executive branch for civil rights, no real compassion for the underprivileged, and they do not feel that any country and any administration which does not concern itself about the problems at home will be concerned about the problems of Africa and Asia. {APPLAUSE} 
+ 
+Fourth, the people of the world want peace, and they sincerely wonder how much the United States wants peace. They are afraid of diplomatic policies that teeter on the brink. They are dismayed that there are only 100 Americans working in the entire Federal Government on the vital subject of disarmament. And they are discouraged by a philosophy that puts its faith in swapping insults with the Soviet Union, for they know it can lead in only one direction, and that would be toward mankind's final war. 
+ 
+Fifth, and finally, the people of the world respect a nation which can see beyond its own image. To us, the major issue is the fight against communism, but to them, those who live to the south of us, the fighting is against poverty and disease and illiteracy and ignorance. {APPLAUSE} 
+ 
+Each time they feel that we seek to gain their friendship in order to secure a new recruit in a battle against the communism, and each time we dismiss anti-American agitators as tools of the Communists, or condemn neutrals out of hand, our prestige will suffer and our relations with those with whom we wish to be friends will worsen. To rebuild American prestige will not be easy. It cannot be done overnight by a new administration. But I can assure you that a new administration will make the effort. {APPLAUSE} 
+ 
+I believe that the people of the world desire to be free, and they desire to follow the leadership of a strong and free United States. I think that we should move ahead on five fronts. We must have an administration that will rebuild our military strength until America is once again first across the board. {APPLAUSE} 
+ 
+Secondly, we must have an administration that will revamp its goals in science and education until American science and American education are once again preeminent. 
+ 
+Third, we must have an administration that moves rapidly to shape our image here at home until it is clear to all the world that the revolution for equal rights is still an American revolution. {APPLAUSE} 
+ 
+Fourth, we must have an administration that moves forward on the road to peace until we demonstrate to a watching world, as we sit on a most conspicuous stage, that we are willing to devote the same energies to the struggle for peace as we now do on the struggle for arms. {APPLAUSE} 
+ 
+Fifth, and finally, we must have an administration that holds out a helping hand to all those who desire to be independent, that assists them in meeting their own problems, assists them on the road to freedom as a friend, not as a paternalistic country that desires to use them in a world war struggle. {APPLAUSE} 
+ 
+Once we move again on these new frontiers, in foreign and domestic affairs, we can regain the trust and confidence of men and women of good will around the world. We can more comfortably wear the leadership of the free world, and we can win the fight for peace, and this country will move again. Thank you. {APPLAUSE} 
+
+ 
+{/speech} 

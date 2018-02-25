@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President and Prime Minister Tony Blair of Great Britain to the Students of Montgomery Blair High School {/title}
+{event} Montgomery Blair High School, Silver Spring, Maryland {/event}
+{speaker} Tony Blair {/speaker}
+{date} February 5, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, indeed. My name is Tony Blair, I'm here at Montgomery Blair High School. {APPLAUSE} I'm staying opposite the White House at the moment, a place called Blair House. {APPLAUSE} So I'm feeling kind of at home here. I've just been given something I want to show you -- here we are. {APPLAUSE} And I'm delighted and I'm proud to be here with my good friend and colleague, President Bill Clinton. {APPLAUSE}
+
+I just want to say two things to you this afternoon. Thank you for having us here, for making us feel so welcome, for giving us such a wonderful and warm reception. And to tell you that we have a saying in our country, that we've been running on all the time and saying to everybody -- when I'm asked what the three priorities of my government in Britain are, I say, education, education and education. {APPLAUSE}
+
+Here at school, in our education system, people get the chance to be liberated, the chance to develop their talent and their ability to the full; the chance for every single person in our society who has these tremendous talents and abilities within them to have that potential brought out and developed. That's why education is important. That's why people throughout the ages have fought for better education and got better education. And what I say about Britain is I know what President Clinton says about America: we want to have the finest education systems operating anywhere in the world. That is the only way we will succeed. {APPLAUSE}
+
+And in the end, a school is not just about the education that we get; it's about the spirit, too, of the school. {APPLAUSE} It's a pretty lively spirit here, I can see. {APPLAUSE} And I would like to say to you that the warmth that you have shown, the spirit that you have shown today, the commitment to your school, the pride you take in it -- well, that is the best tribute to your teachers and your principals that they could possibly have, and I know that you would want to thank them for the help and support that they have given you. {APPLAUSE}
+
+In my experience, there aren't that many teachers that get that vote of thanks from their pupils, so you're doing well.
+
+I would just like to end by saying to you all, that we believe in Britain that we have a great deal to offer the modern world. We've got tremendous ties of friendship and history with the United States. We've been made very welcome here in the United States. We know that Americans are our friends and that the British and the Americans stand together in the world -- important now, important always. {APPLAUSE}
+
+And I will take back home with me to Britain your gratitude, your thanks, all the things that you have done for us this afternoon. And I will be able to say to my people back home in Britain, I went to Montgomery Blair High School -- {APPLAUSE} -- they're great young men and women -- {APPLAUSE} -- and they're thoroughly worthy of the great name of Blair. Thank you very much. {APPLAUSE} 
+
+{/speech}

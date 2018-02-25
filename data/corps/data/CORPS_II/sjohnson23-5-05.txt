@@ -1,0 +1,36 @@
+﻿{title} President Honors and Congratulates EPA Administrator Steve Johnson {/title}
+{event} Environmental Protection Agency, Washington, D.C. {/event}
+{speaker} Steve Johnson {/speaker}
+{date} May 23, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, sir. Thank you very much. {APPLAUSE}
+
+Mr. President, members of the Cabinet, Chairman Taylor, my family, friends and distinguished colleagues: I welcome you to EPA Headquarters. Mr. President, you are the first President to visit EPA Headquarters here at Ariel Rios. Your visit today highlights to the nation and to the world the importance of protecting our environment.
+
+As a career scientist, I spent the majority of my adult life working side-by-side with the world's experts in the field of environmental protection. Today, I am proud and honored to stand side-by-side with you, Mr. President, together, reaffirming our nation's commitment to protecting public health and the environment.
+
+As I prepared for today, I thought about how I felt when the President asked me to lead the EPA. Even after years of Latin, German, scientific training, the only word that I could think of was, "wow" -- {LAUGHTER} -- wow. {LAUGHTER} That's exactly how I felt then, and it's exactly how I feel today -- wow. {LAUGHTER}
+
+Mr. President, I approach the task of leading the Environmental Protection Agency with great enthusiasm and profound optimism. Your selection of a career scientist to serve as Administrator has clearly demonstrated your dedication to science on which agency decisions are based.
+
+Over the past 35 years, EPA has been a significant part of our nation's many environmental accomplishments. These experiences have taught us that sound science is the basis of our achievements and the genesis for our future successes. And that is why we're here, to accelerate environmental progress and to deliver better, more efficient results while maintaining our economic competitiveness.
+
+When my daughters call, they ask if my grandchildren's playgrounds are safe, if their water is healthy to drink, if their houses are built on safe ground. They look to EPA to provide them with a peace of mind which comes from knowing that their children's natural environment is being watched over.
+
+Mr. President, under your leadership, our country has made great strides in cleaning our air, water and land in a way that allows our nation to continue to grow and prosper. Today the air across our country is the cleanest it has been in three decades; our food and drinking water supplies are safer; our land is better protected.
+
+These past successes are the solid foundation for future advancements in environmental stewardship. Just as we live in a global marketplace, we now understand that many of our environmental challenges are not confined to political or physical boundaries. By expanding the roles of technology, collaborative partnerships and flexible policies, we will be able to engage broad interests and deliver results quicker and more effectively than ever before.
+
+None of these objectives can be achieved without the commitment of our professional staff. The success of EPA and the health of our nation's environment cannot be separated from the productivity and creativity of my colleagues. I would like to thank them for their continued hard work and devotion to our mission.
+
+Mr. President, thank you again for this opportunity. I am humbled by the trust you have placed in me, and look forward to working together to provide the next generation a cleaner, safer environment in which to live, work and play.
+
+Thank you very much, Mr. President.
+
+{OTHER-SPEAK} Congratulations. {/OTHER-SPEAK} 
+
+{/speech}

@@ -1,0 +1,92 @@
+﻿{title} Speech at Opening Ceremony of World Ministerial Drugs Summit {/title}
+{event} Opening Ceremony of World Ministerial Drugs Summit {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} April 9, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Law and order, Foreign policy (International organisations), Foreign policy (Americas excluding USA), Environment, Foreign policy (development, aid, etc) {/description}
+
+{speech} 
+
+First, may I welcome you all very warmly to London for this World Ministerial Drugs Summit. Your presence here is the clearest possible evidence of the determination of all our countries not just to fight the menace of drugs, but to fight and win the upper hand.
+
+It is a particular honour and privilege to have you, Mr. Secretary-General, with us. You are regarded with very great respect—and if I may say so, affection—right throughout the world and there is the greatest admiration for the way in which you have enhanced both the moral and the practical authority of the United Nations. Your presence with us reaffirms the United Nations' strong commitment to international cooperation against the evil of drugs and we are particularly pleased that the United Nations and the United Kingdom have worked together to call this Summit.
+
+It is also a very great pleasure to have with us President Barco of Colombia—welcome! {APPLAUSE} Mr. President, we honour your enormous courage and that of your Ministers, your Judges, your Officials and your Security Forces in the fight against the drug barons. Colombia deserves all the moral and practical support which the international community can provide—and you will have it!
+
+I greet all the governments who are represented at this Ministerial Summit. The participation of delegates from so many places, ranging from our small dependent territories in the Caribbean to the major world powers, demonstrates the wholehearted commitment of your countries to do something practical about the drug problem. You have not come here to spend time on generalities but to agree on action, action to reduce the demand for drugs, action against the growing threat from cocaine.
+
+Mr. Chairman, mankind has many enemies—some of them have been with us as long as Man himself has existed: war, poverty, famine, drought and disease; but even as we have begun to conquer these age-old enemies, they have been reinforced by others and two in particular.
+
+First, the threat to our global environment from Man's pollution of our planet and second, the insidious threat to our way of life from drugs and from the evils they bring in their wake: disease, corruption, violence, crime, breaking up families and destroying young lives.
+
+But what is most encouraging, Mr. Chairman, is that we are tackling these new problems by cooperating through the United Nations, through the European Community, through regional bodies like the Pompidou Group and through bilateral agreements. The problems are worldwide and solutions will only be found if we put together all our resources and our expertise in a great common effort. That is what we are already doing with environmental problems and that is what we must do with the drug menace.
+
+The coming decade has been proclaimed as the ‘United Nations Decade Against Drug Abuse'. This must not be just a label or a slogan; it must represent our united will and determination to prosecute the campaign against drugs.
+
+Mr. Chairman, the international community is already tackling many aspects of the drug problem and with some success:
+
+First, we are taking action against the production of drugs, through eradication, crop substitution and alternative development programmes.
+
+Second, just as important, we need to monitor and control trade in the precursor chemicals used in the manufacture of illicit drugs.
+
+Third, we are taking action against drug trafficking by increased cooperation between national police and customs authorities and by confiscating the assets of traffickers—Britain has now signed thirteen such agreements and we shall shortly sign two more, with Italy and with Saudi Arabia.
+
+Fourth, we are cooperating in the Economic Summit Seven and more widely against laundering of drug money.
+
+Fifth, we are improving treatment and rehabilitation for the victimes of drug abuse.
+
+Despite these efforts, we should not for one moment under-estimate the scale of the continuing drug problem and it is not only the personal tragedies which illegal drug-taking causes, heart-rending as they are. In some parts of the world, drugs have become a fundamental part of the economy. There are groups—not just the drug barons, fearsome as they are—but growers and middle-men, who do not want us to succeed. They are determined to go on pouring drugs on to the world market through established channels and through new ones. They do not care what damage and human tragedies they cause; their motive is money and they will stop at nothing to get it. It is this great danger which makes everything we do, including the work of this Conference, even more urgent and Ladies and Gentlemen, they must not succeed—we must! {APPLAUSE}
+
+But in this Conference, we want to deal with a particular aspect of the problem—that of demand for drugs. Our efforts to reduce production of drugs and to prevent trafficking in them can never succeed while demand for drugs is still there. Reducing demand may be less dramatic and newsworthy than arresting traffickers but without customers the drug traffickers would soon be out of business.
+
+The problem of demand is not limited just to a handful of countries. The days when you could draw a useful distinction between producer countries, transit countries and consumer countries are over. Now, there is scarcely a country in Europe, in Asia or in Africa which does not experience some demand for drugs and therefore provide a market. So the problem is acute and the task of this Conference is to devise policies deal with it.
+
+Let me suggest, at the outset, six specific areas where we can help:
+
+First, we should do more to educate our young people in the terrible consequences of drug abuse, what it can do their health, to their job prospects, to their hopes for a normal and happy life. There is no glamour in drugs—only depravity and despair—but we have to recognise that the right action started now will take quite a time to produce results.
+
+Second, we can do more to deter, through advertising and publicity, on the lines of our own drug prevention publicity campaign. Sometimes, this may have to be painfully explicit about the consequences of drug-taking. Many of our countries have been successful through that sort of campaign in deterring young people from smoking and from the kind of behaviour which increases the risk of contracting AIDS. We can use some of the same technique against drugs.
+
+Third, we should set out to strengthen the importance of the family and the community as a protection against drug abuse. The problem is never going to be solved by governments and police forces on their own. So often, drug-taking starts amongst other young people in the company of friends, at parties, in the local community and that is where it must be tackled—by parental control, by example, by leadership and by drug-prevention initiatives within this community.
+
+In this country, the Community Action Trust, supported largely by donations from business, operates a scheme known as "Crime Stoppers" by funding a telephone line for anonymous callers. This has let to over 1500 arrests, including more than 300 for drug offences and at the end of this summer, Community Action Trust is to launch a new scheme known as "Drug Command", to help fight drug dealing, and I am delighted to say that another group of business people is setting up a charity "Business Against Drugs" to raise awareness of the dangers and of the techniques which drug pushers use. To be forewarned of their methods helps young people to resist them.
+
+Fourth, we have to improve ways to identify those taking drugs at an early stage before their dependence goes too far. Then, they can be counselled and helped while the problem is more easily soluble.
+
+Fifth, we need to put a greater effort into treatment and rehabilitation, to break the habit for those who have become dependent on drugs. I have visited several drug rehabilitation centres and seen just how difficult it is to overcome drug dependence. We need to reinforce the determined efforts of these young people to kick the habit and help bring success to them and joy to their families.
+
+Sixth, we should make it absolutely clear that you cannot beat drug-taking by legalising drugs! {APPLAUSE} That is the way to destroy young lives, ruin families and undermine society itself.
+
+Our task is to protect young people, not deliberately to expose them to danger. I can assure you that our Government here will never legalise illicit drugs, hard or soft.
+
+Mr. Chairman, I am sure that other ideas will emerge in the course of your discussions. Our aim is to enable each of us to go home from this Conference with a clear picture of the whole range of measures which are available to reduce demand for drugs. We can then consider how they can be applied or more effectively applied in each of our countries.
+
+For Britain, I can announce today the establishment of a United Kingdom Task Force of people who have become expert in how to reduce demand for drugs. Its task will be to visit other countries, particularly less-developed countries, to advise them on drawing up and implementing programmes of their own designed to reduce demand. This will be a new and practical contribution to the worldwide campaign to tackle demand for drugs.
+
+Mr. Chairman, as well as reducing demand, our second purpose in this Conference is to examine the growing threat to all of our countries from cocaine in its various forms, including crack. That does not mean a lessening of our concern about other dangerous drugs, above all heroin. Heroin remains a very great danger and there are signs that production of it is actually increasing substantially in some parts of the world. Nonetheless, there are features which make the cocaine problem particularly serious at this time:
+
+I think we have all read and been dismayed by its devastating effects on a generation of Americans and on their cities and we congratulate President Bush on the major initiative which he has taken against drugs, including cocaine and crack. We can learn from that, but there is now indisputable evidence that cocaine is spreading to affect virtually all our countries.
+
+In our own case in the United Kingdom, cocaine seizures have recently exceeded heroin, indeed in each of the last three years cocaine seizures have exceeded heroin, and new markets are being established in Europe and no doubt elsewhere, with all the associated crime they bring.
+
+We want this Conference to examine every aspect of the cocaine problem: how we can prevent illegal cultivation; how we can intercept trafficking in cocaine; what we can do to stamp out dealing in cocaine on the streets, in the clubs and bars and worst of all, when it happens in schools.
+
+We should not neglect the environmental aspects, in particular the damage to rain forests from cutting and clearing ground to cultivate drugs.
+
+One way we can help is to develop markets for natural forest products, to provide an alternative income for farmers. We are helping Friends of the Earth to organise an international conference in May on rain forest harvest, with just this purpose in mind.
+
+Part of the answer to cocaine lies in better international cooperation between police and customs authorities. Britain already has a number of bilateral agreements on customs cooperation and we plan to initial a further one tomorrow with Finland. In addition, we have set up a new customs unit to provide training overseas and to give advice to other countries on how to fight all drug trafficking, including cocaine. We have already received requests for help and training from twenty-two countries for this coming year alone and we shall happily provide this. Indeed, Britain is making available some £21 million over the next three years for drugs-related assistance to a wide range of countries.
+
+We have a special responsibility for our Caribbean dependent territories and we shall be providing additional funds of over £1 million to help them, with their more limited resources, to combat drug trafficking and money laundering.
+
+Mr. Chairman, some countries are particularly heavily affected by the cocaine problem, none more so than Colombia. We have all applauded the courageous stand taken by President Barco and his Government, despite the continuing vicious attacks and violence against them by the drug cartels. We applaud you, President Barco!
+
+Many of us have given help but the need is still there, so I am pleased to announced today that to support Colombia's fight against cocaine and in response to President Barco's special cooperation programme against drugs, Britain will provide a further £4.5 million of assistance to Colombia. This is another visible sign of our willigness to help him and his fellow countrymen.
+
+Mr. Chairman, you are dealing with some of the most difficult problems of all. To reduce demand takes longer than to reduce supply and it will require years of patient effort in all our countries but your work over the next two days can set us all on the right course and your success will help to determine the quality of life and the health of our young people for generations to come.
+
+Mr. Chairman, I wish you all well in your work at this Conference and I shall be staying to listen to and take part in as much as I possibly can this morning.
+
+Welcome and have a very good Conference! {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,18 @@
+﻿{title} Speech at the University of Wisconsin in Milwaukee {/title} 
+{event} ----- {/event} 
+{speaker} Ralph Nader {/speaker} 
+{date} September 20, 2000 {/date} 
+{source} http://www.pbs.org/newshour {/source} 
+ 
+{description} ----- {/description} 
+ 
+{speech} 
+ 
+We have seen the emergence now of two societies; the society of the rich and well-to-do -- who are doing spectacularly well -- and the rest of America. The majority of the workers still are making less in real dollars and working 160 hours more a year than they made in 1979 under Carter, or 1973 under Nixon, in spite of economic growth. So who's getting the gains from all this economic growth? It's the top 10% of the people, mostly. The net wealth of the top 1% of the richest people in this country is equal to the combined wealth of the bottom 95% -- never had that kind of disparity. The saying goes that when you have economic growth in America, it's a tide that lifts all boats. But what it is now, it is a tide that lifts all yachts. {LAUGHTER}
+
+The Green Party stands for a major democratic movement against the extremism of concentrated power and abuse. So this is what it stands for. One, our country is now in a position where 40 years after Western European countries provided the following for their people, our country is at least now in a position to do the following: One, universal accessible health insurance for everybody. {CHEERS ; APPLAUSE} Every other western country provides it, and they did it in the 50's and 60's, some of them out of war-torn Europe in World War II. What's our excuse? Too much power to the HMO's, to the drug companies, to the corruption of money in politics -- they're always saying, "no." "No." We have the situation in schools, right? You go to college, you pay tuition. Every student at a public university or a college in the United States can get free tuition for a total bill of $32 billion. $32 billion is half of what we're spending defending Western Europe and East Asia against nonexistent enemies, when they're able to defend themselves. 
+
+So why aren't we moving for free public tuition in public universities and public colleges? {APPLAUSE} The Green Party stands for tough law enforcement against corporate crime, fraud, and abuse -- the kind that's reported on by the major newspapers almost every week. You know, Clinton and Gore talk about putting 100,000 more police in the streets, but they don't put enough prosecutors at all in the corporate suites whose behavior kills, injures, and makes people far more sick, and steals far more property, than all the street crime combined, bad as the latter is. We are pushing for campaign finance reform, not only by urging it -- public funding and public campaigns-- but by behaving in the proper way. We are the only party, the only candidacy that does not take corporate interest money, does not take political action committee money, and doesn't come close to the corrupt soft money that's going into the two- party coffers in the tens of millions of dollars from the corporate lobbyists. {APPLAUSE} So we are practicing what we preach, so we can preach what we practice. And we are also succeeding, and that after November, the millions of people who vote for this ticket, and there will be millions of people voting for this ticket... After November, we will emerge as a significant progressive third party that will be a burgeoning watchdog against the two-party system. {CHEERS ; APPLAUSE}
+
+ 
+{/speech} 

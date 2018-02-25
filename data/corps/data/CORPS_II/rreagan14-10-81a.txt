@@ -1,0 +1,18 @@
+﻿{title} Remarks at a White House Luncheon for Members of the Presidential Task Force on the Arts and Humanities {/title}
+{event} East Room, White House {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} October 14, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen, I've just received notification here -- if suddenly in the midst of my remarks or anything else that's going on here, you see some individuals getting up and leaving, don't think that they're against the arts and humanities. {LAUGHTER} They are Congressmen going to the House, because there is a vote up there coming shortly. All those who are against my side in the vote stay here. {LAUGHTER}
+
+Well, I want to welcome all of you here today to the White House on behalf of the American people, and I want to thank you for the important work that you've undertaken in these past few months. You're here because of your love for art, culture, and learning. You care deeply about things of the mind and spirit. Indeed, many of you are cultural leaders and you have proven what I have just said already, in the activities that you have undertaken on your own.
+
+When Nancy inaugurated the Young Artists in Performance at the White House program here in this room, she quoted a line from Henry James: "It is art that makes life, makes interest, makes importance, . . . and I know of no substitute whatever for the force and beauty of its process." Well, those words can truly be applied to art, to the humanities, and their scholarly pursuit. As you know, our tradition of arts and scholarship in America is like most of our traditions -- a pluralistic one. There are many wellsprings of support here for works of creativity and culture. I like to believe that's why artists and scholars continue to flock to our shores from other countries. Today we're seen as a great center of Western culture, a place where the artist and the scholar can find enrichment and excitement.
+
+And I would like now to call on Dr. Hanna Gray, president of the University of Chicago, to present a report on your work. 
+
+{/speech}

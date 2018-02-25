@@ -1,0 +1,34 @@
+﻿{title} Remarks by the Vice President at the Hudson Institute's James H. Doolittle Award Luncheon Honoring Secretary of Defense Donald Rumsfeld {/title}
+{event} Hudson Institute's James H. Doolittle Award Luncheon, The Renaissance Mayflower Hotel, Washington, D.C. {/event}
+{speaker} Donald H. Rumsfeld {/speaker}
+{date} May 13, 2003 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. {APPLAUSE} Thank you very much. {APPLAUSE} Thank you very much. {APPLAUSE} Thank you.
+
+Mr. Vice President, thank you. It wasn't like that. {LAUGHTER}
+
+Rabbi Shemtov, Herb London, Chairman Stern -- my friends Henry Kissinger and Jim Schlessinger, my guest, Brent, all are former recipients of this award -- we thank you for your long and able and continuing service to this country. And, ladies and gentlemen, think how fortunate we are to have Dick Cheney serving as Vice President -- {LAUGHTER} -- a superb executive, a wise counselor. The Vice President is a combination of both thinker and doer. His quiet contributions will be well and properly recorded not in the front pages of newspapers, but in the history books that are yet to be written. I am sure glad I discovered him. {LAUGHTER}
+
+And thank you, Herb, to you and your associates for how you're carrying on the legacy of Herman Kahn and the work of this important institute. I did value my relationship with Herman, a remarkable man with brilliant ideas on so many subjects -- war, peace, trade, energy, transportation, and of course, the future.
+
+As I recall at one of his -- oh, I guess it was a conference we attended. We attended so many conferences together over the -- in the '60s and the '70s. I think it was an American Assembly or a Shimoda Conference in Japan -- how he regaled us with the possibility of a pontevecchio going from the U.N. building across the river. And there wasn't any subject that he wouldn't tackle with enthusiasm, with relish, and a lively engaging mind, and that delightful good humor.
+
+Now, the truth be told, I've been around so long that I also knew Jimmy Doolittle. {LAUGHTER} I had several opportunities to visit with him. My recollection is, it was out at Bohemian Grove, where he would attend periodically, and we would pass and visit. He was always so interested. So I do thank you for this fine award which bears his distinguished name.
+
+Like the Hudson Institute, General Doolittle helped to change the world. Indeed, many of the principles that we recognize as so important in the 21st century -- speed, jointness, flexibility, transformation, precision -- were, in a sense, pioneered by Jimmy Doolittle.
+
+Take speed: After the attack on Pearl Harbor in 1941, Doolittle shocked the world by retaliating against Tokyo some 4,000 miles from Hawaii in just four months. In 2001, the United States struck a terrorist regime in Afghanistan nearly 7,000 miles from the World Trade Centers less than a month after September 11th.
+
+Take jointness: In a sense, the Doolittle raid was an early example of combined joint warfighting. Think about it, he led a team of Army pilots on that historic bombing mission, taking off from the deck of a Navy ship, and landing in an allied nation. Today, that same principle of combined joint operations guided General Tom Franks as a joint force of Army, Navy, Air Force, Marine, Coast Guard, National Guard, and reservists combined with British, Australian, Polish forces in unprecedented ways to liberate Baghdad in less than a month.
+
+In this century, the challenges we face are certainly different from his day. We're likely to face fewer large armies, navies, and air forces, and instead, more adversaries who hide in lawless, ungoverned areas and attack without warning and attack in, for the most part, unconventional ways. So our challenge is not conventional; it's unconventional. We're living in a new and a dangerous world, as the Vice President suggested.
+
+We can live in this world -- let there be no doubt about that. And we can live as free people. Herman Kahn was many things -- scientist, mathematician, economist, historian, futurist. But above all, he was an optimist. And I share his confidence in the future of our country. So members of the institute, I thank you for this fine award.
+
+Mr. Vice President, I thank you for your kind words, your friendship, your good humor, and most of all, I thank you for your truly superb service and leadership to our country. We are fortunate that you are where you are, doing what you're doing, and with our truly outstanding President. Thank you very much. {APPLAUSE} 
+
+{/speech}

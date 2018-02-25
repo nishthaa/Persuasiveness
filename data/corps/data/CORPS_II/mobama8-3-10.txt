@@ -1,0 +1,34 @@
+﻿{title} Remarks by the President and the First Lady at International Women's Day Reception {/title}
+{event} International Women's Day Reception {/event}
+{speaker} Michelle Obama {/speaker}
+{date} March 8, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much. So I get to speak first while he stands and watches. I love this. {LAUGHTER} Look at me adoringly. {LAUGHTER}
+
+{OTHER-SPEAK} I can do that. {/OTHER-SPEAK} 
+
+With sincerity. {LAUGHTER} Anyway.
+
+I'm thrilled to see everybody here. Welcome, welcome. This is a wonderful event as we celebrate Women's History Month at the White House. It's so exciting. {APPLAUSE}
+
+And let me start by recognizing all of the amazing leaders who have taken time out of their very busy days and schedules to be here with us today. We have our Cabinet Secretaries, congresswomen and other leaders who are serving as such powerful role models for the next generation.
+
+But we have some of the members of the next generation here, as well, and I want to take a moment to acknowledge some of them, as well. We've got young people here from the Girl Scouts, from Mount Vernon. {APPLAUSE} From Mount Vernon and Hayfield Secondary in Virginia. {APPLAUSE} From High Point High School in Maryland. {APPLAUSE} From Eastern High School. {APPLAUSE} And Georgetown Visitation here in D.C. {APPLAUSE} All of you stand. Everybody stand. {APPLAUSE}
+
+I had a chance to meet with each and every one of them, to get a hug and a picture, and we talked. They are beautiful, they are inquisitive -- yes, it was a hug, it was a good hug. {LAUGHTER} And what I told them is that they should make sure they take advantage of this evening by making sure that they take time out to meet all of you extraordinary women, right; that they come up and introduce themselves with confidence; and that you make sure you have a little fun, right? So you're going to make that promise.
+
+Make sure you get to meet everyone here today, because today all of you are joining the long line of incredible women who have graced these halls both as visitors and as residents, from admirals and actresses to civil rights pioneers -- my good friend, Dorothy Height, is here. {APPLAUSE} Nobel Prize Winners -- you name it, this house has hosted some of the most accomplished women and some of the most accomplished Americans in the history of this country.
+
+But we're here today not just to pay tribute to leaders and icons and household names. During Women's History Month we're also here to honor the quiet heroes who've shaped this country from the very beginning. We honor the women who traveled those lonely roads to be the first ones in those courtrooms, to be the first ones in those boardrooms, to be the first ones on those playing fields, and to be the first ones on those battlefields.
+
+We honor women who refused to listen to those who would say that you couldn't or shouldn't pursue your dreams. And we honor women who may not have had many opportunities in their own lives, and we all know women like that: Women who poured everything they had into making sure that their daughters and their granddaughters could pursue their dreams; women who, as the poet Alice Walker once wrote, “knew what we must know without knowing it themselves.”
+
+All of us are here today because of women like these who came before us. And during this Women's History Month, may we recommit ourselves to carrying on their work for our own daughters and granddaughters, and also for our sons and our grandsons too.
+
+Now, speaking of sons, it is my pleasure to introduce one of the few men in the room -- {LAUGHTER ; APPLAUSE} -- my husband, and the President of the United States, Barack Obama. {APPLAUSE} 
+
+{/speech}

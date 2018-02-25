@@ -1,0 +1,18 @@
+﻿{title} Remarks by President William Clinton, United Nations Secretary General Boutros Boutros-Ghali, And President Jean Bertrand Aristide at U.N. Transition Ceremony {/title}
+{event} U.N. Transition Ceremony {/event}
+{speaker} Jean-Bertrand Aristide {/speaker}
+{date} March 31, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President Et Al at UN Transition Ceremony {/description}
+
+{speech} 
+
+Once again, welcome, President Clinton. Welcome to all of you, friends of Haiti. {COMMENT="Speaks in French"} 
+
+The implementation of the Governors Island Agreement demonstrates that the world has taken heed to Dr. Martin Luther King's warning that injustice anywhere is a threat to justice everywhere. The engagement of the United Nations, supported by the courageous commitment of the people of Haiti, is a source of thought for all democracies.
+
+United we will raise the banner of a state of law on the flag poles or reconciliation, justice, tolerance, respect and economic progress. United under this banner we will guarantee security and peace. United in this state of law, the new police force in training will take its rightful place. Recommendations made to reform our judicial system will be implemented. And plans to organize free, fair and democratic elections will succeed, as together we move from secure and stable, to safe and more secure.
+
+To join us in this historic day, we welcome today the arrival of the United Nations Mission in Haiti, led by the Special Representative of the Secretary General, Mr. Brahimi, and the Military Commander of the UNMIH, General Kinzer. We welcome friends from America, from Africa, from Europe, from Latin America and from our sister nations of the Caribbean. {COMMENT="Speaks in French"} 
+
+{/speech}

@@ -1,0 +1,34 @@
+﻿{title} Speech at Lunch Given by Norwegian Prime Minister (Gro Harlem Brundtland) {/title}
+{event} Lunch Given by Norwegian Prime Minister (Gro Harlem Brundtland) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} September 11, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Western Europe - non - EU), Defence (general) {/description}
+
+{speech} 
+
+Prime Minister, Governor, Mr. Mayor, Distinguished Guests:
+
+May I say how pleased I am to be starting my visit to Norway in this historic city of Tromso.
+
+It is actually my first visit to Norway. I have never been here before, and I realise that that is a great gap in my education.
+
+When one is visiting a new country, or a country which is a close ally, I think it is a mistake only to go to the capital city, however great that city may be, so we decided, with your cooperation, to come to Tromso first, and I thank you for your warm welcome and your generous hospitality. So at home have you made me feel that you have even got demonstrations outside. {LAUGHTER} How very thoughtful of you. So it is just as if I am in any city, in my own town. Even some of the banners are the same. You know: troops out in Ireland, trade unions, and then, for a moment, with the jungle drums. I thought was I nearer the Equator than the Arctic Circle, and then someone suggested that it might be one or two differences between us on the ANC and sanctions on South Africa but thank you. You know, someone has to defend their right to demonstrate, and Norway and Britain have never been slow to do that.
+
+Of course, I am just one in a long line of visitors between Tromso and Britain. A trader from Tromso is known to have visited the Court of King Alfred the Great over one thousand years ago, and over the following centuries British ships regularly called here to carry on trade between our countries, and it was from your city—and we shall never forget—that Nansen and Amundsen set out on their voyages of exploration to seek out the secrets of the unexplored polar regions. Their exploits, their courage, their success, aroused intense interest and admiration and, of course rivalry, in Britain, where that journey too is one of the historic chapters in British history, if not for getting to the Pole first, for a chapter of courage and bravery of those who set out on that journey. And, of course, it was from Tromso, aboard a Royal Navy ship, that the late King Haakon and the then Crown Prince Olav left for Britain to continue in exile Norway's fight against tyranny and oppression.
+
+Events such as these live in the memories of nations and draw us close. There is no substitute for shared experiences—and we have many of them; and it is thus that Tromso has a very special part in the friendship between Britain and Norway.
+
+Tromso, as you know, lies close to the northern limits of NATO and, indeed, I have been able to see for myself today that you stand in the front line of the defence of freedom. We have been to your defence installations. We have had, if I might say so, the most excellent briefing from your generals and admirals, both of your own defences and of the part we have both played in the defence of NATO, and I can only say that it gives one increased confidence not only of the friendship between Norway and Britain, but for the professionalism with which the defence of this part of Norway—so vital not only to you, but so vital to the freedom of the whole West, so vital to the control of the Atlantic, so vital to the control of sea routes ... great confidence in the professionalism with which that security is being maintained.
+
+My visit here brings to mind some famous words of Franklin Roosevelt, spoken in the dark days of a World War. He said: ‘If there is anyone who doubts the democratic will to win, I say let him look at Norway.'
+
+Mr. Governor, Mr. Mayor, I have been deeply impressed in the few hours I have been here by the natural splendour of your beautiful and ancient country and by all that you have achieved here in Tromso. It is both a city with a great past, a great history and like so many cities with a great past and a great history, it likes to demonstrate that it also has a great future, and so we looked as we flew in at some of the lovely things which you have created; at the beautiful, elegant bridge; at this rather lovely building that although I did not know it from the air, which is a church, which looks like an iceberg, which to me recalls also the beautiful building in Sydney Harbour of the Royal Opera House and stands out in the same way in relation to the harbour as this one does.
+
+You know, those of us who have inherited so much have such a duty to try to create something new for future generations to inherit, and I am reminded very much of that when I see the work which you are doing in Tromso. You are ploughing back your heritage so that you may rebuild anew for future generations.
+
+There is a Norwegian proverb which says Norwegians are a people divided by land and united by sea. Here in Tromso, one feels very strongly that the people of Britain and Norway are united by the sea and by so much else besides.
+
+I thank you for your hospitality with the traditional words ‘Taak For Maten' and I should like to propose a toast to you Prime Minister, to you Mr. Governor and Mr. Mayor. Prime Ministers propose the toast to the friendship between our peoples. May I propose the toast, coupling with it your name, Mr. Governor, Mr. Mayor, to the freedom with justice of all the peoples in the world. {APPLAUSE} 
+
+{/speech}

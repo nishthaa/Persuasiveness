@@ -1,0 +1,54 @@
+﻿{title} Former President Carter Addresses Crowd at Clinton Presidential Center Dedication {/title}
+{event} ----- {/event}
+{speaker} Jimmy Carter {/speaker}
+{date} November 18, 2004 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{APPLAUSE}
+
+Thank you very much. President George W. Bush, former Presidents Clinton and Bush, members of the first families and other distinguished guests:
+
+First, I want to congratulate Little Rock and the state of Arkansas on this beautiful presidential center. It is a wonderful gift to all Americans. And I am also here to express my admiration for the great leader whose name it bears and whose records it holds.
+
+There is a special tie that binds those of us together who have lived and served in the White House and then moved on to other things, retired either as required by the Constitution or involuntarily as a result of elections.
+
+My life has been closely intertwined with Bill Clinton's. The first time I met Bill was exactly 30 years ago when I was governor and charged with helping Democratic candidates throughout the nation. I came to meet an unknown Congressional candidate in Little Rock, in a Little Rock hotel. It may be a surprise to some of you to learn that he was late for the appointment.
+
+{LAUGHTER}
+
+Finally, what I thought was a young messenger arrived, and I said, where the devil is -- and I looked down at my notes to see who I was talking about -- William Clinton? And he said, "I'm William Clinton."
+
+He didn't win that election, but in a couple of years he was attorney general and then governor of Arkansas. And he and his wife helped me be elected as president.
+
+Later, I made some mistakes in 1980 during the Mariel boat lift, and the presence of Cuban refugees in Arkansas may have cost him his reelection. For that, I apologize. But I and the people of this nation are grateful that he overcame that temporary setback and went on to become our president.
+
+{APPLAUSE}
+
+All of us who serve in the White House are different from one another and face changing issues. But Bill and I both made a special effort to find peace in the Middle East. I'll always remember the South Lawn ceremony when President Clinton and the leaders of Israel and the Palestinians all shook hands and pledged their commitment to peace.
+
+I saw a New Yorker cartoon last year that describes our situation in life. A young boy is looking up at his father, and he says, "Daddy, when I grow up, I want to be a former president."
+
+{LAUGHTER}
+
+Well, this is a truly great time of our lives. One of the many benefits of that time that we enjoy is that neither the news media nor any member of the House or Senate can tell us how to do our job -- unless you happen to be married to one of them, like Bill is.
+
+{LAUGHTER}
+
+As a governor, as a candidate and as president, Bill Clinton brought insight, wisdom and determination to bear on the issues that he addressed. He was a leader who could inspire other people to go beyond what they thought were their own limits to join him in accomplishing great goals. These same qualities will serve him well in accomplishing the noble goals already set for the Clinton Foundation.
+
+I want to express my congratulations publicly to President Bush on his recent victory.
+
+But I also want to express my personal admiration for a contemporary of mine, former President Bush, who has had a career of service to this country that is almost unmatched in history: as a soldier, a legislator, a diplomat, an administrator, vice president, and president. And he still continues to serve our nation for which I, and I know all of you, are very grateful.
+
+{APPLAUSE}
+
+In closing, let me say that at the end of a very difficult political year -- more difficult for some of us than others -- it is valuable for the world to see two Democrats and two Republicans assembled together all honoring the great nation that has permitted us to serve. We are truly grateful to you.
+
+Thank you very much.
+
+{APPLAUSE} 
+
+{/speech}

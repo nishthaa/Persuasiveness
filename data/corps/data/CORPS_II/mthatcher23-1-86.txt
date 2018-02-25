@@ -1,0 +1,20 @@
+﻿{title} Speech at Reception Given by Israeli Prime Minister (Shimon Peres) {/title}
+{event} Reception Given by Israeli Prime Minister (Shimon Peres) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} January 23, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Middle East) {/description}
+
+{speech} 
+
+Prime Minister, Ladies and Gentlemen:
+
+A few brief words, because I do not think you really came to listen to speeches! But I want to say how delighted we were that Prime Minister Peres accepted the Government's invitation to come to Britain as the official guest of our Government. We are delighted that you came. Now you have been here, we are even more delighted because everywhere you go, you have a wonderful reception, which you deserve, and somehow you have touched a chord in the hearts and minds of British people.
+
+We admire greatly the way in which you have tackled the problems of Israel and the wider problems of the region. I think in politics we all have really two sorts of decisions to make—the immediate ones of problems which really should and must be tackled; and those one has to bring a power of decision and a capacity for as well, and if people only tackle the expedient ones really it is only half a nation and half a government. And you, Sir, have tackled both!
+
+We admire tremendously what you have done with the economy in Israel. We admire your sure, diplomatic touch and your sensitive understanding of how other people in the region may feel and how you may bring them together so that one day we may all live in peace and security. {APPLAUSE}
+
+I am very thrilled that the Prime Minister has asked me back. We can then continue the talks we had, which as I said in Parliament this afternoon, were not only enjoyable—they were most interesting and very constructive—and I will be very very happy to pay a visit to Israel, I hope this summer. I do not know about taking any hints from your political system. I am not going to have proportional representation. … . about coalition. I come as a real friend. {APPLAUSE} 
+
+{/speech}

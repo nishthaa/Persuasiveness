@@ -1,0 +1,40 @@
+﻿{title} President Bush and Prime Minister Martin's Remarks in An Exchange of Toasts {/title}
+{event} Canadian Museum of Civilization, Ottawa, Canada {/event}
+{speaker} Paul Edgar Philippe Martin {/speaker}
+{date} November 30, 2004 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Ladies and gentlemen -- {APPLAUSE} Thank you. I've got to tell you, Mr. President, it's great to be home. {LAUGHTER}
+
+Before I begin, I wonder if I could just have your attention. As you know perhaps, Mr. Pierre McNichol, who was supposed to be the Master of Ceremonies tonight, Mr. McNichol, involved in theater and television, passed away this morning. And I wonder if I could ask us all to take a moment of silence, just to bow our heads and take a moment of silence.
+
+{COMMENT="A moment of silence is observed"} 
+
+Merci.
+
+Mr. President, Mrs. Bush, Ministers, members of Parliament, Senators, Premiers, members of the U.S. delegation, ladies and gentlemen -- Madam Chief Justice -- I almost forgot. {LAUGHTER} I don't know about in the States, Mr. President, but in Canada you don't forget the Supreme Court. {LAUGHTER}
+
+Mr. President, Mrs. Bush, let me bid you welcome to Canada. {APPLAUSE} We are here, Mr. President, with the Premiers of our provinces and territories, members of Parliament and Senators from across the country. And, indeed, the setting for our gathering this evening is uniquely Canadian. Just a look around will give you a glimpse into our earliest history.
+
+Right behind me, totem poles, the Aboriginal cultures of the Pacific Northwest. Upstairs, a journey through our social history from the first Viking settlements on the New Foundland coast. {COMMENT="Speaks in French"} 
+Outside is the Ottawa River -- 24 Sussex, the home of Prime Minister Chretien, who is here tonight, of Prime Minister Turner, who is here tonight -- is the river that really sought entry into the rest of the country. It is where huge rafts of logs piled by lumbermen once came crashing through the rapids. And from this wood they built railroads, extending south to the St. Lawrence River, in the Northwest, across Ontario to north of Lake Superior, and ultimately to the west and the Pacific Ocean.
+
+These rail lines, like vital nerves connecting the people of our young country in spirit and enterprise, moved us, helped us grow, kept us in touch, and gave us a sense of achievement and identity. Indeed, on either side of our shared border, parallel sets of tracks, mile after mile, gave our two countries a sense of possibility envied the world over. On either side of the border grew great nations, independent and sovereign, but united in their pursuit of equality and prosperity, their devotion to freedom and democracy, their commitment to building a better world. The border we share has not been a barrier, and it must never become one. {APPLAUSE}
+
+It is a reflection of our historic friendship and a gateway to our future prosperity. Its openness speaks to the trust and the goodwill we have forged as people and as nations. {COMMENT="Speaks in French"}
+
+On September the 11th, 2001, more than 200 commercial planes were diverted to airports across our country, from the Pacific to the Atlantic. Immediately, Canadians opened their homes and their hearts. Three days later, on September the 14th, 100,000 Canadians spontaneously gathered on Parliament Hill in what was and is the largest vigil ever seen in our capital. {APPLAUSE}
+
+Since then, we have, together and separately, embarked on measures to protect our continent and our border. But what is particularly remarkable is the strength and the resolve of our citizenry, the adjustments they have made with understanding and solidarity to ensure that our border remains an example to the world in its openness to trade and its demonstration of trust. And because of this, our relationship, so rich in history, remains forward-looking and vital, focused on the future.
+
+Mr. President, we spoke today of matters ranging from trade and security to our mutual prosperity, to an improved quality of life. We spoke of the environment and we spoke of the defense of North America. We spoke of the world and what a new multilateralism can do to help bring peace to troubled lands. We spoke of our responsibility to alleviate poverty and disease, wherever it is found. We spoke of our dedication to taking the fight to terrorists around the world, and we spoke of our respective places in the global community. {COMMENT="Speaks in French"} 
+Mr. President, the unshakeable friendship between our two nations gives us both strength, purpose, and hope. We don't always agree, and we won't always agree, but there is a spirit of renewal in the relationship between our two countries.
+
+We committed ourselves today to a more sophisticated partnership, one driven by a commitment to cooperation across North America and beyond its borders. It is in the spirit of this partnership that I propose a toast to our friendship, to the people of the United States, and to you, sir, their President.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

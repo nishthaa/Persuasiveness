@@ -1,0 +1,29 @@
+﻿{title} Speech to European Parliament {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Jean Penders {/speaker}
+{date} December 9, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr President, in late 1981 Prime Minister Thatcher said here in the European Parliament: ‘I shall report back to you in five year's time.' She has kept her word. That was a gracious farewell, and I therefore wonder why it was not possible for the leaders of the European trade union movement to be given a gracious reception in London.
+
+The big questions, the common agricultural policy and Community financing, were avoided in London. It therefore seems slightly ironical that we should now hear a long tirade on the excesses of the common agricultural policy, when they were not discussed in London, and yet when a report is made on the London meeting here, they are discussed. That is rather ironical. {APPLAUSE}
+
+Why, Mrs Thatcher, was Community financing not discussed in London? Were you perhaps afraid that a decision to raise the Community's share of VAT to 16%; would threaten your own repayment arrangement? These two matters were after all linked in Fontainebleau. If that is the case, it does not square with your reputation for not being afraid to tackle difficult problems. {APPLAUSE}
+
+We welcome the fact, Mrs Thatcher, that such subjects as terrorism, drugs and the spread of AIDS were discussed at the European Council meeting. These are threats to the whole world, and they deserve to be considered by the Community. We also see here something of the widening of the scope that British membership of the Community can and must mean for Europe.
+
+The US-Israel-Iran question was discussed at length in London. But there is nothing about this in the communiqué. I feel there should have been, at least for the sake of public opinion. It ought to have been possible to find some acceptable, unemotional words that told the truth and yet spared the feelings of our American friends and allies.
+
+We are also very grateful to you and the British for your persistent efforts to complete the internal market. You have done some important work in this respect. We also greatly appreciate the commitment of the President of the Budget Council. She has done an excellent job in the last six months.
+
+This was the first British presidency not to have been under the pressure of renegotiating British membership or of demands along the lines of ‘I want my money back.' That was a good omen. And yet there is something not quite right about Britain's leaders in Europe. What is it? Is it a lack of interest? That does not seem plausible in view of Britain's interest in a Europe that functions smoothly. Is it the special relationship with the United States? I rate your sense of reality too high to believe that a great deal of nostalgia is still invested in that. What is it then? As I see it, Britain's absence from the Community in the 1950s is taking its toll. You were not with us then, and the Community was consequently endowed with a rather French legal structure. That means precise decisions, carefully worded agreements, a thorough knowledge of the subject matter, conscientious preparation and, anathema to the British, strategic planning. Your favourite method of muddling through has no place in this scheme of things.
+
+But you should make this undertaking. Your people in the Permanent Representatives Committee in Brussels are very good at it. They have slowly got wise to it. And your group here in Parliament has also learnt a great deal. They are now working in an international group, with Danes and Spaniards. Their attitude is becoming increasingly European. We Christian Democrats will therefore give Sir Henry Plumb our wholehearted support in his efforts to become President of the European Parliament. {APPLAUSE} 
+
+Your fellow party members here are performing a very necessary bridging function, for the United Kingdom's integration into Europe. Mrs Thatcher, you can learn a great deal from them, and I hope you will also benefit from their experience here.
+{APPLAUSE} 
+
+{/speech}

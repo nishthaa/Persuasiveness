@@ -1,0 +1,86 @@
+﻿{title} President Bill Clinton at First Annual Dole Lecture at the University of Kansas {/title}
+{event} First Annual Dole Lecture at the University of Kansas {/event}
+{speaker} Robert Dole {/speaker}
+{date} May 21, 2004 {/date}
+{source} http://www.clintonfoundation.org {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{OTHER-SPEAK} Good afternoon, ladies and gentlemen. Good afternoon and welcome to Allen Fieldhouse.
+
+{APPLAUSE}
+
+The Home of the Jayhawks.
+
+{APPLAUSE}
+
+It's my pleasure to welcome you to the Inaugural Dole Lecture of the Dole Institute of Politics at the University of Kansas. My name is Steve McAllister, and I am the interim director of the Dole Institute.
+
+{APPLAUSE}
+
+Almost 63 years ago, a young man from Russell, Kansas, came to KU to begin his college education. He frequently wrote home to his family about his life as a KU student. This wonderful collection of letters, which is housed in the Dole Institute, is part of the nation's largest Congressional archive, demonstrates many of the typical joys and concerns of KU students. For instance, in one of his first letters home, the young man from Russell wrote, “Dear Mom, I hated to send all of this laundry home, but it costs too much down here. Shirts are 15 cents, shorts are 6 cents, towels 5 and socks 3 cents. That adds up pretty fast when you have as little money as I have.” These letters home discuss his classes, his grades, his extracurricular activities, the part-time jobs to pay for tuition and fees, and of course KU sports. Indeed, as a member of the KU freshman football team, this KU student frequently wrote about KU football. For example, observing the KU-Nebraska game, “About all I can say is that KU had 11 men on the field, even though it didn't look like it.”
+
+{LAUGHTER}
+
+A few weeks later he shared with his family how around 3,000 students paraded to the Chancellor's house asking him to dismiss Monday classes after KU defeated K-State the previous Saturday.
+
+{APPLAUSE}
+
+The Chancellor declined, but the students refused to go to classes anyway, and spent that Monday celebrating. But at the end of his first semester, life as a KU student changed in a dramatic fashion. He wrote home that “I suppose you, like everyone else, are huddled around the radio, listening to war developments in the battle with Japan.” This KU student completed two years at KU before he went into the service fighting for his country and suffering grave injuries in northern Italy. The rest of the story, as is said, is history. A history told in videos and exhibits located in the Dole Institute's spectacular Hansen Hall and in the thousands of boxes of letters and documents in the Institute's archives. I tell you the story because the young man from Russell never returned to KU as a student. But he is as much a KU Jayhawk as anyone in this Fieldhouse, and he has returned to KU as a teacher and an exemplary leader in public service and public life. The Dole Institute of Politics with Senator Dole as its inspiration and namesake is dedicated to the promotion of civility and public life and bipartisan solutions to America's problems.
+
+{APPLAUSE}
+
+It is with great pleasure that I introduce to you one of Kansas's favorite sons, Senator Bob Dole, with his good friend, President Bill Clinton.
+
+{APPLAUSE}
+{/OTHER-SPEAK} 
+
+Thank you. First --
+
+{APPLAUSE}
+
+Thank you. First, let me thank the student body. After 9/11, there was an effort made by KU to raise funds for the victims' children, and you were the first University to respond with, I think you gave to the Clinton-Dole team that time, we were raising money, $47,000 and we thank you for it.
+
+{APPLAUSE}
+
+I'm honored that my friend, President Clinton, is here.
+
+{APPLAUSE}
+
+And I know the Governor is here and the Chancellor is here and many distinguished guests and everybody is a distinguished guest, and it's always a pleasure to return to Lawrence. A great University where I get more compliments and fewer votes than anywhere in Kansas.
+{LAUGHTER ; APPLAUSE} 
+
+Now, you may not know it, but we're about to break what our guest of honor has called “Clinton's Third Rule of Politics”. Namely, whenever possible, you should be introduced by someone you've appointed to a high position. Their objectivity is stunning. Mr. President, welcome to the land of the Jayhawk and the home of one of America's great sports programs. For example, KU has marvelous basketball teams on this court over the years, only to fall just short of the national championship they deserved, sort of like the presidential campaign of 1996.
+
+{LAUGHTER ; APPLAUSE} 
+
+It's hard to believe, but next week marks the 87th birthday of John F. Kennedy. I'm sure most of you have seen the famous footage of JFK in the White House Rose Garden shaking hands with a young admirer from Arkansas, who would one day go on to live in the same house. I come from somewhat different political tradition. I arrived in Washington January,1961 just as President Kennedy was beginning being inaugurated, and my personal hero, Dwight Eisenhower, was preparing to leave our nation's capitol. After eight years in the Oval Office, like President Eisenhower, I take pride in my Kansas roots. I've never forgotten where I came from or the badges I associate with Russell, University of Kansas, the state of Kansas, and all of its institutions, and I would not be here today if the people at Russell hadn't rallied around to help me and maybe that helps explain my belief that the greatness of America lies not in the power of our government, but in the goodness of our people. At the same time –
+
+{APPLAUSE}
+
+-- I owe my life to a lot of good doctors, a lot of good nurses, and a lot of good friends. And I would just say one thing that's meant not in a political vein, but I've never been reluctant to use federal authority where moral authority demanded it. In March 1965, a few days after civil rights demonstration, some had been beaten senseless for demanding federal voting rights legislation, I was in House chamber when President Lyndon Johnson proclaimed "We shall overcome." I was a conservative Republican from Kansas. President Johnson a Liberal Democrat from Texas. We disagreed more often than we agreed, but we were as one on the defining issue of our times and for a simple reason – no first-class democracy can tolerate second-class citizens.
+
+{APPLAUSE}
+
+We're reminded of that again in Topeka on Monday in celebration of Brown Vs. Board of Education, the 50th anniversary, and I mention this not to wallow in nostalgia, but to remind the young people in today's audience that there really was a time in Washington when political differences didn't get in the way of personal friendships, which brings us to the political odd couple you see before you. President Kennedy was once asked by a reporter how it felt to be a war hero. “It was entirely involuntary on my part,” said Kennedy. “They sank my boat.” That sort of how I feel about my retirement from politics. It, too, was involuntary, mainly because the Clinton team kept scheduling televised debates past my bedtime.
+
+{LAUGHTER ; APPLAUSE} 
+Since then, President Clinton and I have enjoyed an all-too-brief career as television pundits. We were the only act in history of the "60 Minutes" program that stopped the stop watch. More successfully, and there have been a lot of successes, we have worked together on a number of issues outside the TV studio. At the President's request, I served the administration as chairman of the International Commission on Missing Persons in the former Yugoslavia. As I said earlier, after 9/11, we joined together, President Clinton, former Senator Dole, to raise scholarship funds for the children's of the victims of 9/11. I keep threatening to run against him for President of the Senate Spouse Club. I might finally get to be President of something. That's not all we have in common. Both of us are authors. I put together a book called “Laughing Almost All the Way to the White House." President Clinton got the White House. He also got the last laugh and $12 million for his memoirs. Not to be outdone, I decided to write another serious book myself. In at least one area, however, I have managed to cross the finish line ahead of President Clinton. Last summer we dedicated the Dole Institute of politics here at KU. It's not a Presidential
+Library --
+
+{APPLAUSE}
+
+It's not a Presidential Library, but will have to do. Come to think of it, if it wasn't for President Clinton, there might not be a Dole Institute of Politics. Among other things I'd like the Institute to promote, and I mean this very seriously, is civility in our public life.
+
+{APPLAUSE}
+
+And encourage a bipartisan search for solutions to America's problems. And finally, let me say it was my friend and former employee, Rick Smith, who first proposed an annual lecture, the Dole Lecture, which might serve as a showcase for something better than sound byte politics. It was also Rick who said “Wouldn't it be great if we could launch the series with President Clinton? Who better to dramatize the possibilities of partnership over partisanship?” and that's what today is all about: to demonstrate that political opponents need not be personal enemies, that strong convictions can co-exist with mutual respect, and that we unite as America patriots is much much greater than what divides us as election year partisans. So my fellow Kansans --
+
+{APPLAUSE}
+
+My fellow Kansans, would you please give President Clinton a good Jayhawk welcome.
+
+{APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,40 @@
+﻿{title} Remarks by President Clinton, British Prime Minister Tony Blair, Deputy First Minister Seamus Mallon, and First Minister David Trimble to the People of Northern Ireland {/title}
+{event} Odyssey Arena, Lagan Waterfront, Belfast, Northern Ireland {/event}
+{speaker} Tony Blair {/speaker}
+{date} December 13, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Well, now, ladies and gentlemen, it's a really great pleasure to be with you here this afternoon. I'd like to say a very special word of welcome to the President of the United States of America, Bill Clinton. {APPLAUSE} And, yes, to Senator Hillary Rodham Clinton, as well. {APPLAUSE} Got kind of a good ring to it. Welcome to them, and welcome to everyone here today.
+
+And, Bill, if I can say to you a few personal words right at the outset. In your time as President, we've taken many steps down the road to peace. And if we turn this progress into a lasting peace and stability, then when its history is written, your name will be written large within it. {APPLAUSE} Our countries have long had a unique relationship, and that will always be there. But today I want to say thank you not just to the United States, but to you, personally, for your commitment, your intelligence, your encouragement -- that Clinton magic that has taken us forward at key moments. You may be serving the end of your term in office, but I know, and we know, that your commitment to peace will never end. {APPLAUSE}
+
+It was in 1995 that you first came to Northern Ireland as President. And there have been big changes since then -- big changes that sometimes far too often we take for granted: unemployment down by 40 percent; the fastest growing economy in the whole of the UK here in Northern Ireland; people returning -- not leaving -- exports doubling; inward investment coming; tourism, now 1.6 million people a year; a construction industry of dramatic revival; 10 million pounds per month injected into the Laganside development. Whole industrial areas being transformed here, this very Odyssey Center -- a 91.5 million pound investment.
+
+I tell you, without our process of peace, these benefits would never have come to the people in Northern Ireland. And let us not forget that progress when we talk of the difficulties. {APPLAUSE}
+
+And a peace process is, indeed, what it says -- a process. It's not an event. It was never going to be the case that suddenly one day in April 1998, there were The Troubles, and the next day there was peace. It is a process that is painstaking, difficult, full of obstacles. And, yes, there will be those extremists who will still hanker after violence and the old ways. Yes, there will still be people who are sectarian in their attitudes. But I say the best answer to those people is not when they engage in violence to let them destroy the process of peace, but when they engage in violence, let us say to them: You will not stop the expressed will of the people being done; this process will carry on moving forward. {APPLAUSE}
+
+And that Good Friday agreement is still the way forward, the only way forward. Because the principles at the heart of it, whatever the difficulties in implementing them, the principles at the heart of it are the right principles. The principle of consent; the principle of devolution and power-sharing; the principles of justice and equality and recognition of different identities; the principle that whatever our differences, whatever the problems within communities, those differences should only be resolved -- only ever be resolved by peaceful and democratic and nonviolent means. {APPLAUSE}
+
+And, yes, in implementing those principles, the difficulties remain -- on policing; on how we put the weapons beyond use and take the gun out of politics; on how we normalize our security, all these difficulties remain. But the principles are agreed and, therefore, what we need now is the will -- not just the political will, but the will in a community, each part of the community to implement the agreement we have made.
+
+And there's one other big change, one other big change you will notice here, and that is the relations between the British and the Irish governments today. And I would like to pay a special word of tribute to someone who isn't with us this afternoon, Bertie Ahern, the Taoiseach, who's done so much to move this process forward. {APPLAUSE}
+
+We -- we -- are making peace with our history in these islands. And in doing so, I believe we are representing that strand of humanity that seeks progress in every age.
+
+There is an eternal debate between those who believe that events shape people and that we are powerless in the grip of historical forces, and those who believe, even if only at certain times and certain moments, that people can shape events and in doing so, make our own history. There are the doers and there are the critics; there are the strivers and there are the cynics. There are the ones who get their hands dirty trying, and the ones whose hands are clean because they never tried. And I tell you, those two men on the platform alongside the President, and countless others here today, they are the ones who are striving against all the odds to bring peace to Northern Ireland. And each one of them will be told they're selling out, and all of them will be told that they are betraying what they believe in. And all of them have the courage to know that the real betrayal would be to let this peace process go down. {APPLAUSE}
+
+They've taken the hard way. They pay a price for it. But I do believe that they will be the men future generations salute as people who had the vision to say that we will leave behind the bitterness and the hatred and the prejudice, and build a new beginning. You know, we know each other all pretty well now. Sometimes it's good and sometimes it's difficult, and sometimes we doubt.
+
+But in the end, it's one thing that unites David and Seamus, unites all the people who work together in that Executive that no one could even have dreamt of a few years ago could happen, with Unionists and Nationalists and Republicans sitting down together and trying to work out the way forward. There's one thing that all of us have in common: However much sometimes we disagree, and however much sometimes it's difficult, we all know there is no other way forward. There is no alternative. There is no other choice that somehow offers a painless way of grasping the potential of the future.
+
+This is our chance in Northern Ireland. For those of us who grew up with The Troubles an ever-present reality, for those of you, many of you, whose individual lives will have been scarred by those Troubles, you know and I know, we all know, this is our hope for peace.
+
+So I want to tell you this: We will never give up the search for peace. Whatever the obstacles, we will overcome them. Whatever the difficulties, we will remove them. Whatever the barriers in the way, we will surmount them. Because, in the end, if we exist in politics for any reason, it is at these crucial moments of history to make a difference. And now we have.
+
+Ladies and gentlemen, it's my very, very great pleasure to introduce to you one of the men that has made a difference over these past few years in Northern Ireland: the Deputy First Minister, a good friend, a good colleague and a good man, Seamus Mallon. {APPLAUSE} 
+
+{/speech}

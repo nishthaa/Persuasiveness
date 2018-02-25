@@ -1,0 +1,28 @@
+﻿{title} Remarks by President Clinton, Vice President Gore, Chairman Yasser Arafat, Prime Minister Yitzhak Rabin, President Hosni Mubarak, and King Hussein I at Reception for Heads of State {/title}
+{event} The Corcoran Gallery, Washington, D.C. {/event}
+{speaker} Yasser Arafat {/speaker}
+{date} September 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President; His Majesty King Hussein of Jordan; His Excellency President Mubarak; our partner, our cousin, Yitzhak Rabin. {APPLAUSE} We were, in the past, only cousins, all of us who are the sons of Abraham. And now, we are the sons of Abraham, we are cousins, but now we are partners and we are neighbors. {APPLAUSE}
+
+Mr. President, what happened today, and with what we have achieved today, was done because of your help and support; also the help and support of President Mubarak, His Majesty King Hussein, and the other Arab leaders. They stood fast by us in order to achieve this agreement.
+
+What we have achieved was achieved by the sponsorship of President Clinton and the Russian President, President Yeltsin. And we cannot forget the position of Norway, the friendly country. We have named the agreement the Oslo Agreement, because we have started our secret talks there, and Norway was always with us.
+
+We cannot also forget the position of the European Union. The European Union states, they supported us; they supported us in Gaza, and they worked very hard in order to create a new Middle East -- a new Middle East that's based on peace and justice, and create a totally new circumstances for that region.
+
+We have created with our neighbors, our new neighbors and our new partners, a new peace -- peace of the brave. Now, we can say that we have a new Middle East, a new Middle East is in the making. And that new Middle East will be completed when our efforts will succeed on the Syrian track and the Lebanese track. {APPLAUSE}
+
+The Middle East is the cradle of all faiths, that's where all prophets and God's messengers came from. And as our Koran teaches us that if they incline toward peace, inclined as well toward peace and depend on God. Therefore, we will protect this peace with our souls and our bodies. {APPLAUSE}
+
+Yes, we will protect this peace. We will protect this peace because our peoples need peace. Our children need the peace. All of our children -- our Egyptian children, our Jordanian children, our Israeli children, our Syrian children, our Lebanese children, our Arab children, and, yes, our Palestinian children. {APPLAUSE}
+
+I would like to tell all of you, before President Clinton, the man whom I consider the man who created the miracle and made that peace. {APPLAUSE} The Holy Land that we talk about needs your efforts, Mr. President. It needs your efforts today more than any time else in the past. And I invite you, Mr. President, to celebrate a very special occasion, as I mentioned to you this morning, that, soon, I hope you will be able to join us when we celebrate Christmas in Bethlehem in Jerusalem. Yes, the year 2000 and the celebration of the year 2000 will be a historic event and a religious event.
+
+Thank you very much, and I hope to see you in Palestine. {APPLAUSE} 
+
+{/speech}

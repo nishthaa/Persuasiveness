@@ -1,0 +1,38 @@
+﻿{title} Remarks to Representatives of the United States International Youth Year Commission {/title}
+{event} Rose Garden at the White House {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} June 22, 1984 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+It's getting a little warm out here, isn't it? {LAUGHTER}
+
+Well, I do thank you. And first, I want to welcome you and thank you for taking the time to come to Washington to begin the activities for our national celebration of International Youth Year, 1985. I believe you all know -- or you wouldn't be here -- the importance of our youth to the future peace, security, and well-being of our nation and the world. And I'm certain that by working together, the youth organizations represented here today, our government, and America's private sector, Youth Year, 1985, will be a resounding success.
+
+There's a spark in all of us which, if struck early enough, can light up our lives, elevate our ideals, and deepen our tolerance and strengthen our determination to make this world a better place. You couldn't make a better investment in America's future.
+
+I've always believed that a lot of the problems in the world come from people talking past each other instead of to each other. And during Youth Year, 1985, we'll be making a special effort to help our young people reach out to each other and to their counterparts all over the world. And they will be able to build new bridges of understanding.
+
+Understanding begins with the knowledge that the most powerful force for progress in this world comes not from government bureaucracies, nor public programs, nor even valuable resources like gold or oil. True wealth, and the real hope for the future comes from the heart -- from the treasure of ideas and spirit, from free people with a vision of the future, trust in their fellow men, and faith in God. The better future that we all yearn for will not be built by skeptics who spend their lives admiring the complexity of the problems. It'll be built by free men and women who believe in themselves.
+
+History shows that progress takes its greatest strides when people are free to worship, create, and build -- when they can decide their own destiny and benefit from their own risks. The dream of human progress through freedom is still the most revolutionary idea in the world today. And it's also the most successful.
+
+Two weeks ago today, the leaders of seven major industrial democracies issued a Declaration of Democratic Values at the London Economic Summit, and it concluded with these words: Strong in our beliefs, and endowed with great diversity and creative vigor, we look forward to the future with confidence. Well, we should be confident. The summit demonstrated the enduring strength of our shared vision and values, our resolve to sustain peace with freedom, and our desire to assist those who are seeking a better life.
+
+You, too, should be confident -- confident that if you prepare for International Youth Year, 1985, with wisdom and responsibility, you can shape a future of freedom, peace, and prosperity that can be shared by the whole world.
+
+And that's why I'm so pleased that Prime Minister Seaga of Jamaica has proposed an International Conference of Democratic Youth during 1985. We believe that his conference, the first meeting of its kind, merits strong support of freedom-loving people everywhere. It will give young people all over the world a chance to examine and share their democratic values and principles, and to speak out for human rights and the three themes of International Youth Year: participation, development, and peace.
+
+I hope that some of the young people from other countries have a chance to visit us as well and see our spiritual and economic vitality so that they will understand America better. And we, in turn, will learn much of value from them.
+
+I think one of the most wonderful and rewarding experiences I had in all the trip to China recently, was one day -- the day before we were to leave -- in Shanghai, visiting Fudan University and going into one classroom where I was assured that all of those Chinese students could speak English. So, we didn't require translation.
+
+And I opened it up to questions and answers. And I was amazed at the questions from those young Chinese students about you, the young people who are here in this audience, and young people all over America -- really a deep and sincere interest and a curiosity in what I could tell them about how you were approaching life, and what your thoughts and dreams were. And it was a great pleasure to answer to the best of my ability. Sometimes I had to call on memory, but I thought I'd spoken to enough of you here that I was pretty much speaking your views. But it was so wonderful to see their honest and sincere desire to know you -- and know you better.
+
+The U.S. Youth Year Commission has accepted a worthy and important challenge, and you have our support. Our task force on Youth Year, under the leadership of Greg Newell, will do everything it can to help. And together, I'm certain that we will achieve great success in reaching out to America's young people and, through them, to the youth of the world.
+
+So, I've kept you sitting out here in the sun long enough. I thank you all, and God bless you. And forward. 
+
+{/speech}

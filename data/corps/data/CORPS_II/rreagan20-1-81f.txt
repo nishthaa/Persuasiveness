@@ -1,0 +1,28 @@
+﻿{title} Remarks at the Inaugural Balls {/title}
+{event} Inaugural Balls {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} January 20, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} John F. Kennedy Center for the Performing Arts (10:40 p.m.) {/description}
+
+{speech}
+
+Well, ladies and gentlemen, thank you all very much for being here.
+
+And first of all, I think you will agree with me that our cochairmen of the inaugural, Charles Wick, Bob Gray, have done a magnificent job. And the people here, your host, Ed McMahon, the entertainers that are here, and this gentleman at my left -- your name again -- {LAUGHTER} -- the great golfing friend -- but all of you, there's no way to thank you for being here, for what you've done, and what you mean in all of this.
+
+And I thought maybe to have something to say I could, in the little bit of time that is allotted us here, bring you up to date on a news bulletin that I know you're interested in. The latest report that I have received is that our -- and I refuse to call them hostages -- our prisoners of war have landed some time ago in Algeria and in the last bulletin were preparing to board the American planes that will take them to Wiesbaden, Germany. The other part of the report was that there are 52 of them, and they're all sound, hale, and hearty.
+
+But now, I don't know whether you were aware of this or not, but there are others attending this ball and the others that are being held here in Washington, 10 in all. In that first inaugural almost 200 years ago, the people, the Americans went to that by horseback and stagecoach. Today all over America and even abroad, in Paris, France, Americans are attending these balls, dancing to the same music that you're hearing here, because they're going to them by satellite, by closed-circuit satellite.
+
+Somewhere in the neighborhood of 100 cities, Paris, France, and here in the United States, these other cities are holding balls. They are connected, large-screen, closed-circuit television bounced off the satellite, hearing the same music. And in this particular moment that I'm speaking, I know that I am speaking also to them. We haven't hit on them at the same time or the right time at any of the other places we've been to tonight, but on this particular occasion.
+
+So, I can say to all of them, to all of you who were there in Paris, France, in all those other cities in America, God bless all of you. And thank you for what you're doing, because in those cities, the proceeds are going to the local charities of those communities where the balls are being held.
+
+{COMMENT="To Mrs. Reagan"} You look very pretty tonight. I think she looks gorgeous, as a matter of fact. On the way over someone said, well, when we got here, we might even have a minute or two to dance, and I don't think so. Well, they've got us in public housing, and we'll dance when we get the heck there.
+
+But, again, this morning was one thing, but you were all so far away. Tonight you're up close, and I can see you. And this is the sixth of the balls that we've attended. We have four more to go after this. But I want you to know, in looking at you and seeing you, I've never been more certain in my life that the things we want for America, the things that need doing for America, between us, we're going to get them done.
+
+Thank you very much. Thank you.
+
+{/speech}

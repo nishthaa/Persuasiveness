@@ -1,0 +1,44 @@
+﻿{title} Remarks by the President,Senator Tom Daschle And Congressman Dick Gephardt {/title}
+{event} Democratic Agenda Event {/event}
+{speaker} Dick Gephardt {/speaker}
+{date} July 27, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Democratic Agenda Event {/description}
+
+{speech} 
+
+Thank you very much. First, let me add a comment to what Tom Daschle said about the President's work in the last weeks to try to bring about peace in the Middle East.
+
+He didn't succeed in the end, but he tried very hard. And a lot of progress was made. And I believe with all my heart that before this President leaves office, he will achieve the peace in the Middle East that we all seek. {APPLAUSE}
+
+For these last years, President Clinton, with our support, has kept this great nation on the path of fiscal discipline, invested wisely in our people and helped produce the longest economic expansion in the history of the United States. As a nation, we have made a commitment to paying down the debt. And that, combined with the entrepreneurial energy of the American people, has led to the lowest unemployment rate in 30 years in this country.
+
+More new jobs have been created in this administration than in any administration in our history. Homeownership is at its highest rate in history. Our poverty rate is at a 20-year low. And average families in this country squarely in the middle of the income scale are enjoying the lowest tax rate since 1978. {APPLAUSE}
+
+So the economic ground on which we stand has never been stronger. We have before us the opportunity now to do great things for the American people, to lift the tide for those who may not be riding so high on the wave of prosperity in our country. But this Republican led Congress has strived for mediocrity, not greatness. The mediocrity has brought them the praise of special interests, whose industries benefit from our failure, and the disappointment of a nation of people who've rightly become cynical about whose interests are being attended to in their Congress.
+
+Accomplishment in Washington has become an acronym for blocking progress. Republican chest beating and self-congratulation aside, a legislative accomplishment is not an accomplishment, by definition, until President Clinton signs it into law. The Republicans today who claim great achievement have sent President Clinton only 78 bills this year. One out of four of those bills named post offices and buildings -- not exactly the most important matters that are before us. Most involve little debate, most pass by a voice vote.
+
+The few true accomplishments, bills the President actually signed -- repealing the Social Security earnings test, which was greatly needed; the E-signatures bill, and requiring disclosure by so-called 527s, secret campaign organizations were done because of a genuine bipartisan effort to pass those bills.
+
+Progress and accomplishment doesn't come easily in a Congress that's as closely divided as ours. Real progress, real, meaningful change can only come through truly bipartisan consensual efforts. There is no way around it. That has not happened this year, and it hasn't happened for a reason. Protecting the interest of the insurance industry, the pharmaceutical companies and the National Rifle Association has been a full-time job for the Republican leadership. {APPLAUSE}
+
+Now, we've come agonizingly close to real achievement on a patients' bill of rights. And I hope we can get one this year. On providing a prescription drug benefit for our senior citizens. And I still hope we can get one this year. On passing effective gun safety legislation, and I hope we can get that done this year. And campaign finance reform -- finally, let us be able to get campaign finance reform this year.
+
+But all of it has been frustrated by powerful, special interests who haven't wanted these bills to go through -- and the Republican leaders' sworn allegiance to their efforts.
+
+The American people have a bottom line that's measured in their own reality: are they safer? Are their families healthier? Are their families more secure by result of what we do here in Washington? By that measure, this Congress has failed miserably to live up to our expectations. A review of what we've been doing is instructive. As Tom said, while Republicans have put forward a series of tax cuts that total nearly $2 trillion, Democrats join with the President to push for targeted tax relief for middle-income families, coupled with an agenda that pays down the debt, strengthens Social Security and Medicare and provides a real prescription drug benefit for our seniors.
+
+Democrats proposed an affordable, reliable prescription drug benefit for our senior citizens. We said that if you're elderly and having trouble paying for your medicine, you need a benefit now -- not next year, not the year after that -- you need it this year and we need to get it done. {APPLAUSE}
+
+We need to modernize our schools. We need more teachers. We need better qualified teachers. We need teachers who are ready to walk in the classroom and excite and motivate our children, and make sure that every child in this society is a productive, law abiding citizen of this country. That's not too much to ask of this Congress. We have not been able to get them off the dime to do the things this President has asked them to do for buildings and teachers and computers and pre-school and after-school and summer school and what we need to do to save the children of this country. We need it now. {APPLAUSE}
+
+We fought for sensible gun safety legislation. How many more children do we need to lose in our streets before we put safety locks on the guns and before we do something to stop this gun show loophole once and for all? {APPLAUSE} But the NRA didn't want it, so we don't have it.
+
+And then there is the matter of the minimum wage. How cruel is it to have some family out there trying to live on the minimum wage at $5.15 an hour -- and there are millions of people stuck on that minimum wage. But the Chamber of Commerce didn't want it, and so the Republican leaders won't go forward with it. And the HMOs didn't want the patients' bill of rights and the insurance companies don't want it. And so we have patients out there today -- and let me tell you something, if you're a patient and you're not getting the care that you paid for, you don't need to wait until next year, you need it now if somebody in your family is sick. {APPLAUSE}
+
+Well, Mr. President, when we come back in September, we're going to have three weeks left. Three weeks is not a lot of time, but it's enough time if the Republican leadership will finally come to the table with you, stop sending you bills that you're just vetoing because they're too big and too wrong, and sit down with you and work out a compromise and get a consensus to move this country in the right direction. I pray that they do that.
+
+I'm often asked, gee, wouldn't that blow up your political plan for the fall. Well, let me tell you something, I didn't come here to concoct political plans. All these members came here to do something meaningful for the people they represent. That is what is in our hearts and minds. And, Mr. President, we will work with you every day in September and we'll go into the middle or end of October if we can get these bills done for the American people. {APPLAUSE} 
+
+{/speech}

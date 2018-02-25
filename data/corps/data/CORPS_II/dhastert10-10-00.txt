@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President, Secretary of State Madeleine Albright, Speaker of the House Dennis Hastert, Senator William Roth, Representative Bill Archer, Senator Patrick Moynihan and Congressman Charles Rangel at Signing of China Permanent Normal Trade Relations {/title}
+{event} The South Lawn {/event}
+{speaker} Dennis Hastert {/speaker}
+{date} October 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Madam Secretary. You know, indeed, this is a great day for this country, and I think it's a good day for the world, because we have opened the doors of trade to this country, we've done it in a bipartisan way. And, Mr. President, I thank you very much for your work and cooperation in helping us get that done.
+
+I have to also say, I thank, certainly, two people on our side of the Rotunda, Charlie Rangel and our great chairman, Bill Archer. Thank you for your hard work and dedication in getting this done. {APPLAUSE}
+
+And one of the things that both Senator Lott and I decided, is this bill is a bill that should not be partisan, should be a bill that represents the interest of the American people, and a bill that we can step a forward with pride to say that we are opening doors, that we are giving people opportunity around the world.
+
+And, you know, the representation of our people in other countries is a good thing. When our folks go to China or anywhere else in the world, it should be a positive thing that we carry that flag in our ideas and our values. But we'll do a lot of talking probably today about this is good for China, it's good for the world. But I want to take a minute and say, it's good for the United States as well.
+
+When you look at our farmers in the Midwest that will see $2 billion increase a year for the next 10 years as a result of the PNTR agreement, that's good. When you see small businesses and large businesses across this country, whether you're high-tech or medium-tech, or even low-tech, that you're opening doors and being able to take your goods and products and sell them across not only the boundaries of governments, but across that great ocean and into, actually, the threshold in Asia. And the huge group of folks, over a billion-plus strong, that are potential customers for not only United States products, but United States ideas as well.
+
+I think this serves us well. I think not only do we open up the rule of law so that we can have the right of rule of law when we sell our products there, we open it up to make sure that our products are protected with the copyright laws that we think are important, and intellectual properties that we hold so dear. But you know what -- we open it up so that we can exchange ideas and values and culture. And that's an important thing.
+
+One other person I want to thank, and, no, he's not in the leadership and he's not the top person on any one committee, but Bob Matsui, and on the other side of the aisle, Phil Crane, did a great job of making this thing happen. So I want to thank them as well. {APPLAUSE}
+
+In the Congress, to get good things done, it takes work on both sides of the Rotunda and both sides of the aisle. At this time, I'd like to introduce a fine gentleman; a gentleman who really has worked on this issue for a long, long time; has great credentials, and as the Secretary said, is very eloquent in his presentation. It's my great pleasure to introduce Senator Bill Roth. {APPLAUSE} 
+
+{/speech}

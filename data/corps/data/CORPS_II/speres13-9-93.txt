@@ -1,0 +1,31 @@
+﻿{title} Remarks by President Clinton, Foreign Minister Shimon Peres, Plo Executive Council Member Mr. Mahmud Abbas, Secretary of State Warren Christopher, Foreign Minister Kozyrev, Prime Minister Yitzhak Rabin, Chairman Yasser Arafat in Ceremony for the Signing of the Israel-palestinian Agreement {/title}
+{event} The South Lawn {/event}
+{speaker} Shimon Peres {/speaker}
+{date} September 13, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Your Excellencies, ladies and gentlemen. Mr. President, I would like to thank you and the great American people for peace and support. Indeed, I would like to thank all those who have made this day possible. What we are doing today is more than signing an agreement, it is a revolution. Yesterday a dream, today a commitment.
+
+The Israeli and the Palestinian people who fought each other for almost a century have agreed to move decisively on the path of dialogue, understanding, and cooperation.
+
+We live in an ancient land. And as our land is small, so must our reconciliation be great. As our wars have been long, so must our healing be swift. Deep gaps call for lofty bridges. I want to tell the Palestinian delegation that we are sincere, that we mean business. We do not seek to shape your life or determine your destiny. Let all of us turn from bullets to ballots, from guns to shovels. We shall pray with you. We shall offer you our help in making Gaza prosper and Jericho blossom again. {APPLAUSE} Gaza prosper and Jericho blossom again. {APPLAUSE}
+
+As we have promised, we shall negotiate with you a permanent settlement, and with all our neighbors a comprehensive peace -- peace for all. {APPLAUSE} We shall support the agreement with an economic structure. We shall convert the bitter triangle of Jordanians, Palestinians and Israelis into a triangle of political triumph and economic prosperity. We shall lower our barriers and widen our roads so goods and guests will be able to move freely all over the places, holy and other places.
+
+This should be another genesis. We have to build a new commonwealth on our old soil -- a Middle East of the people and a Middle East for the children. For their sake, we must put an end to the waste of arms race and invest our resources in education. {APPLAUSE}
+
+Ladies and gentlemen, two parallel tragedies have unfolded. Let us become a civic community. Let us bid once and for all farewell to wars, to threats, to human misery. Let us bid farewell to enmity, and may there be no more victims on either side. {APPLAUSE}
+
+Let us build a Middle East of hope, where today's food is produced and tomorrow's prosperity is guaranteed -- a region with a common market, a Near East with a long-range agenda. We owe it to our fallen soldiers, to the memories of the victims of the Holocaust.
+
+Our hearts today grieve for the lost life of young and innocent people yesterday in our own country. Let their memory be our foundation we are establishing today a memory of peace on fresh and old pomp. {APPLAUSE} Suffering is, first of all, human. We also feel for the innocent loss of Palestinian life. We begin a new day. The day may be long and the challenges enormous. Our calendar must meet an intensive schedule. Mr. President, historically, you
+are presiding over a most promising day in the very long history of our region, of our people.
+
+I thank all of you, ladies and gentlemen, and let's pray together. Let's add hope to determination as all of us since Abraham believe in freedom, in peace, in the blessing of our great land and great spirit. {COMMENT="Jewish prayer offered"} 
+
+From the eternal city of Jerusalem, from this green, promising lawn of the White House, let's say together in the language of our Bible: peace, peace to him that is far off and to him that is near saith the Lord, and I will heal him. Thank you. {APPLAUSE} 
+
+{/speech}

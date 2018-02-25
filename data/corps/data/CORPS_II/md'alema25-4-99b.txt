@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President And Other Participants in Democratic Leadership Forum, The Third Way: Progressive Governance for the 21st Century {/title}
+{event} Democratic Leadership Forum {/event}
+{speaker} Massimo D'Alema {/speaker}
+{date} April 25, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Remarks by President and NATO Leaders in DLC Roundtable {/description}
+
+{speech} 
+
+I wanted to go back to the very interesting issue which concerns the relationship between employment, work on one hand, family life, spare time and education. I think one of the greatest social issues in our society, and social problems in our society is how to reorganize the relationship between work and family life in a freer way. The relationship between work and time, the time we each use for our own personal life, for our family life, for the people we love, for the things we love to do -- our hobbies -- and the time we use for our education.
+
+In the new -- known for this -- {COMMENT="Inaudible"} -- social model that characterizes our present societies, these aspects of our lives should be organized according to a relationship which is increasingly free. And we should create opportunities where individuals can, themselves, take the decision how to organize time and the use of time in their lives.
+
+If at one point in their lives they wish to stop -- for example, we have introduced in Italy a piece of legislation -- women or men to take leave from work for a certain amount of time in the form of parental leave to look after their children. And this is an entitlement for both women and men, because up to now in a patriarchal society, such as the one we live in, the problem of the correct relationship between work and family has been a burden only on women's shoulders. Either women are excluded from work or working women are oppressed by the double burden of work and family and caring. And this is not right.
+
+I think this is a problem, too. We can no longer concede social issues as though they had no gender attached to them. Because this is a very selfish way, in our perspective and in the perspective of the gender which is represented on this side of the table, this is a very selfish approach to social issues and no longer an adequate one. I am convinced that we should promote a freer way to organize the use of time. The time for education need not necessarily occupy the first part of a person's life. Indeed, technology innovation requires life-long learning and continuing education and life-long learning and adapting to new knowledge.
+
+And one more comment on this point: in the culture of individuals is today the biggest form of social protection you can ever conceive, at a time of mobility and technology innovation. Ensuring the people are educated and have skills is the biggest form of social protection you can ensure in a society. Whoever is highly educated and has high-skills will spend these assets on the labor market. Those who do not have these assets will be cut off and excluded. Culture is the most important form of social inclusion, and I think we should invest in culture.
+
+And not just technical and vocational skills. Here, the left should fully recover and revalue the value of the human sciences, of the fundamental aspects of culture, because technical knowledge and skills become obsolete -- technology changes. But what really matters is being able to learn, learning how to learn. And this is the basic cultural foundation that will help an individual to be able to quickly learn, to become a learner.
+
+And we have discovered that the educational systems that develop these fundamental skills are more solid and sustainable and lasting than the educational systems that push people too early towards technical and specialized knowledge and learning. I think this is a very big problem here and a rather new one, compared to the old approach to social protection measures.
+
+This is one of the key issues that should be developed if a Third Way culture is to deal with welfare systems and reform. 
+
+{/speech}

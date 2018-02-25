@@ -1,0 +1,235 @@
+﻿{title} Speech to Conservative Family Rally at Wembley {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 7, 1987 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} General Elections, Defence (general), Labour Party and Socialism, Employment, Economy (general discussions), Monetary policy, Social security and welfare, Trade union law reform, Privatised and state industries, Conservatism, Society, Law and order {/description}
+
+
+{speech}
+
+Mr. Chairman, Fellow Conservatives. 
+
+I know that the Chairman has already thanked our very distinguished guests who have come here to be with us today. I'd like to add my personal thanks to you, for all the trouble some of you have taken especially to be with us on this rather important day, to say what an inspiration it is and how much it means to me personally. 
+
+Thank you very much. {APPLAUSE}
+
+But of course what you really went to know is whether I'm Janet Brown or not. {LAUGHTER}
+
+I hope you might each a conclusion by the end of speech. 
+
+Now this is the third time I've come to Wembley on the Sunday before polling day. 
+
+Each time, four days later, we won. {CHEERS ; APPLAUSE} And in the presence of great cricketers, I ask shall we go for the hat trick? {CHEERS ; APPLAUSE} 
+
+Yes, I thought you might say that, and I hope we'll hit the opponents for six while we're at it. 
+
+And I must say it lifts the heart to hear the Wembley Roar. 
+
+The Cup Final crowd aren't half bad at it, but I wouldn't be surprised if your voices carried all the way to the Kremlin. {CHEERS} 
+
+And by the way, Denis tells me the music for that song you sang was the signature tune for Dad's Army. 
+
+Well, I don't know about Dad's Army. 
+
+But I'm a Mum and I'd like to think that those who believe in keeping Britain strong, free and properly defended belongs in Mum's Army. {CHEERS ; APPLAUSE}
+
+By Next Thursday when the people go to the polls, I believe Mum's Army will include thousands of traditional Labour supporters—Mums and Dads and sons and daughters from all over this beloved land of ours, who just can't stomach the defence policy—or rather, the no-defence policy—of today's Labour Party and its present leader. {APPLAUSE}
+
+Mr. Chairman, if planes, tanks and nuclear weapons could be stopped by moving a composite motion at a Labour conference, there might be a grain of sense in the Labour leader's grand strategy. 
+
+But they can't and there isn't. {APPLAUSE}
+
+Mr Chairman, After eight years, there is a new spirit of confidence in Britain at home and a new respect for Britain abroad. {APPLAUSE} And there's a lot to be confident about. 
+
+Industry and commerce are thriving. 
+
+New businesses are springing up—Making and selling goods which hadn't even been invented eight years ago. And creating new jobs—more than a million new jobs since the last election, more than in the rest of Europe put together. 
+
+That's Britain's record. {APPLAUSE}
+
+And unemployment is coming down. 
+
+It's been falling steadily for the last ten months. 
+
+What welcome news that is for us all. {APPLAUSE}
+
+And we hope and we believe that it will continue to fall in the coming months. 
+
+And yes, business is making good profits, and that's healthy—because that's how companies build their future. {APPLAUSE} 
+
+And during this campaign, the economic good news has continued to roll in. 
+
+—The CBI reports that orders are flowing into Britain's factories from home and abroad. 
+
+—More houses are being built for sale than at any time since 1973. 
+
+—Our overseas trade is in healthy surplus. 
+
+—Britain's reserves were up last month by four billion dollars—the biggest monthly increase ever. {CHEERS ; APPLAUSE}
+
+And foreign investors have said—Conservative Britain, that's where it's at, that's the place to go. 
+
+Mr. Chairman, how the Labour Party hates all this success. 
+
+As the economic news gets better and better so Mr Hattersley's face gets longer and longer—and longer. {APPLAUSE}
+
+Now, how has all this success been achieved? Because it has been done by government and people together. {APPLAUSE} 
+
+This Government runs the finances of the Nation soundly. Like any good housekeeper. 
+
+Not for us the reckless promises that can't be delivered. 
+
+We know that everyone has to live within a budget—housewife, businessman, Chancellor of the Exchequer,—and to pretend otherwise is thoroughly dishonest. {APPLAUSE} 
+
+We conservatives believe in honest money. 
+
+We've brought inflation down and we want it down further. 
+
+And people who save for the future have a right to expect that their savings will be secure. 
+
+And this Government is making sure that they are. {APPLAUSE} 
+
+And, yes, we introduced tax incentives, right across the board. We cut red tape, we cut controls, believing in the spirit of enterprise that made our country great. {APPLAUSE}
+
+And men and women in industry in commerce, in entertainment, in the sporting world, they all responded—creating a higher standard of living for their families and more wealth and lustre for Britain. {APPLAUSE}
+
+And remember as Norman pointed out—you cannot improve the health and social services as we have, until you have first created the prosperity to sustain them. {APPLAUSE}
+
+That's Mr. Chairman is real care. {APPLAUSE} 
+
+But as well all know, this transformation could not have come about unless we'd reformed the law on trade unions. 
+
+Before, that ordinary people were—frightened of their union bosses, they were—frightened of what militant shop stewards would order them to do, and they were often frightened to speak up at all. {APPLAUSE}
+
+This Government has removed that fear. 
+
+Our trade union reforms have brought democracy to union members, given them power over their working lives. {APPLAUSE} The Labour Party would take that away. 
+
+And they would bring back secondary picketing {CHEERS} -- knowing full well the intimidation and violence that goes with it. 
+
+And they say they care! {APPLAUSE}
+
+How can anyone who wants to do that possibly care about industry or the people in it? {APPLAUSE}
+
+It is to Conservatives that ordinary members of trade unions look for their democratic rights, and they may continue to look safely. {APPLAUSE}
+
+Yes, Government and people together have achieved a great deal over the last eight years. 
+
+And today you can share in the prosperity of the economy and of your own company. 
+
+Because to Labour's fury, Millions of people have bought shares in privatised industries like British Telecom {APPLAUSE} , British Airways, British Gas and in TSB. 
+
+And there's more to come. {CHEERS ; APPLAUSE} 
+
+Because this shareholding is part of your investment in the future of Britain. And as well as that, it's what we all what—It's security for you and your family. And shareholding is more widely spread than ever before—up threefold since 1979. {APPLAUSE}
+
+Yes, the spread of ownership of housing and shares under this government is creating a nation of families with means of their own and a stake in the future. {APPLAUSE} 
+
+It is these reforms which are uniting our country—fulfilling the Tory dream of One Nation. {CHEERS ; APPLAUSE} 
+
+It is our dream, it is our philosophy, it is our programme that what were once the privileges of the few should become the daily experience of the many. {CHEERS ; APPLAUSE} 
+
+And now it's really happening. 
+
+Conservatives want you to have what you want. 
+
+Labour wants you to have what they want. {APPLAUSE}
+
+Again, a Labour Government would take back these gains. 
+
+They want to turn workers against owners. We are turning workers into owners. {CHEERS ; APPLAUSE} 
+
+Mr. Chairman, this is a family audience. And so I want to say something to you about law and order. 
+
+Yes, this Government has increased the numbers of police. 
+
+And yes we will increase them still further. {APPLAUSE}
+
+There are more bobbies on the beat. 
+
+But crime is not a matter for the police alone. 
+
+It never was. 
+
+It can destroy neighbourhoods and make people's lives a misery. 
+
+The police need support from all of us. {APPLAUSE}
+
+Yet all too often they find themselves up against, not only the criminals, but the hostility of some local authorities. {CHEERS ; APPLAUSE} 
+
+It is not Conservative local authorities who behave in this fashion. 
+
+It is not Conservative local authorities who try to prevent the police from visiting schools and talking to the children. 
+
+And it is not Conservative local authorities who spend ratepayers' money on anti-police propaganda. 
+
+Mr. Chairman, the enemies of the British bobby are the enemies of liberty itself. {CHEERS ; APPLAUSE} 
+
+Labour want to bring the police under political control. 
+
+What kind of party have they become? {CHEERS} 
+
+The British police are the limbs of the law. 
+
+They must never become the strong arms of political parties. {CHEERS ; APPLAUSE} 
+
+
+They serve only the rule of law. 
+
+They need our support; they deserve our trust; and they can depend on the Conservatives for both. {CHEERS ; APPLAUSE} 
+
+
+And on defence, the people can depend on we Conservatives. 
+
+It was Denis Healey who, as usual, gave Labour's game away. He told us that the Kremlin are praying for a Labour victory. {LAUGHTER} 
+
+Who could blame them? 
+
+Think what a lot of trouble it would save them. {LAUGHTER ; APPLAUSE} 
+
+They would see Britain's independent nuclear deterrent surrendered. 
+
+And they wouldn't have to give up a single nuclear weapon themselves. 
+
+Not one. 
+
+They would see our American allies and true allies they are {APPLAUSE} . They would see our American allies told to remove all their nuclear weapons and bases from Britain, while the Kremlin would keep all theirs in Eastern Europe. 
+
+NATO's strategy and cohesion would be fatally weakened, while the Soviet defences would remain intact. 
+
+Oh Yes, Labour's defence policy would indeed be the answer to the Kremlin's prayers. 
+
+The truth is that Labour policies would take us a giant step towards a neutral Britain, increasingly under the shadow of Soviet military might. 
+
+The leader of the Labour Party even talks about occupation. 
+
+Occupation? Occupation of Britain? 
+
+After winning two world wars {CHEERS ; APPLAUSE} occupation of Britain after winning two world wars without a single enemy soldier on British soil? {CHEERS ; APPLAUSE} 
+
+We Conservatives will never take risks with Britain's security. {CHEERS ; APPLAUSE}
+
+We know that nuclear weapons have kept the peace in Europe for forty years. 
+
+And they have prevented not only nuclear war but conventional war as well. {APPLAUSE}
+
+It was Winston Churchill who understood the danger of weakness and appeasement more than anyone else. He warned, and I use his words: 
+
+"Be careful above all things not to let go of the atomic weapon until you are sure, and more than sure, that other means of preserving peace are in your hands."
+
+Mr. Chairman, a strong defence policy is the only peace policy. {CHEERS ; APPLAUSE} And I believe that the people know that our policies offer the best hope for peace and security. Peace with freedom and justice. {APPLAUSE} I believe that they know that Britain's defences are safe only in Conservative hands. {APPLAUSE}
+
+Mr. Chairman, people want to live in peace ... real, lasting peace. —The industrial peace that enables them to earn a living without fear of victimisation or being called out on strike against their will and without a ballot. 
+
+—The peace of mind that comes from knowing they can walk the streets safely and know there is a policeman on the beat. 
+
+—The peace that comes from independence of the state and being able to run your own life, spend your own money and make your own choices. {APPLAUSE}
+
+—And, above all, the peace of a country which is properly defended against any potential adversary. 
+
+For ours is a country with a past to be proud of. 
+
+And under the Conservatives it will be a country with a future to be proud of. {CHEERS ; APPLAUSE}
+
+{/speech}

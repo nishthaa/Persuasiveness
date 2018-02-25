@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President and His Holiness Pope John Paul II at Arrival Ceremony {/title}
+{event} Arrival Ceremony, Missouri Air National Guard Hangar, St. Louis, Missouri {/event}
+{speaker} John Paul II {/speaker}
+{date} January 26, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Are you interested in what I said to the President before? I said to him, one hundred years, slowly, slow. {LAUGHTER}
+
+Mr. President, dear people of St. Louis, dear people of the United States: It is a great joy for me to return to the United States and to experience once more your warm hospitality.
+
+As you know, I have been in Mexico, to celebrate the conclusion of the Special Assembly for America of the Synod of Bishops. The purpose of that important meeting was to prepare the Church to enter the new millennium and to encourage a new sense of solidarity among the peoples of the continent. Now I am happy to be able to bring this message to mid-America, on the banks of the Mississippi -- {APPLAUSE} -- in this historic city of St. Louis, the Gateway to the West. {APPLAUSE}
+
+I am very grateful to you, Mr. President, for your courtesy in meeting me on my arrival. I likewise greet the Governor and authorities of the state of Missouri, as well as the Mayor of St. Louis and the other officials of the city and surrounding areas. So many people have offered their generous cooperation in preparation for this visit, and I am grateful to them all. {APPLAUSE}
+
+As Pastor of the universal Church, I am particularly happy to greet the Catholic community of the Archdiocese of St. Louis -- {APPLAUSE} -- with its rich spiritual heritage and its dynamic traditions of service to those in need. I wish to say a special word of appreciation to Archbishop Justin Rigali -- {APPLAUSE} -- who has been close to me since I became Pope 20 years ago. {APPLAUSE} I am looking forward to being with the priests, deacons, religious and laity of this local Church, which has exercised such influence on the history of the Midwest.
+
+With deep thanks, I greet the cardinals and bishops. Their presence gives me an opportunity to send my good wishes to the whole province of St. Louis and its ecclesiastical region -- {APPLAUSE} -- and to all the dioceses of this country. Although St. Louis is the only place I am able to visit at this time, I feel close to all the Catholics of the United States. {APPLAUSE}
+
+I express my friendship and esteem for my fellow Christians, for the Jewish community in America, for the Muslim brothers and sisters. I express my cordial respect for people of all religions and for every person of goodwill. {APPLAUSE}
+
+As history is retold, the name of St. Louis will be forever linked to the first transatlantic flight, and to the immense human endeavor and daring behind the name -- the Spirit of St. Louis. {APPLAUSE}
+
+You are preparing for the bicentennial of the Louisiana Purchase made in 1804 by President Thomas Jefferson. That anniversary presents a challenge of religious and civic renewal to the entire community. It will be the opportunity to reassert the Spirit of St. Louis and to reaffirm the genuine truths and values of the American experience. {APPLAUSE}
+
+There are times of trial, tests of national character, in the history of every country. America has not been immune to them. Once such time of trial is closely connected with St. Louis. Here, the famous Dred Scott case was heard. And in that case the Supreme Court of the United States subsequently declared an entire class of human beings -- people of African descent -- outside the boundaries of the national community and the Constitution's protection. After untold suffering and with enormous effort, that situation has, at least in part, been reversed. {APPLAUSE}
+
+America faces a similar time of trial today. Today, the conflict is between a culture that affirms, cherishes, and celebrates the gift of life, and a culture that seeks to declare entire groups of human beings -- the unborn, the terminally ill, the handicapped and others considered "unuseful" -- to be outside the boundaries of legal protection. {APPLAUSE}
+
+Only a higher moral vision can motivate the choice for life. And the values underlying that vision will greatly depend on whether the nation continues to honor and revere the family as the basic unit of society: the family -- teacher of love, service, understanding and forgiveness; the family -- open and generous to the needs of others; the family -- the great wellspring of human happiness. {APPLAUSE}
+
+Mr. President, dear friends, I am pleased to have another opportunity to thank the American people for the countless works of human goodness and solidarity which, from the beginning, have been such a part of the history of your country. At the same time, I know that you will hear my plea to open wide your hearts to the ever-increasing plight and urgent needs of our less fortunate brothers and sisters throughout the world. {APPLAUSE}
+
+This, too -- the spirit of compassion, concern and generous sharing -- must be part of the Spirit of St. Louis. {APPLAUSE} Even more, it must be the renewed spirit of this one nation, under God, with liberty and justice for all. {APPLAUSE}
+
+God bless you all. God bless America. {APPLAUSE} 
+
+{/speech}

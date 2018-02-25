@@ -1,0 +1,40 @@
+﻿{title} Speech Receiving Medal of Freedom Award {/title}
+{event} Medal of Freedom Award {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} March 7, 1991 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Famous statements by MT (discussions of), Foreign policy (USA), Foreign policy (Middle East), Defence (general), Conservatism, Foreign policy (Central and Eastern Europe) {/description}
+
+{speech} 
+
+Mr President, ladies and gentlemen, I am so very honored to receive the Presidential Medal of Freedom of the greatest country in the Free World. And thank you, Mr President, for the wonderful things you have said, including that wobbly bit. {LAUGHTER}
+
+It's a double honor to receive this medal from the hands of a President whose steadfast leadership has just won the victory of freedom that will rank with the greatest in history. And I am especially moved to receive it in the White House, which in addition to its powerful historical association, has many sterling memories for me personally.
+
+It was here with you and your predecessor that I embarked on the adventure of restoring the economy and the defenses of the Free World against the many threats that faced us a decade ago.
+
+We've overcome many difficulties since those early days and faced many crises. The onward march of freedom is not inevitable; it has its enemies, as we know. But when in our time freedom came to be tested, there were no faint hearts in the White House—only great hearts. Great hearts who had been wise enough to keep their sword and armor in case of danger. Great hearts who had harnessed the genius of scientists so that your armed forces had the very best equipment. Great hearts who knew that the sovereignty of freedom and justice had to be upheld not by pious sentiments or platitudes, but by staunch and valiant deeds of men and women.
+
+The decision to use force is not easy to take, either for politicians or for generals, for whose performance in this campaign I have boundless admiration.
+
+I've been involved in taking three such decisions, some of which you referred to, Mr President. First, it fell to me to send armed forces 8,000 miles to recover the Falklands Islands from an earlier aggresor. And then with President Reagan, to allow the use of air bases in Britain for the raid on Libya. We in Britain have experienced and still experience terrorism and knew someone had to stand up against it. And then, third, Mr President, I was with you at Aspen when you made the historic decision that Saddam's seizure of Kuwait would not stand.
+
+I wish only that the Iraqi dictator could have seen your somber determination on that occasion. Much grief to his countrymen, much pain to his neighbors and to us might then have been avoided.
+
+Like you, Mr President, I hate violence. And there's only one thing I hate even more—giving in to violence. We didn't give in to it. The battle of Desert Storm has not only liberated Kuwait and her people; it has sent an awesome warning to any other dictator who sets out to extinguish the rights of others for his own evil gain. The sanction of force must not be left to tyrants who have no moral scruples about its use.
+
+I want to pay a grateful tribute on behalf of myself, the British people and the British soldiers who fought in the field, to the statesmen and generals who conceived, planned and executed a great victory with a minimum of allied casualties. We and the world are in their debt.
+
+But freedom has won victories in peace as well. The way of life and prosperity of Western Europe was a constant reproach to the poverty of communism in Eastern Europe. Now that the shackles of communism have been removed from Poland, Hungary, Czechoslovakia and Bulgaria, they are now free to rejoin Western Europe—something which would have seemed impossible two or three years ago. The great principles of freedom, justice and democracy, which are the inheritance of both our countries, find their most eloquent expression in the American Declaration of Independence.
+
+As one of your statesman pointed out, it was not a document designed for one generation, but, and I quote, "For posterity unlimited, undefined, endless and perpetual". And so it has been. And so it may ever be.
+
+Mr President, once again, it's truths have been upheld. Once again, the strong bond between our two countries in peace have been reaffirmed as it has been in war. The peoples of the alliance you, sir, formed will feel proud, not only because the battles they fought were won, but because they know that what you did was morally right. Their victory will bring hope to other oppressed peoples that they, too, one day may be free.
+
+It is in that spirit, Mr President, that I accept this award. Not on behalf of myself only, but on behalf of my country; and remembering the people struggling towards freedom in the Baltic States, remembering those striving to make freedom work on Eastern Europe, and those trying to negotiate a free South Africa in peace. And on behalf of those throughout history who never having known freedom have, nonetheless, died for it. And for us here today. 
+
+Mr President, this is a very proud day. May I thank you for this award. May I say that we salute America and we salute you, Mr President, and all the things you stand for.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President, Secretary of State Madeleine Albright, Speaker of the House Dennis Hastert, Senator William Roth, Representative Bill Archer, Senator Patrick Moynihan and Congressman Charles Rangel at Signing of China Permanent Normal Trade Relations {/title}
+{event} The South Lawn {/event}
+{speaker} Bill Archer {/speaker}
+{date} October 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Pat, thank you. And Mr. President and distinguished guests, this is, as you have already heard, truly an historic occasion, because it will touch the lives of every American today and for generations to come.
+
+I say that because international trade has meant a greater standard of living for millions of workers here at home. Yes, $3,000 more per family in purchasing power every year, employing over 12 million American workers and paying them a wage that is nearly 17 percent higher than the average wages for domestic production.
+
+Expanding U.S. trade with China will long be remembered as another truly landmark achievement of this Congress to ensure America's continued prosperity. And a man who is here today who has not yet been talked much about deserves enormous credit, and that is President Clinton, and his Chief of Staff, John Podesta, who worked tirelessly to make this happen.
+
+Another man who worked tirelessly to make this happen. Another man who, in the House, has been mentioned, but only briefly, showed extreme courage in helping us to win this battle, and that was my colleague, Sandy Levin. He really provided the key, along with Congressman Bereuter, for us to be able to get the votes to go over the top in the House.
+
+The American people support this agreement because they know it's good for jobs in America and good for human rights and the development of democracy in China. And they know it will help bring about the type of change and freedoms which we enjoy and so jealously cherish. But what we do today is only the first step. China now must measure up to its responsibilities to meet the requirements to enter the WTO. And only then will this historic legislation become a reality.
+
+Mr. President, a little less than 10 years ago, another occupant of this magnificent house behind us, Ronald Reagan, was asked what the future would hold for the Chinese people in their quest for individual liberty and a seat at the table of free and fair trade. It was a particularly difficult time for this country and for the Chinese people -- a time of Tiananmen Square and human rights crackdown.
+
+But President Reagan answered confidently: "The future is hard to predict in China, but I'm betting on the triumph of the tidal wave of freedom that is sweeping the world." So thank you, President Clinton, for working with us on both sides of the aisle to ensure that tidal wave of liberty continues to flow from our shores. And with this historic legislation we will, indeed, show that one of the best ways to open minds is through open markets.
+
+I believe the that greatest American exports to China are those that are yet to come: the freedom of choice and the freedom of opportunity. History has shown us that no government can withstand the power of individuals who are driven by the taste of freedom and the rewards of opportunity. And that means a more peaceful world, not just for ourselves, but for our children and their grandchildren. {APPLAUSE}
+
+I have another privilege before I leave this podium, and that privilege is to introduce to you a colleague of mine who came to the forefront when we needed him the most, who provided enormous leverage in making today a reality, in helping us to get the votes and working on a completely bipartisan basis. My colleague and the ranking Democrat on the Ways and Means Committee, Charlie Rangel. {APPLAUSE} 
+
+{/speech}

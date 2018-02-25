@@ -1,0 +1,26 @@
+﻿{title} Speech in the Garden of Jamaica House {/title}
+{event} Garden of Jamaica House {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} July 18, 1987 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Americas excluding USA), Law and order {/description}
+
+{speech} 
+
+Prime Minister, Ladies and Gentlemen:
+
+Just a brief word, if I may.
+
+I was told before I came that Jamaica was just about the most beautiful island in the world. {APPLAUSE} I was not quite sure whether I believed it before I came, but now I have been here I do. It is really very lovely. {APPLAUSE}
+
+I am sorry it is a brief visit. We have had a wonderful morning looking at some of your remarkable history and may I say how grateful we all are that you are making such strenuous efforts to conserve it, not only for future generations of Jamaican people, but for the wider world, for indeed, you have some unique things here.
+
+Wherever we have been we have had a wonderful welcome from the people and we have been not only to look at your history; we have seen just how you are trying and succeeding in upholding the law—always an absolutely vital part of our democracy—and I say that as a longstanding parliamentarian, for the history of liberty in our countries owes as much to the development of a just and impartial law almost as it does to the democracy of Parliament. The two work together, and as we went to the Police Academy this morning and I met some of your judges and some of your attorneys, may I congratulate you on the way in which they are all guardians of the community.
+
+We have been too to the Craft Centre. We have met your marvellous Governor-General, who I have seen so many times, had a great discussion about lime marmalade and various other things and many many other things, computers, technology.
+
+I am very sad the visit is so brief, because I have loved it; loved the Island for its beauty, for its remarkable history, for its wonderful people, and for the great future which you are bringing about.
+
+Thank you for your kindness. {APPLAUSE} 
+
+{/speech}

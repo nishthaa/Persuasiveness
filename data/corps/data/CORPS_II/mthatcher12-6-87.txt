@@ -1,0 +1,22 @@
+﻿{title} Speech on being re-elected MP for Finchley {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 12, 1987 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} General Elections, Parliament {/description}
+
+{speech} 
+
+It is my privilege ... {COMMENT="Chant of "Fascist scum" begins. Deputy Returning Officer intervenes and gestures for the chanters to be removed"}
+
+Mr Mayor, it is my privilege to propose a vote to you {SPONTANEOUS-DEMONSTRATION} and your staff for the excellent preparations you have made both for the count and for the conduct of the election throughout the borough. {APPLAUSE} We are very grateful for the efficient way you have got the count through somewhat earlier than on the last occasion and also grateful to those who spent the entire day in polling booths. May I also say how much we appreciate the work of the police in guarding our security here, as they always have. {APPLAUSE}
+
+It is a great honour to be returned once again to represent the constituency of Finchley. ...
+
+{OTHER-SPEAK} Not for us it isn't. {/OTHER-SPEAK} 
+
+It is a great honour for me {BOOING} that the citizens of Finchley ... the citizens of Finchley have returned me once again to represent them. The only power we have in this country, in a democratic free country, is the power we draw from the ballot box. {CHEERS ; APPLAUSE} 
+
+I am of course particularly glad to have claimed more than 50 per cent of the vote, which is very satisfactory. May I also thank, above all, those who have supported me in my campaign for their tremendous enthusiasm, dedication and affection. Without you it could not possibly have been done. I am most grateful. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,30 @@
+﻿{title} Remarks by the President in Announcement of Deputy Secretary of Treasury Lawrence Summers {/title}
+{event} Announcement of Deputy Secretary of Treasury Lawrence Summers {/event}
+{speaker} Lawrence Summers {/speaker}
+{date} May 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+This is not an easy act to follow.
+
+Mr. President, I am deeply honored by your intention to select me to follow Secretary Rubin as Secretary of the Treasury of the United States. It has been an immense privilege for more than six years to work with you, Vice President Gore and the entire economic team that you, and working with Bob, built.
+
+In the first months in office you put in place a core economic strategy, built on fiscal discipline and macroeconomic stability, on support for open markets all around the world, and on investments in all of our people, so that all have an opportunity to share in the prosperity that we can build. Today, we know that strategy has paid off -- in the lowest unemployment and inflation in a generation, in fast growth in American standards of living, the restoration of American economic leadership, and the longest peacetime economic expansion in the history of our nation.
+
+I count myself very fortunate to have worked at the United States Treasury under two Secretaries -- first, Lloyd Bentsen and then Bob Rubin. Secretary Bentsen set the Treasury on the right course, emphasizing deficit reduction, cooperation for growth around the world. Secretary Rubin has seen the Treasury and the global economy as a whole through enormously challenging times with a steady hand.
+
+I cannot begin to describe how much I have learned from Bob Rubin. His unwavering determination to do the right -- and not the expedient -- thing, his balanced judgment, his commitment to teamwork have been an inspiration and an example to all of us who have worked with him.
+
+It's been my great privilege to work closely with Bob as he has addressed issues that range widely, from international financial crisis to better service at the IRS; from eliminating the budget deficit to assuring that every American has the right kind of access to capital; from ensuring the strength of our financial institutions to meeting key law enforcement challenges, like protecting our borders. In these areas and so many others the right course has been set and the challenge is to carry on.
+
+Mr. President, your administration and this country are fortunate in the remarkable group of talented people, both career staff and your political appointees, who work at the Treasury Department and in its bureaus. It is an honor to work with them. Subject to the will of the Senate, I look forward to continuing to work with them and to work in partnership with Stu Eizenstat. You said it so well -- to so many, Stu Eizenstat is the embodiment of what the word public service means. He will be an enormous asset for the Treasury Department.
+
+Nothing substantial in public policy, probably in life, is ever accomplished without many people working together. Confirmed by the Senate, I look forward to working closely with other members of your economic team through the National Economic Council and enjoying the outstanding leadership that Gene Sperling continues to provide in carrying out your economic vision. I look forward to continuing Treasury's excellent working relationship with the Federal Reserve and to working closely on a bipartisan basis with members of Congress on the full range of issues that we face.
+
+Finally, I'd like to thank the people who made it possible for me to be here today: my teachers, my parents, my wife, my children, Pam and Ruth and Harry. Mr. President, thank you for this opportunity. {APPLAUSE}
+
+Stu? 
+
+{/speech}

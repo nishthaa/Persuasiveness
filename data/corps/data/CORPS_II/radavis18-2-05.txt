@@ -1,0 +1,24 @@
+﻿{title} Remarks at African American History Month Celebration {/title}
+{event} Dean Acheson Auditorium, Washington, DC {/event}
+{speaker} Ruth A. Davis {/speaker}
+{date} February 18, 2005 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Excellencies, Chiefs of Missions of the African Diplomatic Missions and other Members of the Diplomatic Corps, Members of the Association of the Black American Ambassadors, Blacks in Government, the Thursday Luncheon Group, Educational and Cultural Exchange participants, students from Miner Elementary School, Gilman International Scholars, Department employees and ladies and gentlemen -- I think that covers everybody -- good afternoon. I'm Ambassador Ruth A. Davis and I'm pleased to welcome each and every one of you to the Department of State's Celebration of African American History Month. {APPLAUSE}
+
+We are delighted to have you here on this Friday afternoon before a holiday weekend. I know that some of you postponed hasty Friday afternoon exits from the city just to be here. But I promise you, you won't be disappointed. This is a very special Black History Month Celebration because it is the first one that the Department celebrates with our brand new Secretary, Secretary Condoleezza Rice, who herself is an exceptional history maker. {APPLAUSE}
+
+This afternoon we will hear from four distinguished individuals who will share with you some of their experiences during the Civil Rights Movement and how these experiences influenced their lives. But let us put this all into perspective. Ninety years ago, Dr. Carter G. Woodson recognized the need for our country to gain a more complete and informed understanding of our past, so he formed the Association for the Study of Negro Life and History and he established the first Negro History Week. Through the pioneering efforts of Dr. Woodson and the dedicated work of the Association, in 1976 this observance officially became Black History Month. Dr. Woodson's goal was to honor these men and women of color who for generations strengthened our nation by urging reform, by overcoming obstacles and by breaking down barriers. The work of these brave Americans helped to give credibility to our diplomatic efforts to promote human rights throughout the world.
+
+Well, today we are privileged to have with us four individuals who have contributed to making this country a better nation through their actions during the Civil Rights Movement and in their respective fields. Ladies and gentlemen, let us welcome to the Department's African American History Celebration our four platform guests: Secretary of State Condoleezza Rice {APPLAUSE} , Dr. Bernard LaFayette, Jr. {APPLAUSE} , Dr. Dorothy Height, {APPLAUSE} , and -- football fans stay in your seats {LAUGHTER} -- the head coach of the Cleveland Browns, Coach Romeo Crennel. {APPLAUSE}
+
+Our first speaker, Secretary Condoleezza Rice, became the 66th Secretary of State on January 26. Prior to becoming our nation's top diplomat, Secretary Rice served as Assistant to the President for National Security Affairs; in 1993, Secretary Rice became Provost of Stanford University; from 1989 through March 1991, she served on the staff of the National Security Council for President George Herbert Walker Bush as Senior Director of the Soviet and Eastern European Affairs in the National Security Council and Special Assistant to the President for National Security Affairs.
+
+Throughout her diplomatic and academic career, Secretary Rice has enjoyed a series of firsts: the first African American to hold the position of Provost at Stanford University; the first female to hold the position of National Security Advisor; and now, to our good fortune, the first female African American to hold the position of Secretary of State.
+
+I give you the Secretary of State of the United States of America. {APPLAUSE} 
+
+{/speech}

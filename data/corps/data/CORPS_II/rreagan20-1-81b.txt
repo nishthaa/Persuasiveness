@@ -1,0 +1,22 @@
+﻿{title} Remarks at the Inaugural Balls {/title}
+{event} Inaugural Balls {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} January 20, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} Mayflower Hotel (8:50 p.m.) {/description}
+
+{speech}
+
+Well, Nancy and I are delighted to be here, even if it is only for a few minutes, because, as you know, we're traveling the whole circuit and trying to get to all of them tonight. But we've looked forward to this one, because all during the months of the campaign, I was so thrilled and excited to see so many of you at the various campaign meetings, at the events that our party was putting on. It has not always been thus. But you, the young people, were there and were there in strength, and I think because, in the wisdom that comes with youth, you also recognized that it was time for a change and that we've got to go in a different direction. {APPLAUSE}
+
+You are going to take turns at dancing, aren't you? {LAUGHTER}
+
+But, more than that, you know, there is a first this time in this inaugural. Maybe you know about it; maybe you don't. But it was an idea -- one of the cochairmen, maybe both of them, Bob Gray and -- Charlie Wick -- I knew the name; I was trying to swallow. {LAUGHTER}
+
+But that first inaugural, not quite 200 years ago, people came by stagecoach. This time people are actually attending it by satellite, because while there are 10 such balls here in Washington tonight -- and Nancy and I are going to get to every one of them; they've given us 10 minutes in and out for each one -- in somewhere in the neighborhood of 100 cities in the United States, by satellite they, too, are having inaugural balls in which the screens will be carrying what is happening in the balls here in Washington. And all the proceeds from those balls will go to their own particular local charities.
+
+Nancy and I thank you very much for all that you've done in the months past and thank you for being here tonight, for making this such a wonderful occasion. Thank you very much. Thank you.
+
+I'll have one get-off line. I don't know how long you've been here or how much you've been caught up on something. But if you haven't been out, you will find that the lights on the Christmas tree are now lighted.
+
+{/speech}

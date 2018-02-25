@@ -1,0 +1,52 @@
+﻿{title} Speech Signing Channel Fixed Link Treaty {/title}
+{event} Signing of Channel Fixed Link Treaty {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} February 12, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Western Europe - non - EU), Transport, Environment, Industry {/description}
+
+{speech} 
+
+Mr. President, Your Excellencies, Ladies and Gentlemen:
+
+I think there are some ordinary spectators here somewhere behind the press. Can I welcome you to what for us is a great occasion? You are about to witness the signature of the Channel Link Treaty which will be signed on behalf of France by M. Dumas, the Foreign Minister of France, and on behalf of the United Kingdom, by Sir Geoffrey Howe, our Foreign Secretary.
+
+So I ask them both now to sign this historic treaty and then, when that has been complete and exchanged between the President and myself, the President and I will hope to have a few words with you.
+
+So we will now witness the signing of this historic treaty. {COMMENT="Signing ceremony"} 
+
+Mr. President, Your Excellencies, Ladies and Gentlemen:
+
+This is an historic occasion. Our meeting today and the signature of the Channel Fixed Link Treaty has brought to the brink of fruition a project that has challenged engineers, entrepreneurs and governments on both sides of the Channel for generations.
+
+One could say that the first Channel Link Promoter was Napoleon Bonaparte. His engineers presented him, in 1802, with a plan involving two tunnels, a mid-channel artificial island, a paved roadway, ventilation shafts and oil lamps. This particular project, for reasons which are not entirely clear, did not enjoy the wholehearted support of the British Government. Indeed, I understand that there was some relief on their part when it was abandoned!
+
+An illustrious predecessor of mine was also a Channel Link supporter. Sir Winston Churchill, when he was First Lord of the Admiralty in 1914, wrote a paper indicating his support for a Channel tunnel, but only provided it came to surface half a mile from the English coast. He insisted that the remaining distance be covered by a bridge with a drawbridge in one of the spans. In times of tension, the lifting of the drawbridge, coupled with a warning to suspend traffic, would afford a time for complete security.
+
+Times change and I shall not be asking the representatives of the Channel Tunnel Group and France Manche who are here today to include a similar device in their plans!
+
+Mr. President, I hope that after all these years the link will at last be built and that it will change the lives of people on both sides of the Channel.
+
+When we met last month, on that magnificent day in Lille, attention was understandably focussed on the benefits the Link will bring to the people of Northern France. As we meet today, in this ancient city of Canterbury, in the very heart of the region of Britain most directly affected by the Link, I should like to address a few words to the people of Kent.
+
+Many of you are concerned about the consequences the Link will have for the local environment and for employment in the area. Let me assure you the Government is alive to your concerns. Environmental impact is one of the factors which we took particularly into account in our selection of the Channel Tunnel Group Scheme, and we shall ensure that everything possible is done to mitigate the environmental consequences.
+
+We are also determined to do whatever is necessary to improve the local road network, so that there can be rapid and uncongested access to the Link. We shall, for instance, look sympathetically at proposals for such help from the Kent County Council, and we shall ensure that there is the fullest consultation between the Government and Local Authorities.
+
+I would urge the people of Kent, a number of whose elected representatives are in the audience today, to treat the Link as an opportunity; an opportunity that will bring long-term and lasting benefits—tourism, industry and jobs—to the region and to the United Kingdom as a whole.
+
+Mr. President, the Chapter House in which we now meet was once part of a great Benedictine monastery, revived and reorganised in the 11th century by Archbishop Lanfranc, the first and greatest of the Norman Archbishops of Canterbury.
+
+Much of the work on the Cathedral, which you have just seen, was carried out by another Frenchman, William of Sens the most talented architect of his age.
+
+The Cathedral itself was built of stone brought from France, from Caen in Normandy, and is to this day regularly restored with French stone.
+
+Our surroundings are thus rich in associations with France, stretching back over centuries. What more fitting place could there be to sign this treaty, which takes those associations forward into the 21st Century?
+
+{COMMENT="Now speaks in French—simultaneous translation follows"} 
+
+This treaty is an important event, not only for relations between our two countries, but also for the whole of Europe, and will open up a new chapter in industrial cooperation between France and Great Britain, based on private enterprise and the competence of our heads of industry and businesses, and this will also give a unique opportunity to our businessmen and finance in order to show what they can do. This endeavour will create jobs in the building industry and will stimulate the achievements and, what is perhaps the most important thing, this will in a way bear witness to the spirit of enterprise and invention of our own generation, and this will in fact demonstrate that we can be as bold as our predecessors when required to do so and this will encourage our successors to effort and creativity.
+
+Mr. President, may I invite you now to be kind enough to speak. {APPLAUSE} 
+
+{/speech}

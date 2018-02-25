@@ -1,0 +1,36 @@
+﻿{title} Speech at Dinner for the President of South Korea (Roh Tae Woo) {/title}
+{event} Dinner for the President of South Korea (Roh Tae Woo) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 28, 1989 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Asia), Trade, Sport, Defence (general), Foreign policy (USSR and successor states) {/description}
+
+{speech} 
+
+Mr. President, Mrs. Roh, Your Excellencies, My Lords, Ladies and Gentlemen:
+
+Let me extend to you, Mr. President and Mrs. Roh and all members of your delegation, a very warm welcome to our country and in particular to No. 10 Downing Street on this your first official visit to the United Kingdom. {APPLAUSE} You are honoured guests in our country and we hope you will enjoy your stay with us.
+
+I have a very happy memory of my own visit to Korea in 1986, Mr. President, and of the very warm welcome which you gave me on that occasion. The dominant impression which I had was one of success, the success of your industry, and I remember particularly my visit to the Posco Steelworks was immensely exciting and very impressive, and I was particularly glad to find British firms playing an important part in that success.
+
+We want to expand our trade and business of every kind with Korea and it is to underline that wish that the representatives of some of our biggest and most important companies are here tonight.
+
+Can I just say this? Korean businessmen find a very open and profitable market for their goods in Britain and British exports I believe are beginning to find the same in Korea as you, Mr. President, are liberalising trade and investment and we honour you for doing that.
+
+Mr. President, we also very much welcome the great extension of democracy which has taken place in Korea since the time of my visit. We know that particular credit is due to you for that and we congratulate you upon it.
+
+Can I also say how very impressed people in this country were by the tremendous organisation of the Seoul Olympics which attracted the largest ever participation for Olympic Games anywhere in the world and the organisation and welcome throughout was quite outstanding. It was a great success enjoyed not only by those who were there but by those like us who were watching on television. I may say also my daughter was there reporting and she said it was very good, so it really was, and I am very pleased that one of our guests this evening was the leading goal-scorer for the British hockey team that won the gold medal in Seoul. {APPLAUSE}
+
+Mr. President, anyone from Britain who visits Korea has an enormous feeling of pride because of the heroic part played by the British Forces—the Glorious Gloucesters—in the Korean War, where they sustained the third largest number of casualties, the first being Korean casualties and the second the United States. During my visit, I stood on the hill defended so valiantly by the Glorious Gloucesters against almost overwhelming odds. In the perspective of history, that was one of the crucial battles against Communism, when the West showed its determination to defend freedom whatever the cost and that we were never to be intimidated. That, in fact, was a turning point in that particular war. It is because of the stand that we took then and in the years since then that we are now witnessing the collapse of the Communist system and greater hopes than ever before for the spread of democracy and freedom, and it is the greatest possible privilege for us to have here tonight General Sir Anthony Farrer-Hockley, who fought with great distinction with the Gloucesters in the Korean War, was later their Colonel and is now patron of the Korean Veterans Association. {APPLAUSE} 
+
+We recognise, Mr. President, the continuing anguish of the division of your country and I have seen the grim reality of it for myself at the demilitarised zone at Panmunjon and I think we should say "thank you" to our great American allies for the wonderful work they do in honouring that border and defending the freedom of Korea at Panmunjon. But with so many other barriers now coming down, it may not be too much to hope that North Korea may one day be ready to respond to your efforts, Sir, to open a dialogue.
+
+Our own relations between the United Kingdom and Korea are, as you and I have agreed in our talks, excellent and we are delighted by the expansion of Korean investment in the United Kingdom—your companies are very welcome here—including the biggest single foreign investment in Northern Ireland. That is very welcome indeed and please, we would like more!
+
+The poet Tagore once wrote these lines:
+
+"In the golden age of Asia, Korea was one of its lamp-bearers and that lamp is waiting to be lighted once again for the illumination of the East."
+Well, that lamp has been lit, Mr. President, and Korea is an example of what can be achieved by effort and determination and a commitment to defend one's values and way of life. You are indeed a lamp to illuminate others and encourage them to follow your example, the example so well expressed in the motto which you chose for the Seoul Olympics—Harmony and Progress. That represents, Mr. President, what you are achieving in Korea and we honour you tonight for it.
+May I ask you all to rise and drink a toast to the President of the Republic of Korea, to the success of his visit, to the future prosperity and good fortune of the people of Korea. Mr. President, Sir, your health! {APPLAUSE} 
+
+{/speech}

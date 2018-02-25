@@ -1,0 +1,48 @@
+﻿{title} The President's News Conference {/title}
+{event} News Conference {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} February 24, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President's 43d news conference began at 8 p.m. in the East Room at the White House. It was broadcast live on nationwide radio and television.  {/description}
+
+{speech} 
+
+On the networks at last! {LAUGHTER} Good evening. Before I take your questions, I have a brief opening statement.
+
+
+
+Secretary of State George Shultz today reported to me on his recent trip to Moscow, and it was encouraging. Progress continues to be made on our four-part agenda, and the commitment remains to do all that we can to advance the cause of peace and to settle regional conflicts.
+
+
+
+In the Middle East, it's time for all parties to rid themselves of old ideas and stances that cannot work and to begin a serious process of negotiation and reconciliation. Any process that is undertaken must meet Israel's security needs and satisfy the legitimate rights of the Palestinians. Secretary Shultz leaves tonight for the Middle East to see if practical and real progress can be made that provides a pathway to a comprehensive settlement, and he carries with him my full support.
+
+
+
+There's another regional conflict that has serious implications for our country's security interests: Nicaragua. Our policy consistently has been to bring peace and freedom to all of Central America. Today four of the five Central American countries choose their governments in free and open democratic elections. Independent courts protect their human rights, and their people can hope for a better life for themselves and their children. One country, Nicaragua, with its Communist regime, remains a threat to this democratic tide in the region.
+
+
+
+So, our message to the people of Nicaragua tonight is the same as it has been for the past 7 years: freedom based on true democratic principles. In the past several months, there have been some limited steps taken by the Communist regime in Nicaragua toward reform. Now is not the time to reverse that process.
+
+
+
+So, there's no argument that all of us seek peace and democracy in Nicaragua, and the difference is how to achieve that goal. On February 3d, Congress voted on continued support for the democratic resistance in Nicaragua, and to my disappointment, the majority in the House of Representatives voted to remove the pressure of the democratic resistance on the Sandinista regime. However, the Senate agreed with me that we cannot leave those fighting for freedom in Nicaragua at the mercy of the Communist regime and expect the process toward democracy to move ahead.
+
+
+
+We've already seen what happens when pressure is removed. In just 2 short weeks, the Sandinistas threatened the only free press in that country and rejected a cease-fire proposal made by the mediator, Cardinal Obando, which incorporated the essential elements laid out and agreed to last August. And in the first 2 months of 1988, Soviet military assistance to Nicaragua has almost doubled, compared to the same period in 1987. These do not represent signs of peace; these remain troubling indications of a regime determined to crush its opposition and threaten its neighbors.
+
+
+
+There is a choice. We must act to ensure that freedom is not smothered in Nicaragua and to guarantee that these latest promises will be kept in a timely way.
+
+
+
+End of statement, and Helen ?
+
+
+
+Israeli-Occupied Territories 
+
+{/speech}

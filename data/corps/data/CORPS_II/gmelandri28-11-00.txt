@@ -1,0 +1,26 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Giovanna Melandri {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. I don't want to suggest you to do that, but let me tell you how I feel about being the Culture Minister in Italy. I feel that being Culture Minister in Italy is like being the Oil Minister in Saudi Arabia. {LAUGHTER ; APPLAUSE} 
+
+No, I just -- thank you, thank you Mr. President. Thank you, Secretary Albright. I want to touch very briefly on what was the main idea and focus of the conference that we held in Florence last year that the First Lady recalled upon. The title of that conference was Culture Counts, and I think that -- culture has always counted.
+
+But maybe today it counts in a very more special and different way. And if I could use this comparison, I would say that if environment and biodiversity are in a way the last -- I mean, preserving environment and biodiversity are in a way the last battles of an industrial society, cultural diversity may be considered the first challenge; preserving cultural diversity may be considered as the first challenge of the information society.
+
+And I totally agree with the fact that globalization has to be seen as a force, a great opportunity and a great force for diversity, even though we should never forget the risks that are within it. So the conference in Florence had really one central idea. The idea is that if we look at what is sustainable development today, it needs not only to put environment and the protection of environment at its heart, but also the protection and diversity of cultures.
+
+Which very concretely means that we have to open a way for multilateral and bilateral cooperation in this field. And for the first time in Florence, more than 40 ministers and people responsible of the culture policy in many countries could meet with the World Bank and other agencies active in the development field and work on the idea of producing concrete facilities to finance projects in the Third World that have at their heart the idea of preserving diversity.
+
+And here, also, I just very briefly want to touch on this issue. I think, as Mr. President said very clearly, the world is witnessing cultural conflicts, and at the same time, we are in face of a risk -- the risk of a homogeneous culture. Now, I think cultural policies and putting culture at the center of development programs is really a way of considering culture as a connecting force. And it's to promote integration -- not assimilation, but integration.
+
+Our country, my country is investing a lot of public resources in this sector. We consider it as a part of our social system. We have done a lot of work in the last years to restore, conserve, and promote our cultural heritage. And our experience is that bilateral and multilateral cooperation on this field of protecting and valuizing cultural heritage is an extraordinary mean also for development and for social development to promote identity in this -- as an integration and as a connecting force, and not as a dividing force.
+
+This idea of sustainable development with culture at its heart I think has to bring policy makers around the world to develop instruments. I remember when, in the early '80s, on a global scale, the discussion on environment and protection of the environment started, this brought, for example, the World Bank to put together the GF -- the global environmental facility for financing projects concerned with environmental development. I think that we have to look at something similar in the future for culture. Thank you. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,12 @@
+﻿{title} Remarks on Presenting Presidential Citizens Medals to the Designer and Crew of the Voyager in Los Angeles, California {/title}
+{event} ----- {/event}
+{speaker} Dick Rutan {/speaker}
+{date} December 29, 1986 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Wow! {LAUGHTER} Now, it's quite an honor to receive these citations, but there's something very significant about what happened. And that is that this was done by individual citizens, citizens of this great land. And we did so because we had the freedom to pursue a dream, and that's important. And we should never forget, and those that guard our freedoms, that we should hang on to them very tenaciously and be very careful about some do-gooder that thinks that our safety is more important than our freedom. Because freedom is awful difficult to obtain, and it's even more difficult to regain it once it's lost. So, let's never forget how important it was, and we should hang on to it. Another thing I want to say is that because of the individual freedoms that we have, out in this room right here, the majority of you are Voyager people, Voyager volunteers -- people that gave of themselves for nothing, that they wanted to do something significant. And all of you that were involved in this thing, I want you all to stand up right now, and I want to applaud you and accept this medal on your behalf because I'm proud to death of you: the Voyager crew, ladies and gentlemen. {APPLAUSE} Thank you very much. 
+
+{/speech}

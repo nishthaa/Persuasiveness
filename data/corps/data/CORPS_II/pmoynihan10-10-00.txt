@@ -1,0 +1,20 @@
+﻿{title} Remarks by the President, Secretary of State Madeleine Albright, Speaker of the House Dennis Hastert, Senator William Roth, Representative Bill Archer, Senator Patrick Moynihan and Congressman Charles Rangel at Signing of China Permanent Normal Trade Relations {/title}
+{event} The South Lawn {/event}
+{speaker} Patrick Moynihan {/speaker}
+{date} October 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, colleagues and friends, this is truly epic legislation. Much credit is owed to many, but allow me particularly to mention our beloved Chairman of the Finance Committee, Bill Roth. This bill passed the Senate 83 to 15, as a measure of his effort.
+
+China, our wartime ally, was one of 44 nations that met at Bretton Woods in New Hampshire, July 1, 1944. I remember that because that's the day I joined the Navy, and I was very much conscious of these things going on in New Hampshire.
+
+If you believe that, I -- {LAUGHTER} -- but with the end of the Second World War in prospect, the allies met to craft the world trade and financial institutions that might help put off another conflagration. The World Bank, the International Monetary Fund an international trade organization, no one at Bretton Woods, certainly no American, needed to be reminded how readily trade wars drifted into real wars.
+
+China was on the preparatory committee that later drafted the charter of the International Trade Organization. However, American membership, and thereby the formation, was blocked in the Senate Finance Committee, and nothing happened. We had to do with makeshift arrangements for a half century, until finally, the World Trade Organization came into being in 1995.
+
+Now China, and also Taiwan, will join the WTO, as it would have done the ITO. Membership will be near to universal, the world will be a safer place, or so we hope, and so history argues. And now, it is my honor, to introduce a dear friend, who's singular in his commitment to this great enterprise and will now speak to you, Representative Archer, Chairman of the House Committee -- House Committee on Ways and Means. {APPLAUSE} 
+
+{/speech}

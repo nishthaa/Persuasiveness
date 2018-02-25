@@ -1,0 +1,22 @@
+﻿{title} Remarks by the President,the Vice President, Secretary of Interior Bruce Babbitt, Secretary of Agriculture Mike Espy, Secretary of Labor Robert Reich,Secretary of Commerce Ron Brown, Epa Administrator Carol Browner in Forest Announcement {/title}
+{event} Joint Press Conference on Forest {/event}
+{speaker} Robert Reich {/speaker}
+{date} July 1, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I could stand here and not take any heat at all. {LAUGHTER} Let me just say that I want to echo what Secretary Babbitt and Secretary Espy have said, but also talk specifically about jobs. Over the last two years, 20,000 jobs, timber jobs have been lost in this region -- 20,000 jobs. That's going to end. This new plan is going to actually create net jobs. There will be some dislocations. Some people, some timber workers will continue to lose jobs, nowhere near as many as have been losing them before. But the plan calls for economic development, job training, new jobs. We're going to focus economic development assistance and also job training assistance on this area and help people get new jobs that pay family wages, good wages. Jobs in environmental remediation, jobs in higher value-added timber manufacturing. Many jobs are out there and potentially available to people in this area.
+
+And, in fact, the direction we were going in -- donothing -- not only was it creating no jobs, in fact, destroying a lot of jobs -- 20,000 over two years -- but it was also potentially destroying a lot of other jobs -- jobs related to preserving that environment in the long-term. And, therefore, we are marking this as something of a beginning for the Northwest, hopefully, in terms of job-creation.
+
+One thing we've tried to do again is focus all our agencies on this task. It has been difficult, we've overcome, I think, or at least partially overcome years and years of agencies figuring that they were doing it alone, that their own mission had nothing to do with any other agency mission. And through this process the whole, hopefully, is greater than the sum of the parts. We have job training, economic development. We have environmental remediation. We have agencies working together and focusing their attention on solving a problem.
+
+Everybody's not going to be happy. In fact, everybody is going to be a little bit unhappy and that's what happens when you fight hard and work hard for a compromise. This is a compromise; this is the best compromise available. Any of the options, any of the options would have caused some job dislocation. This is the least job dislocation; it is the best in terms of new job net creation. And, therefore, we're very proud of where we're going.
+
+The President deserves an awful lot of credit for his leadership, his ability to take this on. Remember, nothing was being done. This was absolute logjam. The President pulled us together, pulled his team together, said get on with it, let's solve this problem. And we're doing it.
+
+Thank you. {APPLAUSE} 
+
+{/speech}

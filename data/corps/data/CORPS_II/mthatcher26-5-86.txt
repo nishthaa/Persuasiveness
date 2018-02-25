@@ -1,0 +1,26 @@
+﻿{title} Speech at King David Hotel Reception {/title}
+{event} King David Hotel reception {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} May 26, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Middle East) {/description}
+
+{speech} 
+
+Prime Minister, Your Excellencies, Mr. Speaker, Ladies and Gentlemen:
+
+Just a few words this evening, because I am so thrilled to be here and I am so delighted to welcome our guest of honour this evening, the Prime Minister of Israel, Mr. Shimon Peres. Will you all give him an enormous welcome. {APPLAUSE} 
+
+And may I also welcome so many of our other guests, not only Mr. Speaker, Members of the Cabinet and Ministers, Members of the Knesset, members of the press, members of all the industrial and commercial and voluntary agencies in this country and so many visitors from Britain.
+
+When I first came here, I was very familiar with one of the sayings of Ben Gurion, which is: that in order to be a realist in Israel, you have to believe in miracles. It was a very wise saying. One of those things which takes the impossible and puts them together and makes you realise it is true, but of course, in the last two days I have seen miracle after miracle in Israel before my eyes. The miracle of what you have done in construction, the miracle in what you have done in building a nation, and perhaps the greatest miracle of all is the spirit of this wonderful people.
+
+We have had another marvellous day today. Mr. Peres and I have gone around as a sort of brace of prime ministers today, right into the desert, then over to Ashqelon, and then back to Jerusalem, and have had a remarkable time seeing how people respond to the things which are done for them and how very proud they are to be citizens of this great country.
+
+You will know, Prime Minister, and we all know here, there are still problems to be solved, but when I look at the problems which have been solved, when I look at the miracles which have occurred, then I think we have every reason, on that basis, to believe that the problems before us are soluble on a basis of security, freedom and justice and on a basis of the extraordinary talent and ability of this great people and I hope on your friendship with the United Kingdom and friendship of course always with the United States, our great ally.
+
+One final word: I want to say thank you to Mr. Peres for inviting me to Israel and I want to say how much we in Great Britain admire everything that he has done, because he has seen problems and he has said "however difficult they are this time we are going to solve them." We congratulate you and the government on everything you have achieved in the economic sphere and we look forward to even greater achievements in the future.
+
+It has been a wonderful visit and a very great friendship, not only between two countries but also between two prime ministers, has been renewed. Thank you very much for coming this evening. I would like to ask Mr. Peres to say just a word and then this is not the end; indeed, it is only half-time, so you go on having a good time afterwards as well. {APPLAUSE} 
+
+{/speech}

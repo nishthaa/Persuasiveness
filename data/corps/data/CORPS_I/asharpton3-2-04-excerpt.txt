@@ -1,0 +1,49 @@
+﻿{title} Reverend Al Sharpton Addresses Supporters {/title} 
+{event} ----- {/event} 
+{speaker} Al Sharpton {/speaker} 
+{date} February 3, 2004 {/date} 
+{source} http://transcripts.cnn.com/ {/source} 
+ 
+{description} This is an excerpt {/description} 
+ 
+{speech} 
+ 
+First, let me thank all of you tonight that have been out working the last couple of weeks. 
+
+I am late because I was calculating votes from Missouri and Delaware. And it seems that we are going to be doing better than expected here, in both Missouri and Delaware. {APPLAUSE}
+
+But let me first congratulate you. Let me say this: Tonight we started a movement that will transform the Democratic Party. And I'm going to tell you why. 
+
+We came to South Carolina with no money, no paid staff, no TV ads, preached in about 25, 26 churches. 
+
+They brought every official they could in, put them on television commercials. 
+
+And not only did we come in three, in double digits, which no one thought we would do, we doubled Howard Dean, tripled Joe Lieberman. I think that this has been an outstanding boost in the arm for the Sharpton campaign. {APPLAUSE}
+
+You must remember that when we started this campaign, people said, "Al Sharpton couldn't get votes in the South." 
+
+Well, I beat Wesley Clark. {APPLAUSE}
+
+If I were in one of the churches tonight, I would say that this is a testament of faith. {APPLAUSE}
+
+I grew up marching on the Congress. Tonight I passed Congressman Kucinich. 
+
+I grew up admiring those that worked in the Senate. In fact, I voted for Joe Lieberman for vice president. Tonight in South Carolina I passed Joe Lieberman. {APPLAUSE}
+
+Howard Dean had $40 million and many officials came and campaigned for him in the churches and cut commercials. 
+
+We passed Joe Lieberman. We passed Howard Dean. {APPLAUSE}
+
+Then it was Wesley Clark. We passed Clark. We passed everybody. 
+
+And now I am going to be heading north to my home turf. And I'm going to see Mr. Edwards and Mr. Kerry at home.
+
+Mr. Edwards, I congratulate. He won at home.
+
+I congratulate Mr. Kerry. He had all the home-town political machine.
+
+For me to come in double digits with no money, long way from home, showed that volunteers and grassroots organizing does matter. {APPLAUSE}
+
+They said that you were crazy...
+ 
+{/speech} 

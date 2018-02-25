@@ -1,0 +1,29 @@
+﻿{title} Remarks of the President and Prime Minister Pierre Elliott Trudeau of Canada Prior to Their Meetings in Ottawa {/title}
+{event} Meetings in Ottawa {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} March 10, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+The President. Mr. Prime Minister, Mr. Speaker of the Senate, Madam Speaker of the House:
+
+It is a pleasure to be here today, not only to hear such warm words of welcome but also to appreciate through a visitor's eyes these splendid halls of government.
+
+It was said once of this place that it grasps and materializes the beauty of Canada, the vastness of its lands, its loneliness, its youth, and its hope. And yet Parliament Hill is more than an imposing symbol of your nation; it is also a landmark of the New World, a monument to the right of self-government and the value of human freedom that even sometimes, as you yourself have pointed out, makes raucous behavior permissible. This belief in self-rule and the rights of the individual springs from a common heritage that formed the backdrop for our discussions in the next 2 days.
+
+Now, Mr. Prime Minister, there is important work on the agenda before us -- improving our trade, protecting our environment, safeguarding our freedom. But before we begin our public business, I did want to address one other matter between us that should be dealt with early on.
+
+You will remember a little while back when our national troubles were widely known, a journalist penned a testimony to our country that was entitled, simply, "Let's Hear It for the United States." It spoke with great affection about people of the United States, their generosity, their inner strength. That testimony in our land was reprinted many times in magazines and newspapers, played on radio stations and even in nightclubs in my country. It touched the American people deeply that anyone should think so kindly of us. But I don't think it surprised us to learn that the journalist who wrote those very kind words was a Canadian.
+
+And so, Mr. Prime Minister, before we discuss the other important matters before us, I want to take this occasion not to talk about the affairs of state, but to speak from the heart to the heart, to say to the Canadian people, the people of the United States do not merely value your friendship, we cherish it. We are here today not just to seek friendly ties with a neighboring nation and a world power but to strengthen instead the deep, unbending bonds of trust between old and devoted friends.
+
+Merci. C'est un plaisir to be here with you today. Thank you.
+
+The Prime Minister. Hey, guys, when I go to the United States, I'm not met with these kind of signs. You know, the Americans have some beefs against us, too, but they receive them politely. Now, how about a great cheer for President Reagan? {CHEERS ; APPLAUSE} 
+Note: The Prime Minister spoke at 11:10 a.m. outside the Centre Block on Parliament Hill. As printed above, the Prime Minister's remarks follow the text of the White House press release.
+
+Following the remarks, the President and the Prime Minister met privately in the Prime Minister's office in the Centre Block. They then went to the Prime Minister's residence for a luncheon. Later in the afternoon, the President and the Prime Minister and their delegations held a meeting in the Cabinet Room at the Centre Block. 
+
+{/speech}

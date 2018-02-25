@@ -1,0 +1,35 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Ernest Glinne {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, Madam President of the Council, ladies and gentlemen, I think I speak on behalf of the entire House when I express our satisfaction that our demands both old and new have been met and that the President-in-Office of the European Council herself has come to report to us on the work of that high authority. {APPLAUSE} 
+
+It is our hope that this first occasion will become a well-established tradition and that the President-in-Office will come and report to us personally after every meeting of the European Council.
+
+Having thus had the privilege of hearing the comments of the President-in-Office on the outcome of the London Summit, I would like first of all to express our approval of the fact that the Council put particular stress on détente, cooperation and disarmament.
+
+I would like to say despite the seriousness of the subject that it is far better that we should deploy all our efforts at achieving disarmament rather than deploying whole arsenal of variable-range and even, I believe, interstellar missiles. It is our very earnest hope that all concerned will appreciate that the common interest—in its strictly literal sense—of whole peoples and whole generations is involved in this question of détente, cooperation and disarmament, and that alone must impel us to rapid and substantial progress.
+
+I hope that the call of the millions of Europeans who have demonstrated for peace during the course of the last few months will be heard by their heads of state. {APPLAUSE} 
+This I say with all the more conviction since at this very moment heart-rending events are taking place in a country which is both close and dear to us, Poland, events which we wish had never taken place and which we still hope will not seriously jeopardize international relations.
+
+As regards the European union and recent initiatives relating to it, what seems most important to us is to give the Community institutions the means to bring about the European social area proposed by President Mitterrand: a social area where workers are not thrown away like worn out tools, where the bill for economic recovery is not paid by the workers alone and where the fat cattle do not go to one part of the population and the lean cattle to the other, despite the fact that it is the majority.
+
+What we want is a Europe which is first of all made for workers, a Europe which is responsible towards them and particularly towards the least privileged amongst them.
+
+I have to tell the House very plainly that as far as the Socialists are concerned there can be no question of asking workers for any moderation in wage demands unless they are compensated by additional benefits.
+
+I come finally to the most disappointing points arising from the London Summit. Serious disagreement was apparent on four well-known points: dairy surpluses, Mediterranean agriculture, agricultural expenditure and the place of the common agricultural policy in the budget.
+
+Regrettably we cannot be sure that the role of the outgoing Presidency was particularly positive in this question since the evidence suggests that the United Kingdom is still resolutely opposed to any budgetary solution which would bring about the implementation of new common policies.
+
+Of course, the London Summit did not break down. Of course, it is quite understandable that heads of state and government were unable to find an easy solution where specialist Councils had already failed; the fact still remains that there was a deep split between partners in four crucial areas.
+
+The agreed procedure says that the governments of the Member States must now find a solution to the four questions which have been put to them, failing which instead of making progress Europe will be taking a step backwards, and no amount of progress in the field of political cooperation will remedy that. European public opinion may be willing to understand and allow a few weeks' delay, but any failure to reach decisions will be condemned vigorously, since the undertaking to implement new policies—the whole of the first part of the report on the 30 May Mandate—ought to allow the Community to get down finally to the critical and immediate problem of unemployment. {APPLAUSE} 
+
+{/speech}

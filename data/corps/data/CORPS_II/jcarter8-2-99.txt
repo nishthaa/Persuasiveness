@@ -1,0 +1,22 @@
+﻿{title} Remarks by President Clinton, President Gerald Ford, President Jimmy Carter, and President George Bush, and The First Lady to Embassy Staff {/title}
+{event} Marriott Hotel, Amman, Jordan {/event}
+{speaker} Jimmy Carter {/speaker}
+{date} February 8, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I don't think I've ever seen a greater outpouring of the world's appreciation and the world's love for a human being than I've seen today. It's been extraordinary to look down the list of those who might be here when we were on the way in to Amman, and then to arrive here and find that even that long list was exceeded by the actual attendance. It's a true expression of what King Hussein has meant to all of us personally.
+
+I won't repeat what Gerry Ford said, but I want to add my full endorsement of his appreciation to you. I thought just very briefly I would tell you the first time I got to know King Hussein.
+
+Just two weeks after I became President, King Hussein's wife, Alia, was killed. And one of the first things I did was just send my condolences to him. Shortly after, he came to Washington, in April of 1977. His primary purpose was to urge me to be forceful in seeking peace between Israel and Israel's neighbors. We had a daughter named Amy, who at that time was nine years old. I was a peanut farmer who had never met a king; and Amy was certainly a peanut farmer's daughter who had never met any royalty. So we were very assiduous in our training of Amy, what to say -- "Your Majesty," "Your Royal Highness," "Your Highness" -- he had his two sons with him. And when we met the Royal Family the first thing Amy shouted was, "Hi, Prince." {LAUGHTER} And from then on she and the two young boys got along quite well.
+
+The night after a long day of work, King Hussein and I went on the Truman Balcony and we looked out over the South Lawn and past the Jefferson Memorial, and saw some planes taking off. And he began to tell me about his recent tragic loss, and he began to weep. And we embraced each other. And he said he was just exhausted from his sorrow and from the duties on his shoulders. And I suggested that he spend a couple of weeks in Georgia.
+
+I had two fun-loving young friends down near Brunswick, Georgia, and eventually, King Hussein agreed to go down there. And he hunted and fished and swam, and I gave him, without asking anybody's permission, since I was Commander in Chief, a helicopter to fly around in. {LAUGHTER} And I think he enjoyed it.
+
+The thing I would like to close by saying is that, some people have commented on the youth and apparent inexperience of the new King Abdullah. But the thing that reassured me from the very first moment I heard that news was that before the American delegation and the Jordanian delegation sat across from each other in the Cabinet Room for serious discussions, King Hussein pulled me aside and said, "Mr. President, I'd like permission for my son to attend all the official discussions." That was future King Abdullah, who at that time was just 12 years old. So I feel that he's well qualified to lead this great nation and these great people. {APPLAUSE} 
+
+{/speech}

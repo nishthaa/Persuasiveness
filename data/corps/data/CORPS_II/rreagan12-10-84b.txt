@@ -1,0 +1,18 @@
+﻿{title} Remarks During a Whistlestop Tour of Ohio {/title}
+{event} Dayton {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} October 12, 1984 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+This sounds a little old fashioned, I know, but we could say, from an earlier day of telephones here, that talking to the shuttle is kind of a party line. {LAUGHTER}
+
+But I'm glad that you could all listen in. Those wonderful people that are up there, and what they're doing, and just to give you some idea of the miracle that's taken place in all this -- and which if someone had his way several years ago, we wouldn't have had a shuttle program at all; he opposed it very much -- but the time that I was present out at Edwards Air Force Base in California for the landing of the shuttle, they suddenly grabbed me and hustled me up on the platform. And they said, "It's, you know, getting close. It'll just be minutes now." And I got on the platform, and I couldn't see anything in the sky. And I said, "Well, where are they right now?" They said, "They're just over Honolulu." {LAUGHTER} And believe me, they were on their glide path from Honolulu in. And in a matter of minutes, they landed there in California.
+
+That's quite a miracle that we have going up there. But there are going to be a lot more miracles in the days ahead here in this country of ours, thanks to people like you.
+
+So, God bless you all. And I think now they're ready to pull out, so we'll be on time at the next station. Thank you. 
+
+{/speech}

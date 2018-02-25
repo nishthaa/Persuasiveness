@@ -1,0 +1,24 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Ioannis Pesmazoglou {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, the address by the President of the European Council, the Prime Minister of the United Kingdom, is clear evidence of the importance attached to the increasing responsibility and role of the European Parliament. As a Member from Greece, I wish to express the conviction that today's proceedings will be noted and appreciated by the majority of the Greek people. {APPLAUSE} 
+
+The British Presidency has given force, drive and style, mainly to European political cooperation. In particular, I wish to stress the initiatives for opening negotiations designed to limit nuclear weapons in Europe, as well as the initiatives on Afghanistan and the Middle E although I should also point out the absence of the necessary stand on Cyprus, where the continued Turkish military occupation constitutes a serious and dangerous violation of international order. {APPLAUSE} 
+
+However, the political impact of the Community on the grave international developments—and I am now certainly referring to the recent critical events in Poland—could not be secured until and unless decisive progress was realized in the whole network of interdependent decisions which are essential and urgent for the cohesion and effectiveness of the Community as a whole. In this direction, there has been no progress: on the contrary, in the recent European Council there has been an absence of a sense of urgency and of the political willpower necessary for decisive advance in the European Community.
+
+I wish to make three remarks in this connection. First, the economic and social crises—the crisis of grave unemployment and excessive inflation, as well as the almost zero economic growth in our countries—can be overcome only by common action within the European Community.
+
+Secondly, action by the European Community should be inspired and carried out consistently and effectively by a single voice and a Community approach, as distinct from the arrangements of a loose intergovernmental cooperation. In this connection, I wish to stress the importance of adequately taking into account the particularities, as well as the problems and weaknesses, of the Mediterranean and other relatively weak peripheral member countries. And in saying this I certainly refer to Greece.
+
+The converging specific Greek proposals put forward at various stages to the institutions of the Community by Greek representatives belonging to more than one political party indicate the Greek national support for such action. The Community, as well as all other countries, should become aware of the major significance of overcoming the crisis for such action by balanced growth and political cohesion in the European Community as a whole.
+
+Thirdly, we need action in all these directions for the creation of a new model of democratic society designed to overcome the problems of our age as we approach the final stages of our century and the beginning of the 21st century. {APPLAUSE} 
+
+{/speech}

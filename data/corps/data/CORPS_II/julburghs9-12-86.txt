@@ -1,0 +1,24 @@
+﻿{title} Speech to European Parliament {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Jef Ulburghs {/speaker}
+{date} December 9, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr President, the economic policy of the British presidency in the European Community continued to have priority. Within this economic policy, energy policy continued to play an important role, more important than political and social considerations.
+
+Europe, including Britain and my own country, Belgium, has a major source of energy in coal. To what extent did coal continue to play a major role in the priorities you set, Madam President? What was your position on Chernobyl? The European energy policy cannot remain unchanged after this incident.
+
+I join with the Irish in particular in pointing out that there is a Chernobyl on the Irish Sea, representing just as much of a threat to the environment. Are you still as committed to nuclear energy after what happened at Sellafield?
+
+Secondly, what was your position on the boycott of South African apartheid coal? The Council of Ministers is indignant about the violation of human rights and talks about an economic boycott of South Africa. What was your position on the boycott of South African coal? The dignity of both the South African mineworkers and your and our mineworkers depends on this.
+
+Thirdly, terrorism. We note that you took a firm stand on terrorism, even going so far as to break off diplomatic relations. Were you aware, Mrs Thatcher, that, while you were breaking off relations with Syria in the name of freedom and as an indictment of terrorism, your best friend and admired ally across the seas was supplying weapons to a country that supports international terrorism and is the closest ally of Syria, the country you were condemning at that very moment? What conclusions did you draw from this as President of the Council? {APPLAUSE} 
+
+Finally, Madam President, how did you feel when decisions were being taken on Europe's fate at the summit meeting in Reykjavik without your being there? Do you not think that an autonomous Europe with an economy for peace, based on social justice, can take two important, historic steps, firstly, towards a large, united Europe. Yalta led to the hopeless division of Europe. We discussed Poland yesterday.
+
+But the world too is hopelessly divided into strategic spheres of influence. Do you not think an autonomous Europe free of nuclear weapons, with an economy for peace, could bridge the gap caused by Yalta? Secondly, can a European economy for peace not signify the most effective economic and political support for the nations of the Third World in their quest for self-determination and dignity? {APPLAUSE} 
+
+{/speech}

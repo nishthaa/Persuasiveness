@@ -1,0 +1,105 @@
+﻿{title} Speech at Lord Mayor's Banquet {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} November 12, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Famous statements by MT, Religion/Morality, Transport, Education, Conservatism, Trade, Monetary policy, Public spending and borrowing, European Union (general), British constitution (general discussions), Economic, monetary and political union, Foreign policy (general discussions), Foreign policy (Middle East), Foreign policy (International organisations), Foreign policy (Central and Eastern Europe), Foreign policy (Africa), Commonwealth (South Africa), Foreign policy (USSR and successor states), Terrorism, Defence (general) {/description}
+
+
+{speech}
+
+My Lord Mayor, My Late Lord Mayor, Your Excellencies, My Lords, Aldermen, Sheriffs, Ladies and Gentlemen. 
+
+May I begin by thanking you, My Lord Mayor, for your toast to Her Majesty's Ministers. May I thank you also for your splendid speech and congratulate you on being elected Lord Mayor. 
+
+Since I first went into bat eleven years ago, the score at your end has ticked over nicely, You are now the 663rd Lord Mayor. At the Prime Minister's end, we are stuck on 49. I am still at the crease, though the bowling has been pretty hostile of late. And in case anyone doubted it, can I assure you there will be no ducking the bouncers, no stonewalling, no playing for time. The bowling's going to get hit all round the ground. That is my style. 
+
+May I also say a special word about His Grace the Archbishop of Canterbury. As this will be the last time, your Grace, that you will be with us in this capacity, I would like to say what a great pleasure it has been to share this occasion with you over so many years—to sup, so to speak, with the runcible spoon. Your speeches have been masterpieces of elegance and wit and we thank you for the pleasure and the wisdom you have given us over the years. 
+
+I join you, My Lord Mayor, in paying tribute to your predecessor, Sir Hugh Bidwell. You, My Late Lord Mayor, can point to many achievements over the past year, notably your company's success in supplying ice cream to Moscow—a feat more difficult than carrying coals to Newcastle. 
+
+Here at home you have worked tirelessly to promote London as a major financial centre and have rightly stressed the importance of good transport links. You will be delighted, therefore, with the announcement that the new East-West Crossrail, which was recommended in the City's transport study, is to go ahead. I cannot claim this was arranged as a parting gift for you personally, but I hope it will give you great satisfaction nonetheless. 
+
+My Lord Mayor, it has always been the hallmark of the city that it has sought not only to promote commerce and trade, but to enrich the society of which it is a part. This has been especially so in education and training, to which you referred, and where the City and Guilds Certificates have been a byword for excellence and craftsmanship. 
+
+Nowhere is this tradition sustained more proudly than in your own livery company, the Mercers. Its history as an education charity dates back over five centuries, supporting such schools as Abingdon and St Paul's. That tradition will take on new form with the Mercers' plans to help establish a new City Technology College at Telford. Once again, the City is foremost in upholding standards—standards which are the key to Britain's success in the world of tomorrow. 
+
+My Lord Mayor, the Britain of twelve years ago had become bureaucratic, tightly controlled and reconciled to decline. It had lost all vitality. Such a society could not adapt, it could not respond to new opportunities—it was stuck in its own mould. 
+
+Only a free people and a free economy have the capacity to meet new challenges, create new activities and find new solutions. That is why in 1979 there had to be a clean break and we had to build opportunity Britain, where talent and the spirit of enterprise could succeed. And the British people responded magnificently. 
+
+Our growth in output and investment has been second to none of our principal competitors in Europe. Instead of trailing, we led. Most striking of all, for the last eight years we have maintained our share of world trade—ending the progressive decline that dates back to 1870. And we need to remind ourselves more often that, per person, Britain exports more than Japan—a very good record for our industry. 
+
+After nine consecutive years of growth, we needed to slow down. We are still paying the cost in high inflation of not recognising early enough the sheer strength and vitality of the expansion unleashed in Britain. There was too much borrowing. It would have been better if more people had heeded the advice from the Book of Ecclesiasticus: 
+
+"Be not made a beggar banqueting upon borrowing, when thou hast nothing in they purse." 
+
+For obvious reasons I hesitated to use that, but you, My Lord Mayor, are a Scot, you have not been doing the borrowing, you have been doing the lending and probably making a very good thing of it. 
+
+All the signs are that we are winning the fight against inflation and that monetary growth is back on track. It will not be long before the inflation figure starts to fall. 
+
+Other countries, too, have their problems. But unlike many of them, we have a budget surplus, not a massive deficit. Just a few days ago, the Chancellor published his Autumn Statement giving the results of the annual public spending negotiations. Before the Statement, we had been accused of letting rip; of abandoning fiscal discipline; of caving in to every special interest. My Lord Mayor, to coin a phrase: no, no, no. 
+
+Even old Treasury hands describe this as the most difficult and bruising round for years. But it has met our long-term goal of reducing the share of national income taken by the state. Two years ago at this Banquet I said we would bring public spending to below 40 per cent of national income for the first time in twenty years. We did. We will do so again this year, and keep it on a downward trend in the future. 
+
+We have set standards of sound finance not seen for two generations. At last there has been a return to orthodox finance and an end to the post-war illusion that year after year one could go on spending more than one had. But we have done more than balance the books. For four years now, we have had a budget surplus, repaying £25 billion of Government debt. We are diminishing, not adding to, the burden of debt which our children will have to meet. We believe it is wrong for us to live at the expense of future generations. 
+
+Even so, we have been able to meet our commitments to pensioners; to give extra help to the disabled; and to increase the amount available for the Health Service. My Lord Mayor, to do that and still redeem debt, is truly the mark of good stewardship and the Chancellor and Chief Secretary deserve our thanks and congratulations. 
+
+So with our industry revitalised, with inflation set to come down, and public finances sound, we can face the 1990s with confidence. 
+
+My Lord Mayor, as you may have noticed, Europe has been in the news a bit lately. But the real news of these last two weeks was not the headlines: "Maggie Isolated". It was the breakthrough of the British and French tunnels deep below the Channel. 
+
+That was history in the making. For the first time in many thousands of years Britain and France are linked. Or as one of our more lively daily papers put it: "The Europeans are no longer cut off from merrie England." 
+
+It seems no time at all since President Mitterrand and I met in Lille in 1986 to sign the original agreement: and later in the Chapter House of Canterbury Cathedral to complete the formalities. All that since then. But that is the private sector for you. I believe the Tunnel will have a fundamental and beneficial effect on attitudes in this country to mainland Europe. 
+
+These two events—the headlines on the one hand, and the tunnel on the other—underline the difference between rhetoric and reality. The reality lies in getting things done: the practical steps which mean more trade, more travel, more cooperation of every sort between the Continent and the United Kingdom. 
+
+And as I have many times said, so much of our history has been in Europe and our destiny lies in Europe. But we tend to approach things in a rather different way from some of our partners in the European Community. Our common law, our democracy, our Parliamentary institutions and proceedings have developed and matured over many centuries. We believe that institutions are stronger when they grow and evolve. So we are cautions about grand designs and blue-prints. We like to be certain we can achieve something before we commit our good name to it. 
+
+That is very much our approach to the discussions on economic and monetary union. We don't readily understand why people insist on setting time-tables for future stages before they have decided on their content. 
+
+We look at the wide differences between countries in the Community: — at the differences in their living standards; — at the vastly different inflation rates, from 2½ per cent in one country to 22 per cent in another; — at the differences in their public finances, ranging from our budget surplus to a huge budget deficit in Italy; — we look at the continuing high subsidies to industries in many European countries, which make it difficult to have a genuine Single Market. 
+
+We look at all these things and ask: with such enormous disparities, is it really sensible to tie ourselves down now to specific commitments in the distant future before we can possibly know whether they can be achieved and what their consequences would be for each of our countries? 
+
+Isn't it better to follow an evolutionary approach, to make progress a step at a time? That's the course Britain has chosen, in proposing the hard Ecu as a common European currency alongside national currencies, so that people can choose which to use. Ours is the only fully worked-out proposal for the next stage which has been tabled and I pay tribute to the City's part in developing it. 
+
+And surely it is more sensible to see that every country fulfils its existing obligations before moving on to set new targets. In the City, you take pride that your word is your bond. That's Britain's approach to Europe. We don't make promises we can't keep. Whether on the Single Market, over the environment, in the GATT negotiations or in a host of other ways, the record clearly shows that when we say we'll do something, we do it {APPLAUSE} . 
+
+We don't want Europe to be an exclusive and inward-looking club. That would risk pushing other groups of countries in Asia and in North America to form competing trade blocs. Nothing would more surely stifle the free exchange of goods and services worldwide on which the City and indeed Britain depend for their livelihood. 
+
+The City, My Lord Mayor, as you have said, is and must remain the pre-eminent financial centre in Europe. The success of a financial centre depends on willingness to take risks and make markets, on an ability to come up with new services to meet changing financial and industrial needs; and it depends on integrity. These things will remain true however Europe develops. 
+
+In Switzerland, Luxembourg and Hong Kong, the amount of business done far exceeds that in their own national currency. In the same way, London is far more important as a place to issue bonds or trade foreign exchange than sterling alone would imply. Indeed, while sterling's role as a reserve currency declined, London's strength as a financial centre grew. 
+
+The qualities that have brought London to its present eminence rest ultimately on the people who work in its markets. Reputation and tradition built up over centuries will endure. London has what it takes to stay on top in Europe and the world—and London must and will stay on top {APPLAUSE} . 
+
+My Lord Mayor, as we look around the world, what an astonishing change it has been, change more fundamental than at any time since the War. — Just twelve months since the Berlin Wall came down. — Twelve months in which democracy and the rule of law have begun to return to the countries of Eastern Europe. — Twelve months which have seen the most profound changes in the Soviet Union—and we don't yet know where they will end. — Twelve months in which the threat of military attack on Western Europe has been radically diminished—and that would never have happened but for our resolve to maintain a strong defence. {APPLAUSE} And the changes have not been limited to Europe. — We have witnessed unprecedented reform in South Africa, as well as the release of Nelson Mandela. — The world has started to come to grips with the problem of climate change. 
+
+— We have seen what may be the greatest international coalition in history take shape: the uniting of many nations, races and faiths against Saddam Hussein and his brutal invasion and plunder of Kuwait. 
+
+— And we have seen a great and welcome increase in the influence of the United Nations. 
+
+There is much over which we can rejoice and give thanks. Those of us who have visited Eastern Europe and felt the new freedom in the air find it profoundly moving, as do those who have heard President de Klerk talk of his hopes for a non-racial future for South Africa. 
+
+And with the crumbling of Communism internationally, we no longer face the same dangers from subversion, nor the same risk that local conflicts will polarise into confrontation between East and West. 
+
+But we can't forget the darker side: the many victims of terrorism; the hostages in Beirut, particularly Terry Waite, John McCarthy and Jack Mann; the Kuwaiti people, the victims of Iraq's systematic cruelty and destruction; the British hostages in Iraq and Kuwait and the agony and uncertainty of their families who have to watch and wait; and isolated in the Embassy and surrounded by Iraqi guns, our Ambassador in Kuwait and his one remaining colleague are holding out. Their courage and fortitude are in the highest tradition of our Diplomatic Service. We are proud of them! {APPLAUSE} 
+
+Some of you will have read a letter which appeared in one of our national newspapers the other day. It reminds us that—and I quote—"hundreds of Kuwaitis are being tortured and killed in some of the most horrible ways possible"; and the writer goes on to say—and I quote once more: "every visit by every politician, diplomat or envoy prolongs the agony of those of us under Iraqi occupation—it does not bring the Iraqi regime in Kuwait any nearer to its end". 
+
+That letter is from a British citizen trapped in Kuwait. 
+
+I have received a letter, too, from the mother of one of the hostages in Iraq in which she tells how he was allowed to telephone her the other day but had only one message: don't negotiate with the terrorists, with Saddam Hussein! 
+
+Such, My Lord Mayor, is the tremendous courage of the British people caught up in this appalling situation. We ourselves must not show one ounce less resolve than they do. We hope that sanctions will compel Iraq to withdraw soon but if not, Arab and Western forces will have no alternative but to free Kuwait by military means. 
+
+Make no mistake! Free Kuwait we shall! If we fail to act conclusively now, we should only bequeath the problem to future generations, who would indeed have cause to blame us and our hopes for a better world in which law and decency prevail would be destroyed. You cannot allow the sanction of force to remain in the hands of someone who has no moral scruples whatsoever! {APPLAUSE}
+
+My Lord Mayor, I can't remember a time when the demands upon us—upon Britain and the Western countries—have been greater: calls for help to sustain democracy and reform in the Soviet Union and in the countries of Eastern Europe; the call to help defend countries outside Europe threatened by aggression. Thank goodness we kept our defences strong so that we could respond to the crisis in the Gulf with our Tornados and our Royal Navy ships and the Desert Rats! 
+
+One lesson stands out: at times such as these—times of change, of hope and yet of danger—Britain's unique qualities are needed once again: — steadfastness in defence; — staunchness as an ally; and — willingness always to give a lead. Time after time, when put to the test in a just cause, these qualities have served Britain and the world well. They will do so again. {APPLAUSE}
+
+{/speech}

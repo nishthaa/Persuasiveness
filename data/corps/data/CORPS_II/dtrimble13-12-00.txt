@@ -1,0 +1,42 @@
+﻿{title} Remarks by President Clinton, British Prime Minister Tony Blair, Deputy First Minister Seamus Mallon, and First Minister David Trimble to the People of Northern Ireland {/title}
+{event} Odyssey Arena, Lagan Waterfront, Belfast, Northern Ireland {/event}
+{speaker} David Trimble {/speaker}
+{date} December 13, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, First Lady, Prime Minister, distinguished guests. Mr. President, your reception here today shows how deeply we all appreciate your continued interest and concern.
+
+Since your last visit, we have made much progress. At Stormont, we have prepared our program for government, and for the first time -- for the first time in our history -- public policy is being set down by Ulster men and Ulster women from right across the religious divide. {APPLAUSE} All the major parties in Northern Ireland contributed to the making of that program -- ourselves in the Ulster Unionist Party, the SDLP, Democratic Unionists, as well, and Sinn Fein, all of them for the first time working together and defining policy.
+
+In the Executive and in the Assembly, we can see that working together is fostering a sense of common purpose. From dealing with job creation to improving standards of health care, from dealing with the problems of agriculture to improving the research capability of our universities, for the first time, we are making Northern Ireland work in a shared, consensual way.
+
+Mr. President, one of your predecessors rightly said, "This land of ours cannot be a good place for any of us to live in unless it is a good place for all of us to live in." {APPLAUSE} That is our goal -- a Northern Ireland at ease with itself, where everyone can feel at home.
+
+Now, sadly, sadly, there are still segments of society that are still not fully participating in building that shared home. And I hope that they will gain a sufficient confidence in themselves to accept the democratic verdict and to join us in giving collective leadership to all in our society.
+
+On your last visit, Mr. President, I said that Northern Ireland was back in business, and so it is. U.S. trade and investment is playing a crucial role in underpinning progress. But the ties between our two countries are more than just economic. We share the same ideals of peace, freedom and democracy. And we also have a shared experience in the defense of democracy. We, here, in this city, are proud that in the second world war, the first G.I. to set foot in Europe did so here, and that tens of thousands of U.S. servicemen were stationed here.
+
+Then, fascism was the antithesis of democracy; so is terrorism today. It violates the very values that led the United States and the United Kingdom to fight side by side in the 1940s and remained allied since. Then, many wondered if those dark days would ever end.
+
+In our own time, many wondered if The Troubles would end. But I believe that we are coming through, that we are making Northern Ireland anew. And this would not have been possible, none of this would have been possible without the strong communities that we have here, founded as they are on Christian values. And also, none of it would have been possible without the service and the sacrifice of many people in the security forces and the Royal Ulster Constabulary. {APPLAUSE}
+
+History dealt Northern Ireland a difficult hand of cards. We inherited a conflict. Nonetheless, nearly three years ago, the people of Northern Ireland voted for a fair, but complex settlement. Mr. President, you encapsulated it in these words: "They agreed to the principle of consent. Majority rule, minority rights, shared decision-making and ties to their neighbors." We are honored that you have recommended these principles to other divided societies.
+
+For us, of course, making the agreement work has been tough. Just because that agreement accurately reflects the complex interests that exist within our society, there will, inevitably, be the moments of stress and disagreement. But the agreement protects everybody's interests. And I'm confident that support for that agreement remains strong.
+
+Mr. President, we recall your visit to the bereaved of Omagh, which was much appreciated. And we all recall the anguish of those families. And we know that we must ensure that that misery is never repeated. As you said in Dundalk last night, we, each of us, have to play our own part in making sure that there are no more Omaghs. {APPLAUSE}
+
+There cannot be a moral vacuum at the heart of the peace process. There must be real peace. Our uniquely inclusive arrangements contain no ambiguity on these principles. Justification lies in the transition from a violent past to a peaceful, democratic future.
+
+And that is why I stand firm on the need for decommissioning. {APPLAUSE} That is why, on the waterfront in 1998, on the occasion of your last visit, Mr. President, I said, "to those who are crossing the bridge from terrorism to democracy, every move you make towards peace, I welcome; every pledge you make to peace, I will hold you to." And today we continue to watch, to wait, and to hold on to those promises.
+
+But I do not intend -- I do not intend -- to let the ship of peace sink on the rocks of old habits and hard grudges. {APPLAUSE} We are learning -- we are learning to define ourselves by what we are for, and not just by what we are against. And I am working -- we are all working -- for a united society here in Northern Ireland. And again and again we have to repeat to those who use violence, that you are the past, your day is over.
+
+Mr. President, those words of yours in 1995 marked for many people here a turning point. And since then, there have been ups and downs. But sometimes I think we should step back and just look to see how much has been achieved. There is still much to be done. But we have here a uniquely talented, enthusiastic people. We've got a government committed to enterprise. We have skills and qualities second to none. And above all, we know that we here in Northern Ireland now hold our own future in our own hands. We know that it can be a great future, and we are determined to make the best of it. {APPLAUSE}
+
+Ladies and gentlemen, Prime Minister, may I introduce, not, I'm sure, for the last time, an old friend, the President of the United States William Jefferson Clinton. {APPLAUSE} 
+
+{/speech}

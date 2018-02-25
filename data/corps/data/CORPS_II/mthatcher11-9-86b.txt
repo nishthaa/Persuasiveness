@@ -1,0 +1,46 @@
+﻿{title} Speech at Norwegian Government Dinner {/title}
+{event} Norwegian Government Dinner {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} September 11, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Western Europe - non - EU), Conservative Party (history), Defence (general), European Union (general), Energy, Environment {/description}
+
+{speech} 
+
+Prime Minister , Mr. Brundtland, Your Excellencies and Honoured Guests:
+
+May I thank you for your welcome, Prime Minister, and for the most charming and distinguished speech which you have just delivered to us. May I thank you also for this splendid dinner in the magnificent and historic surroundings of the Akershus Castle.
+
+It is true that we experienced a few difficulties in getting here {LAUGHTER} , but I would like to thank your security people for the most excellent way in which they dealt with the situation.
+
+You, Prime Minister, quoted George Bernard Shaw, that no Englishman is ever fairly beaten. {LAUGHTER ; APPLAUSE} May I add an addendum with which I feel sure you will agree: no Englishwoman is ever fairly beaten. {APPLAUSE}
+
+I am delighted to be paying this visit to Norway, following after twenty-six years in the steps of my distinguished predecessor, then Harold Macmillan, now Lord Stockton, who at the age of ninety-two still plays such a lively part in our nation's affairs and does not always appear to be supporting the Government.
+
+It is, sadly, only a brief stay, but Norway's beauty and grandeur have already made a deep impression. Our countries have known one another for many centuries. Indeed, had King Harold Hardrade won the Battle of Stamford Bridge in 1066 Britain might even now be under Norwegian rule. Indeed, the first arrival in Britain of your Viking forebears in their fearsome longships was regarded as evidence of the wrath of God, but their successors settled peacefully among us and contributed to our language and our culture.
+
+The first international treaty in the history of both our countries was a trade agreement between Britain and Norway in the year 1217. In more recent times, as you have mentioned Prime Minister, we were honoured to play host during the Second World War to King Haakon 's Government-in-Exile and the Free Norwegian Forces. May I say that each year your present King comes to London and I am privileged usually to see him twice, once at the great celebration we have at the Albert Hall when we remember each and every person who gave their lives for our present freedom and we honour also those who carry the torch today; and I see him the following day when each and every year he too comes to our Cenotaph Service to remember, and I assure you, you love him in Norway—we love him every bit as much in Britain.
+
+Our own forces also fought with outstanding bravery in Norway, and I shall be visiting the memorial to them tomorrow. And in 1955, it was to Norway that Her Majesty the Queen paid her first state visit outside the Commonwealth.
+
+The great names of Norway's history and culture are no less well known in Britain: Leif Ericcson, the first discoverer of the New World; explorers such as Nansen, Amundsen and Thor Heyerdahl, who built on that tradition and whose exploits held us enthralled; the great North sagas, the music of Grieg, the plays of Ibsen, the paintings of Edvard Munch; and more recently, the acting of Liz Ormond, are all familiar and admired.
+
+We admire too the sturdy self-reliance of the Norwegian character. It has led you not only to fight for and defend your independence, but also with your great seafaring tradition, which we share, to voyage far across the world.
+
+Today, Britain and Norway work together more closely than ever. In defence, again as you have mentioned, Prime Minister, Norway guards NATO's crucial northern sector; and our visit earlier today to Tromso was a vivid reminder of how Norway stands in the front line in the defence of freedom. Our forces work with yours. We are delighted that you give them the opportunity to train with yours, and I repeat this evening Britain's unshakeable commitment to the defence of that northern sector, while we also work for reductions in armaments and reductions in tensions between East and West.
+
+In Europe, Britain will continue to work to draw the European Community and EFTA still closer together, reducing the barriers to trade, harmonising standards and encouraging scientific and technological cooperation. For us, Europe is not and will never be represented by the EEC alone. Europe must be built on partnership between the European Community and EFTA.
+
+We have a splendid history of cooperation too in developing the oil and gas resources of the North Sea in the face of every conceivable trial and torment which nature and weather have to offer. The results have contributed enormously to the prosperity of both of our countries, although the past year has been a difficult one for the oil industry, but do not let that disguise the fact that the oil industry is a tremendous advantage both to Norway and to Britain.
+
+Madam Prime Minister, you went into a number of issues, you know, and I am a debater and I would love to get arguing with you but I think you know it is after dinner and I had better forego the pleasure which I know we would both enjoy, but I did just want to say one thing because I do not want to gloss over the difficulties between us, above all the environmental problems. I know how very concerned you are about the relationship between the sulphur from power stations and the acidification of fresh waters in Scandinavia. The Royal Society in Britain and the Norwegian and Swedish Academies of Science are collaborating in an important joint research programme to establish just what that relationship is and we will have a chance to discuss this more fully tomorrow.
+
+I will only say this: the United Kingdom has greatly reduced its emissions of sulphur dioxide by over 40%; since 1970. Nevertheless, it is our further aim to achieve long-term reductions greater than that. Yesterday, the British Government took two important decisions. First, that all future coal-fired power stations should be designed to take advantage of the most up-to-date technology for limiting emissions and second: that subject to the completion of engineering studies and reasonable financial arrangements, our Central Electricity Generating Board should commence a programme of installing flue-gas desulphurisation equipment at three of their largest power stations amounting to 6,000 megawatts in all; and the effect of this programme will be to reduce sulphur dioxide emissions of United Kingdom power stations substantially and to make a contribution to that further reduction in total European emissions that we all want to see.
+
+Now, that is quite a lot for after dinner, but it is good news and I hope you are pleased with it. Was it not fortunate that we took that decision yesterday. {LAUGHTER ; APPLAUSE} 
+
+Prime Minister, a British sportsman who visited your country in the last century wrote: ‘Norway is a hard country; hard to know, hard to shoot over and very hard to fall down on, but also hard to forsake and harder to forget.' I shall have to take his word for the first part of that, but I already know that I shall find it hard to forsake Norway tomorrow and I shall never forget.
+
+May I conclude with the traditional word of thanks for this splendid dinner: ‘Taak for maten' and propose a toast that I have great pleasure in proposing: to the King, to the Prime Minister, to the Government and People of this great country, Norway. 
+
+{/speech}

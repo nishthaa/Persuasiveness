@@ -1,0 +1,32 @@
+﻿{title} Remarks by President Obama and President Calderón of Mexico in an Exchange of Dinner Toasts {/title}
+{event} Exchange of Dinner Toasts {/event}
+{speaker} Felipe Calderon {/speaker}
+{date} May 19, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Excellency, Mr. Barack Obama, President of the United States of America; Mrs. Michelle Obama; ladies and gentlemen. I thank President Barack Obama and Michelle, and also to the people from the United States of America, for your invitation and the generous hospitality with which we have been welcomed during this visit.
+
+Your courtesy, Mr. President, as that that we have received from the First Lady, honor the great friendship and partnership that brings our people together.
+
+Today I have once again seen that we share the hope to turn this relationship between the people from the United States of America and the people from Mexico into an example of how much can be achieved among neighbors when working together under the guidance of common ideals such as peace, security, prosperity, freedom and democracy.
+
+Today we promote the agreements and the actions of cooperation that our countries need in order to face the new challenges to benefit fully of the enormous advantages as a result of being neighbors and the long borderline that unites us. Today Mexico and the United States are immersed in a new stage of cooperation, and we base our efforts in the principles of shared responsibility, mutual respect and trust.
+
+We fully understand that our joint work has a direct impact in both populations in its well-being and happiness. We are neighbors; we are partners; we are allies; and we are also friends.
+
+I have said this, and allow me to repeat it: We work with a certainty of what is good for the United States of America is good for Mexico, and if we understand this, at the same time, what is good for Mexico is good for the United States.
+
+I would like to congratulate the people of the United States of America for having a President like President Barack Obama -- {APPLAUSE} -- with his leadership, which is also very positive and good for us, and at the same time, also congratulate you, Mr. President, for having a wife and a First Lady like Michelle Obama. {APPLAUSE}
+
+Thank you for your hospitality and your friendship.
+
+{COMMENT="Continues in English"} Mr. President, I like the phrase of Octavio Paz that one must deserve their dreams -- or his dreams. I don't know if you and me deserve our dreams, but I know that both of you -- both of us have dreams; those dreams are related with our people and we fight every day in order to deserve those dreams. And we will reach them. {APPLAUSE}
+
+I ask you now to raise your glasses in a toast for the happiness of both our great nations.
+
+{COMMENT="A toast is offered"} 
+
+{/speech}

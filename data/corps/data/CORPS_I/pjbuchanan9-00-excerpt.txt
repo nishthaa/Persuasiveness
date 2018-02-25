@@ -1,0 +1,31 @@
+﻿{title} Speech in Warren, Michigan {/title} 
+{event} ----- {/event} 
+{speaker} Patrick J. Buchanan {/speaker} 
+{date} September 2000 {/date} 
+{source} http://www.pbs.org/newshour {/source} 
+ 
+{description} This is an excerpt {/description} 
+ 
+{speech} 
+ 
+This party... New party we're building, new party we're creating is the only one in America that offers a real difference on the great issues of our day, and let me just name a few of those issues that involve us. One is the character and the composition of the United States Supreme Court... {APPLAUSE} ...the justices. We are supposed to be a republic, a democratic republic, that decides by elections, legislators, and executives, how we shall be ruled. But we have been living under a judicial dictatorship for years, and years, and years, and years, and we have taken it. 
+
+Look at the decisions they have imposed upon America which have overthrown our traditional code of morality. They have driven God out of the public schools. They have made abortion, which was a felony in 50 states, a so- called "constitutional right." 
+
+{BOOING}
+
+Since "Roe V. Wade"-- in this country we call God's country-- 38 million unborn children have been done to death, and neither of these other two parties will talk about that. And a new issue has risen and the Supreme Court is moving to support the idea that homosexuality is a commendable lifestyle on an equal with marriage. 
+
+{BOOING}
+
+And now the Supreme Court, by one vote-- just by one vote-- almost ordered the Boy Scouts to admit active homosexuals as scoutmasters for Cub Scout troops and Boy Scout troops. 
+
+{BOOING}
+
+Now that's where America... now that's where America is headed, and that is downhill.
+
+This is a revolution that's been imposed upon you and me, not because we voted for it, or we wanted it, or we demanded it, it's been imposed from above by a Supreme Court, which has become a judicial dictatorship in America. And Mr. Gore says he will appoint Justices who will provide that next vote to go after the Boy Scouts. He says he will appoint justices like Ruth Bader- Ginsburg who will guarantee... Who will guarantee that "Roe V. Wade" is never overturned. Mr. Bush, he doesn't know. He doesn't have... Has no litmus test for his justices. Down in Texas, he appointed three judges to the Supreme Court that overturned his own parental notification law. I don't think Mr. Bush can be trusted. He won't talk about this issue, but I will. I do have a litmus test, friends. In my administration, in my White House, only pro-life constitutionalists and conservatives will be elevated to the Supreme Court, and no liberal judicial activists need apply. {APPLAUSE} 
+
+There's another are they won't talk about, and that's the steady assault upon the sovereignty and the independence and the liberate of this country we love. I've watched this U.N. grow bloated, expand its power. I've seen their reach for more and more. It is trying to be something it was never intended to be. And that is why, if I'm elected President-- you've got my word-- I will call in Kofi Annan and say, Sir, your lease has run out. We want you out of the United States by year's end. {APPLAUSE} I will tell him, we want you out of the United States by year's end, and if you're too dilatory about it, we'll send up 10,000 Marines to help you pack. {APPLAUSE} I still dream that one day I will be up there, and I will take that oath of office, and I'll give my inaugural address, and then you take the oath, and then I will turn to Bill Clinton, and I will say to him, "sir, you have the right to remain silent." Thank you very much. 
+ 
+{/speech} 

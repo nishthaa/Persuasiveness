@@ -1,0 +1,26 @@
+﻿{title} Speech in Finchley {/title}
+{event} Finchley {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} September 24, 1974 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} General Elections, Housing, Monetary policy {/description}
+
+{speech} 
+
+The most important aspect of all our proposals is the human factor. At last a young couple can really budget for the future, knowing how much they have to spend on their home. At last a Council tenant can look forward to a time when he'll not have to pay any more rent and he'll actually own his home. At last someone thought of doing something for the non-militants, the non-organized non-political people who feel that they've been forgotten. {APPLAUSE} Our promises are few. They are on the subject of housing and rates and pensions. We have deliberately limited the promises to those things. They are very much less expensive than many of the things which the Labour Party proposes to do. That they show the importance to which we attach to improving the living conditions of the people and hoping to fight inflation as it affects those who suffer most from it.
+
+{COMMENT="BBC Sound Archive: OUP transcript"} 
+
+The most important aspect of all our proposals is the human factor. At last the young couple can really budget for the future, knowing how much they have to spend on their home. At last the council tenant can look forward to a time when he'll not have to pay anymore rent and will actually own his home. At last someone's thought of doing something for the non-militants, the non-organized, non-political people who feel that they've been forgotten. {APPLAUSE} 
+
+Our promises are few. They are on the subject of housing and rates and pensions. We have deliberately limited the promises to those things. They are very much less expensive than many of the things which the Labour Party proposes to do, but they show the importance to which we attach to improving the living conditions of the people and hoping to fight inflation as it affects those who suffer most from it.
+
+Now, uh, shall we turn to pensions and would the cameras like to go and have some tea, or coffee, or beer. {LAUGHTER} If you've got what you want, now, you could, you're welcome to stay for the rest, for pensions, for inflation, for coalition, for non-coalition. How are you doing?
+
+{LAUGHTER} 
+
+{OTHER-SPEAK} Just checking. {/OTHER-SPEAK} 
+
+Just checking! You're just checking, I know what, they have, we might find it's all failed and have to start all over again. Ah, it would be very much better the second time, if you'd like to start all over again, probably much more natural and relaxed, I'm already feeling relaxed at the possibility of your going. {LAUGHTER} Well you've come to the right meeting, we always have a friendly meeting in this hall, although the traffic gets very heavy outside and I'm usually asked some questions about transport policy. 
+
+{/speech}

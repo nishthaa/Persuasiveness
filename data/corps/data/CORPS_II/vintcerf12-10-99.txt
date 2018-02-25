@@ -1,0 +1,70 @@
+﻿{title} Millennium Evening at the White House Informatics Meets Genomics {/title}
+{event} East Room {/event}
+{speaker} Vint Cerf {/speaker}
+{date} October 12, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I didn't know you were going to dig up that story about our high school escapades. Let me thank you, Mrs. Clinton, for introducing me not as an "extinguished" scientist. I appreciate that. One wonders, as time goes on.
+
+Well, Mr. President, Mrs. Clinton, ladies and gentlemen, Internet is the consequence of the work of many people. In 1997, President Clinton recognized the contribution that my partner, Bob Kahn, and I made when he awarded us both the National Medal of Technology for the design of the architecture and communication protocols of the Internet. Bob is here tonight, and I'd like to acknowledge his creative leadership. Bob, would you stand up for a minute? {APPLAUSE}
+
+I also want to acknowledge the contributions of President Clinton and Vice President Gore in shaping the administration policy, and in legislation supporting research and development that's needed to make Internet a global reality, and to continue its astonishing evolution.
+
+The 19th century invention of telegraph and telephone systems dramatically changed the way in which people could interact with each other. Dial-tone has become the symbol of voice communication around the world.
+
+During the 20th century, we learned that computers could usefully talk to each other, too, using packet switching as their data tone. You can think of packet switching as a kind of electronic postal service in which everything that moves through the system is like an electronic postcard that's forwarded from one computer to another until it reaches its destination. The special computers that perform this function are called routers, and you can think of them as forming many different bucket brigades spanning continents and oceans, moving buckets full of electronic postcards from one router to another, until the postcards reach their destination.
+
+Each bucket brigade is a network and there are hundreds of thousands of them in the world, connected together to make up the network of networks that we call the Internet. Everything we know about postcards applies to these packets of the Internet -- they can get lost, they can be delivered out of order, and they can be delayed by varying amounts in the net. They can even be duplicated by the net, which is not something that the U.S. Postal Service offers as a service. {LAUGHTER} Of course, packet switching is about a billion times faster than the Postal Service or bucket brigade would be.
+
+Now, the procedures by which computers communicate with each other and the formats of the electronic postcards that they send are called protocols. And the most basic protocol on the Internet is called the Internet protocol, or IP for short. Now, to make the Internet service reliable -- which it is not using just those postcards that I described -- you have to add other layers of protocol on top. One of the most important of these is called TCP; it stands for transmission control protocol -- and you're getting your dose of geek vocabulary tonight.
+
+This takes care of resending to recover from a lost postcard or a lost package, or putting the package back in order if they have been received out of order. One sometimes hears the term, "TCPIP" with reference to the Internet. Those are the two fundamental protocols of the network.
+
+Now, there's another way of thinking about the power of interconnecting computers through networks, and that's to think about the way we use electrical power generation and distribution and fractional horsepower motors in our daily lives. Think about how many little modems are working for you every day to keep your ice cream from melting, to start the car and to keep the clock turning. That's the kind of thing that we relied on in our mechanical world.
+
+Well, computers are like fractional horsepower motors, and information is like electricity. Information flows through networks and feeds computers in a fashion that's very similar to the way electricity flows through the electrical power network and runs motors. During the industrial revolution, we learned to put motors to work to magnify human and animal muscle power. In our information age, we're learning to magnify brainpower by putting computing power to work wherever we need it to work with information for us whenever we need help.
+
+Filled with software, computers allow us to use them as infinitely flexible tools. Networked together, they allow us to generate, exchange, share and manipulate information in uncountable ways.
+
+There are about 60 million computers on the Internet today serving about 180 million users. Internet service is found in varying degrees in over 200 countries and territories. Now, for comparison, today's telephone system has 950 million telephone lines and about 3 billion users. So Internet, despite all the hype, has a long way to go. But, by the end of the year 2000, I estimate there will be at least 300 million users on the network. And a straightforward projection of the growth of the Internet brings it to nearly the size of today's telephone system by 2006. Indeed, the Internet may have become the telephone network by that time, if our ability to do Internet telephony works out as well as some of us hope it will.
+
+Some people are confused about the relationship between the World Wide Web and the Internet. Internet provides the plumbing to transport data for a variety of applications, and the World Wide Web is one of them. But there are others, including electronic mail, Internet telephony, Internet radio and television -- which is how we're multicasting this event tonight over the net -- group interactive games, collaboration tools, and a host of other applications.
+
+Today, almost 8,000 radio stations put their audio on the Internet. And on the net today there's also a little bit of video, and a certain amount of telephony -- speaking of which, my colleagues and I back in the 1970s did experiments with voice on the Internet. But we had so little capacity in the system that we had to compress the voice -- to shrink it down into a smaller number of bits per second. When you talk on the telephone net today, you're using 64,000 bits per second of capacity to deliver the sound. But on this very small little Internet in the '70s, we had to squeeze it down to 1,800 bits per second. It worked very well, except one little side effect -- it made everyone sound like they were Norwegian. {LAUGHTER} But, apart from that, it worked very nicely. {LAUGHTER}
+
+Mobile access is also emerging, with wireless local area networks, digital cellular telephones and mobile data radios which allow your computer to connect to the Internet over the radio now.
+
+Now, in addition to conventional desktop and laptop computers, there are many other devices that are becoming Internet-enabled -- things like Internet televisions, two-way radio pagers like this one that can do e-mail on the Internet, over the air. You can see, it has a keyboard that is suitable for people who are three inches tall -- {LAUGHTER} -- but, apart from that, it's a minor detail, everything else works.
+
+Cellular phones today can surf the World Wide Web. You'll be able to program your VCR by pulling up a pay on the web, clicking on the programs that you want to record. And the instructions to do that will go through the net to your VCR. This beats trying to find an 11-year-old to help you do it. {LAUGHTER} And, by the way, once the VCR is on the net, it can find out what time it is and get rid of the flashing 12:00 that's on -- {LAUGHTER}
+
+Indeed, many kitchen appliances, such as the refrigerator and the washing machine may be on line in the future. And there are some pretty funny scenarios that result from that. For example, the bathroom scale that sends your weight to the doctor and that becomes part of the medical record. Unfortunately, the same information may get to your refrigerator -- {LAUGHTER} -- which will refuse to open because it knows you're on a diet. {LAUGHTER} The refrigerator could scan the bar codes on items that were put into it, so it could keep track of what was in the refrigerator and how old it is. So you might get an e-mail from your refrigerator warning you the milk is three weeks old -- {LAUGHTER} -- and it's going to crawl out on its own if you don't do something about it. It might even compose a potential shopping list for you based on what it knows you've bought in the past.
+
+Well, the Internet's also playing a major role in facilitating electronic commerce. By 2003, electronic commerce of all kinds may reach somewhere between $1.8 and $3.2 trillion in value. That's between five and ten percent of the world's economy. So it's no surprise that there's a lot of interest in what the Internet is doing to us in terms of legal issues and personal issues.
+
+Internet is going to get into everything. Here's an example of a web-server that fits on a single chip. In fact, the chip is smaller than the plug that connects the server into the Internet. We'll be able to Internet-enable almost anything. And Internet is going everywhere. Here, you see two young men putting up an Internet sight in Kihihi, Uganda, in a village far, far away.
+
+Well, a vast array of public issues arise with the use of the Internet. As the Internet begins to carry all of its predecessor media -- television, radio, print media and telephony -- questions about the protection of intellectual property and regulation become increasingly important. Taxation of transactions on the Internet is yet another major topic, because Internet is global and any effort to tax its transactions will require global agreement on suitable practices and procedures.
+
+The question of control of content on the net is another frequent topic of debate highlighting the tension between freedom of speech between adults, on the one hand, and the protection of young people who might not need to be exposed to some of that information while they're on the net, on the other. And similarly, citizens are interested in protecting their privacy as they use the Internet.
+
+Well now, let's look to a more distant future. My colleagues at the Jet Propulsion Laboratory and I have been working on an extension of the Internet to outer space. As we all recall, JPL has been commissioned by NASA to launch a series of missions to Mars every 26 months. Last year, we all shared in the excitement of seeing dramatic photographs relayed from Mars by the rover of the Pathfinder mission.
+
+A year or so ago, several of us interested in the use of Internet in space began to work on the use of Internet to support future communication needs of robotic and manned missions in the exploration of space. This is really a different environment. It takes 80 minutes for a signal to go from Earth to Mars and back again, for example, in the worst case.
+
+We're designing an interplanetary backbone which we hope to be functioning between the Earth and Mars as early as 2008. NASA's Administrator, Dan Goldin, often speaks of Internet-enabled Mars, as a way of capturing this notion. And by 2040, we hope a stable interplanetary backbone can be established between the planets.
+
+Meanwhile, back on Earth, the link between the information of the Internet and the human genome is most vividly illustrated by genetic research which uses information technology to determine and analyze the 3 billion pieces of information that make up the complete DNA sequence of a human being. And speaking of biotechnology, I believe it will be routine in the 21st century to interconnect our nervous system with electronic equipment.
+
+The best example of this, using today's technology, is the cochlear implant. The implant bypasses the mechanics of the inner ear to directly interface to the auditory nerve. A speech processor, a computer about the size of a pager, is connected to a sound source, such as a microphone, and delivers stimuli to the implant which directly signals the auditory nerve. This is a direct computer nervous system interconnection.
+
+My wife, Sigrid, who is here with us in the audience , lost her hearing at the age of 3, and she was profoundly deaf for 50 years. Three years ago, she learned enough about cochlear implants through the Internet to determine she might be a candidate for an implant. After a positive evaluation, she had the implant done as an out-patient operation at Johns Hopkins University, and after the surgery had healed, she returned to be activated. {LAUGHTER}
+
+About 20 minutes after this was done, she called me on the telephone -- and for the first time we had a telephone conversation -- for the first time in our 30 years of marriage. Now, we have a big problem -- we have a 56-year-old teenager in the house. {LAUGHTER}
+
+She uses the telephone regularly, she listens to radio and television. She carries a variety of patch cables that allow her to connect her computer speech processor to any source of sound. And on airplane trips she just plugs into the arm rest, she doesn't have to wait for the headphones. {LAUGHTER} 
+
+{/speech}

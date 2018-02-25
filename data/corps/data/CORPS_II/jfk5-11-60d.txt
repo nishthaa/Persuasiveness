@@ -1,0 +1,13 @@
+﻿{title} Remarks of Senator John F. Kennedy, Elchester Apartments, Flushing, N.Y. {/title}
+{event} Elchester Apartments, Flushing, N.Y. {/event}
+{speaker} John F. Kennedy {/speaker}
+{date} November 5, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Ladies and gentlemen, Mayor Wagner, Harry Van Arsdale, ladies and gentlemen, it may be raining on us today in New York, and the sun may be shining on Mr. Nixon in California. {SPONTANEOUS-DEMONSTRATION} But on Tuesday the sun is going to shine on us {APPLAUSE} , we hope.
+I am glad to be here. I am glad to be here with Harry Van Arsdale, the head of local 3, the chairman of the Central Labor Council of New York, and see this housing development, which shows what responsible, progressive labor can do to serve the people. {APPLAUSE} This is one of the finest developments of its kind in the country {APPLAUSE} and if I don't win on Tuesday, I may move in here. {APPLAUSE} I come here and ask your help in this campaign. I ask you to join us in moving this country of ours forward again and showing {APPLAUSE} - and showing what progressive, responsible government can do. I hope you will join us. Let's go. {APPLAUSE}
+
+{/speech}

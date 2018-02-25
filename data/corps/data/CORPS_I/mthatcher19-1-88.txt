@@ -1,0 +1,67 @@
+﻿{title} Speech at Australia Day Dinner {/title}
+{event} ----- {/event} 
+{speaker} Margaret Thatcher {/speaker}
+{date} January 19, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+
+{description} Foreign policy (Australia and NZ), Sport {/description}
+
+{speech}
+ 
+My Lord Chairman, Sir Peter Gadsden, My Lord Mayor, Senator Evans, Your Excellencies, My Lords, Sheriffs, Ladies and Gentlemen: 
+
+May I first thank you, Lord Shackleton, on behalf of all the guests, for your warm and generous words of welcome on this splendid occasion {APPLAUSE} and may I also—as the only other person present to have received the freedom of Port Stanley—congratulate him very warmly on that thoroughly well-deserved distinction which has just been conferred upon him {APPLAUSE}. 
+
+I entirely agree with you, Lord Shackleton: my husband would make a marvellous Governor of the Falklands, but I must tell you, Lord Shackleton, my husband is not for loaning, even to the Falklands! 
+
+A little earlier this evening, I said to my husband: "Hurry up, dear! It is the Bicentennial Dinner!" "Good Heavens!" was the reply, "Seems only a week or two ago that we just celebrated your overtaking Asquith!" {APPLAUSE} I had forgotten about Bob Menzies in between, but you know, they were shorter elections. 
+
+But seriously, it is a very special occasion, the two hundredth birthday of Australia, and I am most grateful to you for inviting us to celebrate it with you and may I say a particular word of thanks to the Britain-Australia Bicentennial Committee under the able and effective chairmanship of Sir Peter Gadsden. Together with their Australian colleagues, they have a produced a remarkable programme of events, both here and in Australia. Indeed, in a few days' time, our High Commissioner in Australia will hand over to Prime Minister Hawke Britain's gift to Australia, and as you know, it is the specially commissioned sail training schooner "Young Endeavour", which has sailed from Britain to Australia with a young crew drawn from both countries. They all came to No. 10 Downing Street before they embarked upon that great adventure and they were a marvellous group of young people, realising that they had a great opportunity and they gave us enormous confidence for the future of both our countries. 
+
+Many, many other events—some 120 of them—are being organised, covering all aspects of life in our two countries. Indeed, I have heard it said that 1988 will be one long party in Australia. Those who watch the lager advertisements on television might be forgiven for thinking that it is anyway! 
+
+I hope that I shall be joining in the celebrations myself by visiting Expo 88 in Brisbane in August. 
+
+My Lord Mayor, everyone present tonight shares an enthusiasm for Australia. Indeed, I think it would be difficult to find anyone in this country who does not have a special affection for Australia and Australians, and it is not just because of "Crocodile Dundee"! and I can say that with all the objectivity of about the only person in Britain who has not had time to see it. 
+
+We share an enthusiasm for Australia because Australia is one of the great success stories of the modern world and there is plenty to celebrate. 
+
+Of course, Australia's Aboriginal inhabitants have been there for tens of thousands of years, but a new chapter opened with the arrival in Australia from Portsmouth in January 1788 of a remarkable group of pioneers who faced the tremendous challenge of making the vast, strange, unknown land their home, and thanks to their sheer guts and spirit—and to those of succeeding generations—Australia has become what it is today. 
+
+Down the years, people from all corners of the globe travelled to Australia to find a new life. Indeed, Australia must now be among the most cosmopolitan nations in the world—a true melting-pot of nationalities. 
+
+Many who went there sought the freedom and opportunity denied them in their native land—and they found it in Australia. 
+
+But as with any land, the promise had to be realised by toil, spurred on by hope and optimism, and that is what I think we admire most in Australia: the combination of doggedness and confidence that is the mark of the true Australian, whether on the sports field or in any other walk of life. 
+
+My Lord Chairman, to celebrate the bicentenary we meet in this great Guildhall in the City of London, just a short distance from Parliament and the City of Westminster. Together, these great buildings—Guildball and Parliament—have witnessed so much history. They have seen Britain's prosperity forged. Within them have been set those standards of democracy, of freedom and of justice of which we are so proud. Those standards did not just materialise ready-made; they were developed over the centuries and they had to be earned, and are as much Australia's heritage as they are ours. But we can never, either of us, take them for granted. 
+
+So this bicentenary is not just an occasion to celebrate what has been achieved; it is an opportunity to rededicate ourselves to those fundamental values and the integrity and the sense of fairness which goes with them. I would like to think that those were some of the things which were Britain's special contribution to Australia. 
+
+Of course, we in Britain are proud of the rule which people from these islands have played in Australia's history. Mark you, these days the flow is pretty strong the other way too. We see Australian entrepreneurs bringing their enterprise to Britain, building up flourishing business empires, competing with the best—and often winning. We welcome their challenge and would be happy to see more of it. 
+
+Some of our memories of the times when Britain and Australia stood together are solemn ones. You, My Lord Mayor, have mentioned the most solemn of all—Gallipoli. It is the best known, but it is far from the only symbol of Australian heroism and fortitude in the face of appalling difficulties and the sacrifices made by volunteer Australian forces in both World Wars will never be forgotten in this country {APPLAUSE}. 
+
+The personal links stay strong and there are few in this country who do not have some family connection, some friend, some bond with Australia. My daughter Carol spent several happy years in Australia and continues to contribute to radio programmes there. Indeed, the exchange of radio and television programmes itself creates a bond. I am told that "Yes, Prime Minister!" is being shown in Canberra as a documentary! {LAUGHTER ; APPLAUSE} and I hope Bob Hawke learns as much from it as I have and I hope he enjoys it as much. I absolutely adore Sir Humphrey. I think he is terrific! 
+
+And nor should we forget the sporting links. Britain and Australia are the best of enemies in many sports and there is tremendous respect in Britain for Australian sportsmanship and if we cannot win the Americas Cup ourselves, there is no-one whom we would rather see win it than Australia {APPLAUSE} 
+
+Of course, life is not all sweetness and light. There are still plenty of jokes we tell against one another. I am told that Australians still tend to think of the British as a bit snobbish. I fear they would be confirmed in that view if they knew that one of the first things which our High Commissioner did on arrival in Canberra was to look up Sir Les Pattison in the Australian "Who's Who". 
+
+It is a bit harder to find jokes about Australians—or at least ones that you can repeat in public! My staff went through one hundred and said ninety-nine would not do at all for the Guildhall, and the best they could do was to suggest that I ask you how you get an Australian on the roof. "Tell him drinks are on the house!" is the answer {APPLAUSE} 
+
+But the stereotypes of Britain in Australia and of Australia in Britain are fading and the reason is the success of both our societies. The time when Britain was known principally for suffering from the "British disease" is behind us. Now we are known for the "British cure" and people look to us to see how it is done. 
+
+Australia, for its part, has the enviable stimulus of living in what is the most economically successful quarter of the globe—the Western Pacific—and the opportunities which this offers for growth and prosperty are boundless. 
+
+We respect the role which Australia plays in the Commonwealth and the influence which it exerts in the Pacific, particularly among the smaller island states who look to Australia for a lead. Above all, we welcome Australia's continued attachment to ANZUS, through which Australia makes a vital contribution to defence and security in a region where we have seen a significant build-up of Soviet forces. 
+
+Mr. Chairman, even though the British and Australian relationship has changed, it is none the worse for that. The exasperation which was creeping in during the time of Britain's economic decline; the fear in the early days of our membership of the European Community that our traditional links would wither; those are behind us. Now, both our countries have discovered new confidence, and that is the best possible basis for working together in the future. 
+
+Inevitably, our very different geographical positions and regional loyalties tug us in different directions, but we are increasingly part of a global economy. Wherever you are, you are affected by the world economic climate and there is no way in which you can insulate yourself from it. 
+
+All the more reason, therefore, for Britain and Australia to work together—as we do—whether it be to defend basic democratic values or to reduce the agricultural subsidies throughout the world or in many, many other fields. Our influence in these and other matters where Britain and Australia think alike is the greater because we reach the same conclusions despite the distances that separate us. If you hear it in stereo from different sides of the globe, it must be right. 
+
+My Lord Chairman, Senator Evans, this Bicentennial Year is an emotional moment for Britain, as it is for Australia. It is a time for memories, of course—what anniversary is not? But Australia is a land which in my mind—and I believe most people's minds—represents the future and it is to the success of that future that I ask you to drink in giving you the toast: Australia—coupled with the name of Senator Evans.
+
+{/speech}

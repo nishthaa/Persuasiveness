@@ -1,0 +1,24 @@
+﻿{title} Remarks by the President And His Majesty King Harald of Norway at Nordic Lunch {/title}
+{event} Nordic Lunch {/event}
+{speaker} King Harald {/speaker}
+{date} April 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Nordic Lunch {/description}
+
+{speech} 
+
+Mr. President, your Excellencies, your Royal Highnesses, ladies and gentlemen. "Honor the past, imagine the future." These words reflect the theme chosen by you, Mr. President, for the White House Millennium Council. You wanted to make the turn of the century more than a celebration. We join you in the laudable goal. We are happy that you made the Vikings such an important part of the Millennium Program. A special thanks goes to the First Lady for announcing the project at the Smithsonian last year.
+
+To an increasing extent, the Nordic countries are becoming multicultural societies, with the opportunities and challenges this presents. The United States has always made it possible for its citizens to cherish their ethnic roots and celebrate their cultural diversity.
+
+More than 10 million people in this country take pride in their Nordic heritage and combine this with a deep-felt and unswerving loyalty towards America. We, on the other hand, are proud of their contribution to the building of American society, and we are grateful for what they are doing to further strengthen the ties between us.
+
+I would also like to underline the excellent relations between the Nordic countries and the United States. A multilateral fora, such as the United Nations, we work closely together to achieve common goals for peace, democracy, human rights and economic development.
+
+Thank you, Mr. President, and Mrs. Clinton, for bringing us all together here this afternoon. Thank you, also, for honoring 1000 years of shared heritage for making it part of our joint preparations for a new millennium. And last, but not least, thank you for a delightful luncheon in these historical surroundings.
+
+I would like to conclude by proposing a toast to the President and the First Lady, and to the continuing, strong and steadfast friendship between the Nordic countries and the United States of America. Let us do it with the words we have used since the times of the Vikings, and which you, Mr. President, used yourself half a year ago in Oslo: Skol.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

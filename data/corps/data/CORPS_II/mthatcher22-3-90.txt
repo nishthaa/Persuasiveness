@@ -1,0 +1,86 @@
+﻿{title} Speech to Royal Society Dinner (Marking end of Surface Water Acidification Programme) {/title}
+{event} Central London {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} March 22, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+First, may I thank you, Mr. President, for inviting me to this Dinner which, as you said, brings to a close the final conference of the Surface Waters Acidification Programme and may I join you in welcoming the Prime Ministers of Sweden and Norway whom we are all very pleased to have here. I am not sure whether it is brave of you to invite a trio of Prime Ministers here or whether it is brave of us to come! I notice, Mr. President, that you said you found certain international scientific conferences very confusing. My dear, if you find science confusing, you should try politics! {LAUGHTER} The only difference is that we never get to be confused at a higher level! We never reach that elevated sphere! {LAUGHTER} We deal with much more mundane things!
+
+May I go on to say that we do recognise the great and constructive interest which our Prime Ministers of Sweden and Norway and their countrymen and women have taken in environmental issues and we are very grateful for that. Your countries have done more than any others to awaken the world to the need for international action on the environment and have helped to create the framework and institutions within which we can get things done.
+
+We also thank the Fellows of the Royal Society and may I say that George referred to another speech that I gave to the Royal Society quite different from this. Then, in this modern scientific age, the lights failed and we had to deliver it by candlelight! That is why it went over so well—no-one could see, they had to listen!
+
+We thank the Fellows of the Royal Society and the Members of the Norwegian and Swedish Academies of Science, Sir John Mason, who never lets us draw the wrong conclusions—he is absolutely marvellous—who has directed the work and the scientists in all three countries who have taken part. I think the results of your work will benefit us all in at least three ways:
+
+First, it gives us a better understanding of the causes of surface water acidification. You have helped us to know more about the critical loads of acid depositions which different soils and waters can sustain without being despoiled. In particular, you have shown that the degree of acidification of lakes and streams is largely determined by the structure and chemical composition of the soil and the pathways which the incoming rainwater takes through the soil.
+
+Second, your work will help us to identify the action we need to take in order to stop or limit the damage.
+
+Third, you show us how we can honour our commitment to create a cleaner and a better regional environment.
+
+Above all, your work has shown how important good and thorough science is if action is to be effective. All too often, governments are urged by one pressure group or another to take action without an adequate appreciation of the facts and the under-lying science. Indeed, we are sometimes asked to prevent or outlaw certain actions unless there is positive proof that they cause no harm, but it is usually difficult to prove a negative. What we should be considering is whether the alternative course inflicts more harm than the original one albeit in a different way.
+
+As an example of a hasty judgement, I remember coming across a publication by Greenpeace called "Margaret's Favourite Places" which took a look at the damage which they claimed had been caused by acid rain to trees in some of the places that I know well. This intrigued the Forestry Commission's own scientists and they went out to see for themselves. They agreed that the trees were in poor shape but in all but one case this was because of their age or changes to the conditions of the site and not to air pollution, as Greenpeace had claimed.
+
+That is where the science is so important in the case of acid rain. To be effective, action must be based on an understanding of the channels through which acids travel and how they affect the area on which they are deposited and only with that sort of information can we identify which emissions from which places are responsible and which must therefore be reduced.
+
+Mr. President, Britain is undertaking a major programme to clean up our principal sources of acid emissions despite the very high costs involved.
+
+First, we have agreed in Europe to cut sulphur and nitrogen oxide from existing power stations and other large combustion plants substantially compared with the levels in 1980. I remind you that Britain had already made major reductions before then so that sulphur dioxide emissions are now some 40 per cent below the peak year of 1970.
+
+We also accepted stringent standards for all new large combustion plants. As part of this programme, we are fitting flue gas desulphurisation equipment at the most modern of our coal-fired power stations at Drax in Yorkshire. This is the largest project of its kind in Europe.
+
+All this was organised and agreed by Walter Marshall. There is Walter ! Not going to sleep are you, Walter ? You are listening? I know you know it all, Walter ! So does everyone else, but I must speak about it because it is the subject.
+
+Walter was very enthusiastic about this and I tell you, Walter is a very expensive man. The cost of his policies on one single power station is £600 million—just about the most expensive man I know! But it is all in a very very good cause and it is all on one single site and we have to do it on others.
+
+But—and this is my second point—retro-fitting desulphurisation equipment is not the only way to achieve reductions. Indeed, it can create wider environmental damage because it involves quarrying limestone sometimes from the most beautiful areas of our countryside. It involves disposing of gypsum waste and it involves adding something to carbon dioxide emissions and thus to the greenhouse effect.
+
+As so often, solving one problem can create or exacerbate others, so the electricity supply companies are also looking to alternative ways to generate power which are at least as effective in reducing sulphur dioxide and nitrogen oxide. One solution is greater use of natural gas. Gas turbines provide a very good source of electricity with virtually no sulphur dioxide and less than half the carbon dioxide given off by a coal-fired power station producing the equivalent amount of electricity. This way, you get a cleaner technology from the start.
+
+Third, I might add that privatisation, far from being an obstacle, is providing a major boost to this search for cleaner ways of generating power. It has been the prospect of competition—which would not exist but for privatisation—which has had the effect of stimulating the new investment proposals for gas-fired power stations.
+
+None of this is cheap. The total investment of the United Kingdom industry both on new clean plant and on retro-fits over the next decade will be over £6 billion.
+
+Alas, higher standards usually mean higher still costs. That is the case also, for example, for the cleaning up of our rivers and beaches but people are now much more aware of the importance of protecting our environment—indeed, they demand that we do so. They recognise that this is part of the way in which we safeguard our own future and that of our children.
+
+So let me confirm unequivocally tonight that the United Kingdom will meet the commitment which it has solemnly accepted to reduce acid emissions and we shall do so by embarking on a major programme of investment to protect the environment, not relying on a single method alone but combining desulphurisation equipment, new gas-fired plant and other means such as the use of low-sulphur coal. Not only will our investment meet our commitment to the Large Plants Directive in full—it will also make a major contribution to reducing carbon dioxide output.
+
+May I just widen things a little bit from the immediate subject of your international conference because all of us in government, from whatever country, find that we have to grapple with new problems which require decisions against a background of a science which is constantly evolving. Science tells us more but often the signals are conflicting.
+
+To take as an example the problem of greenhouse gas, in a speech to the United Nations last year, I spoke of the problems of global climate change and its causes, above all the addition of greenhouse gases to the air at an unprecedented rate. Of course, we need the greenhouse effect but we do not want too much of it!
+
+I think that most of us accept this diagnosis yet hardly had I got back when I found that there are researchers who argue—and some were quoted in our newspapers last week—that temperature changes over the last hundred years have less to do with man-made greenhouse effect than with changes in solar activity, something over which we have no control at all.
+
+There is no doubt that climate has been quite variable in the past, long before there were so many people on Earth as we have now. There were periodic changes in Britain's climate in the centuries before the Industrial Revolution. For instance, in Roman times, it was warm enough to grow vines as far north as Edinburgh. Alas, not now! Yet in the 17th and 18th centuries, it was cold enough for the Thames to freeze. We do not know precisely what causes such changes and that is why we have asked the Inter-Governmental Panel on Climate Change to bring together a full report on the science of the greenhouse effect, so that we can then draw undisputed conclusions.
+
+Something else which those of us in Government are constantly finding is that you solve one problem only to face another which is a direct result of your solution to the first one. For instance, we recently had the very successful international conference on cleaning up the North Sea. We made a lot of progress by agreeing measures which will certainly reduce pollution of the sea, but the cost is likely to be more carbon dioxide in the atmosphere because we shall have to develop alternative land-based methods such as incineration for disposing of the waste which previously went into the sea.
+
+Then again, there is the frustration of cleaning up your own little corner of the environment only to find that what you have succeeded in doing is likely to be cancelled out many times over by pollution from other sources which you cannot control. For instance, China and India are sitting on vast reserves of coal which will be the fuel for their Industrial Revolutions and which will add enormously to the quantities of carbon in the atmosphere. Every day, we are learning more about ecological disasters being uncovered in East Germany and elsewhere in Eastern Europe and the Soviet Union. Air pollution is five times higher in East Germany than in West Germany and half the pollutants produced by East German plants burning brown coal are carried by wind to other countries. In the Soviet Union, one in seven rivers are saturated with pollutants by over ten times the maximum allowable limit.
+
+These are just some examples of the scale of problems which exist elsewhere and which put into perspective the commendable efforts which we in Western Europe and Scandinavia are making to improve the environment.
+
+We also rely on scientists to warn us of what lies ahead. I had a fascinating meeting with some of our scientists last week. I meet some of them quite regularly to keep up-to-date with the latest research. At that particular meeting, we talked about migration of plant and animal life which could result from global warming.
+
+The evidence is that since the warming which followed the Ice Age, organisms have not so much adapted in response to climate change as migrated to where the climate was right and the calculation has been made that a one-degree rise in temperature would lead forests to move 100 kilometres further north and temperature-sensitive plants anything up to 300 kilometres further north. I can see our Scandinavian colleagues looking very cheerful at that prospect! There would be massive consequences for farming and for the sort of crops you can produce in particular areas. One hates to think of the ramifications for the European Community's Common Agricultural Policy and indeed for nature reserves—they may find themselves in the wrong places if the flora and fauna which they are meant to protect migrate.
+
+We ought, Mr. President, to be recording what is happening to the various species right across Europe in response to climate change so that we can study the effects. We do not have a comprehensive picture of the position at the present time and this means that in ten years time we shall not know how species have reacted to changes in their environment.
+
+I believe it would be an excellent idea for those of us in the wider Europe to set up data-banks which will enable us to put together a comprehensive picture stretching from the Mediterranean to the Arctic and from the Atlantic to the Urals. What a treasure chest of information it would give and we could start to compile it now!
+
+Mr. President, these are a few examples of how science can tell us about the future, warn of the problems which lie ahead and open up new possibilities for Government and others to take action to assure our future but here I speak as First Lord of the Treasury. We must also keep in mind economics. In Britain, I must tell you the First Lord of the Treasury is the Prime Minister—it is a very good arrangement! {LAUGHTER} The Chancellor is the Second Lord of the Treasury.
+
+Whatever international action we agree upon to deal with environmental problems, we must enable all our economies to grow and develop because without growth you cannot generate the wealth required to pay for the protection of the environment. We can rely on industry to show the inventiveness which is crucial to finding solutions to our environmental problems.
+
+Just the other day, I presented the Better Environment Awards For Industry and heard about some really remarkable new discoveries. For instance, ICI have developed a new way of producing ammonia, which reduces the nitrogen oxide emissions by 87 per cent, sulphur dioxide by 95 per cent and carbon dioxide by 60 per cent and it uses a lot less resources. The net result is significantly lower production costs and very substantial environmental benefits. Indeed, if this particular process for producing ammonia were adopted worldwide, the savings in terms of pollution—and this is why it made me sit up, the figure I am going to give you now and I thought I must tell you—would be equivalent to taking 5 million cars off the road. It is an instance of how an advance in one area produces a benefit in another area which you could not possibly have thought of when you embarked upon the course of research or technological development.
+
+It will only be through the new technologies that we can help developing countries to benefit from our experience and avoid our mistakes. They can then achieve their growth with minimum damage to the environment without going through the phase of the dark satanic mills.
+
+Mr. President, may I once again thank you and all the Members of the Royal Society and of the Norwegian and Swedish Academies who have played their part in this programme. I hope the work will be carried forward vigorously in each of our countries in the years ahead. It underlines the most important message of all from our experience of dealing with environmental problems in recent years—that we share our inheritance on this planet, that we all experience the problems and we shall only overcome them by combining our efforts, our research and our solutions. It is not that we pine with nostalgia for the past—it is that together we strive to ensure the vitality of the future.
+
+Thank you for your work, thank you for your hospitality this evening, thank you for being the people who will elucidate the problems of the future. {APPLAUSE} 
+
+{/speech}

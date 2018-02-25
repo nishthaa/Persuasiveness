@@ -1,0 +1,18 @@
+﻿{title} Remarks and a Question-and-Answer Session via Satellite to Republican Campaign Events {/title}
+{event} U.S. Chamber of Commerce, Washington, D.C. {/event}
+{speaker} Ed Rollins {/speaker}
+{date} October 18, 1982 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you. Thank you very much, Mr. President. It's true; it's a privilege for me to be here and to be with all of our dear friends and supporters out there -- and their grassroots supporters.
+
+I think it's most fitting that we begin the evening by going out to see our good friend, Congressman George O'Brien, in the heartland of America -- your old home base, Joliet, Illinois, which isn't too far from Eureka. As you know, George was first elected to Congress in 1972 after a very distinguished career in the State legislature out there. He graduated with a law degree from Yale University. And, most important to us in this coming year, he sits on that very key House Appropriations Committee for us.
+
+Now, I know the format, Mr. President, they're supposed to ask us questions. But George has got over 300 people wearing Indian headbands tonight. And, as one Irishman to another, I mean, I wonder why he's doing that instead of shamrocks. {LAUGHTER}
+
+The first question here for George is Tom Feehand, who is a good supporter of yours. He is a former president of the Chamber of Commerce there, the Boys Club, the Will County Bar Association, who's there with his lovely wife, Beverly, who's a former Miss Illinois. 
+
+{/speech}

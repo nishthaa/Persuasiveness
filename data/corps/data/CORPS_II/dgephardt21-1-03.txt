@@ -1,0 +1,35 @@
+﻿{title} Speech at NARAL Pro-Choice America Dinner {/title}
+{event} ----- {/event}
+{speaker} Dick Gephardt {/speaker}
+{date} January 21, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+I want to thank Kate Michelman and all of the members of NARAL Pro-Choice America for having us here tonight. I'm glad to be with these other great candidates. We are all committed to the necessity of replacing George Bush in 2004. {APPLAUSE} 
+
+I'd like to begin this evening with a conclusion and that is if Democrats are to reclaim the high ground on the issues of vital importance to the American people, then the first foothold is surely the freedom of choice. {APPLAUSE} There are few other questions that command the same degree of personal reflection and moral deliberation and for that we're perhaps fortunate. Any time the specter of life and death is raised in a public debate by either side it is a warning that we must tread with great care, but also with great certainty. 
+
+Today Americans face many uncertainties. Some they're aware of -- the prospect of war, an economy in steep decline, a nagging concern that bluster and swagger have taken the place of diplomacy and reason. {APPLAUSE} But other uncertainties still lie below the surface, out of sight and for to many Americans out of mind. The freedom to choose is just such an uncertainty. 
+
+For the first time in half a century the Republicans have outright control over two branches of government and implicit control over the third, the Supreme Court. The freedom to choose has never been in more peril than it is today, and the imperative for the Democratic party is to assert and reassert its leadership and to protect this vital right. {APPLAUSE} 
+
+On any issue of conscience, every American must travel their own personal journey and reach their own certainty. As some of you know, I was raised in a working class family of Baptist faith, and I went to college on a church scholarship where early teachings were reinforced. Abortion was wrong, I was taught. There was a moral reason it was illegal. 
+
+It's why 26 years ago, when I first arrived in Congress shortly after the Roe v. Wade decision came down, I sponsored an amendment to ban abortion. At that time at the beginning of my journey in public service, I didn't yet realize the full consequences of my positions and beliefs. The questions of morality are not always so simple in that there are other moral questions surrounding this issue. But I think the greatest teacher is wisdom, wisdom gained over time, wisdom gained from personal stories and personal revelation, from questioning and introspection. Such was my own journey on this question of choice. 
+
+Over the next ten years, my first decade in Congress, my eyes were opened, opened by friends and by colleagues, and by strangers, by women I didn't know and would never meet again, and by members of my own family. That nearly every woman I met had a story to tell from their own life or that of a friend and it became clear that clear morality was not on one side or the other. The first realization was that there's no balance to be found between incest and responsibility or between love and assault. You cannot balance these things as if they're on a scale in some fruitless attempt to find what is moral and what is wrong. 
+
+There were other questions, like what are our responsibilities to our children, existing and yet to come, to our partners, ourselves, and our communities. But even more than that, there should be no balance between the rights of a woman to control her own body and the government's power to take away those rights. {APPLAUSE} The sanctity of a woman's right to control her own destiny is a moral force of its own. {APPLAUSE} 
+
+Like any true change of heart and mind it took time--and it should have. Like anyone in public service, I would understand and deserve skepticism if this was a change that came quickly or easily. But I know that in my own heart that it didn't. I had had many years of teachings grounded in the love of my parents and my family. I came to realize that the question of choice is to be answered not by the state, but by the individual, the individual who wrestles with their uncertainties and reaches a decision that they can justify to their own God. 
+
+That's why in 1986, after ten years of reflection and thought and prayer I cast my first pro-choice vote with a clear understanding that has only deepened with time. And what I've learned on that journey is what all of us in this room already know. I don't have to tell you how important this 30-year struggle has been for the rights of women, and I don't have to tell you how important this fight for the right to choose will be in the months and the years ahead, including the fight to pass the language of Roe v. Wade into the law of this great country. {APPLAUSE} 
+
+You don't need convincing of that. But we do need a strategy and we need a plan and a vision and it all begins with not ceding the moral high ground. {APPLAUSE} To those who would preach morality to a woman facing the most difficult decision of her life, I say this. Walk in her shoes. There's nothing moral in strong-arming a personal belief and there's nothing moral to a presidency that imposes personal morality through acts of governmental power. {APPLAUSE} 
+
+Finally, let me say there are many uncertainties in life, but on this Earth, in this country, there is one thing that must be certain and that is the freedom to choose. That's something I've fought to protect these last 17 years and I don't intend to give up now and I know you don't either. Thank you very much. {APPLAUSE} 
+
+{/speech} 

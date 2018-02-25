@@ -1,0 +1,22 @@
+﻿{title} Remarks at the Swearing-In Ceremony for Ann D. McLaughlin as Secretary of Labor {/title}
+{event} Roosevelt Room, White House {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} December 17, 1987 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all, and welcome, and special greetings of course to John and the other members of Ann's family. And by the way, John, today you are not allowed to interrupt anyone by saying, "All right, let's close this issue out." {LAUGHTER}
+
+{OTHER-SPEAK} I will remain silent. {/OTHER-SPEAK} {LAUGHTER}
+
+All the same, I will keep my remarks this day brief. I often think that when Grant arrived in Washington in 1864 to be nominated General-in-Chief the longest speech he managed was: "Gentlemen, in response it will be impossible to do more than thank you." Then there's the comparison of course between George Washington and William Henry Harrison. Washington gave an inaugural address of fewer than 200 words and went on to become a great President. Harrison spoke for almost 2 hours at his inauguration, caught pneumonia, and was dead within a month. {LAUGHTER} I told him that day to keep it short. {LAUGHTER}
+
+The reason for brevity today is that this is virtually a family event. Ann McLaughlin has served our administration in the Treasury Department and the Department of the Interior. She's proven her skill and dedication. She's placed her stamp on our so-called revolution. And today she's stepping up to a position in which she'll be able to do still more.
+
+The purpose of the Department of Labor is, in the words of the act that created it, "to foster, promote, and develop the welfare of the wage earners of the United States." Ann will bring to the Department her own special competence, to quote her before the Senate: "I will be fair but firm." Well, then, too, she will bring to the Department her passionate sense of commitment. As I said, she'll work to further the economic beliefs that have gone into the making of our revolution, especially the belief that the best we can do for America's workers is not give them endless government programs but provide them with new jobs and a growing economy. Indeed, for some 60 months now, the American economy has averaged well over 200,000 new jobs a month.
+
+Ann, you must ensure that the work force of the future is ready and willing to keep America the most productive and innovative nation on Earth. At the same time that she'll be planning for the future, Ann will be on Capitol Hill dealing with Congress on major issues, such as parental leave and mandatory health benefits. And underlying all Ann's energy and skill, all her immense administrative ability, will be an abiding faith in the dignity of work. In her words: "Hard-working women and men built America. To be able to assist them is a singular responsibility, because it is in our daily work that we find some of our greatest opportunities for good." -- her words to the Senate. Ann McLaughlin, congratulations. 
+
+{/speech}

@@ -1,0 +1,35 @@
+﻿{title} Speech at NARAL Pro-Choice America Dinner {/title} 
+{event} ----- {/event} 
+{speaker} Al Sharpton {/speaker} 
+{date} January 21, 2003 {/date} 
+{source} http://www.gwu.edu {/source} 
+ 
+{description} ----- {/description} 
+ 
+{speech} 
+ 
+First let me say, we've been told we have three minutes. {LAUGHTER} My good friend Senator Edwards spoke for five, {LAUGHTER} so Joe Lieberman told me in the name of affirmative action I can take seven. {LAUGHTER ; APPLAUSE} 
+
+Let me say in all seriousness, as I came tonight I saw outside there are those that have chosen to picket this historic event. There is no question that of the six on this stage I have picketed more than any of them. {LAUGHTER} I probably have picketed some of them. {LAUGHTER ; APPLAUSE} 
+
+But I cannot remember a time that I have crossed a picket line. But tonight I proudly crossed that line. {APPLAUSE} As I crossed a young lady said to me, forget your political activism, you're a minister and real Christians can't support that. And I said, young lady, it is time for the Christian Right to meet the right Christians. {CHEERS ; APPLAUSE} And not only the right Christians, but the right Jews and the right Buddhists and the right Muslims and the right atheists--people that believe in rights need to stand up and come together. 
+
+We hear strange rhetoric from the White House. They tell us that we must go and protect freedom, and then they come home and begin denying freedom in every area of life that Americans both need and respect. {APPLAUSE} We have an Attorney General that suspends the Constitution. We have a president that feels that it's all right to make decisions for women. 
+
+Well I was raised in a single parent home. I trust my mother's decision before I trust anyone that sits in the White House tonight. {CHEERS ; APPLAUSE} 
+
+I trust the decisions of women because it is a human right that Roe vs. Wade decided on. This is not about abortion, this is about human rights, this is about human dignity, this is about women having the say-so over their own body and over how they will decide to proceed with their life, and if America is to be America, we must protect women's right to choose for themselves. {CHEERS ; APPLAUSE} 
+
+I'm concerned about reproductive rights for low income women. Far too many women that I'm familiar with have had to make decisions based on their income that resulted in disaster, that if this present administration and those that want to turn back the clock on Roe vs. Wade have their way, will put them back in those situations. 
+
+I'm concerned when we see violence at family planning centers. We all agree that we must fight terrorism abroad and terrorism from abroad, but we can't tolerate terrifying people that want to go to family planning centers right here in the United States. {APPLAUSE} 
+
+I'm concerned about minors' rights, the rights of minors that vary from state to state. With some states you need two parents' notification, others one parent. We need federal standards. And we need to act as though we're in the 21st century and not act as though we're back where women and minorities had no rights at all. {APPLAUSE}
+
+There was a time that we even saw a large segment of women sterilized--Fannie Lou Hamer and others in Mississippi had to go through this. That's reason why we stand here today as Kate and others have mentioned about Dr. King's birthday, was yesterday. The honor was yesterday and we deal tomorrow with this anniversary. It is in my judgement providential they come so close together, 'cause they really represent the same thing and that is the fulfillment of the American Dream. 
+
+But let's not forget, we didn't get Dr. King's birthday because someone donated it {LAUGHTER}, we had to march, we had to petition, we had to fight, we had to lobby to get that birthday, and in the end it was a great victory because even in the deep South, where he was castigated, where he was denounced, yesterday federal buildings were closed in honor of his day. {APPLAUSE} 
+
+We must have the same determination to keep fighting. Remember how we got Roe vs. Wade in the first place. Some of us may have to roll up our sleeves, but it does not matter, we cannot let them roll back the clock. We must leave here united not only to fight judges that have questionable backgrounds in race, like Pickering, but {APPLAUSE} judges like McConnell that are anti-women's right to choose. Let's stand together; let's work together. We are the real patriots, because we believe in freedom for all Americans. Thank you and God Bless you. {APPLAUSE}
+ 
+{/speech} 

@@ -1,0 +1,18 @@
+﻿{title} Remarks By The President and Supreme Court Justice Sonia Sotomayor at Reception In Her Honor {/title}
+{event} Reception In Honor Of Supreme Court Justice Sonia Sotomayor {/event}
+{speaker} Sonia Maria Sotomayor {/speaker}
+{date} August 12, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+No words can adequately express what I am feeling. No speech can fully capture my joy in this moment. Nothing can convey the depth of gratitude I feel to the countless family members, starting with Mom and my brother, and the many friends and colleagues -- so many of you who are here with me today, and the others who aren't -- who have helped me to reach this moment. None of this would have happened without all of you.
+Mr. President, I have the most heartfelt appreciation for the trust that you've placed in me by nominating me. And I want to convey my thanks to the Judiciary Committee, led by Chairperson Leahy, for conducting a respectful and timely hearing, and to all members of the Senate for approving the President's selection. I am so grateful to all of you for this extraordinary opportunity.
+I am most grateful to this country. I stand here today knowing that my confirmation as an Associate Justice of the Supreme Court would never have been possible without the opportunities presented to me by this nation. More than two centuries ago, in a Constitution that contains fewer than 5,000 words, our founders set forth their vision for this new land. Their self-proclaimed task was to form a more perfect union, to establish justice, and to secure the blessings of liberty for themselves and their posterity. Over the years, the ideals at the heart of that document have endured, as subsequent generations have expanded those blessings, these rights and freedoms to more and more Americans.
+Our Constitution has survived domestic and international tumult, including a civil war, two world wars, and the catastrophe of September 11th. It draws together people of all races, faiths, and backgrounds from all across this country who carry its words and values in our heart. It is this nation's faith in a more perfect union that allows a Puerto Rican girl from the Bronx to stand here now. {APPLAUSE}
+I am struck again today by the wonder of my own life, and the life we in America are so privileged to lead. In reflecting on my life experiences, I am thinking also today of the judicial oath of office that I first took almost two decades ago, and that I reiterated this past weekend -- to judge without respect to what a person looks like, where they come from, or whether they are rich or poor, and to treat all persons as equal under the law. That is what our system of justice requires, and it is the foundation of the American people's faith in the rule of law, and it is why I am so passionate about the law.
+I am deeply humbled by the sacred responsibility of upholding our laws and safeguarding the rights and freedoms set forth in our Constitution. I ask not just my family and friends, but I ask all Americans, to wish me divine guidance and wisdom in administering my new office.
+I thank you all again for the love and support you have shown me. And I thank President Obama and the United States Senate for the tremendous honor and privilege they have granted me. Thank you. {APPLAUSE} 
+
+{/speech}

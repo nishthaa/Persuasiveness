@@ -1,0 +1,30 @@
+﻿{title} Press Conference by the President and Prime Minister Shimon Peres of Israel {/title}
+{event} Room 450, Old Executive Office, Building {/event}
+{speaker} Shimon Peres {/speaker}
+{date} December 11, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+No, I -- {LAUGHTER} Don't discriminate the Israeli part. {LAUGHTER}
+
+So I should really start by saying, Shalom chaver. These, your farewell words to Prime Minister Rabin echoed throughout our land. The people of Israel will never forget your moving demonstration of solidarity in a moment of grief, of shock, of disbelief and determination. For us, you're a leader; you're a friend.
+
+I stand beside you, Mr. President, in the footsteps of my partner, a great captain of peace, Prime Minister Yitzhak Rabin. Together with you -- and I know how much he trusted you -- we scaled the trail from the depths of hostility to the highlands of promising peace. Indeed, together, we shall stay the course and, with firm resolve, reach a destiny of lasting and a secure peace. A peace for the whole of the Middle East -- Arabs and Jews, Jews and Arabs --this was Yitzhak Rabin's quest. It is my commitment.
+
+Your leadership and devotion to the cause of peace are manifestly clear to Israel and to its neighbors as well. This is a constant direction, not a point of passing. May I say that as Bosnia reeled in agony, you offered a compass and a lamp to a confused situation, ending blood, offering hope, like in the Middle East. It is time to put an end to the Arab-Israeli conflict. With you, Mr. President, in the forefront, by our side, it may become possible, as it did in the past, bringing, thereby, peace, security and prosperity to all people. Prophecy may meet reality again and again.
+
+Since your presidency and through our partnership, the Middle East has already undergone an unbelievable change. Here at the White House on September 13, 1993, we came to grips with the heart of the problem. The Israeli-Palestinian Declaration of Principles, created a road map by means of which the Palestinians, alongside Israel, are becoming masters of their destinies. Palestinian elections are a new promise that reflects the interaction between peace and democracy. Nothing is a better guarantee for peace than democracy.
+
+Israel and Jordan are displaying its fruits day in and day out. A -- is pregnant with new prospects. Peace with Egypt remains a cornerstone of the peace process, for, by it, regional war is no longer the justification of policies that leaves lands deserted rather than flourishing.
+
+Today, we seek an opening of a new, maybe a final, chapter: the end of war in the Middle East in its totality. Peace between Syria, and between Lebanon and Israel will leave no reason whatsoever for the continuation of belligerency. Syria, together with us, stands in a unique position to contribute to a peaceful Middle East. The conflict between us has been bitter, complicated. The land that gave birth to prophecy can now give birth to yet a new vision.
+
+President Assad and myself can, with the assistance of your leadership, Mr. President, and the assistance of your administration and Congress, build a new equation of genuine peace and security to end terror, to begin a market economy. I speak of boundaries of permanent peace. I speak of lands of new and great opportunity. Peace between us must indeed put an end to the conflict that has mired our region for so long. The President, the Secretary of State and their peace team will continue to create with us the architecture for peace in the region. We welcome you.
+
+Today I discussed the possible new opportunity with President Clinton. I find a warmth and an openness in our discussion, and I am very grateful. Mr. President, we are proud to be partners with you in working to make this prospect become a reality. It is my hope that President Assad will join us soon on this historic journey.
+
+To my fellow Israelis, I can say we have in you, Mr. President, a true friend and a true partner. There is no time now for political vacation. We don't intend to rest. We intend to continue the momentum, full-speed ahead, in the name of all Israelis. And, I think all Israelis, they'll tell you, Mr. President, toda chaver -- thank you, chaver. {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,42 @@
+﻿{title} Remarks by the President and Prime Minister Chretien on U.S. - Canada Smart Borders {/title}
+{event} Ambassador Bridge, Detroit, Michigan {/event}
+{speaker} Jean Chrétien {/speaker}
+{date} September 9, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+As we say in English, merci beaucoup, Messieur le Presidente. {LAUGHTER} Governor Engler, Governor Ridge, Deputy Minister Manley, Minister Whelan, Ambassadors, Congressmen, Members of Parliament, madams and messieurs.
+
+I want to tell you Governor that we don't share only the university. You're going into retirement {LAUGHTER} and I'm going in retirement. {LAUGHTER} You, you're forced by the Constitution, and I am forced by my wife. {LAUGHTER ; APPLAUSE} Mr. President, I see in Canada that the country is run by women. The Governor General is a woman. The Chief Justice is a woman, and my wife is a woman. {LAUGHTER ; APPLAUSE} 
+
+But I am delighted to be here with you, Mr. President, because it's a great occasion. A short distance from here is the Ambassador Bridge. It spans two great cities, Detroit and Windsor, two great peoples, and two great nations. More than a feat of architecture and construction, the bridge is a symbol of the most open bilateral relationship in the world, a relationship based on shared values of freedom and human dignity, a model to the world of civility and respect. {APPLAUSE} And, in the context of globalization, a guide to how nations can develop strong friendships while retaining distinct identities.
+
+Across the longest undefended border in the world, we have built by far the largest two-way trading relationship with a value of $475 billion U.S. a year. More than a $1.3 billion a day of trade between our two nations. More than 200 million crossings of the 49th Parallel take place every year. Eighty-five percent of Canadian exports go to the United States, and 23 percent of all American exports come to Canada. In 2000, Canada bought more U.S. goods than all 15 countries of the European Union combined, and three times as much as Japan.
+
+Thirty-eight U.S. states count Canada as their largest export market. The Ambassador Bridge is the fast lane for Canada-U.S. trade. Twenty-five percent of our two-way trade, or $120 billion U.S. travels the bridge; 7,000 trucks cross it every day. The value of the trade that crosses this bridge exceeds all of U.S. trade with Japan.
+
+One year ago, our share value were attacked in an unthinkable way. For most of our history, we in North America, have lived in peace, untouched by attack -- 9/11 changed that. And it's changed the world. That terrible day will live forever as a monument to the worst in human spirit, but the days since will long be remembered as a monument to the very best.
+
+I would like to pay tribute to you, Mr. President, for the skill and resolve you showed in rallying the world against the terror network of al Qaeda. {APPLAUSE} The American people can be proud of what you have accomplished in their name. And the Canadian people are deeply proud that our Armed Forces have fought side by side in defense of justice and freedom with American soldiers in Afghanistan. {APPLAUSE}
+
+Mr. President, you and I met at the White House less than two weeks after 9/11. We understood the urgent need to act, but also the fact that our people will never, never consent to live life looking over their shoulders in fear. {APPLAUSE} That they will insist on living according to our values of freedom and openness, not on terms dictated from the shadows. We want to ensure that the threat of terror will not undermine the security of our citizens or hold our economies hostage.
+
+Both of our nations have taken forceful action in our own ways to enhance the security of our people. In Canada, we have passed strong antiterrorism laws; state-of-the-art security technologies are being quickly brought on-line. We recognized that we could create a smart border, one that was not only more secure, but more efficient for trade, to permit our businesses to get back to business; to allow our nurses, engineers and computer technicians to provide their services, and our students to attend classes; to let our communities continue planning a shared future together, secure in the knowledge that the border welcomes legitimate trade and travelers.
+
+The Windsor-Detroit Gateway has figured prominently in our plans. As a sign of the high priority we place on this goal, we assigned two very able public servants the task of turning our commitment into action -- Deputy Prime Minister John Manley, and Governor Tom Ridge. And I compliment them for a job very well done. {APPLAUSE} They have made extraordinary progress building the smart border for the 21st century, a border that is open for business, but closed to terrorists.
+
+With their signing last December of the Smart Border Declaration, our governments began implementing an aggressive and sweeping 30-point action plan. The vast majority of the people who cross our border pose no risk to either country. To ensure that such low risk individuals are able to travel with a minimum of delay, we implemented and are expanding the NEXUS pre-screening program at our land border crossing.
+
+NEXUS provides FAST lanes for pre-approved travelers and is already running at seven border -- several border crossings. To speed things up at our busiest border crossings, we are opening the NEXUS Enrollment Center here in Detroit. The Free and Secure Trade, or FAST, program provides similar benefits for shipments of low risk goods. While enhancing security, FAST will make many cross-border commercial shipments simpler, cheaper, and subject to fewer delays.
+
+Ladies and gentlemen, madams and messieurs, both Canadians and Americans understand that the goal of the terrorists is not to conquer us by force of arms, but by force of terror, to intimidate us into retreating from our openness, and to abandon the pillars of prosperity and freedom which support our quality of life.
+
+But, Mr. President, you and I know that freedom freedom is a very, very stubborn thing, and that it will prevail. On Wednesday, we will mark the solemn anniversary of a terrible day. But let us celebrate today together the ingenuity and resolve that Canada and the United States have shown to ensure that our people can get on with their daily lives and our business can get on with business, free from fear and security.
+
+Vive les Etats-Unis and vive le Canada.
+
+{APPLAUSE} 
+
+{/speech}

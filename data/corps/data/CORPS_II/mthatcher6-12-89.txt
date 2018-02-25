@@ -1,0 +1,101 @@
+﻿{title} Speech to the Parliamentary and Scientific Committee (50th Anniversary) {/title}
+{event} The Royal Gallery, House of Lords {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} December 6, 1989 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Your Royal Highness, Fellow Members of the Committee:
+
+May I first thank you for the very great honour you do me by inviting me to address this 50th Anniversary Meeting of the Parliamentary and Scientific Committee.
+
+Science, as you have said Sir, is one of the passions of my life and so I joined the Parliamentary and Scientific Committee soon after becoming a Member of Parliament in 1959. I am told that the Committee's records show that I paid my membership dues regularly until 1979. I then learned that prime ministers are exempt from paying for membership. {LAUGHTER} That was a very attractive offer, though I have to say there were one or two other reasons why I aspired to serve as Her Majesty's First Minister.
+
+This Committee is one of the few which regularly bring Parliament and industry together. In the fifty years since it was founded, the rate of scientific progress has been exponentiel. As Max Perutz put it in his book "Is Science Necessary?", scientists have changed our way of life more drastically than television stars, statesmen and generals, but the public knows little about them beyond the caricature of the soul-less hermit toiling away at abstruse problems.
+
+When this Committee was founded shortly after the outbreak of World War Two, much of the basic science underlying our modern economy was already known. Electromagnetic theory, relativity, and the quantum mechanical basis of modern chemistry were already understood, but we did not have things like digital watches or computers or cellular telephones or word-processors or fax machines or polythene nor, for that matter, these very bright television lights which prevent me from seeing most of you but I hope enable you to see me! It took many years for industry to appreciate and develop the range of new products that could flow from this knowledge and every bit as important was the imagination to design and market them effectively.
+
+The truth is that the greatest economic benefits of scientific research have always resulted from advances in fundamental knowledge rather than the search for specific applications. Transistors were not discovered by the entertainment industry seeking new ways of marketing pop music but by people working on wave mechanics and solid-state physics. The binary and logic circuits of computers were not found by accountants seeking to store and rapidly process information, but by physicists in the 1930s wishing to count elementary particles. Nuclear energy was not discovered by oil companies with large budgets seeking alternative forms of energy, but by scientists like Einstein and Rutherford. Induction coils in motor cars were made possible by the work of Faraday, not the transport industry; and electro-magnetic waves for our television and cellular telephones are the direct legacy of Maxwell and Hertz, not applied research targetted on better communication.
+
+Since our Committee was founded, the discovery of the structure of DNA has been perhaps the most significant event in our progress towards understanding how organisms function and replicate. It enabled the search for genes with specific characteristics. A classic example is the identification of the cystic fibrosis gene, which should help to reduce the incidence of that terrible disease. The work of Alec Jeffries has enabled genetic fingerprinting to become a reality. Recent developments in gene amplification have made this technique much more sensitive, expanding its use for medical, social and detective work.
+
+Our understanding of the structure of matter, energy, space and even time itself have been turned inside out since the War and how much we are indebted to our thinkers, especially those with the courage of Stephen Hawking. We found that at very high energies totally new forms of matter and energy appear. At CERN the new accelerator is already working and producing fundamental results. If the Higgs Boson appears, we will have uncovered the nature of mass itself.
+
+It is mainly by unlocking Nature's most basic secrets, whether it be about the structure of matter or about the nature of life itself, that we have been able to build the modern world.
+
+The majority—but not all—of the basic research is rightly funded through the Public Purse by way of universities and scientific institutes but an increase in the Science Budget of 25 per cent in real terms since 1979 does not absolve us of the duty of making sure that all that money is used to best advantage. There are difficult choices to be made but let me just make three points about them:
+
+First, the economic rewards of basic science are quite unpredictable and therefore there is no point in dwelling on them in deciding which projects to fund.
+
+Second, what projects or teams should we support? How should we identify them? Politicians cannot decide. I have some sympathy with the view that we need to provide more funds to those young people whose creative flair can bring new inspiration, but they are not easy to identify; and I am always uneasily aware that when committees allocate sums of £50 million or more to one project, they may be denying research funds to hundreds of our young people, particularly in the biological sciences, whose needs may be measured in thousands of pounds.
+
+The theory behind allocating the money is easy—the practice is much more difficult—and I for one remain concerned that our procedures are still too bureaucratic. The money should go to research in the field, not to top-heavy administration.
+
+The third point: we have to remember that no nation can perform more than a small fraction of the world's research. In the case of Britain, it is only 5 per cent—albeit a very distinguished 5 per cent. I was interested in a recent poll which showed the pride of the people of this country in our scientific achievements.
+
+If we are to benefit from the research that is going on in the rest of the world, we must encourage our young scientists to keep abreast of that work, to spend time working abroad and above all to return here with their broadened outlook and extended knowledge.
+
+Mr. President, the intellectual capacity of a nation may be judged by its Nobel Prizes and the number of its scientific publications but the wealth of a nation is determined by the speed at which these discoveries are turned into thriving industry and commerce.
+
+The silicon chip has stimulated the proliferation of smaller and more reliable computers with ever-increasing power—they are in every industry, in every business and even in Parliament. New materials are being developed all the time. We are familiar with the impact of liquid crystals, carbon fibres, optical fibres on our lives. Indeed, a few pounds of optical glass fibre made of the same elements as sand can carry as much information as a ton of copper, something that will have great influence on Third World economies whose success hitherto depended on natural resources.
+
+Industry is responding to the new possibilities. It has, of course, to react faster and invest longer-term than ever before. Faster, because equipment that was modern but a few years ago may already be out-of-date. Longer-term because whatever one's interest, be it as investor or employee or in both capacities, the long-term prospects depend upon keeping ahead of some of our most progressive competitors. Instead of being afraid of new equipment, some of our most progressive trade unions are pressing for it and adopting working practices that bring a good return on the investment.
+
+Over the last three years, business has increased its investment by 40 per cent but our main industrial rivals have been investing heavily over many years in assets, in ideas and people and there is a message. It is this: Invest in science and technology, invest in the latest equipment, invest in training and at an accelerated rate if we are to catch up and get our unit costs down.
+
+Our most successful companies—and there are many of them—have done all these things.
+
+Industrialists often tell me that we need to work at getting our education system right. I agree. It is essential for our young people to have a good grounding in maths and science and to be able to express themselves clearly, so we are right to make sure that these subjects are studied by every child at least until they are sixteen, but we need people skilled at the application too.
+
+When I was in Japan in September, I told them how impressed I was with the number of engineers they were producing. They replied:
+
+"Yes, but we do not have anything like your programme for putting computers in every school, so your young people are ahead of ours in being used to the use of computers."
+A rising proportion of our young people are now receiving higher education. Polytechnics have been a great success and universities are vitally important to our economic success and the quality of life in this country. More of our young people are still needed to study science and technology. Some 35,000 will graduate this year. That is good, but not good enough against the challenge from our main competitors.
+
+It is encouraging that in recent years those in universities and in industry are working more closely together. Interdisciplinary Research Centres are being set up in universities to bring together scientists from different faculties. Many of you will know about Interdisciplinary Research Centres—it is a tongue-twister, IRCs is easier! They are the flavour of this year. If you have one, you like them very much, if you have not, you want one. There are now seventeen.
+
+When first told about the need to set up these centres to bring scientists from the many different faculties together, I did protest a little and said that I was sure that some of the great discoveries of the past would have been achieved without bringing scientists from different aspects of science together but nevertheless we were advised that it was as well to set up a particular organisation to do this and so perhaps if we bring them together the increasing collision of ideas may be fruitful in what it produces and that indeed, I think, is happening.
+
+I have visited two or three of these Interdisciplinary Research Centres and I hope to visit more. The first one I went to was the Protein Science Centre at Oxford under Professor Baldwin, which will help us to understand the processes of life with far-reaching consequences for human health and welfare; the other one, the Centre at Imperial College for Population Biology, one of the core subjects in ecology in which this country already has a distinguished history.
+
+These are financed partly from the public purse but also by industry. They have the added value they do bring the universities and industry together and those companies who pay as little as £10,000 a year to an IRC have the benefit of all its research findings. It is a real bargain. I am bound to say that at the one I opened I told the industrialists I thought they were getting it all too cheap because to get the benefits of all of that for £10,000 is very good but if it manages to get new theory into successful products more quickly, it will be worth it from the viewpoint of everyone in this country and I hope, too, that there will be fewer occasions when British scientists publish brilliant ideas only to find that they are turned into money by foreign companies.
+
+Our university science courses need perhaps to alert Britain's future innovators to the benefits and the pitfalls of patent law, particularly international patent law, and this is especially true in the biological sciences where a single idea does not require massive capital investment but when it is combined with commercial flair it can lead to revolutionary medical advances.
+
+Of course some advances, for example molecular biology, will raise ethical as well as scientific questions. Such is the case of research into embryology and some aspects of genetics. The capacity to do the research is not in doubt but some aspects dealt with in the Warnock Report such as cloning, hybridisation and research on the human embryo, give rise to very strong feelings on both sides of the argument. Hybridisation and cloning are not difficult to rule out, but the precise limits to research on the human embryo are more difficult to determine and I hope that before we make up our minds in Parliament in both Houses, we shall study the best scientific advice on the consequences of a particular course of action. The ethical factor must never be ignored and may I say that the scientists who work on these matters, some of whom I have met, are also very much aware of that. In the end, it will be personal conviction in the light of all the facts which will determine the result of the vote on the limits we set to work on research on the human embryo.
+
+Your Royal Highness, the scientific advances of the last half-century have solved many of the world's problems but advances in one direction can often lead to problems in another. Advances in agricultural output through new strains of crops and intensive use of fertilizers and pesticides have enabled the world to feed many more souls, but these advances are also causing huge increases in chemical pollution and in emissions of greenhouse gases. Medical advances have tackled diseases like malaria and smallpox. A child in Africa now has three times the chance he had in 1950 of surviving the crucial first five years and even in our relatively advanced society life expectancy has risen from sixty-three to seventy-five years. So the world's population, which was 1 billion in 1800, 2 billion when I was a child, is now 5 billion. No-one knows how or at what level the population will stabilise. Some predict figures of over 10 billion.
+
+Third, advances in science and engineering have created societies heavily dependent on fossil fuels for transport and for power, so carbon which was fixed in the ground as coal, oil and gas and was there over millions of years is being released back into the atmosphere over a matter of decades. We are changing our planet's environment in new and dangerous ways.
+
+We all speak glibly of "sustainable development". It is a comforting expression but, as of today, is still a statement of hope rather than reality. We have begun to learn how to deal with the damage our activities have wrought to the local and regional environment. Fish have returned to previously polluted rivers. We now understand and are acting on the problems of acid rain. But the threat to our global environment is more difficult and we must first get a better assessment of the risk so that we deal with the problem in the right way.
+
+Scientists, as you know, are still debating the extent of global warming but only last month I received a letter from a British scientist on board a ship in the Antarctic Ocean which reported a significant thinning of the sea ice. He reminded me that sea ice separates the ocean from the atmosphere over an area of more than 30 million square kilometres; it reflects most of the solar radiation falling on it, helping to cool the Earth's surface. If this area were reduced, the warming of the Earth would be accelerated due to the extra absorption of radiation by the oceans.
+
+Even if we cannot fully or accurately assess the risk, I believe that we must now take some precautionary measures. It was Immanuel Kant who said that it is often necessary to make a decision on the basis of knowledge sufficient for action but insufficient to satisfy the intellect. Let us therefore do what makes sense in any event, such as conserving tropical forests and improving energy efficiency. In parallel, we must intensify our scientific efforts to model and predict climate change. A new centre to do just this is being established in this country.
+
+As well as getting the science right, we must also get the economics right and that means putting a proper value on the global environment. We hear much about the cost of handling nuclear wastes, but who has yet looked at the true costs of coal and oil if we must ultimately separate the greenhouse gases they produce and prevent them from going into the atmosphere or the true cost of global oil in the global warming which they may already bring about?
+
+There are no simple economic mechanisms to govern countries' behaviour in this field. The action we must take must harness the market and run with the grain of human nature. It was not regulation but the decisions of millions of individual consumers and the response of industry's research and commercial initiative which has led to the development of ozone-friendly products, bio-degradable plastics and phosphate-free detergents.
+
+Although we in this country can set an example in what we do, we cannot go it alone. Britain produces only 3 per cent of greenhouse gases and this fraction will fall as less-developed countries advance economically. The risk to the global climate affects us all. Effective action therefore needs to be taken at international level and by the developing countries too. Sometimes they say to the Western countries: "Well, if there is any global warming on the scale which you predict, it is the Western countries that have produced it!" That is not of course necessarily so. A good deal of the desertification has been brought about by the most primitive farming methods and if there were significant climate-warming, it would be the zones of the Earth which really depend upon the coming of the monsoons which could be the first to suffer, so we all have to take the requisite action and it is in the interests of all of us to do so.
+
+We have proposed a global convention, a sort of good conduct guide on the environment, for all the world's nations on problems like the greenhouse effect, but before we can translate it into practical policy and precise targets, there is a lot more scientific work to be done and as a matter of urgency.
+
+Like the Garden of Eden to Adam and Even, anything which is given free is rarely valued. This is especially true of the global environment which mankind has used as a dustbin for decades.
+
+Your Royal Highness, some people fear scientific and technological change but our only fear should be that our competitors will use it faster than we do.
+
+The first Industrial Revolution mechanized what was previously done by hand and with simple tools. It did not destroy jobs, as was feared—on the contrary, it inspired the creation of whole new industries—cars, tractors, household equipment—which employed more people than ever before.
+
+The second Industrial Revolution post-war, went from mechanization to automation. I well remember the fear of computers, robots and of the job losses they might cause. Again, they have made possible whole new industries—faster processing, new information, more jobs and a higher standard of living than we have ever known.
+
+A nation's success does not depend only on its natural resources. Look at Singapore or Hong Kong, both of which started with nothing but a harbour, or at Japan and Switzerland, both extremely poor in raw materials. The true wealth of a nation lies in the knowledge and enterprise of its people.
+
+The third Industrial Revolution will be knowledge-driven, science-driven, and enterprise-driven. In this new world, we will need the Parliamentary and Scientific Committee as never before to bring together the scientists who open up the possibilities of the future, the men of enterprise who harness their discoveries, and the legislators who must enable both to flourish for the betterment of the people.
+
+May I congratulate you on our 50th anniversary! {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,22 @@
+﻿{title} Remarks at the Inaugural Balls {/title}
+{event} Inaugural Balls {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} January 20, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech}
+
+Hello, veterans and your ladies, and thank you for allowing Nancy and me to interrupt your evening here for just a few minutes. {LAUGHTER} Well, it is for only a few minutes, because I understand, on the logistics they've gotten for our schedule tonight, that if we get in and out of each one of the parties in 10 minutes, it will only take us 4\1/2\ hours. {LAUGHTER} But this is number one, and in more ways than one.
+
+I've been told that you are honoring here tonight, as well any of us should, our Congressional Medal of Honor winners. And when I think of them, I remember a story I read once, and it was actually a novel, written by James Warner Bella, who used to write those great cavalry-Indian pictures that John Ford and John Wayne would do. {LAUGHTER} He was called the Kipling of America for writing of that great era in American history.
+
+But I remembered in this one story he had troops, a cavalry detachment out, a war party, and so forth. And the commanding officer fell mortally wounded, and he called the next in command over, who was to take over. And the lines I've never forgotten. He said to him as he was dying, "There may be only one time, one moment in your life when you will be called upon to do the nasty thing that has to be done, when you are the only one that can serve your country in that moment." He said, "Do it or the taste will be forever ashes in your mouth."
+
+The men you honor tonight have no taste of ashes in their mouths. And because there were men and there are men today in this land of ours who are willing to do that thing that only they are in a position to do that we're able to meet as we meet tonight, we're able to have a day in which we continue 200 years of an orderly exchange of leadership and reigns of authority in our Government without military overthrow or force or violence, that we're able to still breathe free. And God help us, that must always remain.
+
+When Alexander Haig, in the hearing the other day before the Senate committee said, and said with no uncertainty, "There are things for which we must be willing to fight," I think you're -- {APPLAUSE}
+
+Thank you very much. Thank you.
+
+{/speech}

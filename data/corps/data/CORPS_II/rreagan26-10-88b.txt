@@ -1,0 +1,34 @@
+﻿{title} Remarks Congratulating the World Series Champion Los Angeles Dodgers {/title}
+{event} Rose Garden, White House {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} October 26, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all for coming. And would you all please join me in welcoming this year's World Series champs, the Los Angeles Dodgers. {APPLAUSE}
+
+Owner Peter O'Malley, Executive Vice President Fred Claire, Manager Tommy Lasorda, and the rest of the team, it's great to have you here. But I want you to know that we need to get this ceremony in quickly, because Tommy's already volunteered to cook lasagna -- {LAUGHTER} -- and I want to give him enough time in the kitchen. {LAUGHTER} You never want to rush an artist, you know!
+
+Well, in my job, you're President of all the people, and you're not supposed to play favorites. But I must confess that after the World Series began I just knew the winner was going to be a team from California! {LAUGHTER}
+
+And I couldn't help but recognize the lady who threw out the first pitch; that was some fastball, Nancy. {LAUGHTER} But seriously, your Just Say No campaign has awakened a nation to the dangers of illicit drug use, and I'm glad to have you on my team.
+
+Tommy Lasorda, perhaps you best summed up this year's Dodger season when you said, after it was all over, "This just shows what can happen when you want something bad enough." Well, you Dodgers not only wanted this title badly but you went for it with all you had. It's the kind of year that would have made even Harry Houdini jealous. {LAUGHTER}
+
+Let's remember that before this season started, few baseball writers expected the Dodgers even to win their division. Yet you fellows took the National League West, tripped up the powerhouse New York Mets in the league championship series, and then wrapped up the title by beating the Oakland Athletics in five games. I guess it just never occurred to this bunch that someone else was supposed to win. But you did it, and you did it with guts and determination.
+
+Orel Hershiser, you capped a sensational year by winning three postseason games, including two in the Series. And you're the first pitcher ever to win the Most Valuable Player Award for both the league championship and World Series in the same year.
+
+Now, I've spent a few years in Hollywood, but I don't think a better script could have been written for game one, with Kirk Gibson's dramatic ninth inning home run.
+
+Then there were guys like Mickey Hatcher, who hit one homer all year, but two during the World Series. And there were plenty of others who contributed, too. Rookie pitcher Tim Belcher and reliever Alejandro Pena led a fine supporting cast of pitchers. And let's not forget guys like Mike Marshall, Steve Sax, John Shelby, and Franklin Stubbs; veteran catchers like Mike Scioscia and Rick Dempsey. Everybody played a part. Somebody even remarked that your physician, Dr. Frank Jobe, ought to get a raise for all the work he did in nursing injured players.
+
+Well, it was quite a dream season for the Dodgers, and I hope for each of you that this dream lasts a long time. As for the Oakland A's, Tommy Lasorda called them one of the strongest teams ever to play in a World Series. Any team that wins 104 games during the regular season is bound to be back!
+
+Watching some of the outfielders in the Series reminded me of a little story. By the time you get to be my age, everything reminds you of a story. {LAUGHTER} Well, this one's about a minister who walked by the lobby of a hotel one morning and noticed a ballplayer that he knew by sight. So, he said to the player, "One thing I've always wondered: Why must you fellows play ball on Sundays?" "Well, Reverend," the player said, "Sunday is our biggest day. We have the best crowds, make the most money. And, after all, Sunday is your biggest day, too, isn't it?" {LAUGHTER} Well, the minister nodded his understanding and then added, "But there's a little difference. I'm in the right field." And the player said, "So am I, and the sun's horrible out there, isn't it?" {LAUGHTER}
+
+Well, the Sun really shined on the Dodgers this year. So, congratulations, champs, good luck in the future, and may God bless you all. 
+
+{/speech}

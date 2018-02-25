@@ -1,0 +1,42 @@
+﻿{title} Remarks by President Lech Walesa of Poland in Exchange of Toasts with President Clinton {/title}
+{event} Exchange of Toasts {/event}
+{speaker} Lech Wałęsa {/speaker}
+{date} July 6, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} President and Walesa Toast {/description}
+
+{speech} 
+
+Mr. President, Madam Clinton, ladies and gentlemen. This is the fourth time I have the pleasure of meeting you, Mr. President. This time it happens to be in Warsaw. It is your first visit, Mr. President, in Poland.
+
+It was the peaceful Solidarity revolution that initiated the crumbling of the Berlin Wall on our side. That laid the foundations of present Europe, the frontiers of which are meant to unite, not divide. Such a Europe is still a distance away, although the integration process has already been set in motion.
+
+However, often do I feel that we have stopped halfway, that what is missing is a grand vision of a unified continent; that the West, which supported our aspirations of becoming a democratic and a sovereign state today does not seem to have an unequivocal vision of what our common present and future should be.
+
+The revolution of ours made the unification of Germany possible. Tangible prospects of achieving peace in the Middle East have appeared. The West has gained great markets in Central and Eastern Europe. That is the West's great gain. But now it is facing fundamental dilemmas. Will it be contented with that? Will that be enough? Will it accept regional conflicts on its periphery as the price to be paid, or is it going to meet the great challenges of building a vision of the new order, commensurate with the time and opportunities bestowed on us by history?
+
+We, the Poles, have a clear vision of adopting such a new approach. There is a chance, I do believe, for building new United States of Europe, based on equal chances for all and a common core of values on unity with due respect paid to national differences.
+
+This is a message I've been trying to project for a long time. Some politicians might think I'm becoming repetitive, and they are right. This is something worth repeating many times in the interest of our shared goal, which is to build a common European home.
+
+Many strove in their different ways to attain the unity of Europe, but without Europe's acceptance. But this time, the constant of the majority is a fact creating the opportunity.
+
+Mr. President, you are a man of a generation -- the generation that understands the need to look into the future and one that opts for changes. For he who stands still is, in fact, slipping back. You are well aware, Mr. President, and you do not fear the immensity of the tasks facing you.
+
+I do believe that the American President will again take up the challenge. The United States, just like in the past, are still indispensable to Europe in the decisive moments of its history. I would like to recall your words, Mr. President: "The security of the United States hinges on the safety of the countries between Russia and Western Europe." There is a deep truth to these words. We do not have enemies today, we do not have to run away or fence ourselves against or from anybody. But we do need to jump the fence once again.
+
+The slow pace for transformations may render them illusory. The Central Europe cannot be the gray zone in a security void, a nowhere land where anything can happen. This could be a destabilizing factor for the whole Europe.
+
+I would like to see the sphere of democracy and stability expand during your term of office, Mr. President, and not only on paper. Polish people know very well from their past and present experience what paper guarantees are worth.
+
+I am grateful to you, Mr. President, for bringing with you a substantial declaration of cooperation and assistance in solving our social and economic problems. We do need an economic cooperation between the Western countries and the countries of our region on partnership basis. The lack of it may bring about the reemergence of all the economic ties and, consequently, the recreation of all political influences and dependencies.
+
+Our economic success we can spread out further on into the East. Boosting Polish potential may help us engage our partners to the East in ever-closer cooperation. Because political stability in our region can only be built on the foundations of economic stability.
+
+Mr. President, today we welcome in Poland the leader of the United States, of the great power and the guarantor of a peaceful and balanced world. Let's join forces to build a new European order. Let's expand this sphere of mutual reassurances and stability. I do believe that our imagination won't fail us and that we are going to achieve the objectives we have set for ourselves. And having brought down the walls, we are going to build bridges.
+
+Mr. President, Madam Clinton, ladies and gentleman: I raise the toast to the health of the President of the United States of America, Mr. Clinton; and Mrs. Hillary Clinton. To prosperous future of our states and nations, to good and mutually beneficial Polish American cooperation, to common endeavors and undertaken by the American and Polish Presidents to make the world a better and a happier place to live.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

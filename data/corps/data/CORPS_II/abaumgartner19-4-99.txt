@@ -1,0 +1,26 @@
+﻿{title} Remarks by the President And Teacher of the Year, Andrew Baumgartner, at Ceremony Honoring Teacher of the Year {/title}
+{event} Ceremony Honoring Teacher of the Year {/event}
+{speaker} Andy Baumgartner {/speaker}
+{date} April 19, 1999 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} Speech by President at Teacher of the Year Event {/description}
+
+{speech} 
+
+He would emphasize that I was height-challenged to begin with. {LAUGHTER} You're a hard act to follow.
+
+Thank you, Mr. President. Ladies and gentlemen, I am filled with immense pride as I stand here in our Capitol City today and take part in this national celebration on teaching and teachers.
+
+My 23 years' experience as an educator has proven to me that our schools are filled with many of the brightest, hardest working and most enthusiastic and capable professionals that can be found anywhere in the world. My pride is compounded by the fact that we teach in a country that guarantees the right of every child to an education.
+
+I am greatly encouraged by the fact that the attention of our nation is being focused on our education system. We are constantly being reminded that there is an undeniable correlation between the attainment of an education and the realization of the American Dream. We are being energized by the debates over standards and accountability, to make changes that will certainly cause the performance levels of our schools and the individual achievements of our students to prosper. We must use care and caution to enact only those changes that are both responsible and prudent.
+
+The time has come when we must exchange laying blame for cooperative and collective problem-solving. We must constantly remind ourselves that the mission of an effective teacher should not be bounded by a particular book or program or test. Instead, it should extend to meet the individual needs of each and every student. We must realize that educational accountability is the shared responsibility of all Americans. We can no longer continue to make excuses for not providing optimal learning environments for our children, who deserve nothing less than the best.
+
+Reducing class size, strengthening parental involvement and community support, and providing access to the most current and innovative materials and technology must be considered necessary basics. We must end any disparities that exist between schools by upgrading those with the most numerous and significant unmet needs without lessening support to any others. We must furnish every classroom with a highly qualified and respected teacher who is adequately and professionally compensated for his or her commitment.
+
+When together we have achieved these goals we will have provided all schools with the necessary components to enable their students to excel in the face of all challenges. The proof that it can be done lies in this beautiful and historic city in which we have gathered. For here we are inundated by sights and sounds that make it impossible for us to doubt that ideals can, indeed, be made into realities.
+
+Thank you, Mr. President. Thank you. {APPLAUSE} 
+
+{/speech}

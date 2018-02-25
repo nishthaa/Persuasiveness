@@ -1,0 +1,31 @@
+﻿{title} Remarks by President Clinton, Foreign Minister Shimon Peres, Plo Executive Council Member Mr. Mahmud Abbas, Secretary of State Warren Christopher, Foreign Minister Kozyrev, Prime Minister Yitzhak Rabin, Chairman Yasser Arafat in Ceremony for the Signing of the Israel-palestinian Agreement {/title}
+{event} The South Lawn {/event}
+{speaker} Yasser Arafat {/speaker}
+{date} September 13, 1993 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+In the name of God, the most merciful, the passionate, Mr. President, ladies and gentlemen, I would like to express our tremendous appreciation to President Clinton and to his administration for sponsoring this historic event which the entire world has been waiting for. Mr. President, I am taking this opportunity to assure you and to assure the great American people that we share your values for freedom, justice and human rights --values for which my people have been striving. {APPLAUSE}
+
+My people are hoping that this agreement, which we are signing today, marks the beginning of the end of a chapter of pain and suffering which has lasted throughout this century. My people are hoping that this agreement which we are signing today will usher in an age of peace, coexistence and equal rights. We are relying on your role, Mr. President, and on the role of all the countries which believe that, without peace in the Middle East, peace in the world will not be complete.
+
+Enforcing the agreement and moving toward the final settlement after two years to implement all aspects of U.N. Resolutions 242 and 338 in all of their aspects and resolve all the issues of Jerusalem, the settlement, the refugees and the boundaries will be a Palestinian and an Israeli responsibility. It is also the
+responsibility of the international community in its entirety to help the parties overcome the tremendous difficulties which are still standing in the way of reaching a final and comprehensive settlement.
+
+Now as we stand on the threshold of this new historic era, let me address the people of Israel and their leaders with whom we are meeting today for the first time. And let me assure them that the difficult decision we reached together was one that required great and exceptional courage. {APPLAUSE}
+
+We will need more courage and determination to continue the course of building coexistence and peace between us. This is possible. And it will happen with mutual determination and with the effort that will be made with all parties on all the tracks to establish the foundations of a just and comprehensive peace. Our people do not consider that exercising the right to self-determination could violate the rights of their neighbors or infringe on their security. Rather, putting an end to their feelings of being wronged and of having suffered an historic injustice is the strongest guarantee to achieve coexistence and openness between our two peoples and future generations. {APPLAUSE}
+
+Our two peoples are awaiting today this historic hope, and they want to give peace a real chance. {APPLAUSE} Such a shift will give us an opportunity to embark upon the process of economic, social and cultural growth and development, and we hope that international participation in that process will be as extensive as it can be. This shift will also provide an opportunity for all forms of cooperation on a broad scale and in all fields.
+
+I thank you, Mr. President. We hope that our meeting will be a new beginning for fruitful and effective relations between the American people and the Palestinian people. {APPLAUSE}
+
+I wish to thank the Russian Federation and President Boris Yeltsin. Our thanks also go to Secretary Christopher and Foreign Minister Kozyrev, to the government of Norway, and to the Foreign Minister of Norway for the positive part they played in bringing about this major achievement.
+
+I extend greetings to all the Arab leaders, our brothers, and to all the world leaders who contributed to this achievement. Ladies and gentlemen, the battle for peace is the most difficult battle of our lives. It deserves our utmost efforts, because the land of peace, the land of peace yearns for a just and comprehensive peace. Thank you. {APPLAUSE}
+
+Mr. President, thank you, thank you, thank you. {APPLAUSE} 
+
+{/speech}

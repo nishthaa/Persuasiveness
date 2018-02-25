@@ -1,0 +1,16 @@
+﻿{title} Speech to Conservative Central Office staff {/title}
+{event} Conservative Central Office, Smith Square, Westminster {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} May 17, 1983 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+The manifesto will represent continuity and all of those sound financial policies—of the training schemes for young people, of the high reputation and regard that we have won for Britain. These things will continue. But every great party like ours has to change and adapt to present circumstances and our great strength is that we've always known how to have both the continuity and the change to make progress, and all of those things have constantly been done against the background that the real thing that matters is that our people are constantly given choice and that they have a contribution to make to our country and that they have a great role to play in our future. These things will be unveiled tomorrow and then we shall go round the country.
+
+We have the two points to make, the positive policies, I think we also have a tremendous duty to point out just exactly what the Labour manifesto would do to Britain and how disastrous it would be because every time I read it, and I've read it twice already, {LAUGHTER} I do realize how totally extreme it is and how far it departs from everything which previous Labour leaders and Labour governments have done. We have that duty to our people, to point that out.
+
+You will reading opinion polls and so will I and having fought together before, because we're quite a seasoned army, we have done it before, we know that somewhere in the middle of the campaign there will be a very rough passage. That's the point of time when we all have to stay absolutely calm, stay absolutely together, get the answers out, go on putting our policies to the people and continue to get out about. I am, if I might put it this way, I am cautiously optimistic, and I think that's the right way to approach an election. We believe passionately in our policies, we believe passionately that they are right for Britain, we shall work to see that we return on June the 9th so that we may have the second of what I hope will prove to be more than two terms. But it's pull together everyone. If you've got any problems, let us know and talk about them free and easy before we start. Thank you. It's going to be very exciting, we all know there is no substitute for victory. {APPLAUSE} 
+
+{/speech}

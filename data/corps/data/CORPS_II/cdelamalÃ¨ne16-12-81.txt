@@ -1,0 +1,28 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Christian de La Malène {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President-in-Office, like everyone else I would like to thank you for your presence here: we regard it as a symbolic gesture to which we attach great importance. We also greet you in your capacity and with your responsibilities as Prime Minister of the United Kingdom. Your calm courage and your tenacity are legendary and we frequently envy our British colleagues who have a head of government such as yourself. {LAUGHTER ; APPLAUSE} 
+
+We are all aware how much years of socialist rule have cost your country and how difficult the road to recovery now is. {SPONTANEOUS-DEMONSTRATION} 
+
+I mean it quite sincerely when I say that Great Britain is very lucky to have you.
+
+What is unfortunate, Madam, is that Europe has not been quite so lucky. You have come to us empty-handed after the last European Council over which you presided.
+
+Empty handed because you yourself made it that way! Throughout the last two years, at every Council meeting, the first and finest of the European Community's achievements, the common agricultural policy, has been under fire. Community preferences were modified under pressures from yourself, in discussions on Europe the notion of ‘just returns', fatal to the Community, has been raised, even though your country had negotiated its entry into the Community twice over ... {APPLAUSE} 
+
+... and the common agricultural policy had already been in operation for a long time. You cannot have been taken by surprise.
+
+For more than two years Europe has stagnated. At the very time when clouds loom on the horizon, at the very time when the need is greatest for solidarity amongst the nations of Europe, these endless fruitless discussions, this questioning of Community achievements, undermine the faith of our fellow citizens in the value and in the future of Europe.
+
+Political cooperation will not replace the Community. Why, then, should we be surprised by the wave of pacifism which has spread across the continent? Why should we be surprised that so many young people seek their future, their destiny, their enthusiasm and perhaps even their protection elsewhere when the future of Europe no longer offers them those things?
+
+At a time our friends and neighbours the Poles are living through an appalling tragedy which affects us all, the inadequacy of the voice of Europe and the inadequacy of European unity look starkly plain. {APPLAUSE} 
+
+{/speech}

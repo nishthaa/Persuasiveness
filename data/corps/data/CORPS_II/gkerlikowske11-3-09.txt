@@ -1,0 +1,21 @@
+﻿{title} Remarks By The Vice President on The Nomination Of Chief Gil Kerlikowske as Director Of The Office Of National Drug Control Policy {/title}
+{event} Nomination Of Chief Gil Kerlikowske as Director Of The Office Of National Drug Control Policy {/event}
+{speaker} Gil Kerlikowske {/speaker}
+{date} March 11, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much. Thank you, Mr. Vice President. I want to thank the Vice President for his commitment for combating drugs. You know, it's a great honor for me to stand on the stage with a man who fought to create the Office of National Drug Control Policy. He's recognized for a long time the need for this coordinated comprehensive national drug strategy. I am looking forward to working with you and this administration.
+I want to thank the President for this opportunity to serve the country. And I applaud his recognition that the perspectives of those that are closest to the ground, those on the front lines of the fight against drugs -- those are state and local law enforcement officers and service and treatment providers. It's critically important that their viewpoints be taken in.
+I'm pleased that many of my colleagues, many of my friends, are here: Commissioner Ray Kelly from the New York City Police Department, a staunch leader in this effort; Chief Bill Bratton from the Los Angeles Police Department; Chief Cathy Lanier from right here in Washington, D.C.; Tom Manger, the Chief of the Montgomery County Police Department. And then others -- David Kass, who's the president of Fight Crime: Invest in Kids, an association that I have been pleased to work on for many years; and Al Lenhardt, who is the head of the National Crime Prevention Council; and Amy Singer, who's the director of Program Planning for Phoenix House. These are the men and women across the country who have dedicated their lives to reducing drug trafficking and use, and of course so many others here today.
+I'm heartened to see all of the young people also. I'm delighted to see all of the young people. {APPLAUSE} These are the young leaders, these are the people that are working hard to raise the awareness among their peers about the dangers of drugs.
+The success of our efforts to reduce the flow of drugs is largely dependent on our ability to reduce demand for them. And that starts with our youth. Our nation's drug problem is one of human suffering, and as a police officer but also in my own family, I have experienced the effects that drugs can have on our youth, our families and our communities.
+I know we need to do a much better job in reducing and eliminating these problems. And tackling our nation's complex drug problem takes a coordinated and multifaceted effort. There's a lot of hard work ahead, but I am absolutely committed to this task, Mr. Vice President.
+For too long, we have operated, as the Vice President said, in silence when it comes to making our country drug free and reducing the demand for drugs. It's an incredibly complex problem, and it requires prosecutors and law enforcement, courts, treatment providers, and prevention programs to exchange information and to work together. And our priority should be a seamless, comprehensive approach.
+The President and the Vice President have set a new course, and I'm looking forward to working with the Department of State, the Department of Justice, the Department of Homeland Security and Health and Human Services and all of the agencies that are involved in drug policy on implementing this new course.
+Already this administration has expanded commitments to critical programs, ones that we've seen such as drug courts, better treatment, prisoner and reentry programs, border security, and counternarcotics initiatives, both domestically and internationally. This is a real commitment to strengthening the tools we have to reduce trafficking, illegal drug manufacturing, and drug-related crime and violence.
+There is much work to be done. I'm looking forward to getting to work. Thank you all very much. {APPLAUSE} 
+
+{/speech}

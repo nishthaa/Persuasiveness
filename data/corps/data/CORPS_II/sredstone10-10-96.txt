@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President and the Vice President to the People of Knoxville {/title}
+{event} Knoxville Auditorium Coliseum, Knoxville, Tennessee {/event}
+{speaker} Sumner Redstone {/speaker}
+{date} October 10, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you so much for those warm and generous remarks.
+
+Among so much that all of us admire in our President and in our Vice President is their commitment to educate the children of America. And in that connection, to connect every school, classroom, and library in America to the Information Superhighway with computers, with software, and with well-trained teachers. And I really feel privileged to be able to assist the President and the Vice President in improving the education of our children and our grandchildren while making them technologically literate.
+
+Sad as it is, we live in a world where economic realities mean that many students come from two-income households, leaving children with little parental supervision, parents with less time to read with their kids, let alone oversee their homework. And we live in a world where tens of thousands of students are struggling to learn to read English at the same time they're learning to speak English. And, sadly indeed, we live in a world where many students start the school day by walking through a metal detector, and school hallways are monitored by armed guards.
+
+But technology can bring a child as many suitable, qualified, intelligent and competent teaching experiences as possible without regard to geography and without regard to socioeconomic status. The new technology can help teach a package of wealth of information in a compelling way -- to train young minds for the Information Age. Indeed, when the appropriate software and information are married to the new technologies, students can be motivated to embark on a world of self-discovery.
+
+The global electronic network is beginning, just beginning to remake daily life. And today's generation must cope with a wholesale transformation of society that it brings. But nowhere could that transformation have more impact than on education. Properly used, the global network can increase access to education services, make teachers more effective, improve efficiency. And, most of all, motivate young learners.
+
+The coming communications revolution about which you have heard is not about technology in the classroom, but is rather about using the tools of technology to redefine the classroom. For the first time, students can literally step out of the classroom and journey to places and speak to people around the globe in search of knowledge. The classroom of the future has no walls, just windows -- created through the use of television and satellites and computers.
+
+Indeed, our children can travel across the globe electronically before we give them permission to cross the street. But with all of this, the role of the teacher cannot be overestimated, because a commitment to excellence cannot be instilled by a computer. It takes teachers with vision to help mold students with vision.
+
+Today, my associates and I, Robert Allen of AT&T, Lawrence Ellison of the Oracle Corporation, Lynn Forester of FirstMark Holdings, Gerald Levin of Time-Warner, Brian Roberts of Comcast, Raymond Smith of Bell Atlantic and more to come, are launching a major partnership between the private sector and the government to make certain -- absolutely certain -- that this initiative doesn't fail.
+
+And now, I am really honored to reintroduce the Vice President of the United States, another man working hard to make sure that the administration's educational technology initiative does not fail. Last night, we all saw again what Al Gore is capable of. It was a knockout, right? {APPLAUSE} But what he showed us was his commitment to issues of importance. And, of course, he has made Tennessee, his home state, so proud. So now, it's my great pleasure to introduce our Vice President, Al Gore. {APPLAUSE} 
+
+{/speech}

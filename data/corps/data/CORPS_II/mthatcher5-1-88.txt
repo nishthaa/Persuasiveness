@@ -1,0 +1,75 @@
+﻿{title} Speech at Kenyan State Banquet {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} January 5, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Africa), Foreign policy (USSR and successor states), Commonwealth (Rhodesia-Zimbabwe), Foreign policy (development, aid, etc), Agriculture, Education, Commonwealth (South Africa) {/description}
+
+
+{speech}
+
+Your Excellency, Mr. President, Mr. Vice-President, Honourable Ministers, Your Excellencies, Ladies and Gentlemen: 
+
+First, may I thank you, Mr. President, for inviting me to pay this visit to Kenya and for the splendid speech you have just made in proposing the Toast? You have made us feel at home here by your warm welcome and your generous hospitality. 
+
+It is no secret that there is particular regard in Britain for Kenya. Its beauty is a byword with us. We respect your remarkable history. In Kenya, is found the longest and most complete record of Man's cultural development of any country in the world, with the earliest remains dating back some twenty million years. That makes us relative newcomeral {APPLAUSE} 
+
+But we have, of course, been closely involved with your more recent history and we are delighted that we still have today such very extensive links with Kenya through investment, through trade and through the growing numbers of our people who come to visit Kenya on holiday. 
+
+Mr. President, we admire what we see: your country's peace and stability; policies which recognise the worth of individual effort and personal endeavour subodied in the concept of "harambee"—self-help; an economy in which private ownership and private industry have been encouraged; above all, a country which has enjoyed strong and decisive leadership within a constitutional framework {APPLAUSE} . This has not only brought you enviable stability at home. It has ensured that Kenya's voice is heard with respect in Africa and in the world. 
+
+Your own contribution to Kenya's success, Mr. President, has been remarkable. Your leadership has ensured that where others have faltered, Kenya has continued to grow stronger and more prosperous. 
+
+I recall that when you took over from your distinguished predecessor, you emphasised that you would continue the same policies and used the word "nyayo" meaning "footprints", to express this. As we drove in from the airport, I heard the crowd shout "nyayo, nyayo!" That means, I believe, Sir, that you have made your own footprints in the sands of time {APPLAUSE} . 
+
+Just two days ago, I became the longest-serving prime minister in Britain this century {APPLAUSE} . You were not meant to clap there; you were meant to clap at the end of the next sentence! {LAUGHTER} —now!—but you, Mr. President, are comfortably ahead of me {APPLAUSE} . This year, you will celebrate your tenth anniversary in office and as this is probably the first public occasion of its kind in Kenya in 1988, let me be the first to congratulate you, Mr. President, on those ten remarkable years and wish you many more {APPLAUSE} . 
+
+And let me congratulate the people of Kenya on the twenty-fifth anniversary of their independence, which is also celebrated this year {APPLAUSE} . 
+
+Britain's links with Africa have probably been closer than those of any other non-African country, and as I reminded the Soviet Union recently, we have a lot more experience of pulling out of countries and leaving people to choose their own form of government than the Soviet Union have. Perhaps they should learn from us! 
+
+One such occasion came early in my time as Prime Minister, which you have referred to, Mr. President, when we organised the Lancaster House Conference to bring Zimbabwe to independence, and may I say again how grateful we were for Kenya's outstanding help and support, especially with the soldiers you sent to keep the peace in the interim period between the Conference and the holding of elections. 
+
+Mr. President, you have a saying here: "Kusikia si kuona" "to hear is not to see" {APPLAUSE} . I have heard much of Kenya; now I have come to see and to learn. I felt that I should come and see for myself more of the tremendous efforts at economic development that are going on in Kenya and in Africa and your invitation, Mr. President, provided the opportunity. 
+
+Today, I have been able to visit some impressive projects in the Rift Valley Province and tomorrow we shall go to Western Kenya, but what I have already seen has underlined two very important loogons! 
+
+First, the crucial importance of a strong and sound agriculture. Your policies of help to the small independent farmer have been strikingly successful. They have enabled you to develop and diversify your exports and you have been able not only to feed the Kenyan people, even during the 1984 drought, but to provide the food needed to feed others less skilful and less fortunate than you yourselves. Kenya's example should encourage Europe, North America and Japan to reduce the excessive subsidies which we give to our own agriculture which lead to unwanted surpluses. If we could do that, then Kenya's success story could be strengthened and repeated more widely in Africa. 
+
+The second lesson has been the vital importance of education. I have seen a very successful secondary school today and tomorrow we shall be visiting Moi University, of which I have heard so much. Education is vital to the hopes and prospects of the young people in both countries. We, in Britain, are embarking on the most far-reaching reform of our education system since the Second World War. Here, in Kenya, you are carrying through a remarkable programme of educational development which has our full support. 
+
+At the recent Commonwealth Heads of Government Conference, we discussed how this might be supplemented by an increased effort in what is called "distance learning". You have a Swahili saying, I believe, "Akili ni mali"—"wits are wealth". Perhaps we should update this to: "Elimu ni mali"—"education is wealth" {APPLAUSE} 
+
+Mr. President, your country's success is due, above all, to Kenya's own efforts, but we in Britain have been proud to help. Since 1979, we have committed £173 million to helping Kenya, concentrating on your chosen priority areas of agriculture and communications and meeting the need for jobs outside the big centres of Nairobi and Nombasa, and today, I am pleased to announce a further £20 million pounds of balance of payments support linked to your IMF programme {APPLAUSE} ; and we have written-off nearly seventy million pounds worth of repayments under previous aid loans. All our aid to Kenya is now in the form of grants {APPLAUSE} . 
+
+Our Chancellor of the Exchequer, Nigel Lawson, recently put forward new proposals to ease the debt problems of the poorest countries in Africa by giving longer grace periods and subsidised rates of interest. Then there is the one billion pounds worth of assets which British firms and individuals have in this country, demonstrating their faith—their justified faith—in Kenya's future. 
+
+You and I discussed this morning, Mr. President, ways in which new investment can be attracted, and the Confederation of British Industry is organising a major conference on this theme in London in February, and I hope it will be a great success and bring much new investment to Kenya. Over one thousand Kenyan students are now in Britain receiving higher education in our colleges and other institutions. 
+
+Overall, it is a record of which we can both be proud and a tribute to the very real and deep friendship felt towards Kenya in Britain. 
+
+Mr. President, you referred to one further issue and I want to turn to it for a moment—an issue about which we both feel particularly strongly—and that is the problem of apartheid in South Africa. 
+
+We all agree that apartheid is utterly repulsive, a detestable system, and it must go. 
+
+What I want to see in South Africa is a society based not on colour, but on merit and equality of opportunity. 
+
+All South Africans must have full political rights and share in the prosperity of their country. 
+
+I have no doubt that change will come in South Africa, not only because apartheid is an unjust system—although that is the main reason—but because it is also a wasteful system. It is simply not compatible with the successful functioning of a modern state and a modern society, but change has to come from within and it must be peaceful. 
+
+I continue to believe that the concept devised by the Commonwealth Eminent Persons Group still offers the best prospect of progress towards negotiations between all the parties in South Africa, against the background of the suspension of violence on all sides. 
+
+Meanwhile, the role of other countries is, I believe, to use their influence in practical and constructive ways to work for peaceful change and for dialogue, and that is what we in Britain are trying to do. 
+
+We shall also spend some £20 million over the next five years on help to black South Africans with training and education, and we are helping the front-line states to reduce their dependence on South Africa and we have contributed over one billion dollars in aid to them during the last five years. 
+
+Change will not be quick; it will take time. It will not be easy for anyone, but we shall persist until apartheid is no more. 
+
+Mr. President, it remains for me to thank you again for your hospitality and for your kind words this evening. 
+
+I hope that my visit will draw Britain and Kenya still closer together and I hope, too, that it will help bring nearer the vision that we both have for Africa—a vision of a continent at peace, its peoples enjoying democracy and basic human rights, their economic development following the example which Kenya has established of giving the individual responsibility and the help he needs to raise his own standard of living, that of his family and that of his country as a whole; and I would ask all our guests to drink a toast to that vision: to the success of Kenya, the continuance of the long-standing friendship between Britain and Kenya and to the continued leadership of President Moi. 
+
+Will you rise and drink a toast with me to the President of the Republic of Kenya and to the vision of Africa {APPLAUSE}
+
+{/speech}

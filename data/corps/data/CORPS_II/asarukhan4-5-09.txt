@@ -1,0 +1,40 @@
+﻿{title} Remarks By The President at Cinco De Mayo Event {/title}
+{event} Cinco De Mayo Event {/event}
+{speaker} Arturo Sarukhan {/speaker}
+{date} May 4, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Senor Presidente, Mrs. Obama, Mr. Vice President, Mrs. Biden, ladies and gentlemen, amigos, amigas. It is a great honor and a pleasure to be here with you today to celebrate together Cinco de Mayo. Perhaps no single anniversary captures the depth of our friendship and the ties that unite us as this one does. True friendship, they say, must undergo and withstand the shocks of adversity to be entitled to that name.
+
+I believe that Mexico and the United States have together on multiple occasions in the past successfully faced hardships and overcome difficulties so that we may rightly claim to be true friends.
+
+Today our two countries have yet again joined hands to address a common challenge. Over the past few days we have worked together tirelessly, transparently and responsibly to identify and contain the spread of the H1N1 influenza outbreak. We are firming and strengthening our cooperation, as well as providing an all-too-real example of the benefits of close cooperation and of the need to continue to deepen and widen our ties so that we may together build a strategic partnership.
+
+Therefore, today, as the situation begins to stabilize, I would like to take this opportunity, Mr. President, to express the sincere gratitude of President Calderón and of the government and people of Mexico for all your support during this outbreak, and for your personal commitment to strengthen the already strong ties that bind our two peoples.
+
+The festivities surrounding Cinco de Mayo may have their origin in the victory won in 1862 by Mexican forces against an invading French army. But the anniversary of the Battle of Puebla has become a truly transnational celebration symbolizing the friendship that exists between our two nations, connected as they are by transported ties of family, history, culture and trade.
+
+Here in the United States, Cinco de Mayo has also become a broader celebration, binding all Latinos as a community, and has acquired distinctive American undertones. The transformation that this historic date has undergone in this country mirrors the one that all immigrants go through as they arrive and integrate into their new home, conscious that the U.S. thrives because it welcome newcomers, who in turn embrace its values and way of life.
+
+And that is as it should be in a nation of immigrants such as the United States. For American describes a oneness that points to citizenship and not the place of birth or nationality of the men and women it designates as Americans. It makes reference to a singular citizenship and a highly plural civil society.
+
+But beyond integration there must also be empowerment. And this to a great extent is to be realized through the unity and organization that many of you here have dedicated your life to promoting within the Latino community. Full citizenship can only be attained if people are well informed, organized and take an active part in the public life of their country. Latino unity and organization is what precisely lies behind one of the most significant stories unfolding in contemporary America -- the coming of age of Hispanic community in this country, a community that many of you here represent today.
+
+We thus need to continue to actively encourage the responsible and intelligent civic engagement and empowerment of Latinos to make sure that their voice is heard and their culture celebrated, and to ensure that they prosper as America prospers.
+
+This is no small task, for notwithstanding the fact that the United States is a country that welcomes immigrants it would be naive to think that empowerment comes naturally and inevitably as a result of integration. For some, for most recent immigrants, many of them Latinos, the obstacles are indeed significant. Some would like to make these people invisible. But as Ralph Ellison once said of the African American community, "If they are invisible it is simply because people refuse to see them."
+
+This cannot stand, for to quote Ellison, "America is woven of many strands. I would recognize them and let it so remain. Our fate is to become one and yet many. This is not prophecy, but description."
+
+Ladies and gentlemen, no other bilateral relationship is more important than security and the prosperity of the United States than its relationship with Mexico, in the same way that the well being of the Mexican people is inextricably tied to the fates of the United States. We must ensure that on both sides of the border our citizens remain co-stakeholders to this all-important bilateral relationship. And in this endeavor the Latino community must continue to play a key role.
+
+The celebration of the Cinco de Mayo by both our countries is a most permanent reminder of the common bond and heritage that our two nations share. What we celebrate here today, Mr. President, is a common past and hopes and aspirations for a common future.
+
+Thank you very much. {APPLAUSE}
+
+{OTHER-SPEAK} All right. Now you can go party. Thank you. {/OTHER-SPEAK} {APPLAUSE} 
+
+{/speech}

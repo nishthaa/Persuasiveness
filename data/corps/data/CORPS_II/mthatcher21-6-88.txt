@@ -1,0 +1,114 @@
+﻿{title} Speech at the Toronto Club {/title}
+{event} Toronto Club {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} June 21, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Media, Leadership, Economy (general discussions), Foreign policy (general discussions), Energy, Monetary policy, Conservatism, Taxation, Privatised and state industries, Strikes and other union action, Trade union law reform, Agriculture, Trade, Foreign policy (USSR and successor states), Defence (general), Foreign policy (USA), Defence (Falklands War 1982), Civil liberties {/description}
+
+{speech} 
+
+Mr. Chairman, Your Excellency, Prime Minister, Your Eminence—I think "Ladies and Gentlemen" would cover the rest of you; at any rate if it would not, there is something seriously wrong!
+
+I listened so very carefully, Mr. Chairman, to what you said and I really do not think you have left very much for me to say. Thank you very much for your kindness and, nevertheless, I think that a few remarks from me might not come amiss.
+
+I am grateful for the chance to meet so many of the people who are responsible for creating Canada's present prosperity. I am glad that Britain is playing its part in that prosperity through the profits which the "Daily Telegraph" is contributing as a result of a remarkable turn-around made under its present owner ship.
+
+Of course, we are used to Canadians in Fleet Street—Lord Beaverbrook and Lord Thompson—and Conrad Black is continuing a great tradition. I would particularly like to say that he and Rupert Murdoch have played an enormous part in helping to turn round Fleet Street, because it was riddled with restrictive practices. We helped a little by getting the legislation right, but Rupert Black and Conrad Black and one or two more helped by putting in the latest modern equipment and very firmly moving to London Dockland and seeing that it was put into action. That was a very bold step and we are very grateful to him for doing it.
+
+Indeed, when I mention London Dockland, I must mention the part which Canada is playing in its redevelopment—Canary Wharf. I see Paul Reichmann over there. It was just a few days ago that I went to start the biggest new development in the whole of Europe in Canary Wharf which he is doing and I drove the first pile into the ground and the whole thing will be complete in seven years and I hope to be there in my same capacity to open it. {APPLAUSE}
+
+Can I pay tribute now to the remarkable hospitality we have received at the Toronto Summit. Everything has gone superbly. Toronto has done us extremely well, given us a tremendous welcome, and Brian Mulroney's chairmanship of the whole thing has been masterly and it has been one of the most successful summits I have ever attended. {APPLAUSE} 
+
+Now, having got the formalities over, I wondered how best I could tell you about how I see things. May I start with economic summits? This is the tenth one I have attended. They have changed enormously during my time as Prime Minister. Perhaps I can illustrate.
+
+The first one I went to was in Tokyo in 1979. That was during the first cycle—each cycle of summits is seven—of summitry. They were run very differently in those days and I shall never forget that particular one.
+
+We arrived in Tokyo and there was an OPEC meeting on. The price of oil the day we arrived was $14 a barrel; the price of oil before we had been sitting for twenty-four hours was $17 a barrel and it was thought at that time that the price would go up and go up and go up and, of course, for a very considerable time it did. And what happened at that summit was just a particular instance of what I will call the "short-termism" attitude which was taken in summits in those days.
+
+We had a problem; the price of oil was going up. Some of my colleagues said: "Right! The thing to do is to reduce the demand!" and it was almost as if we were doing graph paper economics, for which I had always had supreme contempt. I neither believe in graph-paper management nor graph-paper economics and somehow at that summit, I could not get them … . although two people wanted to get them off what they finally proposed—which was myself and Count Lambsdorff from the Federal Republic of Germany who is also a believer in the free market—and what we decided then was that each country would undertake to reduce its consumption of oil. Ordinary folk like me asked how in the world we were going to do that. That was not necessarily a question which those men addressed—I would and did! They nevertheless each agreed to reduce the amount of oil which we consumed.
+
+It did not quite work out that way and the price of oil, as you know, went on going up until the laws of supply and demand and price did work and if you put the price of something up and up and up, people will in fact change their equipment, they will insulate their factory, they will use energy-saving equipment, they will change their whole way of life, they will become efficient in energy use for the first time in their lives—which they did—and then down fell the price of oil. The market worked! The graph-paper economics did not!
+
+That will show you just one instance, and there was another one during that early cycle in fact of summits, when someone had the locomotive theory and there was an agreement that demand would be expanded by 1 percent and that, of course, would do the trick.
+
+During those early years of the first cycle of summits, there was one piece of short-termism after another. It was thought at that time—sometimes among industrialists as well—that a little bit of inflation was quite a good thing, that you needed to expand the deficit in order to get a country going, and what happened was you did not in fact expand the growth, you got high inflation, you got higher unemployment and you got lower growth and lower productivity.
+
+That was the whole philosophy during that first seven years of summits. Somehow, it changed during the second cycle as we began, a number of us, to address the fundamental problems that we really felt we could not duck away from any longer.
+
+We began to say: "We have to get inflation down because it is not right for any government to run dishonest money. We have, as governments, to learn to live within our means and to get deficits down. We have in fact to stimulate enterprise by getting incentives up and our task is not to fine-tune, but our task is for government to run the finances soundly, for government to set a framework of law and conditions within which private enterprise and the market can work."
+
+That is precisely what we set out to do and for the second seven years we have got the fundamentals right and thank goodness we did, because if we had not, we should not have survived the Stock Exchange difficulties of last October, but we were able to do that because we knew we had got inflation down, we knew that most of us had very few deficits, we knew we had got the finances sound and we knew we had got the enterprise going and we knew we were getting international cooperation with all those things.
+
+That has been the success of the second cycle of summits and more and more countries have come to realise that that is the way. I remember vividly starting to do it in the midst of a depression in 1981 when all of the accepted wisdom was in a depression what you needed to do was to have more inflation and expand your deficit. We cut our inflation, we cut our deficit. We cut our direct taxes but nevertheless, because I would never have unsound money, we increased our indirect taxes.
+
+On the conventional wisdom, we should have gone into a deeper recession. On the new wisdom, we began to come out of the recession because we were getting everything on a sound basis which gave confidence in the future. That is what happened with us; it is what happened with other nations.
+
+Now where did I learn this? One had been thinking of it for some considerable time, indeed long before I became Leader of the Opposition.
+
+I think that there were a number of countries in Europe who were affected if I might go back quite a long way—by what happened in war-time. In war-time, you had to have central planning and control on a very considerable basis, because everything—but everything—was subordinated to survival.
+
+In the post-war period, there were many people who said social planning and control worked in war-time and therefore it will work in peace-time. You can plan your production, you can plan your distribution of wealth and my goodness, they planned the distribution of wealth! We had the great introduction of the Welfare State. Money had to be distributed, subsidies had to be found. They were found, the money was distributed, but no-one thought about how do you create the wealth.
+
+This went on for some time and it became the accepted wisdom in the post-war period that governments could plan everything. They quite forgot that the market might not buy the kind of production they planned, but we in Britain went on and on with increasing controls. We got, in fact, a Prices & Incomes Policy. Prices were fixed, incomes were fixed, dividends were fixed. There was no free movement of exchange control. You had to get an Industrial Development Certificate and were not allowed to go to certain areas.
+
+What did this do? It did not produce prosperity. The Unions and the CBI were called into No. 10 Downing Street together with the Prime Ministers of the day to sort things out. We had a real collectivist state and we finished up, of course, as you said Mr. Chairman, with the IMF!
+
+We started— Keith Joseph and myself and one or two others—on a totally different tack, a much older, a much more fundamental tack because, in fact, Mr. Chairman, if you want to revive the prosperity of a people you must first revive the spirit of that people. You cannot do it without that. That means you have got to start from a study of human nature.
+
+We were not the first in the field. It is called "Thatcherism". I always say, particularly when I go to Scotland: "You are totally wrong. I learned it from Adam Smith and he was a long time before me!"
+
+Adam Smith was not a professor of economics—he was a professor of moral philosophy and he knew what you had to do to get the very best out of human nature. He knew that people will work extremely hard because they work for their families, they work for their future, they work for their own ambitions, they work to build a better future for their families and for their community.
+
+Therefore, we introduced incentives and cut our taxation as it was prudent to do so, all the time—if we had to cut direct taxation—balancing it out with an increase in indirect so we did not get an increase in deficit.
+
+We cut the controls. This was quite a bold move. I remember when I was in Opposition having many people in like this to talk about what we were going to do and saying to them: "You know, we shall simply have to take off—abolish—foreign exchange controls!" I remember a banker saying: "Well, do not be too hasty! You cannot do that!" So we abolished them! And I met him afterwards and said: "You know, that is the secret of our inward investment. People know that if they come to us they can repatriate their profits and so they are coming to us!"
+
+Another person at a similar occasion to this, said to me: "And what are you going to do, Mrs. Thatcher, if you cut subsidies to the coal industry and they go on strike? What will you do?" This was the way in which people were thinking. They had become so used to a kind of pattern of socialism that you dare not do anything. So I said: "Well, we will resist the strike!" "Oh, but you could not! Mr. Heath did it! You could not!" I said: "Well, we will resist the strike!" As you know, we got a strike for a year. We resisted it. We won!
+
+"How, Mrs. Thatcher, are you going to tackle the trade unions?" I said: "Well, I am going to change the law, because if you look at it, the balance is totally wrong between employer and employee and the employer has not a chance to resist the claims for extra wages because he will get a strike!"
+
+So three times we came at the problem. We changed the whole of trade union law on the basis that if we gave more power back to the ordinary person of the union, most of them do not want a strike, they would vote not to strike because they are more interested actually in going and working hard for their families. We changed that and we have altered the entire climate in Britain.
+
+We also changed the role of government. Having got rid of many of these controls, I said: "Look! Our job is in fact to get the finances of the nation right, to keep down inflation, to see that we do not get too much of a deficit, if possible to get a surplus to repay debt"—which is what we are now doing—"Also, to get the framework of regulation right, but to cut the regulations as far as we can; to get the tax reform right, not only to get it down for incentives, but to simplify it; to bring the top rates down, to bring the medium rates down; to bring the lower rates down!" because believe you me, high taxes do not redistribute income—they redistribute tax-payers from the high-tax to the low-tax countries.
+
+All of that we did and I must tell you that I used to have a nightmare. "Supposing, when we have got the finances right, supposing when we have got the framework right within which industry can work, supposing when we have got the tax incentives right, supposing when we have got the regulations down, supposing when I have done all that, the spirit of enterprise has left britain?" Well it had not! That was the leap of faith I had to take right at the beginning and I took the view at the beginning that socialism was not for the British character and that if we got rid of it—and if we got rid of it for ever—then we should get the revival of enterprise, we should get the revival of prosperity and we should get the revival of Britain—and we did!
+
+I had also known that if you wanted to be listened to abroad, you have got to run your affairs at home well and that too, is what we set out to do and what we actually achieved.
+
+I have also said so frequently in politics that I am not really terribly good at presentation—I never have been—but my job is to get the policy right and that has to be done right at the top and it has to be done with a sense of conviction and belief that it will work. And then we took a leap of faith.
+
+I have watched other people turning from socialism and copying what we have done. The difference between them and myself is that I did it because I believed in it and it worked. They have done it because they have seen that it works, but you know, when you get trouble—and invariably you will get trouble—you have to believe in it and then you will go through.
+
+In the second cycle of the summits, I have seen those policies widely adopted because they work. Because each country is adopting them, it has made international cooperation very much easier and that is why we are getting better international cooperation on a global scale than we have ever had before.
+
+I also knew, Mr. Chairman, that once we were able to conduct our affairs at home well we should be listened to more abroad, and that has of course happened. In Europe, we have tried also to follow some of the precepts at home. We are trying now very much to get down agricultural subsidies. What we have got in agriculture is a situation where we are all producing food for which there is no market. Well now, of course, it is a position that many manufacturers would like to be in—to be paid for what they produce, whether or not there is a market for it. It is not exactly a healthy position and we have to try to start to get those subsidies down—which we have started—and we have had a go too at this summit.
+
+I always insisted, along with opening up the economy at home, that you simply must open it up worldwide and open up trade worldwide. If you cannot afford to submit your own industry to competition, you will soon have thoroughly inefficient industry and you will neither be able to export, nor will you be able to withstand sooner or later other people from getting their imports through. So we go against protectionism.
+
+All of this we have tried to do and will continue, and will tackle these things in the future, but they are based not so much on economic theory—and I do get just a little bit concerned when I hear people talking about the "market economy" and "what the market will do". The market does not do anything. It is the people who use their wages and their earnings in choosing what to buy who determine how the world goes round against a background of sound government.
+
+Now what did this enable us to do abroad, because we also had very firm ideas of overseas policy? Right from the very beginning, when I became Leader of the Party, I had looked very much at the Soviet policy which I had been a great reader of for years. The Soviet policy was a policy of expansionism either by military might, by subversion or by threat or by proxy through the Cubans, and we began to say: "This is their policy and we simply must ourselves have a firm defence policy in defence of freedom and be staunch allies of NATO and we must watch what happens in the Soviet Union very carefully indeed!"
+
+I was fortunate when I came into power we were able completely to revise defence policy, increase the money spent on it. Shortly afterwards, Ron Reagan came into power in the United States and if I might say so, that has been in defence of freedom, a very powerful alliance for eight years {APPLAUSE} and it is possibly the most important thing—the securing of peace with freedom and justice. It has been a colossally powerful alliance, because with the two of us, if there was any doubt in the rest of NATO—and in places like Canada there was not—then we were able to keep the alliance going—and I must say Germany has always been extremely staunch in the alliance—and to send the message clearly to the Soviet Union: "We will always defend our liberties; there would never be a possible chance that if you attacked us you could win!" because believe you me, it is not weapons that cause wars—it is strength and ambition on the part of one power faced with weakness on the part of another. {APPLAUSE} 
+
+So, of course, when Falklands came and our territory was overrun—and there is not a single Argentinian of course in the Falkland Islands—we went to get them back and that too was a signal to the world that we do not just say things. If you attack our property, we go and get it back. That too was a signal.
+
+I want just to say a word about the Soviet Union now.
+
+Two or three years ago, we began to look around in the Soviet Union—if I might put it that way—and see who would be likely to be the next Secretary-General, who were the younger generation.
+
+We looked and we alighted upon a comparatively young man called Gorbachev and we invited him over to Britain. Immediately, we realised—this was long before he was Secretary-General—that there was there someone quite different from any other Soviet leader whom I have ever met. Normally, when you discuss with them, they bring out great piles of briefing and read through papers in a very dull way— Henry must have seen it many times—and you come at them with a particular argument and they still read out the classic answer. Nothing is more irritating! You put forward really good points and no-one in fact can reply—nor do they!
+
+This one was quite different. We spoke freely and easily and ranged over a whole lot of subjects and I told him right at the outset: "Do not try anything which would divide me from America, because you will not succeed! Do never say to me: ‘Try to persuade President Reagan not to have SDI!' because you will not succeed, so do not try that tack and I will not try to divide you from your Warsaw Pact countries, but now let us see where we can go, because it is in your interest and in mine that we never have a conflict between the two nations and I believe that much as I dislike your system, you have a right to defend your system as I have a right to defend mine. Now let us get on with negotiating toughly on these things that really matter!" and of course, one always mentions human rights because human rights to us—and this is the difference between a dictatorship and a democracy—are absolutely fundamental. They are not state-given and they cannot be taken away by a state, according to our beliefs. They are God-given rights and they cannot be taken away by a state.
+
+However, the point of telling you this is that we got on a very good relationship with Mr. Gorbachev and of course, from that meeting, there came the famous phrase: "A man I could do business with!". I could do it because we had tough negotiations.
+
+It was not long after—we talked quite a bit about communism and its nature—when he became Secretary-General he did what I think was one of the most historic and courageous moves in history. He said: "This country has had seventy years of communism. It is not producing the standard of living we hoped, the standard of technology or the standard of social services. We have got to try to change it!" A fantastic, bold, courageous analysis and decision, because until now Soviet status as a super-power depends solely on its military might. Not on its standard of living, not on what it does for its people—solely on its military might—and he knew he could not sustain that because people wanted a higher standard of living.
+
+He has embarked upon that course and I thought that it is in the interest of all mankind that liberty should be enlarged, even albeit only by a small part, in the Soviet Union and he should be supported.
+
+We do not know precisely what will happen. You know, the Soviet Union has never known liberty. None of its people have known liberty. They have not known the tolerance and restraints that come from liberty and so they really are not well-chosen to be able to come out of socialism. Bearing in mind they never knew liberty under the Tsars, they have no sense of initiative or responsibility to revive. It is going to be very very difficult for them to change that fundamental system. We do not know what will happen. What we are making sure is that whatever happens, even if they go back to someone like Stalin, the defence of freedom will be sure because we shall see that it will be sure.
+
+Mr. Chairman, I have spoken long enough. I hope that you have seen a defence of liberty under the law and a determination to see that peace with liberty and justice shall be preserved and shall continue in our country. {APPLAUSE} 
+
+{/speech}

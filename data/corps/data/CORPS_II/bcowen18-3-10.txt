@@ -1,0 +1,51 @@
+﻿{title} Remarks by the President, the Vice President and the Taoiseach of Ireland at St. Patrick's Day Reception {/title}
+{event} St. Patrick's Day Reception {/event}
+{speaker} Brian Cowen {/speaker}
+{date} March 18, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you very much, President Obama. I made one solemn promise to myself when I've come to the White House for the second time: I intend reading my own speech tonight. {LAUGHTER}
+
+Mr. President, First Lady Mrs. Obama, Mr. Vice President, distinguished guests, ladies and gentlemen. I want to thank you, Mr. President and Mrs. Obama, for your warm and gracious welcome to the White House tonight for so many of us. Mary and I and all of our delegation are delighted to be here with you again this year.
+
+We've had a great day of celebrations today at your nation's Capitol, starting of course, with a very gracious invitation from the Vice President -- great Irishman, Joe Biden -- to a St. Patrick's Day breakfast at is house. Himself and Jill gave us a wonderful start to a wonderful morning and we deeply appreciate that wonderful gesture. Thank you. {APPLAUSE}
+
+In fact, Mr. President, it's almost as nice as your home here. {LAUGHTER} Joe Biden said he always voted for public housing -- he never thought he'd get into one as good. {LAUGHTER}
+
+So I extend to you all our greetings for St. Patrick's Day from the home sod. This occasion is an honor not only for those of us present this evening, but for all Irish people -- at home and across America. We feel very much at home here. And as we gather here tonight we remember that this year marks the 50th anniversary of the election of President Kennedy, in whose legacy we Irish take great pride.
+
+On one occasion, speaking in your home city of Chicago, John F. Kennedy described Ireland's Diaspora as a “fraternal empire.” He said that “whether we live in Cork or Boston, Chicago or Sydney, we are all members of a great family which is linked together by that strongest of chains -- a common past.”
+
+The bonds between Ireland and America run deep in our shared history. St. Patrick's Day is celebrated in every state and corner of this great land. And it is so pleasing to us that this day has come to be appreciated and enjoyed by all Americans, not just those of Irish heritage.
+
+The great blending of our people and our history has been shown in all its glory by those who are entertaining us tonight, including the City of Washington Pipe Band, the President's Marine Band, Irish Combo, and the magnificent Celtic Dreams from New York City. {APPLAUSE}
+
+Next year we will be having a special year of celebration of Irish arts and culture here in the United States, so I can assure you that we will have many more artists who will be ready and willing to return here at any time.
+
+And I am delighted in that context that we are joined here tonight by that great Irish actor, Gabriel Byrne. Gabriel this week accepted an appointment as Ireland's first Cultural Ambassador and I wish him well in that wonderful endeavor. {APPLAUSE}
+
+And of course, Mr. President, when the Irish are finished looking after your entertainment needs -- {LAUGHTER} -- Pádraig Harrington, who also joins us tonight can help you with your golf game. {APPLAUSE}
+
+{OTHER-SPEAK} I need help. There he is. I need some tips. {/OTHER-SPEAK} 
+
+Mr. President, this year on St. Patrick's Day we are particularly mindful of the absence of our dear and loyal friend, Senator Ted Kennedy. Ted loved to celebrate St. Patrick's Day, and at times like this we miss his enthusiastic presence. He took great pride in his Irish heritage and he cared deeply about peace on our island. I know that he would be especially pleased to acknowledge the crucial and decisive step forward taken in recent weeks by First Minister Peter Robinson and Deputy First Minister Martin McGuinness, and all the leaders in Northern Ireland. We congratulate them on all that has been achieved and promise them our support. {APPLAUSE}
+
+In conclusion can I say that we hope to see you, the First Lady and your family in Ireland soon, Mr. President. {APPLAUSE} It is important that we get visits from prestigious people of the American constituency from time to time. {LAUGHTER} I'm sure you have heard that the great welcome accorded to your predecessors is available to you as well. {LAUGHTER}
+
+And we'll never forget the historic visit by President Kennedy to his home place in 1963. And I can assure you of an equally warm welcome, especially in County Offaly, where I may have some influence. {LAUGHTER}
+
+I also want to thank you very much, Mr. President, because we're delighted and touched to know that not only will you plant shamrock in the children's garden, but it will grow from soil from my own County of Offaly. Not only is the soil from Offaly, but it's also from Moneygall -- the place of your own family's Irish heritage. I believe, of course, that this soil will have special properties that will ensure that the garden flourishes. At least I hope so. {LAUGHTER}
+
+And I know that when you trace your ancestry back to that place where I have lived all my life you'll find a hearty welcome and many people waiting to see you there and to reconnect with your Irish heritage in a very real and personal way.
+
+It's amazing, you know, how many O'Haras, O'Sullivans and O'Neills are frantically searching to see if there's any way they can be linked to the Obamas. {LAUGHTER ; APPLAUSE} 
+I want to say to you one search -- I am very closely acquainted with the electorate registered in County Offaly -- and there are no Obamas on it. {LAUGHTER}
+
+However, Mr. President, it's now my great honor to present you with a bowl of shamrock. I do so in celebration of the achievements of the Irish in America and of the everlasting friendship between the people of Ireland and the people of the United States of America. You will always have a loyal and faithful friend in me as long as I lead this government. {APPLAUSE}
+
+{COMMENT="The bowl of shamrock is presented"} 
+
+{/speech}

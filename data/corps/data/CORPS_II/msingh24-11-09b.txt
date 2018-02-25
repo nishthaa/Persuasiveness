@@ -1,0 +1,34 @@
+﻿{title} Toast Remarks by President Obama and Prime Minister Singh of India at State Dinner {/title}
+{event} State Dinner {/event}
+{speaker} Manmohan Singh {/speaker}
+{date} November 24, 2009 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President; the First Lady, Mrs. Michelle Obama; distinguished guests. I feel privileged to be invited to this first state banquet, Mr. President, under your distinguished presidency. You do us and the people of India great honor by this wonderful gesture on your part. We are overwhelmed by the warmth of your hospitality, the courtesy you have extended to us personally, and the grace and charm of the First Lady. {APPLAUSE}
+
+Mr. President, your journey to the White House has captured the imagination of millions and millions of people in India. You are an inspiration to all those who cherish the values of democracy, diversity, and equal opportunity. {APPLAUSE}
+
+Mr. President, I can do no better than to describe your achievements in the words of Abraham Lincoln who said -- and I quote -- "In the end, it's not the years in your life that count. It is the life in your years." {APPLAUSE}
+
+Mr. President, we warmly applaud the recognition by the Nobel Committee of the healing touch you have provided and the power of your idealism and your vision. {APPLAUSE}
+
+Mr. President, your leadership of this great nation of the United States coincides with a time of profound changes taking place in the world at large. We need to find new pathways of international cooperation that respond more effectively to the grave challenges caused by the growing interdependence of nations. As two leading democracies, India and the United States must play a leading role in building a shared destiny for all humankind.
+
+Mr. President, a strong and sustained engagement between our two countries is good for our people and, equally, it is highly important for the world as a whole. We are embarking on a new phase of our partnership. We should build on our common values and interests to realize the enormous potential and promise of our partnership.
+
+Our expanding cooperation in areas of social and human development, science and technology, energy, and other related areas will improve the quality of lives of millions of people in our country. The success of the nearly 2.7 million strong American community is a tribute to our common ethos. They have enriched and deepened our ties, and I thank them profoundly from the core of my heart. {APPLAUSE}
+
+Mr. President, I convey my very best wishes to you. Mr. President, as you lead this great nation, I look forward to working with you to renew and expand our strategic partnership. I wish you and the people of America a very, very happy Thanksgiving. {APPLAUSE}
+
+Ladies and gentlemen, I invite you to join me in a toast to the health and happiness of President Barack Obama and the First Lady, Mrs. Obama, the friendly people of the United States of America, and stronger and stronger friendship between India and the United States of America.
+
+{OTHER-SPEAK} Cheers. {/OTHER-SPEAK} 
+
+{COMMENT="A toast is offered"} 
+
+{OTHER-SPEAK} Thank you, everybody. Enjoy your evening. {/OTHER-SPEAK} {APPLAUSE} 
+
+{/speech}

@@ -1,0 +1,34 @@
+﻿{title} Remarks by President Clinton and President Aristide of Haiti {/title}
+{event} Outside West Wing Lobby {/event}
+{speaker} Jean-Bertrand Aristide {/speaker}
+{date} October 14, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Clinton, distinguished guests, distinguished members of the Congress of the United States, distinguished members of the United States military, dear friends, and sisters and brothers: It is a pleasure for me to spend part of my last day in Washington here at the White House in the company of many of you who have been instrumental in the restoration of democracy in Haiti.
+
+President Clinton, once again, the people of Haiti thank you for the leadership that you have demonstrated. You just said, bonne chance, ayete toma; and we say, thank you so much. {APPLAUSE}
+
+To the United States Congress; to the innumerable men and women of goodwill and courage throughout the United States who committed themselves to the restoration of democracy in Haiti; to General Powell; to our dear brothers and sisters here who worked so much for that restoration -- there are so many I don't want to recognize the others to not leave some of them aside -- so to all of you, I express my sincere and everlasting thanks.
+
+In the spirit of peace and reconciliation, we are witnessing a renewal of ties that link our nation. With the participation of the international community, we are paving the way for democracy in Haiti. This democracy will bring peace for all, reconciliation among all, respect and justice for every single citizen.
+
+Tomorrow when we return home to Haiti, this will be our message to the nation: no to violence, no to vengeance, yes to reconciliation. {APPLAUSE} Moving this way through this reconciliation, as President Clinton just said, in Haiti we will be moving from misery to poverty with dignity.
+
+I thank each and every soldier in Haiti today who is working for democracy. I thank your families, some of whom are gathered here with us, for the support that strengthens you. A couple of weeks ago I was very moved when I could see you and thank your sons working in Haiti, helping us, providing security to the nation to uphold democracy. As you know, having here fellow countrymen, I will ask them to join me to express our sincere thanks to you, families of those American soldiers right now working side by side with us in Haiti. Thank you. {APPLAUSE}
+
+Tomorrow, when I will address the nation, I will express my love for the kids not only in Haiti, but throughout the world. Allow me now to tell the kids, the children of those soldiers that I love them.
+
+You have seen the cooperation of the Haitian people and have witnessed their wholehearted embrace of the same democratic principles held dear by this country. It is this commitment to peace that will guide us towards true reconciliation.
+
+The restoration of democracy in Haiti is embedded in the growing global opposition in this post-Cold War world that democracy is indeed the cornerstone upon which much that is essential for the progress of men depends, whether in Haiti or elsewhere. The great joy that democracy will bring is a joy to be shared by the world. It is a demonstration of the possible; a sign that united we can achieve peace.
+
+Tomorrow the people of Haiti will know that with them stands an international community committed to this lasting peace. Our hope for Haiti is our hope for the world -- democracy, peace and reconciliation.
+
+President Clinton, I know one day I will have the honor to welcome you to this Haiti. The same way here you and the people of the United States could help me feel at home here in your land, one day we will be so happy to make you feel at home to this Haiti toma. {APPLAUSE}
+
+And there, as a musician, I will find the right way to sing with all the people of Haiti for President Clinton -- no to violence, no to vengeance, yes to reconciliation. Thank you. {APPLAUSE} 
+
+{/speech}

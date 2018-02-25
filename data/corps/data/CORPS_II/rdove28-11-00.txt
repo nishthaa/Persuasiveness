@@ -1,0 +1,36 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Rita Dove {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+The first thing I noticed when I -- well, for the first time, which was a Fulbright Scholar, was how American I was -- that what I had conceived as almost irreconcilable differences between my ethnic background and what I perceived to be American culture were really infinitesimal compared to how the world perceived America, and that, in fact, I had more things in common with my fellow Americans than I had -- than I imagined that I had.
+
+The connections that I began to make with people as a writer were connections which were very human. And just to join in with what our Nobel Laureate has said, the idea that these connections have to happen on a human level, on an egalitarian level, is extremely important.
+
+I'm reminded of an anecdote that a fellow poet had told me. Michael S. Harper, who is an African American poet, had gone to South Africa on a cultural mission, and was -- this was before apartheid had been lifted. And as he was in the taxi cab, which was driven by a colored taxi driver, the driver turned around and said, "Listen. When black Americans are alone together, what do they speak, what language do they speak?" {LAUGHTER} And he said, "Well, English," and tried to explain that there were, of course, idiomatic expressions and black English and all that. He said, "No, no, no, no." He said, "When you get together, don't you speak jazz?" {LAUGHTER}
+
+And that notion that language is something which communicates on a level beyond -- or underneath, let's say, rational thought, that language contains -- that in fact it contains all of the music and all of the hidden feelings of us, and that it is in fact something that is an amalgam of all of our experiences and our differences.
+
+Jazz, a callalu, a gumbo, rather than something that divides us, which is something that's always accompanied me. When I was Poet Laureate, I had the opportunity to travel in official capacity as a spokesperson for this country. And I was impressed by the fact that many foreigners were amazed that Americans could be so diverse and yet so at ease with our diversity, relatively at ease compared to much of the world.
+
+They were also amazed at the speed with which we can absorb the many aspects of our culture. And I think that it is no mean feat that we continue to work at in this country. When we seem to be most floundering, in terms of trying to bridge our differences or incorporate our differences into a pot that doesn't melt them all together, but instead gives us a mosaic, that's really when we're doing our best. To present a unified front is no way to, I believe, to begin to communicate with other people in any human level.
+
+I don't think this was an automatic development in this country. I think, in fact, that the arts have played a major role in this, this education of what we could perhaps call this gumbo national character that we have. I think the National Endowment for the Arts and the National Endowment for the Humanities and private philanthropic foundations have gone a long way toward bringing our culture to the people of the country, making it available to those who might not have been able to get to a museum or to play an instrument, or to meet a live author or to be able to express their feelings and have someone listen to them.
+
+And when I was Poet Laureate I had a woman -- one of the letters that I received has always stuck with me -- there was a women who wrote simply that -- in arguing that art begins with children, and it begins very small in schools. They need to be familiar with it. She said that poetry is making the language your own. That doesn't mean that it excludes others, but it means that you learn the languages there to be made into your -- to be given out into your own story. And then you share your own story, your own version with other people.
+
+I think that what she was also trying to say is that -- and I'm a poet, so I must talk from that aspect -- that if you don't know how to express what you're feeling, that in a certain extent, some of what you're feeling gets lost and you become bewildered. That if you can't know how to say that to other people, if you cannot -- if you don't have, in fact, the -- if you don't feel that you have the right to say what you feel, honestly and deeply, to someone else -- and literature gives you that opportunity to do that -- then you'll never be able to connect to know that, in fact, people are more alike than they are different.
+
+It's for that reason that I think that I'm always astonished when people claim that the arts are elitist, that they don't belong at the very base of all of our priorities. To me, a poem, a piece of art of music, they're so firmly rooted in the world that they're more helpful in negotiating our terms of our identities, I think, with a more public spirit. I find them more useful than, in fact, the mass media. I think that mass media can give us the news, but they can't tell us what to do with it -- as we've learned lately. {LAUGHTER}
+
+Of course, it's not the task of the news media to give us a solution, but it does help us I think to learn how to incorporate what's happening in the world, in the larger world around us with our own personal and private thoughts, and that art does that.
+
+I'd like to end with a quote from a poet, William Carlos Williams, because I believe that it is something we must remember all the time. And that is that he argues that though we have information systems which are the best in the world, and we are in a global economy and information society, we are still starved for connection, and that's something we have to remember.
+
+He says, "It is difficult to get news from poems, yet men die miserably every day for lack of what is found there." {APPLAUSE} 
+
+{/speech}

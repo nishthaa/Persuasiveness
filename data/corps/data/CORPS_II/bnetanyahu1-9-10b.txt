@@ -1,0 +1,28 @@
+﻿{title} Remarks by President Obama, President Mubarak, His Majesty King Abdullah, Prime Minister Netanyahu and President Abbas Before Working Dinner {/title}
+{event} Working Dinner {/event}
+{speaker} Benjamin Netanyahu {/speaker}
+{date} September 1, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="As translated"} His Excellency President Barack Obama, His Excellency President Hosni Mubarak, His Majesty King Abdullah II, His Excellency Prime Minister Benjamin Netanyahu, Mrs. Hillary Clinton, Mr. Tony Blair, ladies and gentlemen.I would like to start by thanking President Obama for his invitation to host us here today to relaunch the permanent status negotiations to reach a Palestinian-Israeli peace agreement covering all the permanent status issues within a year in accordance with international law and relevant resolutions. As we move towards the relaunch of these negotiations tomorrow, we recognize the difficulties, challenges and obstacles that lie ahead. Yet we assure you, in the name of the PLO, that we will draw on years of experience in negotiations and benefit from the lessons learned to make these negotiations successful.
+
+We also reiterate our commitment to carry out all our obligations, and we call on the Israelis to carry out their obligations, including a freeze on settlements activities, which is not setting a precondition but a call to implement an agreed obligation and to end all the closure and blockade, preventing freedom of movement, including the {COMMENT="Inaudible"} siege.
+
+We will spare no effort and will work diligently and tirelessly to ensure that these new negotiations achieve their goals and objectives in dealing with all of the issues: Jerusalem, refugees, settlements, border security, water, as well as the release of all our prisoners -- in order to achieve peace. The people of our area are looking for peace that achieves freedom, independence, and justice to the Palestinian people in their country and in their homeland and in the diaspora -- our people who have endured decades of longstanding suffering.
+
+We want a peace that will correct the historical injustice caused by the {COMMENT="Inaudible"} of 1948, and one that brings security to our people and the Israeli people. And we want peace that will give us both and the people of the region a new era where we enjoy just peace, stability, and prosperity. Our determination stems to a great extent from your willpower, Mr. President, and your firm and sweeping drive with which you engulfed the entire world from the day you took office to set the parties on the path for peace -- and also this same spirit, exhibited by Secretary Hillary Clinton and Senator George Mitchell and his team. The presence of His Excellency President Mubarak and His Majesty King Abdullah is another telling indication of their substantial and effective commitment overall, where Egypt and Jordan have been playing a supportive role for advancing the peace process. Their effective role is further demonstrated by the Arab Peace Initiative, which was fully endorsed by all of the Arab states, and the Islamic countries as well.
+
+This initiative served a genuine and sincere opportunity to achieve a just and comprehensive peace on all tracks in our region, including the Syrian-Israeli track and the Lebanese-Israeli track, and provided a sincere opportunity to make peace.
+
+The presence here today of the envoy of the Quartet, Mr. Tony Blair, is a most telling signal, especially since he has been personally involved in the Palestinian Authority for many years and in the efforts for state building in Palestine.
+
+Excellencies, the time has come for us to make peace and it is time to end the occupation that started in 1967, and for the Palestinian people to get freedom, justice, and independence. It is time that a independent Palestinian state be established with sovereignty side by side with the state of Israel. It is time to put an end to the struggle in the Middle East. The Palestinian people who insist on the rights and freedom and independence are in most need for justice, security, and peace, because they are the victim, the ones that were harmed the most from this violence. And it is sending message to our neighbors, the Israelis, and to the world that they are also careful about supporting the opportunities for the success of these negotiations and the just and lasting peace as soon as possible.
+
+With this spirit, we will work to make these negotiations succeed. And with this spirit, we are -- trust that we are capable to achieve our historical, difficult mission -- making peace in the land of peace.
+
+Mr. Netanyahu, what happened yesterday and what is happening today is also condemned. We do not want at all that any blood be shed, one drop of blood, on the part of the -- from the Israelis or the Palestinians. We want people in the two countries to lead a normal life. We want them to live as neighbors and partners forever. Let us sign an agreement, a final agreement, for peace, and put an end to a very long period of struggle forever.And peace be upon you. {APPLAUSE} 
+
+{/speech}

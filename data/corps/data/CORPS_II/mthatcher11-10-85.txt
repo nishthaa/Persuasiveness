@@ -1,0 +1,217 @@
+﻿{title} Speech to Conservative Party Conference {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} October 11, 1985 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Conservatism, Conservative Party (organisation), Northern Ireland, Terrorism, Leadership, Labour Party and Socialism, Strikes and other union action, Economy (general discussions), Industry, Health policy, Social security and welfare, Employment, Taxation, Monetary policy, Education, Pay, Trade union law reform, Liberal and Social Demoratic Parties, Defence (arms control), Foreign policy (USA), Foreign policy (USSR and successor states), Law and order, Society {/description}
+
+
+{speech}
+
+Mr. President, My Lords, Ladies and Gentlemen. In thanking you for those wonderful words of welcome, my first words must be of gratitude to those who organised this Conference and looked after our security, bringing us safely to this great meeting. {APPLAUSE} 
+
+There are many here today who still bear the scars of injury and bereavement inflicted last year by terrorists when they struck in the hours of darkness. It reminds us of the risks we all take and will continue to take for freedom. {APPLAUSE} 
+
+And I should like to say a word about our friend and colleague John Gummer, whose dedication and tirelessness in those traumatic hours and for many days afterwards won universal admiration. {APPLAUSE} 
+
+We thank him for his chairmanship of our party, for his unfailing sense of duty and loyalty and wish him well in his new work as a member of our Ministerial team. {APPLAUSE} 
+
+Mr. President, nobody could have followed this Conference or listened to the speeches made here this week, without being struck by one overriding impression. It has been a serious, friendly and responsible conference. A conference of those who know what it means for a political Party to hold office. A Conference of those who understand the realities of power exercised responsibly: the limitations, the dilemmas, and the agonised choices which face those in Government. Thank you for a marvellous Conference. {APPLAUSE} Not for us the partisan rhetoric of class warfare uttered with clenched fists through clenched lips. Not for us the bland blueprints of those who have never sweated on the actual building site of responsible office. Nor ever will. {APPLAUSE} For us the keynote has been idealism tempered by realism, and I'm sure you've been very—impressed by the quality and confidence of our whole team of Ministers. {APPLAUSE} 
+
+For my part I would like to add my congratulations and thanks to all those who have taken the chair at this Conference with skill and with unfailing good humour. {APPLAUSE} In our party, we really rather like one another. {LAUGHTER ; APPLAUSE} 
+
+Mr President, it is ten years since I first addressed this conference as Leader. In the same town—we all love Blackpool—In the same hall. From this same platform. 
+
+I remember that meeting as though it were yesterday. The welcome, the warmth, the generous support that came up the hall. I already knew only too well the task that faced me. But I had not fully realised the strength that would be given to me by our people, and was to sustain me, first in the years of opposition and then as Prime Minister. 
+
+Mr. President, in that speech I said it was no part of my purpose to preside over the continuing decline of Britain; over diminishing international esteem; or over the ebb of our Independent spirit. 
+
+I also said that it was no part of my policy to perpetuate Socialism by proxy. {APPLAUSE} 
+
+Do you remember the Labour Britain of 1979? It was a Britain — in which union leaders held their members and our country to ransom; — A Britain that still went to international conferences but was no longer taken seriously; — A Britain that was known as the sick man of Europe; — And which spoke the language of compassion but which suffered the winter of discontent. 
+
+Governments had failed to tackle the real problems which afflicted us. 
+
+They dodged difficult problems rather than face up to them. The question they asked was not "Will the medicine work?" But "Will it taste all right?" {LAUGHTER} 
+
+When we Conservatives said—"This is the way" they said—"forget it". 
+
+We were told you can't reform trade union leaders, you can't reform the trade unions—their leaders won't let you. But we did. 
+
+We were told you can't abolish price and wage controls—inflation will go up. But we did—and it came down. 
+
+We were told you can't give council tenants the right to buy. But we did—and the houses sold like hot cakes. {APPLAUSE} 
+
+They said you can't denationalise—the unions won't wear it. But we did—and the workforce positively snapped up the shares. {APPLAUSE} 
+
+And we were told you'll never stand a major industrial strike, let alone a coal strike. Mr. President, it lasted a whole year. But we did just that—and won. {APPLAUSE} 
+
+It was a strike conducted with violence and intimidation on the picket line and in the villages. Yet Labour supported that strike to the bitter end. Indeed, three months into the strike, Mr. Kinnock told Mr. Scargill publicly that there was no—and I quote—"no alternative but to fight—all other roads are shut off". 
+
+What do you think would have happened if Mr. Scargill had won? I think the whole country knows the answer. Neil would have knelt. {APPLAUSE} 
+
+Mr. President, courage is not making a speech in Bournemouth long after the event. Courage is what you show in the heat of the battle not at the post-mortem. {APPLAUSE} 
+
+Real courage was the courage shown by the working miners. By the working lorry drivers. {APPLAUSE} By the working railwaymen. By the working steelmen. By the working dockers. 
+
+The very people the Labour Party disowned. But we Conservatives stood with them; And the nation stood with us; and a major strike, called without a ballot of its members, failed. It was a not able victory for a free, law-abiding people and their freely-elected democratic government. {APPLAUSE} 
+
+Mr. President, in the six and a half years we have served the nation, much has been achieved. It has been said at this conference many times at this Conference, But let me repeat: the nation's output, the nation's investment, the nation's standard of living, are at an all time high. Inflation is down—and this morning we heard it has gone down further. Personal ownership is growing. Our overseas assets have multiplied more than sixfold in six years: they now bring us an annual income of some £3,000 million a year. There are 700 additional new businesses starting up every week. Indeed for the first time in our history the number of companies in Britain has topped one million. Rates of income tax are down. Three major taxes have been abolished. And on Wednesday you heard my next-door-neighbour, the Chancellor, in confident mood. {APPLAUSE} 
+
+On the social services, you've heard me say that the health service was safe with us. So it was. So it is. And so it will be. {APPLAUSE} 
+
+But our opponents have conducted a relentless campaign to convey the opposite. The only way to nail a lie constantly repeated is to repeat the truth even more frequently. And the truth? {APPLAUSE} 
+
+We have more doctors and nurses and they are treating more patients than ever. And it took a Conservative Government to give the nurses the independent Pay Review Body for which they were asking. The Royal College of Nursing had said consistently over the years: "Our nurses never strike, The patient comes first." {APPLAUSE} 
+
+Pensioners too have been the object of a sustained and particularly cruel campaign of false propaganda. 
+
+Let me say this to every pensioner. The basic pension goes on. That was never in doubt. And if anyone tells you otherwise, don't believe them. 
+
+Under this Conservative Government the pension has been increased by more than prices. And when it goes up again next month, it will be worth more than ever before. 
+
+All this Mr President is a remarkable record of which every Conservative can be proud. But there is much more to do. 
+
+Mr. President, I am only too painfully aware of the problem of unemployment. It affects not only Britain but the whole of Europe. But that does nothing to relieve the anxiety and frustration of someone who can't find a job. 
+
+People say "you do understand?" "Of course, I do." There is no problem which occupies more of my thinking and that of my colleagues. Scarcely a day passes without the Government looking at new ways of speeding job creation. 
+
+People say to us "make it easier for firms to take on more employees." We have done. We've abolished tax on jobs put on by the Labour Party and this week we cut National Insurance contributions for the lower paid. 
+
+Then they say: "help people to start up in business on their own". We're doing that—by the highly successful enterprise allowance, and by cutting red tape. Though, Heaven knows, there's plenty still to be cut. {APPLAUSE} 
+
+They say: "Train more young people". We are, with the largest youth training programme this country has ever seen. The millionth young person will join before Christmas. That's a great achievement. I've seen it at work myself: in Glasgow and Chester, in Wrexham and Surrey, in Cornwall; all over the country: young people working hard and well. Many of them taken on later by the employer who has trained them. 
+
+And we are expanding this programme so that everyone under the age of eighteen can have either a job, or education or training and unemployment will not be an option. 
+
+And People say: "give the unemployed the chance to work for the community". Right. We've expanded the community programme to 230,000 people next year. 
+
+Then they say "let more people retire early". Many companies are doing that. And the Government have special schemes which enable some to retire to make way for others looking for work. 
+
+Mr President, we're doing all these things; and a lot more beside. But I will not list them all. 
+
+But there is one thing we will not do. We will not reflate. {APPLAUSE} 
+
+We are sometimes told by politicians and pollsters that people would prefer more inflation and less unemployment. Mr President. you cannot choose to have either inflation or unemployment. They are not alternatives. {APPLAUSE} 
+
+Past governments have tried that. Past governments have deliberately created inflation in the hope of reducing unemployment. It always finished up with worse inflation and worse unemployment. 
+
+Mr President, You can't build a secure future on dishonest money. {APPLAUSE} 
+
+And there is a fundamental truth, from which no government can escape. 
+
+It's customers who create business. And it's business which creates jobs. {APPLAUSE} 
+
+And it's happening. In the last two years, some 650,000 additional jobs have been created, more than in the rest of the European Community put together. 
+
+The jobs are coming. Enterprise is returning to Britain. 
+
+Mr President I share the deep concern of parents about the education of our children. The basic teaching you receive in school can influence the rest of your life and shape your whole future. 
+
+Today, more money is being spent per pupil than ever before. There are more teachers proportionately to pupils than ever before. Their training is better than ever before. But alas that hasn't solved all the difficulties. 
+
+We're all worried about the teachers' strike and its effect on the children. The burden on heads and deputy heads is enormous and we are very much aware of the strains on them, and on many teachers. 
+
+So some £1,250 million of your money has therefore been pledged in pay for teachers over and above the annual increases. That would mean pay scales in November next year running from £7,500 a year for a new graduate to more than £24,000 a year for the head of a big secondary school, with much better promotion opportunities in between. 
+
+By the way, I notice that the Labour opposition regard £20,000 a year as their definition of the rich to be soaked by higher taxes. {LAUGHTER} I don't agree. And I don't suppose those head teachers do either. 
+
+But we believe this offer would not only be a fair deal for the teachers. But it would enable us: first to have a salary system which will reward the better teachers; and second to spell out teachers' duties clearly so we can get rid of all the arguments. {APPLAUSE} 
+
+Mr President, I most earnestly hope that this strike will soon be settled. For teachers should lead by example. And this is a bad one. {APPLAUSE} 
+
+While many parents are well content with the education their children are receiving, the story for some, especially in the inner city areas, is very different. Poor examination results, lack of good discipline: the unhappiness which some quiet and sensitive children sometimes suffer: political indoctrination in our schools; and the attempts by some local education authorities to control the curriculum and use it for political ends. 
+
+No wonder parents are worried. 
+
+And so are a lot of the teachers—especially those who have to deal with disruptive pupils who make their task difficult and exhausting. What's more, when teachers take disciplinary measures they do not always receive the backing from the local authority which they are entitled to expect. {APPLAUSE} 
+
+Some teachers and parents are speaking out—Those who believe as we do that the schools of this country are for teaching and learning, and not for political indoctrination. {APPLAUSE} 
+
+In the debate we had, you pulled no punches. I prefer if that way. I believe you performed a public service by bringing this matter into the open. And Sir Keith and his colleagues will do everything in their power to root out this pernicious influence and to see that our children have the education to which they are entitled. {APPLAUSE} 
+
+Mr. President, last week, at his party conference, the Labour leader gave what we were told was a clarion call to moderation in the Labour Party. {LAUGHTER} It was, announced Labour's deputy leader now there is an unbiased observer {LAUGHTER} -- a turning point in history. But "By their fruits, ye shall know them". {APPLAUSE} So never mind the PR, let us look at the policy. 
+
+Last week at Bournemouth the Labour Party 
+
+— voted to scrap the laws which give union members a secret ballot and to hand back to the leaders, those barons of the block vote, their former feudal powers. — They voted to give up the British Independent nuclear deterrent for nothing in return. — They voted to take political control over the operations of the police. — They voted to indemnify councils and trade unions who choose to break the law for political ends. 
+
+Anything else? Oh, I have hardly started. {LAUGHTER} Here are some Labour policies for the general election in two to three years' time. — they would nationalise and renationalise our industry with scant regard for the newly acquired shares of employees. — there would be no automatic right to buy your own council house. Decisions would be left to Labour councils like Sheffield, Hackney and Camden. And you can imagine what sort of a deal you'd get from them. {LAUGHTER} — And labour would hijack and direct the pension and insurance fund money of some 12 million people. — Independent schools would go, and go quickly. — There would be the usual mish-mash of higher taxes and, I need hardly say, higher borrowing. 
+
+"To borrow and to borrow and to borrow" is not Macbeth with a heavy cold. It is Labour Party policy. {APPLAUSE} But most people do not want to mortgage the future and leave their children to pick up the bill. 
+
+Mr. President, Labour's banner reads "Back!" 
+
+Back to a high tax society. 
+
+Back to the old days of inflation by social contract. 
+
+Back to rule by Congress House when the Labour Party was a wholly-owned subsidary of the unions. 
+
+The Labour Party, Mr. President, is two different factions in a state of civil war; with the left steadily gaining ground. {APPLAUSE} As the oldstagers retire, or are forced out, they are replaced by the new militant left. In fact you can see socialism in action today in the council chambers of local government—in Liverpool, in Lambeth, in Haringey—and in Many others, as you so vividly described in this Conference. That's what it would be like if Labour ever got power at Westminster. 
+
+Mr President, the militant left will not be beaten by brave words and ritual disclaimers. If the Labour leadership is genuinely against those people, why don't they expel them? {APPLAUSE} But isn't the real reason that they are a bigger and bigger part of the Labour Party? 
+
+And that the present leadership can't do without them? {APPLAUSE} 
+
+And where do the so-called "Alliance" stand? {LAUGHTER} Take defence. Did we see them reaffirm one-sided disarmament? Or did they decide this year to keep a few missiles? {LAUGHTER} Or is it only the ones that are out of date they would keep? {LAUGHTER} Or is it a case of defending all of the people some of the time or some of the people all of the time? {LAUGHTER ; APPLAUSE} 
+
+It is all very confusing. 
+
+Those who want the country to have a strong and sure defence can't rely on the Labour Party, the SDP or the Liberals. They can rely on us. {APPLAUSE} 
+
+By the end of this century it is predicted that several more countries will have acquired nuclear weapons. Labour wants Britain to give them up. At the very time when any sensible person would be renewing his insurance cover, Labour wants to cancel Britain's policy altogether. 
+
+Moreover, they want to get rid of American bases from Britain and all nuclear weapons from British soil. 
+
+Does anyone who has witnessed Mr. Gorbachev's performance thinks that he respects weakness? No. Mr. President, it is recognition of the West's strength and cohesion that has brought the Soviet Union back to the negotiating table. {APPLAUSE} 
+
+Our wish is to see substantial reductions in nuclear weapons, provided they are balanced and verifiable. I know that will be President Reagan's objective at his meeting with Mr Gorbachev, and he has our full support and good wishes as he goes to Geneva. The West could not have a better or a braver champion. {CHEERS ; APPLAUSE}
+
+Mr President, the whole country is rightly concerned about security at home, about violence in the streets. We utterly condemn anyone and everyone who takes part in riots in Britain. Whoever these people are who riot, burn and murder; whoever they are organised by, there is no excuse, no justification whatsoever, for such crime and vandalism. {APPLAUSE} Those who take to the streets on the first available pretext, to fire, loot and plunder, will be subject to the full rigours of the criminal law. {APPLAUSE} 
+
+In Tottenham and Handsworth the police suffered a hail of bricks and petrol bombs, apparently ready to hand. 
+
+Yet one of the delegates to the Labour Party Conference was loudly applauded when he called the police "the enemy". Enemy? The overwhelming majority of the British people regard the police as friends: {SUSTAINED APPLAUSE} they admire and are deeply thankful for their courage and the coverage of their families. 
+
+It isn't the police who create threats to public order. All too often they are the victims, as we saw only too tragically at Tottenham. Nor is it social conditions that generate violence. Yes, unemployment breeds frustration. But it's an insult to the unemployed to suggest that a man who doesn't have a job is likely to break the law. {APPLAUSE} 
+
+In the 1930s, when unemployment was proportionately higher, and virtually unrelieved by benefits, crime levels were not higher, they were lower. 
+
+In some parts of the world where the standard of living is high, the environment attractive, and jobs are relatively plentiful—parts of America for example—crime is worse than in Britain. 
+
+In a free country everyone has to choose. And the overwhelming majority of our fellow citizens—black or white, in or out of work, living in the suburbs or city centres—freely make their choice. They respect the law; and they will have no truck with crime masquerading as social protest. {APPLAUSE} the Government will continue steadfastly to back the police. {APPLAUSE} If they need more men, more equipment, different equipment, they shall have them. We don't economise on protecting life and property. {APPLAUSE} 
+
+And we shall oppose politicians, national or local, who want to interfere in the operational independence of the police. There is no place for politics in policing. {APPLAUSE} 
+
+But our concern about violence goes far beyond the riots. 
+
+A child abused, perhaps destroyed, within her own home, can't begin to know where, if anywhere, to look for safety. An elderly couple, nervous to step outside their home shouldn't have to look about them in fear. A teenager who's slid towards drugs may no longer be able to help himself. 
+
+Who is to answer the child crying for help? Who is to protect the elderly couple? Who can win back the youngster hooked on drugs? 
+
+Police, social workers, the voluntary organisations all must, and do, respond. But that's not enough. We are the neighbours of that child, of that elderly couple, of that youngster. Upholding the law can't be left to the police and the courts alone. 
+
+We are all involved. We cannot pass by on the other side. {APPLAUSE} 
+
+Government apart, the strengths of a civilised nation depend on the natural authority of the family, the school, the church and our great institutions. It is when that authority weakens—and it has weakened—that nations turn to the power of the state. 
+
+And when the power of the State increases, the dignity of the individual declines. 
+
+Our national character and greatness was not founded on the all embracing power of government. It was not founded on material worth. It was founded on freedom, orderly freedom, within the law. For without the law, there can be no freedom. {APPLAUSE} 
+
+In Britain today we've seen the hard left operating within our political system, conspiring through union power or local government to break, defy and subvert the law. Because the Labour Party will not expel these people, a unique responsibility is placed on today's Conservative Party and Government. We have to conserve the rule of law itself, conserve it for people of all parties and of none. {APPLAUSE} 
+
+That is our overriding duty. And Success will require the co-operation of every law-abiding citizen. No-one can opt out. 
+
+Come with us then towards the next decade. Let us together set our sights on a Britain: — where three out of four families own their home; — where owning shares is as common as having a car; — where families have a degree of independence their forefathers could only dream about. 
+
+A Britain — where there is a resurgence of enterprise, with more people self-employed, more businesses and therefore more jobs. 
+
+A Britain — where there is a standard of health care far better than anything we have ever known. — where savings keep their value; — and where people can look forward to their retirement, certain of their pension, confident of its buying power. 
+
+A Britain, — where standards in our schools are a source of pride; — and where law-abiding men and women go their way in tranquillity with their children, knowing that their neighbourhood is safe and their country secure. 
+
+Mr President, step by step we are rolling back the frontiers of socialism and returning power to the people. {APPLAUSE} Yes, we have set our sights high. But these goals are within our reach. Let us ensure that we bring them within our grasp. {STANDING-OVATION}
+
+{/speech}

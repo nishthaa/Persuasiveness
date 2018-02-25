@@ -1,0 +1,30 @@
+﻿{title} Remarks at the Presentation Ceremony for the Presidential Medal of Freedom {/title}
+{event} East Room, White House {/event}
+{speaker} Bryce N. Harlow {/speaker}
+{date} October 9, 1981 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mrs. Reagan, please don't consider me discourteous, I'm standing up. {LAUGHTER}
+
+I thank you Mr. President, very, very much. And that eloquent citation -- I wish I had said it. I love every word in it. Thank you. {LAUGHTER} The Harlow contingent here very deeply appreciates the great honor paid us, both by this very special award and by your personal participation. I mean that particularly, your personal participation in these proceedings, because we all know the vast energy and time drain on the President of the United States.
+
+Now, this has come, of course, this award and all, the whole affair, as a tremendous surprise to me, as I guess it has perhaps to the others. When Mike Deaver called me about it last week, to alert me to it, I said, interrupted him, and I said, "Mr. Deaver, you've got a bad mistake on your hands. You have the wrong man and the wrong telephone number and you'd better hang up and start over." {LAUGHTER} But then he said the nicest thing in my life, he said, "Oh, no. No," he said, "I've got the right man. It's you, Bryce Harlow." And I think that was music. I was afraid I was right and he was wrong. {LAUGHTER}
+
+The best I can figure it, Mr. President, the part of this award that is concerned with me, is my public service not my private service to the private sector. And that's the part that concerns me most -- the public service started when you were 27 years old. This is when I came to Washington from Oklahoma City. I came here to spend 1 year and to complete my education and then go back to Oklahoma and teach school. Well, that never did happen. Things happened to me instead. The war came -- that's for one. And then came Truman and Eisenhower and all the rest and a whole phantasmagoria of spectaculars. We all remember the gigantic events of our country and the world.
+
+Somehow, and for reasons I don't to this day understand, I got entangled, embroiled, enmeshed in those activities, in those issues of those times. And in the course of that, I got involved and entangled with a great host of our national leaders, like the great Walter Judd and many others. And so, I spent nearly all of those years, Mr. President, working with the leaders of our country in the Congress and in the executive branch, including here at the White House, and the leadership of the Armed Forces during the war in the high command.
+
+Now, the point that's relevant about that to this meeting is just simply this: It's not that I come -- {COMMENT="Inaudible"} -- but that I was never a leader in any of that. I was never the front man. I was never the boss or the chief. I was always the behind-the-scenes fellow. I was always the assistant, the counsellor, if you will.
+
+Well now, if that's true, and it is, what am I doing here? I think that's a good question. Why would one with a career so unobtrusive, retiree, be here, receiving an award so utterly prestigious? That fascinated me greatly when I was called by Mike Deaver. And I came to this thought. Apparently here somewhere, and I hope it's you, Mr. President, came to the idea, "Well, this little "go-fer" for Uncle Sam -- {LAUGHTER} -- and all his wanderings for four decades, did, in his own right, perhaps working for and through and around the great people, helping them, enough for our country to make him worthwhile."
+
+Now, if that is true, if that's the reason that this comes to me, then I say it's absolutely marvelous -- not because of me, Mr. President, but because I am projected across the country in millions of people who are working their tails off, getting little attention at all, who are working, who are loyal, who have the integrity, who are doing for their bosses, and doing for their bosses causes, expecting no recognition whatever.
+
+And here's what I think may happen. Some of them will see about this award, maybe. Some of them may even see it some way or hear about it or read about it. And he'll say, "Hey, Joe, did you see where President Reagan gave a kind of a medal to this little fellow Harlow?" {LAUGHTER} And he'll say, "No, what for?" He'll say, "For doing what we're doing." "Oh, we'd better work harder, hadn't we? We might get one." Mr. President, if it works like that, how beautiful it fits in with your program to constantly improve the quality, the standards, the productivity of American life.
+
+Thank you, sir. 
+
+{/speech}

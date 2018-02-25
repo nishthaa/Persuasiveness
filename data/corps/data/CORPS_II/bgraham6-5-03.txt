@@ -1,0 +1,194 @@
+﻿{title} Declaration of Candidacy for President of the United States {/title}
+{event} ----- {/event}
+{speaker} Bob Graham {/speaker}
+{date} May 6, 2003 {/date}
+{source} http://www.gwu.edu {/source}
+{description} ----- {/description}
+
+
+{speech} 
+
+Friends, thank you for gathering here on this bright Florida day. We are gathered here today {COMMENT="Inaudible"} . Thank you. {APPLAUSE} We're gathered here today because this is where the future is built. In communities like this across America. And especially in places like Florida. {APPLAUSE} 
+
+This land at the southeastern tip of the United States has lured people with the promise of a better future for over three hundred years. 
+
+But we Floridians know that in order to realize that better future, we need to have a sound foundation for our dynamic growth: an environment that we must protect; a diversity that we must nurture; values that we will safeguard; families and communities we must invest in. 
+
+We know we will be judged by whether we leave this America, we will be judged by whether we leave this America a better place for our children and grandchildren than we inherited it from our parents. {APPLAUSE} 
+
+I am an optimist. The best days of America lie ahead. {APPLAUSE} But realizing those best days starts with a frank assessment of where we are today. 
+
+In too many ways, the current Administration has diminished our inheritance. {APPLAUSE} President Bush took office at a time of unparalleled economic prosperity and budget surpluses. President Bush took office when America counted itself not only the strongest but the most admired nation on Earth. {APPLAUSE} 
+
+Friends it is incredible what has happened in the last two years. Barely two years later, we live in a very different America: 
+
+Over 2 million Americans have lost their jobs; 
+Over 1.4 million more Americans do not have health insurance; 
+Budget surpluses have turned into record deficits; 
+And our country is now viewed with increased hostility, not only by those who hate and threaten us but also by those who share our values. 
+For more than 200 years, this country has had phenomenal growth and success because of our commitment to universal public education. {APPLAUSE} 
+For nearly a century, for nearly a century Social Security has been a cornerstone of economic security for all Americans. {APPLAUSE} 
+
+For nearly a half-century, Medicare has guaranteed to all senior Americans the medical care that they need and the opportunity to select the doctor of their choice. {APPLAUSE} 
+
+Through four decades, America has recognized the need to promote, and not just pay lip-service to, the principles of civil rights and opportunity for all Americans. {APPLAUSE} 
+
+For well over a generation we have improved the quality of life of every American with cleaner air to breathe, cleaner water to drink. 
+
+And through it all America was the beacon to the world. 
+
+Yet my friends on all these basic American values, the Bush Administration has reneged on our promise and jeopardized our future. {APPLAUSE} 
+
+Even in this Administration's singular success -- military victory in Iraq -- it has departed from historic American values and policies. 
+
+Americans have never cowered from facing down aggression abroad -- we defeated Hitler in World War II; we evicted Saddam Hussein from Kuwait in 1991. {APPLAUSE} 
+
+I am proud to have been a member of the few Democratic Senators who voted to give the first President Bush the authority to use force to reverse Saddam Hussein's occupation of Kuwait. {APPLAUSE} 
+
+Yet, instead of pursuing the most imminent and real threats -- international terrorists -- this Bush Administration chose to settle old scores. {APPLAUSE} 
+
+Friends it is time to bring America back. {APPLAUSE} We should bring America back first by placing an emphasis on protecting our own citizens. {APPLAUSE} 
+
+We honor the service and the sacrifice of men and women in uniform. 
+
+However, this Administration has virtually ignored homeland security in all but the word themselves while it focused all of its energy on Iraq. {APPLAUSE} 
+
+We all agree that Saddam Hussein is an evil man -- but he is not our biggest threat. {APPLAUSE} 
+
+I know firsthand as the former Chairman of the Senate Intelligence Committee how little this Administration has done to provide real security at home while it has directed its attention away from the war on terrorism abroad. {APPLAUSE} 
+
+It is time to bring America back. {APPLAUSE} Back from one of our longest economic slowdowns ever--and the only economic slowdown since when the last Bush was in the White House. {APPLAUSE} 
+
+It is painfully clear the President has no economic policy other than granting tax cuts to the wealthiest Americans. {APPLAUSE} 
+
+This president shows no sign of knowing how to lead us back to economic prosperity. 
+
+We need a president who will bring America back. {APPLAUSE} It is time to bring America back to fiscal integrity. 
+
+The last Democratic administration not only put us on the path to fiscal solvency, it produced the biggest budget surpluses in the history of our nation. {APPLAUSE} 
+
+The Bush Administration has squandered all of that. 
+
+We need a president who will fight for our nation's economic future instead of the short-term interests of a special few. {APPLAUSE} 
+
+And most of all, friends, we need to bring America back together. {APPLAUSE} 
+
+This President sought office claiming to be a uniter not a divider -- but he has united us only in the pride that we feel for our fighting men and women. {APPLAUSE} 
+
+Otherwise he has pursued a divisive domestic agenda. 
+
+He has talked the talk of diversity and opportunity -- but walked away from doing anything to promote them. {APPLAUSE} 
+
+As their friends at corporations like Enron pillaged the economy and the retirement hopes of millions of Americans -- as the stock market robbed even more millions of their savings -- as executives raised their own salaries while firing their employees -- this Administration has answered all of those challenges with damning indifference. {APPLAUSE} 
+
+Friends we have divided our nation between the few at the very top served by this Administration and the many who are left to fend for themselves with the moral equivalent of duct tape. {APPLAUSE} 
+
+We have increasingly become two Americas. 
+
+We must become one America again -- an America energized with enthusiasm -- an America that continues the never-ending adventure of expanded democracy -- an America that looks to the dawn and the spring -- an America whose sights are always higher, never lower, an American whose aspirations are greater, never lesser. 
+
+That is why I am today declaring that I am a candidate for the President of the United States of America. {SUSTAINED APPLAUSE}
+
+Friends, I am running for President to bring back our economy. 
+
+As Governor, I led in the creation of over one million new jobs in this state {APPLAUSE} , increased investments in education, housing, infrastructure, and we still kept one of the lowest tax rates in the nation. {APPLAUSE} 
+
+As a Senator, I helped expand the Earned Income Tax Credit, tax breaks for small businesses and homeowners, and tax deductions to help pay the cost of college tuition. {APPLAUSE} 
+
+As President of the United States, I will revive the economy with needed investments in transportation and education, and targeted tax cuts. 
+
+That is not just my promise -- that is the promise of America. {APPLAUSE} Thank you. 
+
+I am running for President to bring back fiscal responsibility. 
+
+As a Governor, I balanced eight budgets. 
+
+As a Senator, I've fought to eliminate the deficit, and promote fiscal prudence. 
+
+I voted against President Bush's tax giveaways in 2001 {APPLAUSE} , and -- unlike some who seek to replace him now -- I voted against the same ill-advised tax cuts in 2003. {APPLAUSE} 
+
+As President, I will pass on to our children and grandchildren a strong and growing America, not an additional burden of debt. {APPLAUSE} 
+
+Friends, that is not just my promise -- that is the promise of America. {APPLAUSE} 
+
+I am running for President to bring back America's commitment to protecting our families' health, protecting our children's education, and preserving our environmental heritage. {APPLAUSE} 
+
+As governor, I raised education standards, increased accountability and increased teacher salaries, and built new schools. {APPLAUSE} 
+
+I have worked across party lines to build a bipartisan consensus to pass a prescription drug beneifit for those Americans on Medicare, which would benefit them, not the drug companies. {APPLAUSE} 
+
+I've launched efforts to save our everglades, our coast and beaches {APPLAUSE} , our scenic and wild rivers, and our wetlands. 
+
+That's not just my promise -- that is the promise of America. {APPLAUSE} 
+
+I'm running for President to bring back a focus on America's security. 
+
+In the Senate, I helped to mandate the first federal standards in our nation's history for our nation's ports, spearheaded the investigation of September the 11th, and even before that tragedy, started the process of strengthening and reforming our intelligence agencies. {APPLAUSE} 
+
+Friends, as President, I will make sure that homeland defense consists of more than just plastic wrap. {APPLAUSE} 
+
+That is not just my promise -- that is the promise of America. {APPLAUSE} 
+
+Friends, as president, I will bring back the values of our past and the promise of our future. {APPLAUSE} 
+
+And most of all I will bring us back together as one America. {APPLAUSE} 
+
+In our America, people at the top don't play by a different set of rules. 
+
+In our America, we all work together. 
+
+In our America, leaders listen. {APPLAUSE} 
+
+I've spent my life listening to the voices of America. 
+
+I've spent it working with America's people. 
+
+I've worked construction; I've taught in schools; I've worked as a short-order cook, a security guard and a long-haul trucker; I've worked on the docks and on the assembly lines. 
+
+I'm proud that many of the people I've worked with side-by-side over the years are here with us today. Thank you. {APPLAUSE} 
+
+And just as they are standing with me today, throughout my career I have stood for them. {APPLAUSE} 
+
+Working with Americans has meant learning from Americans. 
+
+At a time when we have a president who does not share the problems, does not share the concerns of most Americans, but favors special interests over their own, it exemplifies the values to which we must return. {APPLAUSE} 
+
+Those are the values I was raised with in the days when this community was still a farm and in many ways Florida was still a frontier. 
+
+My father was a dairy farmer. 
+
+He worked from sun to sun to carve his livelihood out of the edge of the Everglades. Only 5 miles from this spot, he taught me how to work, the value of work, and how to love work. 
+
+He taught me how to protect a dollar -- to build a new community, this community that remains my home today. {APPLAUSE} 
+
+Adele and I and our 4 daughters all graduated from the public schools. 
+
+Our grandchildren {APPLAUSE} Our grandchildren of school age currently attend public schools. {APPLAUSE} 
+
+My mother, my wife, and two of my daughters have all been public school teachers. {APPLAUSE} 
+
+They have constantly reminded me of the importance of education and of opportunity -- to each and every child...to all Americans. {APPLAUSE} 
+
+Most of all, here at home I learned the importance of family. 
+
+The greatest influences on my life were my father and my mother. 
+
+My greatest counselors and advisors have been my brothers. 
+
+My greatest source of support has been my wife of 44 years, Adele. {APPLAUSE} 
+
+And the greatest inspiration of all is our four daughters -- Gwen, Cissy, Suzanne, and Kendall {APPLAUSE} -- and now our 10 grandchildren. {APPLAUSE} Friends, they represent the future. 
+
+This election is about their future -- and the future of every child, every town and city, in every family across America. 
+
+That's why this election is so important. 
+
+That's why I'm running. 
+
+That's why I ask you to join me in bringing America back to its historic role -- one nation -- under God -- indivisible -- with liberty -- and justice -- for all. {APPLAUSE} 
+
+Friends, that truly is the promise of America. 
+
+Thank you and God Bless America! {APPLAUSE} 
+
+{/speech} 

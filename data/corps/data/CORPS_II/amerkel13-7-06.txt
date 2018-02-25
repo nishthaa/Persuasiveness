@@ -1,0 +1,22 @@
+﻿{title} President Bush Welcomed by Chancellor Merkel in Germany {/title}
+{event} Stralsund Market Square, Stralsund, Germany {/event}
+{speaker} Angela Merkel {/speaker}
+{date} July 13, 2006 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mrs. Bush, Minister President, Lord Mayor, ladies and gentlemen, citizens of Stralsund, let me say that I am delighted to be able to welcome you on behalf of the representatives of the land, and also of the city. I'm delighted to welcome most warmly the President of the United States of America. Mr. President, a very, very warm welcome to you. {APPLAUSE}
+
+Mr. President, I'm delighted to be able to welcome you here in this part of our country that I can truly call my political home, the Hanseatic City of Stralsund. Stralsund was part of the League of Hanseatic Cities -- that is to say it is imbued with a spirit of openness to the rest of the world. And in 1989, it was also one of the many cities where on Monday demonstrations took place, where people went out into the streets to demand freedom, to demonstrate for freedom. And we're happy to say in these days it is part of the land of Mecklenburg-Vor Pommern and also part of the Federal Republic of Germany.
+
+And I think that this is a very good opportunity, indeed, to say a word of thanks -- thank you for the contribution, for the support that we have enjoyed throughout from the people of the United States of America, from the American government, to help us along the way towards German unification. I think we owe you a big debt of gratitude for being able to finally live within one country in peace and freedom; one country -- Germany. {APPLAUSE}
+
+I think one can safely say that ever since we were able to achieve German unity a lot has happened, and, indeed, Stralsund is a case in point. If you look at the fact that when the GDR finally collapsed you had about 600 monuments here of historic importance in the city, itself, that were slowly decaying, that were slowly in ruins, and part of them have been restored over time. But there are still quite a lot of problems that remain to be solved. One of them, obviously, is the fairly high unemployment in this particular part of the country, the need for economic progress and economic upturn. And this is why I am also delighted to have you here, to show you here in my constituency what it means when people try to take their own fate, their own future into their own hands and try to turn it to something positive, they are willing to work for the future of the city, for the future of this region.
+
+And I think it also clearly illustrates what we can do together in order to confront the international dangers, the threats at an international level that are common to us all, and that we can do in order, together, work for peace and freedom for our two countries.
+
+Yet again, a very, very warm welcome to you, Mr. President. {APPLAUSE} 
+
+{/speech}

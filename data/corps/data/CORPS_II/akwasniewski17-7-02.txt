@@ -1,0 +1,28 @@
+﻿{title} President Bush Welcomes President of Poland for State Visit {/title}
+{event} Arrival Ceremony, The South Lawn {/event}
+{speaker} Aleksander Kwaśniewski {/speaker}
+{date} July 17, 2002 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} Remarks by President Bush and President Kwasniewski in Arrival Ceremony {/description}
+
+{speech} 
+
+Mr. President, Ms. Laura Bush, ladies and gentlemen, I wish to express cordial thanks to President George Walker Bush for having invited me to pay an official visit to the United States of America. I have arrived here with readiness and joy you feel when you come to meet your best friend. The President's cordiality reconfirms my faith in good future of Polish-American friendship, lasting over 200 years. Never before have we had so much in common, and never before has so much resulted from these bonds. Today, Poland and the United States, despite big geographical distance, are partners and allies.
+
+Mr. President, First Lady, ladies and gentleman, I wish to note with pride that for some time we Poles have been bringing good news to America. Our country has undergone deep internal transformation. We are a democratic country, politically and economically stable. Soon Poland will become a member of the European Union. We are a country that shares its success and experience with others to make the whole Central, Eastern and Southern Europe the area of close cooperation and secure development, an enlarged NATO and enhanced partnership with Russia.
+
+We are impressed by American ideals, fascinated by American achievements. It is a satisfaction to us that American citizens of Polish origin have largely contributed to the success of the United States. I greet all of you here in front of White House. {APPLAUSE}
+
+We are grateful to America, you, Mr. President, and your predecessors, for good will and help we have been receiving in Poland for dozen of years -- in all our efforts. Poland is steadfast ally of the United States. We take over the co-responsibility for European and global security. On the 11th of September, all of us felt New Yorkers. {APPLAUSE}
+
+Two months later, on my initiative, we organized in Warsaw a conference on combating terrorism in which 17 heads of state and government from our region of Europe participated. We have undertaken giant efforts to make sure that there is no place in the world for terrorist madmen. {APPLAUSE}
+
+Poles understand very well that freedom means readiness to defend values we treasure. Throughout the centuries, we have often fought for our freedom, and yours also in the American continent. Today our soldiers serve in numerous peace operations, from the Balkans, through the Middle East, to Afghanistan. It is our contribution to the defense of American and Polish future.
+
+Once again, thank you for the invitation, and I wish to assure you, Mr. President, that Poland as a part of Europe having vital interest in reinforcing strong transatlantic bonds, shall cooperate with the United States. The United States and Poland can do much individually, but together they can achieve much more.
+
+Our conviction and faith that what we are doing is right, we are taking largely from the example of the United States. In its policy, we find confirmation that these values are not an empty slogan, but a living motto: substance of everyday life, and the only axis of good. {APPLAUSE}
+
+From Poland, a country that is far, but also so close, I'm bringing best greetings and wishes to the President, to First Lady, to all Americans, and the whole America. God bless America. {APPLAUSE} 
+
+{/speech}

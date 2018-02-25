@@ -1,0 +1,32 @@
+﻿{title} Speech at British Residence (banquet) {/title}
+{event} British Residence (banquet) {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} February 20, 1985 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Dinner began at 1930. President Reagan spoke after MT. {/description}
+
+{speech} 
+
+It is a very special occasion indeed and a great honour to Britain when the President of the United States and the First Lady, together with such a glittering company, come to dinner at Her Majesty's Ambassador's residence. We welcome you here this evening, Sir. {APPLAUSE}
+
+In this year 1985, it adds splendour to an important anniversary in our relations. In 1785, John Adams, the first American envoy to Britain, was formally received by King George III, and thus opened 200 years of diplomatic relations between our two countries.
+
+Of course, there have been a few changes in diplomacy since then, and I am told there is a Memorandum surviving in the Smithsonian from President Jefferson to his Secretary of State, in which he wrote as follows: "We have not heard anything from our Ambassador to France for three years. If we do not hear from him this year, let us write him a letter."
+
+Of course, American Ambassadors in London have been much more communicative than American Ambassadors in Paris, but no doubt, Charlie Price was such a good ambassador to London and Oliver Wright, who I believe is such a good ambassador here {APPLAUSE} sometimes wish they still lived in such an easy-going world.
+
+I have discovered another interesting fact. American ambassadors to London tend to go places. Five of them including John Adams and his son, became President of the United States and eight became Secretaries of State. Well, Charlie , we will be watching you … ., but for the avoidance of doubt, Geoffrey Howe and I would like to remind Oliver Wright that there is no such tradition with our … .
+
+Perhaps I should also mention that 1985 marks the 200th anniversary of a famous British institution, the "Times" newspaper, and one of the first reports carried by the "Times" shortly after its launching was of the reception given to John Adams when he presented his credentials, not that John Adams himself found that an exactly comfortable occasion. What worried him most was that he would have to make a complimentary speech about King George III and that was not calculated to endear him to the folks at home at that time!
+
+But this evening, Mr. President, I have no such inhibitions about being complimentary about everything about the United States. We in Britain think you are a wonderful President {APPLAUSE} and from one old hand to another, welcome to a second term! {APPLAUSE} And Denis will be saying exactly the same to Nancy and neither of us could have done what we have done without them. {APPLAUSE} 
+
+I remember with pride and with gratitude many occasions we have shared during your first term: the Williamsburg Summit, with all its pageantry and history; your powerful and moving address to the assembled Lords and Commons in London in the Royal Gallery; your visit to us last year for the London Economic Summit; and most recently, my expedition to Camp David. We have always found it easy to discuss great matters together. We see so many things in the same way. We share so many of the same goals, and a determination to achieve them, which you summed up so well and alas, I cannot imitate this wonderful American English accent ... "you ain't seen nothing yet".
+
+Mr. President, over the 200 years that our countries have dealt with each other, it has not always been plain sailing, but one thing has not changed: the joint common sense which is an essential part of our common heritage has always led the two governments to resolve their differences and to work constructively together for our common purpose. Our joint interest prevails and I know they will continue to prevail. There is a union of mind and purpose between our peoples which is remarkable and which makes our relationship truly a special one. I am often asked if it is special, and why, and I say: "It is special. It just is and that is that!"
+
+As Winston once said— Winston Churchill—"The experience of a long life and the promptings of my blood, have wrought in me the conviction that there is nothing more important for the future of the world than the fraternal association of our two peoples in righteous work, both in war and peace!" No-one could put it better than that.
+
+Let us look forward with confidence to the next 200 years of Anglo-American friendship, to an enduring and confident alliance and to peace and freedom for today's and future generations. May I ask you to rise and drink a toast—the President of the United States of America—the President! 
+
+{/speech}

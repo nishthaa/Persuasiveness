@@ -1,0 +1,40 @@
+﻿{title} Remarks by the President in Announcement of Patsy Fleming as the Director of the Office of National Aids Policy {/title}
+{event} The Roosevelt Room {/event}
+{speaker} Patsy Fleming {/speaker}
+{date} November 10, 1994 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you, Mr. President and Donna Shalala, for those gracious words and for the opportunity to serve you and the nation.
+
+For the first 12 years of the AIDS epidemic, I stood outside the administration looking in, banging on the doors of a bureaucracy that too often turned a deaf ear to the cries of the American people.
+
+One of the doors I banged the loudest is the one on this building, the seat of government. Today, I am proud to stand here beside you inside the door.
+
+In less than two years' time, Mr. President, you have changed the dynamic of the national debate over HIV and AIDS, replacing confrontation with cooperation, lethargy with energy, and apathy with passion. Like many Americans, AIDS has changed my life. The utter horror of the AIDS epidemic has reinforced my need to be an activist. For that I am grateful.
+
+But AIDS has also forced me to attend too many funerals, to hold the hands of too many grieving friends and family members, and to participate in too many candlelight vigils. For that I am angry. I'm angry because as an African American, as a woman, and as the mother of three sons, I know all too well the threat that HIV poses for every American. That's why I'm so eager to take on the challenge that you have given me.
+
+I want to thank you and members of the AIDS community for convincing me that this a job worth doing, and that I am the one to do it. And I must add that Secretary Shalala, my mentor, played a major role in that convincing. {LAUGHTER}
+
+My task is to make sure that our brilliant scientists and public health experts have a clear path, and I will fight for the resources they need to stem the spread of HIV and ultimately to find a cure for AIDS.
+
+Sadly, we do not yet have the answers to many of the challenges posed by HIV. This year, every day, an average of 90 Americans will die of AIDS-related conditions. We do have the knowledge to prevent the spread of HIV, yet an estimated 40,000 are infected every year.
+
+The trends are particularly troublesome among women, people of color and adolescence. While the rate of increase among gay men has lessened, AIDS still tears at the core of that population, particularly young gay men.
+
+Mr. President, like you, I am particularly concerned with our young people, who it seems are increasingly tuning out the prevention message. Today, one in four new HIV infections is among people under the age of 20. We must find a way to break through the barriers of denial that keep our young people from protecting themselves. That will be a top priority for me.
+
+We must also empower women to protect themselves instead of requiring them to rely on their partners. And we must work very hard to guarantee the human rights of people living with HIV in this country and in countries around the world. A disease is no excuse for discrimination.
+
+Each of us is the product of our experience. And I have been blessed with two important mentors in my career. For 10 years I worked with Congressman Ted Weiss, a man of uncommon courage. From him I learned the need to have a set of core values, chief among which is respect for human rights and a recognition of the needs of the disenfranchised. Both are vital to this job.
+
+For the last two years, I've worked with and learned from one of the most ardent voices in the battle against AIDS. Secretary Shalala has prepared me well for this job, and I look forward to continuing our close relationship.
+
+Mr. President, we have a great deal of work to do. I'm ready to roll up my sleeves and begin working for you and for the people of this country.
+
+Thank you. 
+
+{/speech}

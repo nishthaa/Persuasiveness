@@ -1,0 +1,32 @@
+﻿{title} Remarks by President Clinton, Vice President Gore, Chairman Yasser Arafat, Prime Minister Yitzhak Rabin, President Hosni Mubarak, and King Hussein I at Reception for Heads of State {/title}
+{event} The Corcoran Gallery, Washington, D.C. {/event}
+{speaker} Yitzhak Rabin {/speaker}
+{date} September 28, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+President Clinton, King Hussein, President Mubarak, Chairman Arafat, Prime Minister, Foreign Ministers, and allow me to single out my partner for peace, the Foreign Minister of Israel, Shimon Peres. {APPLAUSE}
+
+You know I am Jewish, I am an Israeli, and in our tradition there is a saying that what is a Jewish sport? And the saying is, speechmaking. {LAUGHTER} I start to believe, Chairman Arafat, that you are close to being Jewish. {LAUGHTER ; APPLAUSE} 
+
+It's a unique opportunity, and I speak frankly: no doubt the United States, President Clinton is a friend of Israel. But, the President -- King Hussein, the President of Egypt, Chairman Arafat, represent two countries, two peoples that I fought with them for many years. And the fighting was very bitter once. And on both sides were casualties; there was pain, tears, losing people. And, always, I've asked myself, was it -- is it necessary? There can be no solution to the problem. There can be no reconciliation -- not recognition. And it took too long to all sides. And I would like to give the credit to Egypt that led the Arab world towards us and led the Arab world to peace with us. {APPLAUSE}
+
+I would like to pay great respect to King Hussein. {APPLAUSE} King Hussein of Jordan that, after a long time, in the meantime, we have found ways to talk one to another. I would not tell this story when we came to Washington for the Washington Declaration. And President Clinton, King Hussein and myself, we all moving to the lawn, and he turned to us and asked, "For how long do you know each other?" I would not answer the question. {LAUGHTER} But it's more than 15 years. {LAUGHTER}
+
+And now, what was considered to be and still might be the most complicated path of the whole Arab-Israeli conflict, the Palestinian-Israeli conflict, the longest one -- at least 100 years long; the most loaded with prejudices, animosity, hatred, bloodshed; and the most difficult to solve. And we have solved it.
+
+Two years ago, over two years ago, by the government that realizes regardless of the misconceptions, the hatred, the backload of painful, to try to see to what extent there can be a peaceful coexistence in the same piece of land that both sides claimed in the past, might claim in the future, to be their own; to what extent we can reach understanding that a solution is not that only one will get all, and there should be a compromise.
+
+I believe the present government of Israel -- Foreign Minister Peres, myself -- trying to find a way how the two peoples -- and I recognize that there are two peoples -- in what used to be the British {COMMENT="Inaudible"} Palestine, the land of Israel. There can be compromise and reach the two entities -- Israel as a Jewish independent state and a Palestinian entity next to us, not under our rule, independent -- {APPLAUSE} -- can live together. And, if I may add, that Israel, the Palestinian entity and Jordan can form a new framework which no diplomat or a professor of a university could devise in which the three of us can work together because there is unique interrelationships between the three.
+
+This is our goal. This is where we go. This is what we try to pursue phase by phase. And the agreement that we signed today was another major step towards this goal -- separation, not because of hatred, because of respect -- a Palestinian entity in which they rule themselves by themselves, Israel as a Jewish independent state, and Jordan, the closest to us, with always the help of Egypt. {APPLAUSE}
+
+And this is where we go. I've seen too much fighting, too much bloodshed, development of animosity, development of extreme interreligious or nationalistic positions that try to discriminate those who oppose you or not belong to you.
+
+And we, the Jewish people, live today between Rosh Hashana and Yom Kippur, in our tradition is the period of soul-searching. And I believe by doing it, this, in these days of soul-searching, represents a new direction in the policy of Israel. Policy of peace. Policy of opposition to any use of force or terror against us. We are a strong country. We are thankful to the United States for helping to be strong. We negotiate peace from the standpoint of strength and respect to the others.
+
+Therefore, thank you very much. Thank you, Mr. President. You helped us. And I'll never forget, once I sent to you a letter in which I said to you: Israel is ready to take risks for peace. And your answer to me in writing was -- and I'll never forget, because you continue to fulfill it -- that the United States will try to minimize the risks of Israel taking for peace. And you have done so. And for that, thank you very much. {COMMENT="Inaudible"} {APPLAUSE} 
+
+{/speech}

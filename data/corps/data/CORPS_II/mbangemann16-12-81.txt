@@ -1,0 +1,30 @@
+﻿{title} Speech to the European Parliament (British Presidency) {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Martin Bangemann {/speaker}
+{date} December 16, 1981 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Madam President, I too would like to thank the President of the European Council, whose visit opens a new chapter in the relationship between the European Parliament and the European Council. Thanks have already been expressed by others but I hope the President will also accept the small liberal flower which I add to this large bouquet.
+
+I hope so all the more because I have a number of critical comments to make, not as regards the goodwill of the British Presidency and of course not as regards the personal will of the President herself, but as regards the results of the endeavours so far. You rightly pointed out that the problems which exist between us must be solved by ourselves and you referred to the problem of Community financing.
+
+Well, the first step is to reach agreement on basic issues—here too there are some points on which the European Council is still undecided. Is it not true, Madam President, that if the Community is to act jointly to combat unemployment it must also have the necessary means at its disposal? {APPLAUSE} 
+
+It is not true that in using these means the Community is not misappropriating national funds but is using its own resources to solve its own problems on the basis of solidarity? {APPLAUSE} 
+
+You referred to Parliament in what I think was a somewhat ironic context when you pointed out that in the history of parliamentary systems parliaments have always hindered governments from spending money. I should like to follow up this line of thought—I assume this is what you had in mind when you referred to us—i.e. we are the Parliament that compels governments to spend money. However, Madam President, we are not doing this simply to spend money for its own sake but because we must prove to our citizens that Community solidarity exists, as otherwise they will lose their faith in the Community! {APPLAUSE} 
+
+I believe in the Commission's goodwill. I believe in your personal goodwill. But you say yourself that the Commission submitted a report on the four problems of milk, the Mediterranean, agriculture and the unacceptable budget situation. You were not able to agree and so you passed the report on to the Foreign Ministers. The Foreign Ministers were unable to agree and now they have requested the President of the Commission to submit a new report. I do not wish to be impolite—you quoted Edmund Burke—but imagine the satire which Swift would have created out of this situation. {LAUGHTER ; APPLAUSE} 
+
+I would like you to show the same courage as our colleague Berlinguer here today—and I would like to thank him wholeheartedly for the frankness with which he spoke on the Polish problem. {APPLAUSE}
+
+All of us in this Parliament are willing to help you. However, we wish that a Head of Government, a Foreign Minister, a Minister for Internal Affairs, a Minister for Economics, a Minister for Agriculture would for once have the courage to speak so openly.
+
+You speak of European Political Cooperation. What does the European Council say to the fact that the Foreign Minister of an important Member State has reneged on the Venice Declaration? You speak of political cooperation. What do you say to the fact that the Prime Minister of an important country—the same one—has suddenly adopted a different standpoint on Portugal and Spain than the one already agreed on in the context of European Political Cooperation. What is your opinion on that? {APPLAUSE}
+
+Madam President, we are interested in Europe just as much as you are. We want it to move forward. This is also why we were elected; we have a mandate from the peoples of this Community and we want to fulfil it. We need your help, but not only in the form a goodwill: we need deeds to support this Community, because this is what its citizens expect and this is what they are entitled to! {APPLAUSE} 
+
+{/speech}

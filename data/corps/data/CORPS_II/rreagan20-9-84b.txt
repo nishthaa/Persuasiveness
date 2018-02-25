@@ -1,0 +1,60 @@
+﻿{title} Remarks and a Question-and-Answer Session With Farmers in Norway, Iowa {/title}
+{event} Brockschink farm, Norway, Iowa {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} September 20, 1984 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Thank you all very much. I thank you. I thank Jack Block, also. He's been, I think, a very fine Secretary of Agriculture, and I know his heart is really in what he's doing.
+
+Governor Branstad, and the Members of the Congress that are here with us, our Senators:
+
+Before I begin the remarks that I intended to make today, I'd like to repeat something that I said at the airport when I came in -- that's a few words about the cowardly act of terrorism that we learned of early this morning.
+
+The suicide attack against our Embassy annex in East Beirut has saddened us all, of course, and it's another painful reminder of the persistent threat of terrorism in the world. I've talked with our Ambassador, Reg Bartholomew. He was in the hospital, and I was in the plane on the way here when we talked. He's injured, himself, but he said it was not serious and, actually, he walked out of the Embassy after the explosion and walked to the hospital on his own. He's quite a guy. And he expressed pride on behalf of all the people that are serving there with him.
+
+But in this moment of anger and sorrow, our prayers are with those who are bereaved, while our commitment to the cause of peace remains firm. And I'm proud, as all Americans should be proud, I think, of the brave Americans who are serving us in the Foreign Service all over the world in the cause of peace for people everywhere.
+
+But now, I want to thank the Brockschink family for being so kind to invite us here today in the midst of this busy time for all of you. I have a few things I'd like to say, and then I'd be very pleased to take your questions for a period of time.
+
+First, with the hard work and great courage of our people, the farmers' number one market is coming back. America in September of 1984 is moving forward with an economic expansion that's given birth to 6 million jobs -- new jobs -- and new hope. We're a stronger nation today than we were 4 years ago.
+
+And second, while we welcome that progress, we know it's incomplete. Too many of you have yet to benefit from it, and we won't be satisfied until you do.
+
+My third point is, even though your road to prosperity's been longer and the grade is steep, we're moving in the right direction again, and we're closer to our goal than we were.
+
+{COMMENT="The President was briefly interrupted by the noise of a plane flying overhead"} 
+
+I hope it's one of ours. {LAUGHTER}
+
+In January 1981, we were left the legacy of record inflation, record interest rates, the highest peacetime tax burden in history, and a farm embargo that had inflicted terrible damage not just on short-term sales, but on our long-term reliability and credibility as a supplier. Well, all the initiatives that we've taken since our first days in office -- and that we'll continue to pursue -- have been aimed at getting to the root of your problems to help family farmers and ranchers turn things around for good.
+
+How have we tried to help the family farmers who, day-in, day-out, probably face greater difficulties than any other group in our country? Well, by bringing down inflation, which had destroyed the profitability of farming in 1980. We went from one of the largest 2-year increases ever in prices that farmers paid in '79 and '80 to the smallest 2-year rise in 15 years in 1982 and '83. And the most recent inflation rate has been at 2.9 percent. If we had to go back and take the whole year getting to that point, why, it's down around 4.0 percent.
+
+But we won a long-overdue change in our tax laws that will protect thousands of widows and children from losing what generations of love and toil have created. The estate tax exemption will increase to $600,000 by 1987 and, of even greater help, there will be no estate tax for a surviving spouse.
+
+We ended the unfair, unwise grain embargo. And my opponent now says he opposed the embargo privately, but the record shows that he supported it publicly and enthusiastically.
+
+Well, we ended the embargo, and we've reestablished our sales to the point where, since last October, the Soviets have bought 23 million metric tons of grain. And, as you may know, I approved raising the ceiling so that they may buy an additional 10 million tons in the next year. And we'll raise the ceiling again if they use those up.
+
+We're aggressively moving to open up other markets that had been restricted. We reached agreement with Japan to double its purchase of Amercian beef exports over the next 4 years. And I think we have a friend there in the Prime Minister, Nakasone. He's got his political problems with his legislature, as I do with mine, but -- {LAUGHTER} -- he really is working in tandem with us.
+
+The effects of the grain embargo, combined with the bumper crops in '81 and '82, left us with huge carryover supplies. So, when action was stymied in Congress, we moved to develop the PIK program. And farmers set aside nearly 80 million acres and got paid in kind with reserve stocks. Now, that program and last year's drought cut the U.S. feed grain stocks by 73 percent.
+
+And we're trying to help tens of thousands of farm borrowers hold onto their farms and stay in farming. The Agriculture Department is lending money to 270,000 beginning farmers and farm borrowers who can't get credit elsewhere. And in the last 3 years, the USDA Farmers Home Administration has doubled its regular operating loans for farmers.
+
+And this week, we announced another major initiative to assist farmers trying to cope with debt burdens. The Farmers Home Administration will permit a deferral for 5 years of up to 25 percent of the principal and interest payments owed by farmers who need breathing room to return to a sound financial footing. And the deferrals will be made available on a case-by-case basis.
+
+And we want to assist those who do not participate in the FmHA programs, so Farmers Home will make available $630 million in guarantees of loans by private banks as part of rescheduling plans for troubled farmers.
+
+Our road is hard because the difficulties that built up were so great. But we've righted ourselves. We're moving forward again.
+
+And it puzzles me how some could already forget that only 4 years ago, they left the farmer stuck in the swamp. And I'm troubled that those who gave us the grain embargo, and the nightmare of double-digit inflation, and 21-percent interest rates don't seem to have learned their lesson. They're proposing what would amount to a new one-two punch against American farmers -- a massive protectionist program that would provoke foreign retaliation, particularly against our farm exports, and a massive tax increase that would hit nearly a million people who earn income from farming. And if all of their promises are fully funded, it would be the equivalent of more than $1,800 in taxes per household.
+
+Now, those are not my idea of friendship for farmers or fairness for farmers or a better future for farmers. They would reap a harvest of hardship and take us back to the past, to what has already failed. We firmly believe that the initiatives we're taking with you will make you stronger for the future.
+
+And now, rather than me going on with a monolog here, let me hear from you. I know that you may have some questions. I know that our time is very limited, but fire away. 
+
+{/speech}

@@ -1,0 +1,24 @@
+﻿{title} Remarks at White House Conference on Culture and Diplomacy {/title}
+{event} The East Room {/event}
+{speaker} Madeleine Albright {/speaker}
+{date} November 28, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+I have to say, you've talked about the fact that music travels. I have to tell you a story about an instrument that traveled.
+
+I was in Tashkent, Uzbekistan, following the Silk Route, and I found there a saxophone that had been brought to a Russian dealer by a Czechoslovak, and so they figured they had to sell it to me so that I could give it to the President -- {LAUGHTER} -- and thereby discovered that this original saxophone had been made in Austria in the '30s. So it had traveled, and the music that goes with it.
+
+I think very much the kinds of things that you have done offer some very practical suggestions for foreign policy practitioners. And we need to absorb what you have said. One of the programs that I think we are really proud of that we do in connection with the Kennedy Center, which is the Jazz Ambassadors. Because I do think that people think that we speak jazz here, and the First Lady already spoke about the importance of jazz in the Czech Velvet Revolution.
+
+I'm also very pleased with something that we initiated at the State Department was to have the Thelonious Monk organization come in and have a wonderful celebration before they actually go to the Kennedy Center. That has brought a lot of very different kind of people to the State Department from the normal diplomatic groups that we entertain. And I think that what needs to happen is to truly expand on the programs that you have discussed in a way of having more public-private partnerships, similar to the fund for U.S. artists at international festivals and the expositions that are cosponsored by our department and the NEA and the few charitable trusts and the Rockefeller Foundation.
+
+So I think that these very practical diplomatic measures that you've mentioned are something that we need to absorb more and more. I wanted to ask Minister Melandri a question, because you have in fact done a lot of work in trying to attract private support for cultural projects, and to create innovative programs within your country that really are very supportive of the arts.
+
+We talked about this a little bit last night at dinner, that we don't have a minister of culture or a ministry of culture per se, but we do have the National Endowment for the Arts and Humanities and the Educational Cultural Affairs Offices that we have at the State Department.
+
+I was wondering, you as Minister of Culture, what your recommendations are about how we can better integrate our cultural concerns into the day-to-day conduct of foreign policy, because frankly I don't quite see us being able to make the leap to have a Minister of Culture. But I think the ideas that you have would be very worth hearing about. 
+
+{/speech}

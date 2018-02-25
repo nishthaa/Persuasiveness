@@ -1,0 +1,44 @@
+﻿{title} Remarks at a Meeting of the White House Conference for a Drug Free America {/title}
+{event} Conference for a Drug Free America {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} February 29, 1988 {/date}
+{source} http://www.reagan.utexas.edu/ {/source}
+{description} The President spoke at 10:10 a.m. in the Regency Ballroom at the Omni Shoreham Hotel. In his opening remarks, the President referred to Lois H. Herrington, chairman and executive director of the Conference. {/description}
+
+{speech} 
+
+Thank you very much, Lois. And let me just say here how much Nancy and I admire the job Lois has been doing. On my desk in the Oval Office, I have a little sign that says: There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit. And I can't think of anyone who is a better example of that truth about quietly getting things done than Lois Herrington. Lois, I speak for everyone here in saying thanks for the great job that you do.
+
+
+
+All of us are here today to talk about the campaign for a drug free America. Now, I've said this once or twice in public and many times at home, but I can't say it too often. There are few things that I'm more proud of than the work Nancy has done in the fight against drugs. And in a moment I'll talk about money and law enforcement and so forth. They're important, no doubt, but Nancy has addressed something more fundamental. She's touched the conscience and consciousness of the Nation. She's helped teach hundreds of thousands of our young people to just say no to drugs and alcohol. Nancy, I'm so proud. And I'll confess that I've been nursing a little guilt, too. I'm the only one in the family the Government's paying. {LAUGHTER}
+
+
+
+We're fighting the crusade for a drug free America on many fronts. In the past 7 years, we've, for the first time ever, set up a coordinated Federal, State, and local campaign against drug smugglers. Among other things we've enlisted the military in the battle, including Navy ships and AWAC planes. We've also set up 13 Federal, State, and local strike forces to investigate and prosecute major drug rings. We've substantially increased the number of Federal prosecutors and agents. And we've strengthened the laws so that, for example, we can now dispose of property that was bought with drug money. We don't have to give it back.
+
+
+
+The results? Last year, Federal drug agents confiscated over half a billion dollars' worth of drug-related assets. They closed down 682 clandestine laboratories. And they seized 92,000 pounds of cocaine. These are all records. We've taken fleets of airplanes, boats, and trucks from smugglers and dealers. I visited Florida some time back and saw for the first time what $20 million looks like. It was piled up on a table, confiscated from drug dealers. I've heard stories of our planes tracking drug planes and landing right behind them on the runways, agents jumping out and making the arrest.
+
+
+
+To get around us, smugglers have had to find new ways of hiding their product. We've discovered drugs in hollowed out lumber and in bathrooms and luggage compartments in airplanes. One morning in Tennessee a man woke up and found a body in his driveway. It was wearing an unopened parachute and carried a large package of cocaine. An air smuggler had tried to elude pursuers by bailing out of his plane. Drug seizures are at an all-time high. Federal drug arrests have increased 66 percent. Arrests of major traffickers have tripled. And in the past 8 years, prison sentences for those convicted of drug law violations have increased by 44 percent, to an average of more than 6 years per sentence.
+
+
+
+And that's how we're fighting on what you might call the supply side of the crusade against drugs. But as significant as stopping smugglers and pushers is, ending the demand for drugs is how, in the end, we'll win. That's why the best news I've heard in a long time was the recently released annual survey of high school seniors. For 13 years we have asked thousands of graduating seniors what drugs they use, how often, and what they think about drug abuse. For the first time a substantially smaller proportion of the seniors -- one third smaller -- acknowledged current cocaine use than did the year before. Use of marijuana and amphetamines is also dropping. Better still, almost all students said it was wrong even to try a drug like cocaine.
+
+
+
+With all the headlines about how we're losing the drug war, let's keep in mind the progress we've made. Many drug-related problems now are not because more people are turning to drugs -- in fact, the number of users has leveled off and may be falling -- but because so many got hooked when the message went out that illegal drugs were acceptable.
+
+
+
+This conference couldn't have happened 8 years ago -- not enough people cared. Now almost everyone cares. Your communities are looking to you for leadership. So, let me ask you to take back home the message that illegal drugs are one thing no community in America can, should, or needs to tolerate -- in schools, in workplaces, in the streets, anywhere. America is already starting to take that message to heart. That's why I believe the tide of battle has turned, and we're beginning to win the crusade for a drug free America.
+
+
+
+Now, rather than go any further, I'll stop here. President Eisenhower once said that the great thing about this job was no one could tell you to sit down. {LAUGHTER} Well, almost no one. {LAUGHTER} Nancy, you're on. 
+
+{/speech}

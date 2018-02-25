@@ -1,0 +1,30 @@
+﻿{title} Speech to European Parliament {/title}
+{event} European Parliament, Strasbourg {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} December 9, 1986 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+We have set a target date of 1992 for realizing one of the Community's original goals: the creation of a genuine Common Market without barriers to trade between its members.
+
+The Single European Act agreed at Luxembourg brings up to date the Treaty of Rome. Britain was among the first to ratify the Act. {APPLAUSE}
+
+I hope that the other Member States will do so very soon so that it can enter into force on 1 January 1987.
+
+We have made a determined effort to see that the Community counts for more in foreign policy and in the strengthening of the open world trading system.
+
+These achievements have been matched by important changes in people's attitudes towards the Community. There is, I believe, a more down-to-earth approach, an understanding that the Community is not an intellectual concept but an institution to serve our citizens. That in turn has produced in governments a welcome determination to concentrate on practical goals. One consequence in Britain is that debate about whether we should belong to the Community has been replaced by lively discussion of how to improve its working. {APPLAUSE} 
+
+Mr President, we can take pride in the distance travelled. But we must also remember how far we still have to go. The Community is now launching itself on a course for the 1990s, a course which must make it possible for Europe to compete on equal terms with the United States and Japan. As individual countries we have the talent, we have the skills, we have the resourcefulness. What we need are strengths which we can only find together. We must be stronger in new technologies. We must have the full benefit of a single large market. We must have policies for sustained economic growth. We must have a strategy for encouraging enterprise which will create new jobs. We must face together the problems which we can only tackle effectively together—problems such as terrorism, drugs and AIDS.
+
+We must also adapt old policies to suit the changing times, so that they are not an unnecessary drain on Europe's vitality or its resources. This means above all action to deal with agricultural surpluses and to put agriculture on a more stable footing for the future. {APPLAUSE} 
+
+As recently as 1980 the Global 2000 Report to the President, produced for President Carter, concluded that world demand for food would increase steadily for 20 years, that world production would fall and that real food prices would double. Not for the first time the forecasters were proved wrong. Demand has grown as fast as the Global 2000 report anticipated. But supply has grown much faster in response to high support prices in Europe and more widely in response to technical improvement in yields.
+
+The problem today is unmarketable surpluses. Half the Community's total budget goes not for support which directly helps the farmer, but on storage and disposal of these surpluses. At the same time, those surpluses depress world prices and remove the incentive for farmers in developing countries to produce the food those countries need. That was no part of the original concept of the common agricultural policy. {APPLAUSE} 
+
+We cannot as a Community, any more than as a family, escape difficult choices between priorities. We all accept the need to preserve the health and vitality of the rural community and the prosperity of Europe's countryside ... 
+
+{/speech}

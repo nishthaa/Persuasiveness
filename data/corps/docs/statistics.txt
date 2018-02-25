@@ -1,0 +1,2643 @@
+Total number of words:7901893
+Temporal distribution: From 18/05/1917  To: 16/09/2010 
+
+{APPLAUSE}  46310
+{LAUGHTER}  14055
+{AUDIENCE}  1803
+{SUSTAINED APPLAUSE}  97
+{BOOING}  756
+{STANDING-OVATION}  51
+{SPONTANEOUS-DEMONSTRATION}  313
+{CHEERS}  234
+{AUDIENCE-MEMBER}  999
+{COMMENT}  787
+{OTHER-SPEAK}  404
+{LAUGHTER ; APPLAUSE}  1579
+{LAUGHTER ; CHEERS}  10
+{CHEERS ; APPLAUSE}  837
+{SUSTAINED APPLAUSE ; CHEERS}  5
+{CHEERS ; LAUGHTER ; APPLAUSE}  10
+{LAUGHTER ; BOOING}  1
+{SPONTANEOUS-DEMONSTRATION ; APPLAUSE}  11
+{SPONTANEOUS-DEMONSTRATION ; LAUGHTER}  2
+{SPONTANEOUS-DEMONSTRATION ; LAUGHTER ; APPLAUSE}  2
+{LAUGHTER ; STANDING-OVATION}  1
+{STANDING-OVATION ; APPLAUSE}  1
+{STANDING-OVATION ; SPONTANEOUS-DEMONSTRATION}  1
+{LAUGHTER ; SUSTAINED APPLAUSE}  1
+{SPONTANEOUS-DEMONSTRATION ; CHEERS}  2
+
+Total number of tags :68272
+Total number of tags without COMMENT :67485
+Tag density :0.00864
+Tag density without COMMENT:0.00854
+
+
+Andy Baumgartner
+	Number of speeches: 1
+	Temporal distribution: From 19/04/1999  To: 19/04/1999 
+	Number of words of this speaker: 442
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00452
+	Tag density for this speaker without COMMENT:0.00452
+
+Atal Behari Vajpayee
+	Number of speeches: 1
+	Temporal distribution: From 17/09/2000  To: 17/09/2000 
+	Number of words of this speaker: 466
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 2
+		{LAUGHTER}: 1
+		{APPLAUSE}: 6
+		{COMMENT}: 1
+	Total number of tags for this speaker :10
+	Total number of tags for this speaker without COMMENT :9
+	Tag density for this speaker:0.02146
+	Tag density for this speaker without COMMENT:0.01931
+
+Andrew Cuomo
+	Number of speeches: 1
+	Temporal distribution: From 20/12/1996  To: 20/12/1996 
+	Number of words of this speaker: 374
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00802
+	Tag density for this speaker without COMMENT:0.00802
+
+Alan Keyes
+	Number of speeches: 51
+	Temporal distribution: From 03/03/1995  To: 02/12/2006 
+	Number of words of this speaker: 243238
+	Tags:
+		{LAUGHTER}: 248
+		{APPLAUSE}: 523
+		{LAUGHTER ; CHEERS}: 3
+		{LAUGHTER ; APPLAUSE}: 21
+		{AUDIENCE}: 46
+		{CHEERS ; APPLAUSE}: 97
+		{SUSTAINED APPLAUSE}: 37
+		{COMMENT}: 23
+		{OTHER-SPEAK}: 1
+		{BOOING}: 5
+		{STANDING-OVATION}: 14
+		{SUSTAINED APPLAUSE ; CHEERS}: 1
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 1
+		{SPONTANEOUS-DEMONSTRATION}: 1
+		{AUDIENCE-MEMBER}: 1
+		{CHEERS}: 1
+	Total number of tags for this speaker :1023
+	Total number of tags for this speaker without COMMENT :1000
+	Tag density for this speaker:0.00421
+	Tag density for this speaker without COMMENT:0.00411
+
+Andrey Kozyrev
+	Number of speeches: 1
+	Temporal distribution: From 13/09/1993  To: 13/09/1993 
+	Number of words of this speaker: 334
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00898
+	Tag density for this speaker without COMMENT:0.00898
+
+Aleksander Kwasniewski
+	Number of speeches: 2
+	Temporal distribution: From 17/07/2002  To: 18/07/2002 
+	Number of words of this speaker: 1077
+	Tags:
+		{APPLAUSE}: 11
+	Total number of tags for this speaker :11
+	Total number of tags for this speaker without COMMENT :11
+	Tag density for this speaker:0.01021
+	Tag density for this speaker without COMMENT:0.01021
+
+Al From
+	Number of speeches: 1
+	Temporal distribution: From 25/04/1999  To: 25/04/1999 
+	Number of words of this speaker: 452
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00664
+	Tag density for this speaker without COMMENT:0.00664
+
+Al Gore
+	Number of speeches: 53
+	Temporal distribution: From 07/09/1993  To: 16/01/2006 
+	Number of words of this speaker: 134949
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 30
+		{LAUGHTER}: 172
+		{COMMENT}: 12
+		{OTHER-SPEAK}: 2
+		{APPLAUSE}: 654
+		{CHEERS ; APPLAUSE}: 21
+		{AUDIENCE}: 20
+		{CHEERS}: 14
+		{SUSTAINED APPLAUSE}: 12
+		{BOOING}: 3
+		{AUDIENCE-MEMBER}: 17
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :958
+	Total number of tags for this speaker without COMMENT :946
+	Tag density for this speaker:0.0071
+	Tag density for this speaker without COMMENT:0.00701
+
+Ann McLaughlin
+	Number of speeches: 1
+	Temporal distribution: From 17/12/1987  To: 17/12/1987 
+	Number of words of this speaker: 642
+	Tags:
+		{LAUGHTER}: 2
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00467
+	Tag density for this speaker without COMMENT:0.00467
+
+Angela Merkel
+	Number of speeches: 1
+	Temporal distribution: From 13/07/2006  To: 13/07/2006 
+	Number of words of this speaker: 487
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00616
+	Tag density for this speaker without COMMENT:0.00616
+
+Atta Mills
+	Number of speeches: 1
+	Temporal distribution: From 11/07/2009  To: 11/07/2009 
+	Number of words of this speaker: 160
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.0125
+	Tag density for this speaker without COMMENT:0.0125
+
+Ahmed Mohamed Kathrada
+	Number of speeches: 1
+	Temporal distribution: From 27/03/1998  To: 27/03/1998 
+	Number of words of this speaker: 1236
+	Tags:
+		{LAUGHTER}: 1
+		{OTHER-SPEAK}: 1
+		{COMMENT}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00405
+	Tag density for this speaker without COMMENT:0.00243
+
+Arturo Sarukhan
+	Number of speeches: 1
+	Temporal distribution: From 04/05/2009  To: 04/05/2009 
+	Number of words of this speaker: 816
+	Tags:
+		{APPLAUSE}: 2
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00368
+	Tag density for this speaker without COMMENT:0.00368
+
+Al Sharpton
+	Number of speeches: 5
+	Temporal distribution: From 21/01/2003  To: 03/02/2004 
+	Number of words of this speaker: 5632
+	Tags:
+		{LAUGHTER}: 11
+		{LAUGHTER ; APPLAUSE}: 7
+		{APPLAUSE}: 53
+		{CHEERS ; APPLAUSE}: 10
+		{COMMENT}: 14
+	Total number of tags for this speaker :95
+	Total number of tags for this speaker without COMMENT :81
+	Tag density for this speaker:0.01687
+	Tag density for this speaker without COMMENT:0.01438
+
+Bill Archer
+	Number of speeches: 1
+	Temporal distribution: From 10/10/2000  To: 10/10/2000 
+	Number of words of this speaker: 580
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00345
+	Tag density for this speaker without COMMENT:0.00345
+
+Brian Cowen
+	Number of speeches: 2
+	Temporal distribution: From 17/03/2009  To: 18/03/2010 
+	Number of words of this speaker: 1861
+	Tags:
+		{APPLAUSE}: 9
+		{LAUGHTER}: 12
+		{OTHER-SPEAK}: 1
+		{LAUGHTER ; APPLAUSE}: 1
+		{COMMENT}: 1
+	Total number of tags for this speaker :24
+	Total number of tags for this speaker without COMMENT :23
+	Tag density for this speaker:0.0129
+	Tag density for this speaker without COMMENT:0.01236
+
+Bill Daley
+	Number of speeches: 1
+	Temporal distribution: From 31/10/1997  To: 31/10/1997 
+	Number of words of this speaker: 1138
+	Tags:
+		{LAUGHTER}: 3
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00351
+	Tag density for this speaker without COMMENT:0.00351
+
+Billy Graham
+	Number of speeches: 1
+	Temporal distribution: From 02/05/1996  To: 02/05/1996 
+	Number of words of this speaker: 596
+	Tags:
+		{LAUGHTER}: 7
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :9
+	Total number of tags for this speaker without COMMENT :9
+	Tag density for this speaker:0.0151
+	Tag density for this speaker without COMMENT:0.0151
+
+Bob Graham
+	Number of speeches: 2
+	Temporal distribution: From 03/05/2003  To: 06/05/2003 
+	Number of words of this speaker: 2450
+	Tags:
+		{APPLAUSE}: 74
+		{COMMENT}: 2
+		{SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :77
+	Total number of tags for this speaker without COMMENT :75
+	Tag density for this speaker:0.03143
+	Tag density for this speaker without COMMENT:0.03061
+
+Bernard LaFayette
+	Number of speeches: 1
+	Temporal distribution: From 18/02/2005  To: 18/02/2005 
+	Number of words of this speaker: 1125
+	Tags:
+		{LAUGHTER}: 11
+		{LAUGHTER ; APPLAUSE}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :14
+	Total number of tags for this speaker without COMMENT :14
+	Tag density for this speaker:0.01244
+	Tag density for this speaker without COMMENT:0.01244
+
+Benjamin Netanyahu
+	Number of speeches: 1
+	Temporal distribution: From 01/09/2010  To: 01/09/2010 
+	Number of words of this speaker: 789
+	Tags:
+		{COMMENT}: 3
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00507
+	Tag density for this speaker without COMMENT:0.00127
+
+Bryce N. Harlow
+	Number of speeches: 1
+	Temporal distribution: From 09/10/1981  To: 09/10/1981 
+	Number of words of this speaker: 778
+	Tags:
+		{LAUGHTER}: 6
+		{COMMENT}: 1
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.009
+	Tag density for this speaker without COMMENT:0.00771
+
+Barack Obama
+	Number of speeches: 347
+	Temporal distribution: From 27/07/2004  To: 16/09/2010 
+	Number of words of this speaker: 788637
+	Tags:
+		{APPLAUSE}: 5925
+		{LAUGHTER}: 1947
+		{OTHER-SPEAK}: 98
+		{AUDIENCE-MEMBER}: 134
+		{LAUGHTER ; APPLAUSE}: 154
+		{BOOING}: 34
+		{AUDIENCE}: 147
+		{COMMENT}: 65
+		{CHEERS}: 10
+		{CHEERS ; APPLAUSE}: 16
+		{SPONTANEOUS-DEMONSTRATION}: 5
+	Total number of tags for this speaker :8535
+	Total number of tags for this speaker without COMMENT :8470
+	Tag density for this speaker:0.01082
+	Tag density for this speaker without COMMENT:0.01074
+
+Joe Biden
+	Number of speeches: 43
+	Temporal distribution: From 07/02/2009  To: 01/09/2010 
+	Number of words of this speaker: 93896
+	Tags:
+		{APPLAUSE}: 198
+		{LAUGHTER}: 159
+		{OTHER-SPEAK}: 3
+		{LAUGHTER ; APPLAUSE}: 6
+		{COMMENT}: 7
+		{AUDIENCE}: 5
+		{AUDIENCE-MEMBER}: 1
+	Total number of tags for this speaker :379
+	Total number of tags for this speaker without COMMENT :372
+	Tag density for this speaker:0.00404
+	Tag density for this speaker without COMMENT:0.00396
+
+Bruce Reed
+	Number of speeches: 1
+	Temporal distribution: From 20/12/1996  To: 20/12/1996 
+	Number of words of this speaker: 344
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00581
+	Tag density for this speaker without COMMENT:0.00581
+
+Bill Richardson
+	Number of speeches: 5
+	Temporal distribution: From 13/12/1996  To: 20/03/2006 
+	Number of words of this speaker: 7518
+	Tags:
+		{LAUGHTER}: 13
+		{APPLAUSE}: 9
+		{COMMENT}: 2
+		{LAUGHTER ; APPLAUSE}: 2
+		{CHEERS ; APPLAUSE}: 1
+	Total number of tags for this speaker :27
+	Total number of tags for this speaker without COMMENT :25
+	Tag density for this speaker:0.00359
+	Tag density for this speaker without COMMENT:0.00333
+
+Bob Smith
+	Number of speeches: 1
+	Temporal distribution: From 02/05/1999  To: 02/05/1999 
+	Number of words of this speaker: 1400
+	Tags:
+		{CHEERS}: 3
+		{LAUGHTER}: 4
+		{APPLAUSE}: 17
+		{SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :25
+	Total number of tags for this speaker without COMMENT :25
+	Tag density for this speaker:0.01786
+	Tag density for this speaker without COMMENT:0.01786
+
+Brian Wesbury
+	Number of speeches: 1
+	Temporal distribution: From 15/12/2004  To: 15/12/2004 
+	Number of words of this speaker: 927
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00108
+	Tag density for this speaker without COMMENT:0.00108
+
+Christian de La Malène
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 382
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{SPONTANEOUS-DEMONSTRATION}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.01047
+	Tag density for this speaker without COMMENT:0.01047
+
+Charles Everett Koop
+	Number of speeches: 1
+	Temporal distribution: From 20/09/1993  To: 20/09/1993 
+	Number of words of this speaker: 1688
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00296
+	Tag density for this speaker without COMMENT:0.00296
+
+Chuck Hagel
+	Number of speeches: 1
+	Temporal distribution: From 04/05/2005  To: 04/05/2005 
+	Number of words of this speaker: 3791
+	Tags:
+		{LAUGHTER}: 11
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :14
+	Total number of tags for this speaker without COMMENT :14
+	Tag density for this speaker:0.00369
+	Tag density for this speaker without COMMENT:0.00369
+
+Chris Jennings
+	Number of speeches: 1
+	Temporal distribution: From 22/09/2006  To: 22/09/2006 
+	Number of words of this speaker: 1111
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.0018
+	Tag density for this speaker without COMMENT:0.0018
+
+Carol Moseley Braun
+	Number of speeches: 1
+	Temporal distribution: From 21/02/2003  To: 21/02/2003 
+	Number of words of this speaker: 1513
+	Tags:
+		{APPLAUSE}: 16
+	Total number of tags for this speaker :16
+	Total number of tags for this speaker without COMMENT :16
+	Tag density for this speaker:0.01058
+	Tag density for this speaker without COMMENT:0.01058
+
+Charles Rangel
+	Number of speeches: 1
+	Temporal distribution: From 10/10/2000  To: 10/10/2000 
+	Number of words of this speaker: 632
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00475
+	Tag density for this speaker without COMMENT:0.00475
+
+Condoleezza Rice
+	Number of speeches: 36
+	Temporal distribution: From 17/06/2004  To: 02/12/2006 
+	Number of words of this speaker: 56527
+	Tags:
+		{LAUGHTER}: 51
+		{APPLAUSE}: 172
+		{COMMENT}: 5
+		{LAUGHTER ; APPLAUSE}: 4
+		{CHEERS}: 2
+		{OTHER-SPEAK}: 1
+		{AUDIENCE-MEMBER}: 1
+	Total number of tags for this speaker :236
+	Total number of tags for this speaker without COMMENT :231
+	Tag density for this speaker:0.00417
+	Tag density for this speaker without COMMENT:0.00409
+
+Coretta Scott King
+	Number of speeches: 1
+	Temporal distribution: From 27/04/1968  To: 27/04/1968 
+	Number of words of this speaker: 1337
+	Tags:
+		{APPLAUSE}: 17
+		{SUSTAINED APPLAUSE}: 3
+	Total number of tags for this speaker :20
+	Total number of tags for this speaker without COMMENT :20
+	Tag density for this speaker:0.01496
+	Tag density for this speaker without COMMENT:0.01496
+
+Dick Cheney
+	Number of speeches: 356
+	Temporal distribution: From 28/02/2001  To: 02/04/2007 
+	Number of words of this speaker: 903203
+	Tags:
+		{APPLAUSE}: 6992
+		{LAUGHTER}: 1835
+		{AUDIENCE-MEMBER}: 88
+		{COMMENT}: 73
+		{AUDIENCE}: 390
+		{BOOING}: 455
+		{LAUGHTER ; APPLAUSE}: 298
+		{OTHER-SPEAK}: 77
+		{LAUGHTER ; BOOING}: 1
+		{LAUGHTER ; CHEERS}: 1
+		{CHEERS}: 3
+		{CHEERS ; APPLAUSE}: 2
+	Total number of tags for this speaker :10215
+	Total number of tags for this speaker without COMMENT :10142
+	Tag density for this speaker:0.01131
+	Tag density for this speaker without COMMENT:0.01123
+
+Dick Gephardt
+	Number of speeches: 4
+	Temporal distribution: From 27/07/2000  To: 03/05/2003 
+	Number of words of this speaker: 7534
+	Tags:
+		{APPLAUSE}: 46
+		{LAUGHTER}: 1
+		{AUDIENCE}: 1
+		{CHEERS ; APPLAUSE}: 6
+		{COMMENT}: 3
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :58
+	Total number of tags for this speaker without COMMENT :55
+	Tag density for this speaker:0.0077
+	Tag density for this speaker without COMMENT:0.0073
+
+Dennis Hastert
+	Number of speeches: 1
+	Temporal distribution: From 10/10/2000  To: 10/10/2000 
+	Number of words of this speaker: 561
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00535
+	Tag density for this speaker without COMMENT:0.00535
+
+Dorothy Height
+	Number of speeches: 1
+	Temporal distribution: From 18/02/2005  To: 18/02/2005 
+	Number of words of this speaker: 2014
+	Tags:
+		{APPLAUSE}: 5
+		{LAUGHTER}: 2
+		{COMMENT}: 4
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :12
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00596
+	Tag density for this speaker without COMMENT:0.00397
+
+Donald H. Rumsfeld
+	Number of speeches: 1
+	Temporal distribution: From 13/05/2003  To: 13/05/2003 
+	Number of words of this speaker: 700
+	Tags:
+		{APPLAUSE}: 4
+		{LAUGHTER}: 4
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.01143
+	Tag density for this speaker without COMMENT:0.01143
+
+Duncan Hunter
+	Number of speeches: 1
+	Temporal distribution: From 30/10/2006  To: 30/10/2006 
+	Number of words of this speaker: 1769
+	Tags:
+		{CHEERS}: 3
+		{CHEERS ; APPLAUSE}: 7
+		{APPLAUSE}: 2
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :13
+	Total number of tags for this speaker without COMMENT :13
+	Tag density for this speaker:0.00735
+	Tag density for this speaker without COMMENT:0.00735
+
+Dennis J. Kucinich
+	Number of speeches: 5
+	Temporal distribution: From 22/02/2003  To: 12/12/2006 
+	Number of words of this speaker: 9101
+	Tags:
+		{APPLAUSE}: 40
+		{AUDIENCE-MEMBER}: 1
+		{CHEERS ; APPLAUSE}: 2
+		{OTHER-SPEAK}: 1
+		{LAUGHTER}: 4
+		{COMMENT}: 3
+		{CHEERS}: 23
+		{AUDIENCE}: 6
+		{BOOING}: 2
+		{SPONTANEOUS-DEMONSTRATION}: 4
+	Total number of tags for this speaker :86
+	Total number of tags for this speaker without COMMENT :83
+	Tag density for this speaker:0.00945
+	Tag density for this speaker without COMMENT:0.00912
+
+Dick Rutan
+	Number of speeches: 1
+	Temporal distribution: From 29/12/1986  To: 29/12/1986 
+	Number of words of this speaker: 217
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00922
+	Tag density for this speaker without COMMENT:0.00922
+
+David Sandalow
+	Number of speeches: 2
+	Temporal distribution: From 17/09/2005  To: 22/09/2006 
+	Number of words of this speaker: 1592
+	Tags:
+		{APPLAUSE}: 5
+		{LAUGHTER}: 1
+		{CHEERS ; APPLAUSE}: 1
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :7
+	Tag density for this speaker:0.0044
+	Tag density for this speaker without COMMENT:0.0044
+
+Demetrios Trakatellis
+	Number of speeches: 1
+	Temporal distribution: From 25/03/2009  To: 25/03/2009 
+	Number of words of this speaker: 820
+	Tags:
+		{LAUGHTER}: 3
+		{OTHER-SPEAK}: 2
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00976
+	Tag density for this speaker without COMMENT:0.00976
+
+David Trimble
+	Number of speeches: 1
+	Temporal distribution: From 13/12/2000  To: 13/12/2000 
+	Number of words of this speaker: 1033
+	Tags:
+		{APPLAUSE}: 8
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00774
+	Tag density for this speaker without COMMENT:0.00774
+
+Egon Alfred Klepsch
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 557
+	Tags:
+		{APPLAUSE}: 6
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.01077
+	Tag density for this speaker without COMMENT:0.01077
+
+Enrique Barón Crespo
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 1726
+	Tags:
+		{APPLAUSE}: 4
+		{SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.0029
+	Tag density for this speaker without COMMENT:0.0029
+
+Enrico Berlinguer
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 708
+	Tags:
+		{SUSTAINED APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00282
+	Tag density for this speaker without COMMENT:0.00282
+
+Eugene Debs
+	Number of speeches: 1
+	Temporal distribution: From 16/06/1918  To: 16/06/1918 
+	Number of words of this speaker: 12637
+	Tags:
+		{APPLAUSE}: 103
+		{LAUGHTER}: 43
+		{LAUGHTER ; APPLAUSE}: 10
+		{CHEERS ; APPLAUSE}: 9
+		{LAUGHTER ; CHEERS}: 1
+		{SUSTAINED APPLAUSE}: 4
+		{AUDIENCE}: 4
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 1
+		{CHEERS}: 1
+		{STANDING-OVATION}: 1
+	Total number of tags for this speaker :177
+	Total number of tags for this speaker without COMMENT :177
+	Tag density for this speaker:0.01401
+	Tag density for this speaker without COMMENT:0.01401
+
+Ezola Foster
+	Number of speeches: 1
+	Temporal distribution: From 12/08/2000  To: 12/08/2000 
+	Number of words of this speaker: 1874
+	Tags:
+		{CHEERS ; APPLAUSE}: 3
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+		{AUDIENCE}: 11
+		{CHEERS}: 13
+		{SPONTANEOUS-DEMONSTRATION}: 3
+		{SPONTANEOUS-DEMONSTRATION ; APPLAUSE}: 1
+	Total number of tags for this speaker :33
+	Total number of tags for this speaker without COMMENT :32
+	Tag density for this speaker:0.01761
+	Tag density for this speaker without COMMENT:0.01708
+
+Ernest Glinne
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 689
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00435
+	Tag density for this speaker without COMMENT:0.00435
+
+Emma Goldman
+	Number of speeches: 1
+	Temporal distribution: From 18/05/1917  To: 18/05/1917 
+	Number of words of this speaker: 2407
+	Tags:
+		{APPLAUSE}: 24
+		{CHEERS ; APPLAUSE}: 1
+		{COMMENT}: 1
+	Total number of tags for this speaker :26
+	Total number of tags for this speaker without COMMENT :25
+	Tag density for this speaker:0.0108
+	Tag density for this speaker without COMMENT:0.01039
+
+Eric Holder
+	Number of speeches: 1
+	Temporal distribution: From 27/03/2009  To: 27/03/2009 
+	Number of words of this speaker: 1082
+	Tags:
+		{LAUGHTER}: 3
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00462
+	Tag density for this speaker without COMMENT:0.00462
+
+Elena Kagan
+	Number of speeches: 1
+	Temporal distribution: From 06/08/2010  To: 06/08/2010 
+	Number of words of this speaker: 551
+	Tags:
+		{APPLAUSE}: 2
+		{LAUGHTER}: 4
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :7
+	Tag density for this speaker:0.0127
+	Tag density for this speaker without COMMENT:0.0127
+
+Eric Lander
+	Number of speeches: 1
+	Temporal distribution: From 12/10/1999  To: 12/10/1999 
+	Number of words of this speaker: 2442
+	Tags:
+		{APPLAUSE}: 2
+		{LAUGHTER}: 3
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00205
+	Tag density for this speaker without COMMENT:0.00205
+
+Emilio Mwai Kibaki
+	Number of speeches: 1
+	Temporal distribution: From 06/10/2003  To: 06/10/2003 
+	Number of words of this speaker: 273
+	Tags:
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.01465
+	Tag density for this speaker without COMMENT:0.01465
+
+Ed Rollins
+	Number of speeches: 1
+	Temporal distribution: From 18/10/1982  To: 18/10/1982 
+	Number of words of this speaker: 214
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00467
+	Tag density for this speaker without COMMENT:0.00467
+
+Ellen Tauscher
+	Number of speeches: 1
+	Temporal distribution: From 09/06/2002  To: 09/06/2002 
+	Number of words of this speaker: 891
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00224
+	Tag density for this speaker without COMMENT:0.00224
+
+Ernesto Zedillo
+	Number of speeches: 1
+	Temporal distribution: From 11/10/1995  To: 11/10/1995 
+	Number of words of this speaker: 362
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 2
+		{COMMENT}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.01381
+	Tag density for this speaker without COMMENT:0.01105
+
+Felipe Calderon
+	Number of speeches: 1
+	Temporal distribution: From 19/05/2010  To: 19/05/2010 
+	Number of words of this speaker: 429
+	Tags:
+		{APPLAUSE}: 3
+		{COMMENT}: 2
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.01166
+	Tag density for this speaker without COMMENT:0.00699
+
+Franklin Delano Roosevelt
+	Number of speeches: 1
+	Temporal distribution: From 04/03/1933  To: 04/03/1933 
+	Number of words of this speaker: 1919
+	Tags:
+		{APPLAUSE}: 10
+		{CHEERS ; APPLAUSE}: 6
+		{COMMENT}: 2
+	Total number of tags for this speaker :18
+	Total number of tags for this speaker without COMMENT :16
+	Tag density for this speaker:0.00938
+	Tag density for this speaker without COMMENT:0.00834
+
+Fernando Henrique Cardoso
+	Number of speeches: 1
+	Temporal distribution: From 20/04/1995  To: 20/04/1995 
+	Number of words of this speaker: 684
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00292
+	Tag density for this speaker without COMMENT:0.00146
+
+François Mitterrand
+	Number of speeches: 1
+	Temporal distribution: From 12/02/1986  To: 12/02/1986 
+	Number of words of this speaker: 1742
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00115
+	Tag density for this speaker without COMMENT:0.00057
+
+Federico Pena
+	Number of speeches: 1
+	Temporal distribution: From 20/12/1996  To: 20/12/1996 
+	Number of words of this speaker: 394
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00761
+	Tag density for this speaker without COMMENT:0.00761
+
+George Allen
+	Number of speeches: 1
+	Temporal distribution: From 25/06/2005  To: 25/06/2005 
+	Number of words of this speaker: 4037
+	Tags:
+		{APPLAUSE}: 11
+		{LAUGHTER}: 3
+		{LAUGHTER ; APPLAUSE}: 2
+	Total number of tags for this speaker :16
+	Total number of tags for this speaker without COMMENT :16
+	Tag density for this speaker:0.00396
+	Tag density for this speaker without COMMENT:0.00396
+
+Giovanni Cervetti
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 948
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00211
+	Tag density for this speaker without COMMENT:0.00211
+
+Gerald Ford
+	Number of speeches: 2
+	Temporal distribution: From 12/08/1996  To: 28/04/1997 
+	Number of words of this speaker: 1119
+	Tags:
+		{LAUGHTER}: 1
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 18
+		{BOOING}: 1
+	Total number of tags for this speaker :21
+	Total number of tags for this speaker without COMMENT :21
+	Tag density for this speaker:0.01877
+	Tag density for this speaker without COMMENT:0.01877
+
+Geoffrey Howe
+	Number of speeches: 1
+	Temporal distribution: From 05/05/1981  To: 05/05/1981 
+	Number of words of this speaker: 1235
+	Tags:
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00081
+	Tag density for this speaker without COMMENT:0.00081
+
+George H. W. Bush
+	Number of speeches: 5
+	Temporal distribution: From 12/08/1988  To: 08/02/1999 
+	Number of words of this speaker: 5336
+	Tags:
+		{LAUGHTER}: 14
+		{BOOING}: 2
+		{AUDIENCE}: 3
+		{APPLAUSE}: 4
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :24
+	Total number of tags for this speaker without COMMENT :24
+	Tag density for this speaker:0.0045
+	Tag density for this speaker without COMMENT:0.0045
+
+Gil Kerlikowske
+	Number of speeches: 1
+	Temporal distribution: From 11/03/2009  To: 11/03/2009 
+	Number of words of this speaker: 611
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00327
+	Tag density for this speaker without COMMENT:0.00327
+
+Gary Locke
+	Number of speeches: 1
+	Temporal distribution: From 25/02/2009  To: 25/02/2009 
+	Number of words of this speaker: 655
+	Tags:
+		{OTHER-SPEAK}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00305
+	Tag density for this speaker without COMMENT:0.00305
+
+Gloria Macapagal-Arroyo
+	Number of speeches: 1
+	Temporal distribution: From 19/05/2003  To: 19/05/2003 
+	Number of words of this speaker: 618
+	Tags:
+		{APPLAUSE}: 7
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :7
+	Tag density for this speaker:0.01133
+	Tag density for this speaker without COMMENT:0.01133
+
+Giovanna Melandri
+	Number of speeches: 1
+	Temporal distribution: From 28/11/2000  To: 28/11/2000 
+	Number of words of this speaker: 595
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00336
+	Tag density for this speaker without COMMENT:0.00336
+
+Gayle Smith
+	Number of speeches: 2
+	Temporal distribution: From 17/09/2005  To: 22/09/2006 
+	Number of words of this speaker: 1951
+	Tags:
+		{APPLAUSE}: 3
+		{LAUGHTER}: 2
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00256
+	Tag density for this speaker without COMMENT:0.00256
+
+Gene Sperling
+	Number of speeches: 1
+	Temporal distribution: From 13/12/1996  To: 13/12/1996 
+	Number of words of this speaker: 496
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00605
+	Tag density for this speaker without COMMENT:0.00605
+
+Gaston Thorn
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 1002
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00399
+	Tag density for this speaker without COMMENT:0.00399
+
+George W. Bush
+	Number of speeches: 427
+	Temporal distribution: From 06/09/2000  To: 19/03/2007 
+	Number of words of this speaker: 830836
+	Tags:
+		{CHEERS ; APPLAUSE}: 21
+		{BOOING}: 33
+		{APPLAUSE}: 10106
+		{LAUGHTER}: 1725
+		{AUDIENCE-MEMBER}: 49
+		{COMMENT}: 55
+		{LAUGHTER ; APPLAUSE}: 248
+		{AUDIENCE}: 117
+		{OTHER-SPEAK}: 50
+		{SPONTANEOUS-DEMONSTRATION}: 3
+		{CHEERS}: 7
+	Total number of tags for this speaker :12414
+	Total number of tags for this speaker without COMMENT :12359
+	Tag density for this speaker:0.01494
+	Tag density for this speaker without COMMENT:0.01488
+
+Hillary Rodham Clinton
+	Number of speeches: 18
+	Temporal distribution: From 20/04/1993  To: 18/11/2004 
+	Number of words of this speaker: 23580
+	Tags:
+		{APPLAUSE}: 101
+		{LAUGHTER}: 31
+		{LAUGHTER ; APPLAUSE}: 1
+		{COMMENT}: 1
+	Total number of tags for this speaker :134
+	Total number of tags for this speaker without COMMENT :133
+	Tag density for this speaker:0.00568
+	Tag density for this speaker without COMMENT:0.00564
+
+Howard Dean
+	Number of speeches: 13
+	Temporal distribution: From 11/04/2002  To: 27/07/2004 
+	Number of words of this speaker: 22391
+	Tags:
+		{LAUGHTER}: 28
+		{APPLAUSE}: 202
+		{LAUGHTER ; APPLAUSE}: 6
+		{AUDIENCE}: 7
+		{CHEERS ; APPLAUSE}: 26
+		{CHEERS}: 6
+		{COMMENT}: 11
+		{SUSTAINED APPLAUSE}: 3
+		{LAUGHTER ; CHEERS}: 1
+		{BOOING}: 1
+	Total number of tags for this speaker :291
+	Total number of tags for this speaker without COMMENT :280
+	Tag density for this speaker:0.013
+	Tag density for this speaker without COMMENT:0.01251
+
+Hanna Gray
+	Number of speeches: 1
+	Temporal distribution: From 14/10/1981  To: 14/10/1981 
+	Number of words of this speaker: 447
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00224
+	Tag density for this speaker without COMMENT:0.00224
+
+Herbert I. London
+	Number of speeches: 1
+	Temporal distribution: From 13/05/2003  To: 13/05/2003 
+	Number of words of this speaker: 291
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00687
+	Tag density for this speaker without COMMENT:0.00687
+
+Helmut Kohl
+	Number of speeches: 2
+	Temporal distribution: From 09/02/1995  To: 14/05/1998 
+	Number of words of this speaker: 2337
+	Tags:
+		{APPLAUSE}: 17
+		{COMMENT}: 1
+	Total number of tags for this speaker :18
+	Total number of tags for this speaker without COMMENT :17
+	Tag density for this speaker:0.0077
+	Tag density for this speaker without COMMENT:0.00727
+
+Hosni Mubarak
+	Number of speeches: 2
+	Temporal distribution: From 28/09/1995  To: 01/09/2010 
+	Number of words of this speaker: 1389
+	Tags:
+		{COMMENT}: 2
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.0036
+	Tag density for this speaker without COMMENT:0.00216
+
+King Hussein I
+	Number of speeches: 1
+	Temporal distribution: From 28/09/1995  To: 28/09/1995 
+	Number of words of this speaker: 1081
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 3
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00463
+	Tag density for this speaker without COMMENT:0.00463
+
+Sir Henry Plumb
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 1031
+	Tags:
+		{APPLAUSE}: 4
+		{AUDIENCE}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00485
+	Tag density for this speaker without COMMENT:0.00485
+
+Ingvar Carlsson
+	Number of speeches: 1
+	Temporal distribution: From 09/09/1987  To: 09/09/1987 
+	Number of words of this speaker: 731
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00137
+	Tag density for this speaker without COMMENT:0.00137
+
+Ioannis Pesmazoglou
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 456
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00658
+	Tag density for this speaker without COMMENT:0.00658
+
+Joseph A. Califano. Jr.
+	Number of speeches: 1
+	Temporal distribution: From 07/03/1996  To: 07/03/1996 
+	Number of words of this speaker: 1055
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.0019
+	Tag density for this speaker without COMMENT:0.0019
+
+Jacques Delors
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 2474
+	Tags:
+		{APPLAUSE}: 12
+	Total number of tags for this speaker :12
+	Total number of tags for this speaker without COMMENT :12
+	Tag density for this speaker:0.00485
+	Tag density for this speaker without COMMENT:0.00485
+
+John Ashcroft
+	Number of speeches: 1
+	Temporal distribution: From 05/01/1999  To: 05/01/1999 
+	Number of words of this speaker: 3883
+	Tags:
+		{LAUGHTER}: 7
+		{APPLAUSE}: 14
+		{STANDING-OVATION}: 2
+	Total number of tags for this speaker :23
+	Total number of tags for this speaker without COMMENT :23
+	Tag density for this speaker:0.00592
+	Tag density for this speaker without COMMENT:0.00592
+
+Jean-Bertrand Aristide
+	Number of speeches: 3
+	Temporal distribution: From 14/10/1994  To: 31/03/1995 
+	Number of words of this speaker: 1218
+	Tags:
+		{APPLAUSE}: 6
+		{COMMENT}: 4
+	Total number of tags for this speaker :10
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00821
+	Tag density for this speaker without COMMENT:0.00493
+
+Jimmy Carter
+	Number of speeches: 3
+	Temporal distribution: From 08/02/1999  To: 18/11/2004 
+	Number of words of this speaker: 2432
+	Tags:
+		{APPLAUSE}: 36
+		{LAUGHTER}: 5
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :42
+	Total number of tags for this speaker without COMMENT :42
+	Tag density for this speaker:0.01727
+	Tag density for this speaker without COMMENT:0.01727
+
+Jean Chrétien
+	Number of speeches: 2
+	Temporal distribution: From 23/02/1995  To: 09/09/2002 
+	Number of words of this speaker: 1517
+	Tags:
+		{APPLAUSE}: 9
+		{COMMENT}: 2
+		{LAUGHTER}: 3
+		{LAUGHTER ; APPLAUSE}: 2
+	Total number of tags for this speaker :16
+	Total number of tags for this speaker without COMMENT :14
+	Tag density for this speaker:0.01055
+	Tag density for this speaker without COMMENT:0.00923
+
+Jim Douglas
+	Number of speeches: 1
+	Temporal distribution: From 21/02/2010  To: 21/02/2010 
+	Number of words of this speaker: 328
+	Tags:
+		{LAUGHTER}: 3
+		{COMMENT}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.0122
+	Tag density for this speaker without COMMENT:0.00915
+
+John D. Podesta
+	Number of speeches: 1
+	Temporal distribution: From 13/07/2005  To: 13/07/2005 
+	Number of words of this speaker: 1082
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 4
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00555
+	Tag density for this speaker without COMMENT:0.00462
+
+John Edwards
+	Number of speeches: 10
+	Temporal distribution: From 21/01/2003  To: 11/08/2006 
+	Number of words of this speaker: 14775
+	Tags:
+		{APPLAUSE}: 142
+		{COMMENT}: 4
+		{LAUGHTER}: 4
+		{CHEERS ; APPLAUSE}: 8
+		{AUDIENCE}: 12
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :171
+	Total number of tags for this speaker without COMMENT :167
+	Tag density for this speaker:0.01157
+	Tag density for this speaker without COMMENT:0.0113
+
+Jerry Falwell
+	Number of speeches: 1
+	Temporal distribution: From 16/08/2003  To: 16/08/2003 
+	Number of words of this speaker: 2019
+	Tags:
+		{LAUGHTER}: 5
+		{CHEERS ; APPLAUSE}: 10
+	Total number of tags for this speaker :15
+	Total number of tags for this speaker without COMMENT :15
+	Tag density for this speaker:0.00743
+	Tag density for this speaker without COMMENT:0.00743
+
+John F. Davis
+	Number of speeches: 1
+	Temporal distribution: From 14/09/1960  To: 14/09/1960 
+	Number of words of this speaker: 370
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00811
+	Tag density for this speaker without COMMENT:0.00811
+
+John F. Kennedy
+	Number of speeches: 316
+	Temporal distribution: From 21/08/1960  To: 26/06/1963 
+	Number of words of this speaker: 393485
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 124
+		{APPLAUSE}: 2804
+		{STANDING-OVATION}: 28
+		{LAUGHTER}: 282
+		{SPONTANEOUS-DEMONSTRATION}: 271
+		{COMMENT}: 23
+		{SPONTANEOUS-DEMONSTRATION ; APPLAUSE}: 10
+		{SPONTANEOUS-DEMONSTRATION ; LAUGHTER}: 2
+		{SPONTANEOUS-DEMONSTRATION ; LAUGHTER ; APPLAUSE}: 2
+		{LAUGHTER ; STANDING-OVATION}: 1
+		{STANDING-OVATION ; APPLAUSE}: 1
+		{AUDIENCE}: 2
+		{CHEERS}: 4
+		{SUSTAINED APPLAUSE}: 3
+		{AUDIENCE-MEMBER}: 1
+		{CHEERS ; APPLAUSE}: 11
+		{SUSTAINED APPLAUSE ; CHEERS}: 1
+	Total number of tags for this speaker :3570
+	Total number of tags for this speaker without COMMENT :3547
+	Tag density for this speaker:0.00907
+	Tag density for this speaker without COMMENT:0.00901
+
+Judith Garcia
+	Number of speeches: 1
+	Temporal distribution: From 07/02/1986  To: 07/02/1986 
+	Number of words of this speaker: 510
+	Tags:
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00196
+	Tag density for this speaker without COMMENT:0.00196
+
+Jill Biden
+	Number of speeches: 4
+	Temporal distribution: From 28/10/2009  To: 07/05/2010 
+	Number of words of this speaker: 2014
+	Tags:
+		{APPLAUSE}: 20
+		{AUDIENCE}: 2
+		{LAUGHTER}: 3
+	Total number of tags for this speaker :25
+	Total number of tags for this speaker without COMMENT :25
+	Tag density for this speaker:0.01241
+	Tag density for this speaker without COMMENT:0.01241
+
+Jesse Jackson
+	Number of speeches: 4
+	Temporal distribution: From 18/07/1984  To: 28/07/2004 
+	Number of words of this speaker: 13167
+	Tags:
+		{APPLAUSE}: 118
+		{AUDIENCE}: 7
+		{COMMENT}: 5
+		{LAUGHTER ; APPLAUSE}: 1
+		{SPONTANEOUS-DEMONSTRATION}: 2
+		{STANDING-OVATION}: 1
+		{STANDING-OVATION ; SPONTANEOUS-DEMONSTRATION}: 1
+	Total number of tags for this speaker :135
+	Total number of tags for this speaker without COMMENT :130
+	Tag density for this speaker:0.01025
+	Tag density for this speaker without COMMENT:0.00987
+
+John Kerry
+	Number of speeches: 26
+	Temporal distribution: From 21/01/2003  To: 13/06/2006 
+	Number of words of this speaker: 57094
+	Tags:
+		{APPLAUSE}: 587
+		{LAUGHTER}: 24
+		{AUDIENCE}: 35
+		{COMMENT}: 5
+		{BOOING}: 2
+		{CHEERS ; APPLAUSE}: 24
+		{AUDIENCE-MEMBER}: 5
+		{LAUGHTER ; APPLAUSE}: 5
+		{SUSTAINED APPLAUSE}: 1
+		{CHEERS}: 1
+	Total number of tags for this speaker :689
+	Total number of tags for this speaker without COMMENT :684
+	Tag density for this speaker:0.01207
+	Tag density for this speaker without COMMENT:0.01198
+
+Joseph Lieberman
+	Number of speeches: 6
+	Temporal distribution: From 13/01/2003  To: 03/02/2004 
+	Number of words of this speaker: 6849
+	Tags:
+		{APPLAUSE}: 76
+		{LAUGHTER}: 7
+		{LAUGHTER ; APPLAUSE}: 1
+		{CHEERS}: 1
+		{CHEERS ; APPLAUSE}: 4
+		{AUDIENCE}: 14
+		{BOOING}: 2
+		{AUDIENCE-MEMBER}: 4
+	Total number of tags for this speaker :109
+	Total number of tags for this speaker without COMMENT :109
+	Tag density for this speaker:0.01591
+	Tag density for this speaker without COMMENT:0.01591
+
+John McCain
+	Number of speeches: 2
+	Temporal distribution: From 27/09/1999  To: 16/07/2004 
+	Number of words of this speaker: 3354
+	Tags:
+		{COMMENT}: 1
+		{LAUGHTER}: 3
+		{APPLAUSE}: 7
+		{LAUGHTER ; APPLAUSE}: 1
+		{AUDIENCE}: 1
+		{CHEERS ; APPLAUSE}: 30
+	Total number of tags for this speaker :43
+	Total number of tags for this speaker without COMMENT :42
+	Tag density for this speaker:0.01282
+	Tag density for this speaker without COMMENT:0.01252
+
+John Paul II
+	Number of speeches: 2
+	Temporal distribution: From 04/10/1995  To: 26/01/1999 
+	Number of words of this speaker: 1660
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 21
+	Total number of tags for this speaker :22
+	Total number of tags for this speaker without COMMENT :22
+	Tag density for this speaker:0.01325
+	Tag density for this speaker without COMMENT:0.01325
+
+Jean Penders
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 649
+	Tags:
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00616
+	Tag density for this speaker without COMMENT:0.00616
+
+Janet Reno
+	Number of speeches: 1
+	Temporal distribution: From 30/11/1993  To: 30/11/1993 
+	Number of words of this speaker: 267
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00749
+	Tag density for this speaker without COMMENT:0.00749
+
+John Shalikashvili
+	Number of speeches: 1
+	Temporal distribution: From 30/09/1997  To: 30/09/1997 
+	Number of words of this speaker: 1588
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00126
+	Tag density for this speaker without COMMENT:0.00126
+
+Sir James Scott-Hopkins
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 733
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00409
+	Tag density for this speaker without COMMENT:0.00409
+
+Jef Ulburghs
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 411
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00487
+	Tag density for this speaker without COMMENT:0.00487
+
+Kim Dae-jung
+	Number of speeches: 1
+	Temporal distribution: From 27/07/1995  To: 27/07/1995 
+	Number of words of this speaker: 560
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{LAUGHTER}: 1
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00714
+	Tag density for this speaker without COMMENT:0.00536
+
+King Harald
+	Number of speeches: 1
+	Temporal distribution: From 28/04/2000  To: 28/04/2000 
+	Number of words of this speaker: 335
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00597
+	Tag density for this speaker without COMMENT:0.00299
+
+King Hassan II of Morocco
+	Number of speeches: 1
+	Temporal distribution: From 15/03/1995  To: 15/03/1995 
+	Number of words of this speaker: 189
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.01058
+	Tag density for this speaker without COMMENT:0.00529
+
+Keisha Senter
+	Number of speeches: 1
+	Temporal distribution: From 13/07/2005  To: 13/07/2005 
+	Number of words of this speaker: 604
+	Tags:
+		{APPLAUSE}: 2
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00497
+	Tag density for this speaker without COMMENT:0.00497
+
+Karl von Wogau
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 637
+	Tags:
+		{APPLAUSE}: 5
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00785
+	Tag density for this speaker without COMMENT:0.00785
+
+Lamar Alexander
+	Number of speeches: 1
+	Temporal distribution: From 24/02/1996  To: 24/02/1996 
+	Number of words of this speaker: 990
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 7
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00808
+	Tag density for this speaker without COMMENT:0.00808
+
+Lynne Anne Vincent Cheney
+	Number of speeches: 13
+	Temporal distribution: From 16/07/2001  To: 28/10/2004 
+	Number of words of this speaker: 8428
+	Tags:
+		{APPLAUSE}: 96
+		{LAUGHTER}: 25
+		{AUDIENCE}: 2
+		{OTHER-SPEAK}: 7
+		{LAUGHTER ; APPLAUSE}: 2
+		{COMMENT}: 1
+		{AUDIENCE-MEMBER}: 1
+	Total number of tags for this speaker :134
+	Total number of tags for this speaker without COMMENT :133
+	Tag density for this speaker:0.0159
+	Tag density for this speaker without COMMENT:0.01578
+
+Lyndon B. Johnson
+	Number of speeches: 2
+	Temporal distribution: From 21/08/1960  To: 03/11/1960 
+	Number of words of this speaker: 803
+	Tags:
+		{APPLAUSE}: 10
+	Total number of tags for this speaker :10
+	Total number of tags for this speaker without COMMENT :10
+	Tag density for this speaker:0.01245
+	Tag density for this speaker without COMMENT:0.01245
+
+Lael Brainerd
+	Number of speeches: 1
+	Temporal distribution: From 17/09/2005  To: 17/09/2005 
+	Number of words of this speaker: 747
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00268
+	Tag density for this speaker without COMMENT:0.00268
+
+Lee Brown
+	Number of speeches: 1
+	Temporal distribution: From 01/07/1993  To: 01/07/1993 
+	Number of words of this speaker: 780
+	Tags:
+		{APPLAUSE}: 8
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.01026
+	Tag density for this speaker without COMMENT:0.01026
+
+Laura Bush
+	Number of speeches: 93
+	Temporal distribution: From 23/04/2004  To: 03/11/2006 
+	Number of words of this speaker: 160904
+	Tags:
+		{APPLAUSE}: 2262
+		{LAUGHTER}: 171
+		{AUDIENCE}: 38
+		{LAUGHTER ; APPLAUSE}: 17
+		{AUDIENCE-MEMBER}: 5
+		{COMMENT}: 2
+	Total number of tags for this speaker :2495
+	Total number of tags for this speaker without COMMENT :2493
+	Tag density for this speaker:0.01551
+	Tag density for this speaker without COMMENT:0.01549
+
+Leon Panetta
+	Number of speeches: 1
+	Temporal distribution: From 08/11/1996  To: 08/11/1996 
+	Number of words of this speaker: 574
+	Tags:
+		{APPLAUSE}: 2
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00523
+	Tag density for this speaker without COMMENT:0.00523
+
+Lawrence Summers
+	Number of speeches: 1
+	Temporal distribution: From 12/05/1999  To: 12/05/1999 
+	Number of words of this speaker: 574
+	Tags:
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00174
+	Tag density for this speaker without COMMENT:0.00174
+
+Lech Walesa
+	Number of speeches: 1
+	Temporal distribution: From 06/07/1994  To: 06/07/1994 
+	Number of words of this speaker: 843
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00237
+	Tag density for this speaker without COMMENT:0.00119
+
+Mahmud Abbas
+	Number of speeches: 1
+	Temporal distribution: From 13/09/1993  To: 13/09/1993 
+	Number of words of this speaker: 500
+	Tags:
+		{APPLAUSE}: 3
+		{COMMENT}: 4
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.014
+	Tag density for this speaker without COMMENT:0.006
+
+Mr. Mackler
+	Number of speeches: 1
+	Temporal distribution: From 05/01/2006  To: 05/01/2006 
+	Number of words of this speaker: 395
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00506
+	Tag density for this speaker without COMMENT:0.00506
+
+Madeleine Albright
+	Number of speeches: 3
+	Temporal distribution: From 10/10/2000  To: 28/11/2000 
+	Number of words of this speaker: 1640
+	Tags:
+		{APPLAUSE}: 4
+		{LAUGHTER}: 2
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00366
+	Tag density for this speaker without COMMENT:0.00366
+
+Malcolm X
+	Number of speeches: 5
+	Temporal distribution: From 11/10/1963  To: 04/02/1965 
+	Number of words of this speaker: 27867
+	Tags:
+		{LAUGHTER}: 48
+		{LAUGHTER ; APPLAUSE}: 12
+		{APPLAUSE}: 46
+		{COMMENT}: 9
+		{AUDIENCE-MEMBER}: 4
+		{SUSTAINED APPLAUSE}: 1
+		{AUDIENCE}: 2
+	Total number of tags for this speaker :122
+	Total number of tags for this speaker without COMMENT :113
+	Tag density for this speaker:0.00438
+	Tag density for this speaker without COMMENT:0.00405
+
+Martin Bangemann
+	Number of speeches: 1
+	Temporal distribution: From 16/12/1981  To: 16/12/1981 
+	Number of words of this speaker: 646
+	Tags:
+		{APPLAUSE}: 6
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :7
+	Tag density for this speaker:0.01084
+	Tag density for this speaker without COMMENT:0.01084
+
+Michael Carns
+	Number of speeches: 1
+	Temporal distribution: From 08/02/1995  To: 08/02/1995 
+	Number of words of this speaker: 519
+	Tags:
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00193
+	Tag density for this speaker without COMMENT:0.00193
+
+Mario Cuomo
+	Number of speeches: 1
+	Temporal distribution: From 25/09/1994  To: 25/09/1994 
+	Number of words of this speaker: 2592
+	Tags:
+		{APPLAUSE}: 11
+		{LAUGHTER}: 2
+	Total number of tags for this speaker :13
+	Total number of tags for this speaker without COMMENT :13
+	Tag density for this speaker:0.00502
+	Tag density for this speaker without COMMENT:0.00502
+
+Massimo D'Alema
+	Number of speeches: 2
+	Temporal distribution: From 25/04/1999  To: 25/04/1999 
+	Number of words of this speaker: 1903
+	Tags:
+		{APPLAUSE}: 2
+		{LAUGHTER ; APPLAUSE}: 1
+		{COMMENT}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.0021
+	Tag density for this speaker without COMMENT:0.00158
+
+Mike Huckabee
+	Number of speeches: 2
+	Temporal distribution: From 27/08/2005  To: 22/09/2006 
+	Number of words of this speaker: 9371
+	Tags:
+		{LAUGHTER}: 44
+		{CHEERS ; APPLAUSE}: 3
+		{APPLAUSE}: 18
+		{COMMENT}: 7
+		{LAUGHTER ; APPLAUSE}: 3
+		{LAUGHTER ; CHEERS}: 1
+		{AUDIENCE}: 2
+	Total number of tags for this speaker :78
+	Total number of tags for this speaker without COMMENT :71
+	Tag density for this speaker:0.00832
+	Tag density for this speaker without COMMENT:0.00758
+
+Martin Luther King
+	Number of speeches: 7
+	Temporal distribution: From 05/12/1955  To: 03/04/1968 
+	Number of words of this speaker: 28909
+	Tags:
+		{AUDIENCE-MEMBER}: 551
+		{SUSTAINED APPLAUSE}: 8
+		{APPLAUSE}: 197
+		{LAUGHTER ; APPLAUSE}: 2
+		{LAUGHTER}: 7
+		{COMMENT}: 3
+	Total number of tags for this speaker :768
+	Total number of tags for this speaker without COMMENT :765
+	Tag density for this speaker:0.02657
+	Tag density for this speaker without COMMENT:0.02646
+
+Mike Mccurry
+	Number of speeches: 4
+	Temporal distribution: From 31/10/1996  To: 20/03/1998 
+	Number of words of this speaker: 5226
+	Tags:
+		{APPLAUSE}: 50
+		{LAUGHTER}: 7
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :58
+	Total number of tags for this speaker without COMMENT :58
+	Tag density for this speaker:0.0111
+	Tag density for this speaker without COMMENT:0.0111
+
+Mack McLarty
+	Number of speeches: 1
+	Temporal distribution: From 20/12/1996  To: 20/12/1996 
+	Number of words of this speaker: 432
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00694
+	Tag density for this speaker without COMMENT:0.00694
+
+Michelle Obama
+	Number of speeches: 107
+	Temporal distribution: From 02/02/2009  To: 15/09/2010 
+	Number of words of this speaker: 200069
+	Tags:
+		{APPLAUSE}: 943
+		{LAUGHTER}: 647
+		{LAUGHTER ; APPLAUSE}: 44
+		{AUDIENCE}: 82
+		{AUDIENCE-MEMBER}: 21
+		{COMMENT}: 8
+		{OTHER-SPEAK}: 19
+		{CHEERS}: 1
+		{CHEERS ; APPLAUSE}: 2
+	Total number of tags for this speaker :1767
+	Total number of tags for this speaker without COMMENT :1759
+	Tag density for this speaker:0.00883
+	Tag density for this speaker without COMMENT:0.00879
+
+Mitt Romney
+	Number of speeches: 1
+	Temporal distribution: From 22/09/2006  To: 22/09/2006 
+	Number of words of this speaker: 2747
+	Tags:
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 6
+		{LAUGHTER}: 1
+		{CHEERS ; APPLAUSE}: 1
+		{SPONTANEOUS-DEMONSTRATION}: 1
+		{COMMENT}: 4
+	Total number of tags for this speaker :14
+	Total number of tags for this speaker without COMMENT :10
+	Tag density for this speaker:0.0051
+	Tag density for this speaker without COMMENT:0.00364
+
+Manmohan Singh
+	Number of speeches: 3
+	Temporal distribution: From 18/07/2005  To: 24/11/2009 
+	Number of words of this speaker: 1257
+	Tags:
+		{APPLAUSE}: 15
+		{COMMENT}: 3
+		{OTHER-SPEAK}: 2
+	Total number of tags for this speaker :20
+	Total number of tags for this speaker without COMMENT :17
+	Tag density for this speaker:0.01591
+	Tag density for this speaker without COMMENT:0.01352
+
+Margaret Thatcher
+	Number of speeches: 102
+	Temporal distribution: From 07/10/1970  To: 30/10/2002 
+	Number of words of this speaker: 245367
+	Tags:
+		{APPLAUSE}: 906
+		{LAUGHTER}: 180
+		{SUSTAINED APPLAUSE}: 18
+		{LAUGHTER ; APPLAUSE}: 70
+		{AUDIENCE}: 24
+		{COMMENT}: 52
+		{STANDING-OVATION}: 5
+		{CHEERS ; APPLAUSE}: 47
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 2
+		{SPONTANEOUS-DEMONSTRATION}: 6
+		{OTHER-SPEAK}: 3
+		{BOOING}: 2
+		{CHEERS}: 16
+		{SUSTAINED APPLAUSE ; CHEERS}: 2
+		{LAUGHTER ; SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :1334
+	Total number of tags for this speaker without COMMENT :1282
+	Tag density for this speaker:0.00544
+	Tag density for this speaker without COMMENT:0.00522
+
+Mark Warner
+	Number of speeches: 1
+	Temporal distribution: From 18/11/2005  To: 18/11/2005 
+	Number of words of this speaker: 4238
+	Tags:
+		{CHEERS}: 2
+		{LAUGHTER}: 18
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 12
+		{SPONTANEOUS-DEMONSTRATION ; CHEERS}: 1
+	Total number of tags for this speaker :34
+	Total number of tags for this speaker without COMMENT :34
+	Tag density for this speaker:0.00802
+	Tag density for this speaker without COMMENT:0.00802
+
+Nancy Davis Reagan
+	Number of speeches: 2
+	Temporal distribution: From 18/06/1987  To: 29/02/1988 
+	Number of words of this speaker: 2694
+	Tags:
+		{APPLAUSE}: 3
+		{LAUGHTER}: 2
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00223
+	Tag density for this speaker without COMMENT:0.00223
+
+Nelson Mandela
+	Number of speeches: 1
+	Temporal distribution: From 05/10/1994  To: 05/10/1994 
+	Number of words of this speaker: 1710
+	Tags:
+		{LAUGHTER}: 13
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :17
+	Total number of tags for this speaker without COMMENT :17
+	Tag density for this speaker:0.00994
+	Tag density for this speaker without COMMENT:0.00994
+
+Paul Applegarth
+	Number of speeches: 1
+	Temporal distribution: From 18/04/2005  To: 18/04/2005 
+	Number of words of this speaker: 870
+	Tags:
+		{LAUGHTER}: 2
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.0046
+	Tag density for this speaker without COMMENT:0.00345
+
+Paul Edgar Philippe Martin
+	Number of speeches: 1
+	Temporal distribution: From 30/11/2004  To: 30/11/2004 
+	Number of words of this speaker: 767
+	Tags:
+		{APPLAUSE}: 5
+		{LAUGHTER}: 3
+		{COMMENT}: 5
+	Total number of tags for this speaker :13
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.01695
+	Tag density for this speaker without COMMENT:0.01043
+
+Pierre Elliott Trudeau
+	Number of speeches: 2
+	Temporal distribution: From 11/03/1981  To: 11/03/1981 
+	Number of words of this speaker: 2604
+	Tags:
+		{COMMENT}: 5
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.0023
+	Tag density for this speaker without COMMENT:0.00038
+
+Patsy Fleming
+	Number of speeches: 1
+	Temporal distribution: From 10/11/1994  To: 10/11/1994 
+	Number of words of this speaker: 645
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00155
+	Tag density for this speaker without COMMENT:0.00155
+
+Patrick J. Buchanan
+	Number of speeches: 4
+	Temporal distribution: From 25/02/1997  To: 01/09/2000 
+	Number of words of this speaker: 8427
+	Tags:
+		{CHEERS ; APPLAUSE}: 62
+		{CHEERS}: 17
+		{AUDIENCE}: 6
+		{LAUGHTER}: 14
+		{APPLAUSE}: 41
+		{BOOING}: 20
+		{LAUGHTER ; CHEERS}: 2
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 1
+		{SPONTANEOUS-DEMONSTRATION}: 1
+		{LAUGHTER ; APPLAUSE}: 2
+		{SPONTANEOUS-DEMONSTRATION ; CHEERS}: 1
+	Total number of tags for this speaker :167
+	Total number of tags for this speaker without COMMENT :167
+	Tag density for this speaker:0.01982
+	Tag density for this speaker without COMMENT:0.01982
+
+Patrick Moynihan
+	Number of speeches: 1
+	Temporal distribution: From 10/10/2000  To: 10/10/2000 
+	Number of words of this speaker: 287
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00697
+	Tag density for this speaker without COMMENT:0.00697
+
+Ruth A. Davis
+	Number of speeches: 1
+	Temporal distribution: From 18/02/2005  To: 18/02/2005 
+	Number of words of this speaker: 561
+	Tags:
+		{APPLAUSE}: 7
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.01426
+	Tag density for this speaker without COMMENT:0.01426
+
+Regina Benjamin
+	Number of speeches: 1
+	Temporal distribution: From 13/07/2009  To: 13/07/2009 
+	Number of words of this speaker: 757
+	Tags:
+		{APPLAUSE}: 1
+		{OTHER-SPEAK}: 2
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00528
+	Tag density for this speaker without COMMENT:0.00528
+
+Romeo Crennel
+	Number of speeches: 1
+	Temporal distribution: From 18/02/2005  To: 18/02/2005 
+	Number of words of this speaker: 1810
+	Tags:
+		{LAUGHTER}: 5
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00331
+	Tag density for this speaker without COMMENT:0.00331
+
+Robert Dole
+	Number of speeches: 9
+	Temporal distribution: From 14/05/1996  To: 21/05/2004 
+	Number of words of this speaker: 9156
+	Tags:
+		{APPLAUSE}: 61
+		{OTHER-SPEAK}: 1
+		{LAUGHTER}: 4
+		{LAUGHTER ; APPLAUSE}: 3
+		{CHEERS ; APPLAUSE}: 3
+	Total number of tags for this speaker :72
+	Total number of tags for this speaker without COMMENT :72
+	Tag density for this speaker:0.00786
+	Tag density for this speaker without COMMENT:0.00786
+
+Rita Dove
+	Number of speeches: 1
+	Temporal distribution: From 28/11/2000  To: 28/11/2000 
+	Number of words of this speaker: 1061
+	Tags:
+		{LAUGHTER}: 3
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00377
+	Tag density for this speaker without COMMENT:0.00377
+
+Russ Feingold
+	Number of speeches: 1
+	Temporal distribution: From 30/09/2005  To: 30/09/2005 
+	Number of words of this speaker: 6027
+	Tags:
+		{LAUGHTER}: 14
+		{APPLAUSE}: 19
+		{COMMENT}: 2
+	Total number of tags for this speaker :35
+	Total number of tags for this speaker without COMMENT :33
+	Tag density for this speaker:0.00581
+	Tag density for this speaker without COMMENT:0.00548
+
+Richard Holbrooke
+	Number of speeches: 1
+	Temporal distribution: From 18/06/1998  To: 18/06/1998 
+	Number of words of this speaker: 901
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00222
+	Tag density for this speaker without COMMENT:0.00222
+
+Robert Malley
+	Number of speeches: 2
+	Temporal distribution: From 17/09/2005  To: 22/09/2006 
+	Number of words of this speaker: 2600
+	Tags:
+		{APPLAUSE}: 7
+		{CHEERS ; APPLAUSE}: 1
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :9
+	Total number of tags for this speaker without COMMENT :9
+	Tag density for this speaker:0.00346
+	Tag density for this speaker without COMMENT:0.00346
+
+Roy Moore
+	Number of speeches: 1
+	Temporal distribution: From 16/08/2003  To: 16/08/2003 
+	Number of words of this speaker: 1201
+	Tags:
+		{CHEERS ; APPLAUSE}: 10
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :12
+	Total number of tags for this speaker without COMMENT :12
+	Tag density for this speaker:0.00999
+	Tag density for this speaker without COMMENT:0.00999
+
+Ralph Nader
+	Number of speeches: 2
+	Temporal distribution: From 20/09/2000  To: 23/10/2000 
+	Number of words of this speaker: 1266
+	Tags:
+		{LAUGHTER}: 5
+		{CHEERS ; APPLAUSE}: 2
+		{APPLAUSE}: 5
+	Total number of tags for this speaker :12
+	Total number of tags for this speaker without COMMENT :12
+	Tag density for this speaker:0.00948
+	Tag density for this speaker without COMMENT:0.00948
+
+Richard M. Nixon
+	Number of speeches: 61
+	Temporal distribution: From 02/08/1960  To: 06/11/1960 
+	Number of words of this speaker: 190605
+	Tags:
+		{CHEERS ; APPLAUSE}: 345
+		{CHEERS}: 96
+		{COMMENT}: 16
+		{APPLAUSE}: 584
+		{LAUGHTER}: 39
+		{BOOING}: 2
+		{AUDIENCE}: 19
+		{LAUGHTER ; APPLAUSE}: 14
+		{OTHER-SPEAK}: 4
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 2
+	Total number of tags for this speaker :1121
+	Total number of tags for this speaker without COMMENT :1105
+	Tag density for this speaker:0.00588
+	Tag density for this speaker without COMMENT:0.0058
+
+René Preval
+	Number of speeches: 1
+	Temporal distribution: From 10/03/2010  To: 10/03/2010 
+	Number of words of this speaker: 691
+	Tags:
+		{COMMENT}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00289
+	Tag density for this speaker without COMMENT:0.00145
+
+Ronald Reagan
+	Number of speeches: 388
+	Temporal distribution: From 11/01/1967  To: 13/01/1989 
+	Number of words of this speaker: 842298
+	Tags:
+		{LAUGHTER}: 2298
+		{APPLAUSE}: 530
+		{AUDIENCE}: 642
+		{BOOING}: 183
+		{COMMENT}: 105
+		{OTHER-SPEAK}: 50
+		{AUDIENCE-MEMBER}: 56
+		{CHEERS ; APPLAUSE}: 5
+		{LAUGHTER ; APPLAUSE}: 10
+		{SPONTANEOUS-DEMONSTRATION}: 2
+		{CHEERS}: 5
+		{SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :3887
+	Total number of tags for this speaker without COMMENT :3782
+	Tag density for this speaker:0.00461
+	Tag density for this speaker without COMMENT:0.00449
+
+Thomas A. Grasso
+	Number of speeches: 2
+	Temporal distribution: From 09/10/1981  To: 09/10/1981 
+	Number of words of this speaker: 1055
+	Tags:
+		{LAUGHTER}: 6
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00569
+	Tag density for this speaker without COMMENT:0.00569
+
+Robert Reich
+	Number of speeches: 1
+	Temporal distribution: From 01/07/1993  To: 01/07/1993 
+	Number of words of this speaker: 443
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00451
+	Tag density for this speaker without COMMENT:0.00451
+
+Robert Rubin
+	Number of speeches: 1
+	Temporal distribution: From 12/05/1999  To: 12/05/1999 
+	Number of words of this speaker: 1155
+	Tags:
+		{OTHER-SPEAK}: 2
+		{APPLAUSE}: 2
+		{LAUGHTER}: 4
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00693
+	Tag density for this speaker without COMMENT:0.00693
+
+Rick Scarborough
+	Number of speeches: 1
+	Temporal distribution: From 16/08/2003  To: 16/08/2003 
+	Number of words of this speaker: 1905
+	Tags:
+		{CHEERS ; APPLAUSE}: 6
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00315
+	Tag density for this speaker without COMMENT:0.00315
+
+Saud al-Faysal
+	Number of speeches: 1
+	Temporal distribution: From 26/01/2007  To: 26/01/2007 
+	Number of words of this speaker: 298
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00336
+	Tag density for this speaker without COMMENT:0.00336
+
+Sarah Brady
+	Number of speeches: 1
+	Temporal distribution: From 30/11/1993  To: 30/11/1993 
+	Number of words of this speaker: 821
+	Tags:
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00487
+	Tag density for this speaker without COMMENT:0.00487
+
+Susilo Bambang Yudhoyono
+	Number of speeches: 2
+	Temporal distribution: From 25/05/2005  To: 15/11/2009 
+	Number of words of this speaker: 1004
+	Tags:
+		{APPLAUSE}: 5
+		{OTHER-SPEAK}: 2
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00797
+	Tag density for this speaker without COMMENT:0.00797
+
+Stuart Eizenstat
+	Number of speeches: 1
+	Temporal distribution: From 12/05/1999  To: 12/05/1999 
+	Number of words of this speaker: 524
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 2
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.00763
+	Tag density for this speaker without COMMENT:0.00763
+
+Stephen Harper
+	Number of speeches: 1
+	Temporal distribution: From 18/10/2006  To: 18/10/2006 
+	Number of words of this speaker: 1631
+	Tags:
+		{APPLAUSE}: 19
+	Total number of tags for this speaker :19
+	Total number of tags for this speaker without COMMENT :19
+	Tag density for this speaker:0.01165
+	Tag density for this speaker without COMMENT:0.01165
+
+Steve Johnson
+	Number of speeches: 1
+	Temporal distribution: From 23/05/2005  To: 23/05/2005 
+	Number of words of this speaker: 536
+	Tags:
+		{APPLAUSE}: 1
+		{LAUGHTER}: 3
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :5
+	Total number of tags for this speaker without COMMENT :5
+	Tag density for this speaker:0.00933
+	Tag density for this speaker without COMMENT:0.00933
+
+Seamus Mallon
+	Number of speeches: 1
+	Temporal distribution: From 13/12/2000  To: 13/12/2000 
+	Number of words of this speaker: 1030
+	Tags:
+		{APPLAUSE}: 6
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00583
+	Tag density for this speaker without COMMENT:0.00583
+
+Svetlana Medvedeva
+	Number of speeches: 1
+	Temporal distribution: From 24/06/2010  To: 24/06/2010 
+	Number of words of this speaker: 504
+	Tags:
+		{COMMENT}: 4
+		{APPLAUSE}: 6
+	Total number of tags for this speaker :10
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.01984
+	Tag density for this speaker without COMMENT:0.0119
+
+Sonia Maria Sotomayor
+	Number of speeches: 2
+	Temporal distribution: From 26/05/2009  To: 12/08/2009 
+	Number of words of this speaker: 1203
+	Tags:
+		{APPLAUSE}: 5
+		{LAUGHTER}: 3
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.00665
+	Tag density for this speaker without COMMENT:0.00665
+
+Stephanie Nyombayire
+	Number of speeches: 1
+	Temporal distribution: From 13/07/2005  To: 13/07/2005 
+	Number of words of this speaker: 598
+	Tags:
+		{SUSTAINED APPLAUSE}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00167
+	Tag density for this speaker without COMMENT:0.00167
+
+Shimon Peres
+	Number of speeches: 2
+	Temporal distribution: From 13/09/1993  To: 11/12/1995 
+	Number of words of this speaker: 1273
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 8
+		{COMMENT}: 1
+	Total number of tags for this speaker :11
+	Total number of tags for this speaker without COMMENT :10
+	Tag density for this speaker:0.00864
+	Tag density for this speaker without COMMENT:0.00786
+
+Sumner Redstone
+	Number of speeches: 1
+	Temporal distribution: From 10/10/1996  To: 10/10/1996 
+	Number of words of this speaker: 595
+	Tags:
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :2
+	Total number of tags for this speaker without COMMENT :2
+	Tag density for this speaker:0.00336
+	Tag density for this speaker without COMMENT:0.00336
+
+Simone Veil
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 1822
+	Tags:
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00165
+	Tag density for this speaker without COMMENT:0.00165
+
+Tony Blair
+	Number of speeches: 3
+	Temporal distribution: From 05/02/1998  To: 13/12/2000 
+	Number of words of this speaker: 3261
+	Tags:
+		{APPLAUSE}: 25
+		{LAUGHTER}: 2
+	Total number of tags for this speaker :27
+	Total number of tags for this speaker without COMMENT :27
+	Tag density for this speaker:0.00828
+	Tag density for this speaker without COMMENT:0.00828
+
+Tom Daschle
+	Number of speeches: 1
+	Temporal distribution: From 27/07/2000  To: 27/07/2000 
+	Number of words of this speaker: 817
+	Tags:
+		{APPLAUSE}: 4
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.0049
+	Tag density for this speaker without COMMENT:0.0049
+
+Thomas Megahy
+	Number of speeches: 1
+	Temporal distribution: From 09/12/1986  To: 09/12/1986 
+	Number of words of this speaker: 1429
+	Tags:
+		{AUDIENCE}: 1
+		{APPLAUSE}: 3
+	Total number of tags for this speaker :4
+	Total number of tags for this speaker without COMMENT :4
+	Tag density for this speaker:0.0028
+	Tag density for this speaker without COMMENT:0.0028
+
+Tony Mullen
+	Number of speeches: 1
+	Temporal distribution: From 28/04/2009  To: 28/04/2009 
+	Number of words of this speaker: 760
+	Tags:
+		{LAUGHTER}: 1
+		{APPLAUSE}: 6
+		{OTHER-SPEAK}: 1
+	Total number of tags for this speaker :8
+	Total number of tags for this speaker without COMMENT :8
+	Tag density for this speaker:0.01053
+	Tag density for this speaker without COMMENT:0.01053
+
+Tom Vilsack
+	Number of speeches: 1
+	Temporal distribution: From 30/11/2006  To: 30/11/2006 
+	Number of words of this speaker: 2185
+	Tags:
+		{APPLAUSE}: 1
+		{CHEERS ; APPLAUSE}: 20
+		{CHEERS}: 1
+	Total number of tags for this speaker :22
+	Total number of tags for this speaker without COMMENT :22
+	Tag density for this speaker:0.01007
+	Tag density for this speaker without COMMENT:0.01007
+
+Vicente Fox
+	Number of speeches: 1
+	Temporal distribution: From 06/09/2001  To: 06/09/2001 
+	Number of words of this speaker: 1541
+	Tags:
+		{APPLAUSE}: 17
+	Total number of tags for this speaker :17
+	Total number of tags for this speaker without COMMENT :17
+	Tag density for this speaker:0.01103
+	Tag density for this speaker without COMMENT:0.01103
+
+Vaclav Havel
+	Number of speeches: 3
+	Temporal distribution: From 21/03/1990  To: 16/09/1998 
+	Number of words of this speaker: 1664
+	Tags:
+		{LAUGHTER}: 3
+		{LAUGHTER ; APPLAUSE}: 1
+		{APPLAUSE}: 2
+	Total number of tags for this speaker :6
+	Total number of tags for this speaker without COMMENT :6
+	Tag density for this speaker:0.00361
+	Tag density for this speaker without COMMENT:0.00361
+
+Vint Cerf
+	Number of speeches: 1
+	Temporal distribution: From 12/10/1999  To: 12/10/1999 
+	Number of words of this speaker: 2186
+	Tags:
+		{APPLAUSE}: 1
+		{LAUGHTER}: 12
+	Total number of tags for this speaker :13
+	Total number of tags for this speaker without COMMENT :13
+	Tag density for this speaker:0.00595
+	Tag density for this speaker without COMMENT:0.00595
+
+Warren Christopher
+	Number of speeches: 2
+	Temporal distribution: From 13/09/1993  To: 07/11/1996 
+	Number of words of this speaker: 992
+	Tags:
+		{APPLAUSE}: 6
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :7
+	Total number of tags for this speaker without COMMENT :7
+	Tag density for this speaker:0.00706
+	Tag density for this speaker without COMMENT:0.00706
+
+Wesley Clark
+	Number of speeches: 1
+	Temporal distribution: From 12/06/2005  To: 12/06/2005 
+	Number of words of this speaker: 3518
+	Tags:
+		{APPLAUSE}: 19
+		{LAUGHTER}: 1
+		{COMMENT}: 1
+	Total number of tags for this speaker :21
+	Total number of tags for this speaker without COMMENT :20
+	Tag density for this speaker:0.00597
+	Tag density for this speaker without COMMENT:0.00569
+
+Bill Clinton
+	Number of speeches: 889
+	Temporal distribution: From 22/01/1993  To: 13/10/2006 
+	Number of words of this speaker: 2339756
+	Tags:
+		{LAUGHTER}: 3706
+		{AUDIENCE}: 154
+		{APPLAUSE}: 10873
+		{LAUGHTER ; APPLAUSE}: 450
+		{COMMENT}: 199
+		{AUDIENCE-MEMBER}: 58
+		{CHEERS ; APPLAUSE}: 14
+		{OTHER-SPEAK}: 67
+		{SPONTANEOUS-DEMONSTRATION}: 13
+		{CHEERS}: 4
+		{BOOING}: 9
+		{LAUGHTER ; CHEERS}: 1
+		{CHEERS ; LAUGHTER ; APPLAUSE}: 2
+		{SUSTAINED APPLAUSE ; CHEERS}: 1
+	Total number of tags for this speaker :15551
+	Total number of tags for this speaker without COMMENT :15352
+	Tag density for this speaker:0.00665
+	Tag density for this speaker without COMMENT:0.00656
+
+Wim Kok
+	Number of speeches: 1
+	Temporal distribution: From 25/04/1999  To: 25/04/1999 
+	Number of words of this speaker: 994
+	Tags:
+		{LAUGHTER}: 2
+		{APPLAUSE}: 1
+	Total number of tags for this speaker :3
+	Total number of tags for this speaker without COMMENT :3
+	Tag density for this speaker:0.00302
+	Tag density for this speaker without COMMENT:0.00302
+
+Wole Soyinka
+	Number of speeches: 1
+	Temporal distribution: From 28/11/2000  To: 28/11/2000 
+	Number of words of this speaker: 563
+	Tags:
+		{LAUGHTER}: 1
+	Total number of tags for this speaker :1
+	Total number of tags for this speaker without COMMENT :1
+	Tag density for this speaker:0.00178
+	Tag density for this speaker without COMMENT:0.00178
+
+Yasser Arafat
+	Number of speeches: 2
+	Temporal distribution: From 13/09/1993  To: 28/09/1995 
+	Number of words of this speaker: 1112
+	Tags:
+		{APPLAUSE}: 14
+	Total number of tags for this speaker :14
+	Total number of tags for this speaker without COMMENT :14
+	Tag density for this speaker:0.01259
+	Tag density for this speaker without COMMENT:0.01259
+
+Yitzhak Rabin
+	Number of speeches: 2
+	Temporal distribution: From 13/09/1993  To: 28/09/1995 
+	Number of words of this speaker: 1577
+	Tags:
+		{APPLAUSE}: 11
+		{COMMENT}: 3
+		{LAUGHTER}: 3
+		{LAUGHTER ; APPLAUSE}: 1
+	Total number of tags for this speaker :18
+	Total number of tags for this speaker without COMMENT :15
+	Tag density for this speaker:0.01141
+	Tag density for this speaker without COMMENT:0.00951
+

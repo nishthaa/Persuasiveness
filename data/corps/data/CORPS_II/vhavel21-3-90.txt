@@ -1,0 +1,30 @@
+﻿{title} Speech at dinner for Czech President (Vaclav Havel) {/title}
+{event} Dinner for Czech President (Vaclav Havel) {/event}
+{speaker} Vaclav Havel {/speaker}
+{date} March 21, 1990 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} 1930 onwards. President Havel's speech follows MT's. {/description}
+
+{speech} 
+
+Madam Prime Minister, Your Excellencies, My Lords, Ladies and Gentlemen:
+
+May I thank Mrs. Thatcher for her kind introductory words. I should also like to thank Mrs. Thatcher for her invitation to visit England and third, I thank her for offering me this opportunity to make her acquaintance and to talk to her.
+
+After spending in England no more than one hour, my delegation and myself were already able to feel the spirit of democracy prevailing here everywhere. This has been a moving experience for us and we have felt our visit here as a visit of a delegation from a country where democracy is re-emerging to a country where democracy has existed for centuries.
+
+I have been delighted to have an opportunity to compare with Mrs. Thatcher—and later in the course of my visit also with other British statesmen—our respective ideas about the future of Europe.
+
+My country is situated in the very centre of Europe so that it has to concern itself with the future of the Continent even if it did not want to! {LAUGHTER}
+
+We are pleased to receive the generous bilateral offers that have been made to us here.
+
+Mrs. Thatcher has been very right when she stressed that what we need most is to know how to do things. The tasks we are facing are immense and difficult indeed and we shall very much appreciate any assistance and advice—more so than money actually!
+
+Being confronted with the tremendous problems that history has piled up in my country, we are finding that these problems can be resolved only by educated people. That is why we want to encourage in our country most of all culture, training and education because only people with a comprehensive education will be able to cope properly. England is a country with a famous educational system. Any assistance will be of importance for us.
+
+May I conclude my words of gratitude by saying that we see this visit as a follow-up to the ancient traditions that have existed between our countries and the friendship that we have enjoyed.
+
+Earlier today, I had an opportunity for the first time in my life to have lunch with your Queen. May I therefore offer a toast to the good health of Her Majesty The Queen and to the good health of the people of Britain {APPLAUSE} 
+
+{/speech}

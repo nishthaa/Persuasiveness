@@ -1,0 +1,80 @@
+﻿{title} Speech at dinner given by Zimbabwean President (Robert Mugabe) {/title}
+{event} ----- {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} March 29, 1989 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Africa), Commonwealth (Rhodesia-Zimbabwe), Foreign policy (development, aid, etc), Commonwealth (South Africa), Foreign policy (USA), Foreign policy (USSR and successor states), Commonwealth (general) {/description}
+
+
+{speech}
+
+Mr. President and Mrs. Mugabe, Your Excellency President Chissano, Mr. Vice-President, Mr. Speaker, Senior Ministers, My Lord Chief Justice, Your Excellencies, Distinguished Guests, Ladies and Gentlemen: 
+
+May I first thank you, Mr. President, for your warm welcome, for your wonderful speech and for all the friendliness and hospitality which we have received from you and your people and may I underline the message of your speech, which was the excellent and friendly relationships which continue between the United Kingdom and Zimbabwe {APPLAUSE} 
+
+I am told that "Harare" is translated as "The one who never sleeps." Well, that is just as well, because there is very little provision for sleeping in my programme. 
+
+You and Mrs. Mugabe, Mr. President, are frequent and welcome visitors to London and I am delighted that I have at last been able to take up the invitation which you first extended some years ago and have kindly renewed on more than one occasion. If I have 
+seemed slow to do so, it has not been from any lack of enthusiasm. I have long wanted to see for myself how much you have achieved since independence, but I also wanted to make my visit at a time when I felt it could contribute in some measure to the resolution of the wider problems of South Africa as a whole, but before dealing with these issues, Mr. President, I want as you did, to look back for a moment, back almost ten years to the Lancaster House Conference. 
+
+I do not think anyone would doubt that it was a unique event. Of course, there have been constitutional conferences before — many of them — but the Lancaster House meeting had a wider task than just to agree on a constitution for a lawfully independent Zimbabwe, large as that task was. It had also to end a painful civil war and to try to reunite a people. That required ingenuity and boldness and courage of a high order and it was forthcoming and I remember when we finally took the decision to send back a Governor. It was, I am glad to say, the only time in our history when we actually put the clock back and restored a piece of the British Empire however briefly. {APPLAUSE} 
+
+All those who took part in the events which followed deserve enormous credit and I am glad to see many familiar faces round this table tonight, but I would like to mention just one, whose loss we feel very deeply and that is the late Christopher Soames, who was your Governor. He was a true friend to Zimbabwe and I know a great personal friend to you, President Mugabe. We honour his contribution to your nation. 
+
+And perhaps I might also mention the outstandingly helpful part played by another great man, who was sadly and tragically taken from us, the late President Samora Machel of Mozambique. Both contributed enormously {APPLAUSE} and it is marvellous to have President Chissano with us this evening {APPLAUSE} . 
+
+Both President Machel and Christopher Soames would have been proud of what you and your people have built in the nine years since independence, Mr. President. You are a country at peace and how much your people must have longed for that. You have welded the former separate military forces into a single national army. Your people of different tribes and different races live side by side in harmony, despite the legacy of the past. You have recognised the fundamental importance of a flourishing agriculture which can feed not only your own people but provide a surplus for export; and in the process, you have encouraged the small farmer through prices and credits, and also recognised the vital contribution made by the large commercial farms. You have invested heavily in the training and education of young people, so vital for your future. 
+
+All this has been important, not just for Zimbabwe itself but as an example from which others in Africa can learn and profit {APPLAUSE} 
+
+Your personal contribution to Zimbabwe's success, Mr. President, has been outstanding and it is recognised not only in Zimbabwe itself but throughout Africa and more widely still — in the Organisation of African Unity, in your role as Chairman of the NonAligned Nations and within the Commonwealth, where your powerful and eloquent speeches are a great feature of our Commonwealth Heads of Government meetings {APPLAUSE} Even when we sometimes disagree with you, there is no-one who does not recognise your dedication, your sincerity and your full-hearted commitment to the interests of Zimbabwe and the people of Africa as a whole {APPLAUSE} 
+
+Mr. President, Britain has had a strong commitment to Zimbabwe from its birth and that commitment remains as firm today as it was then. It is demonstrated, as you said, by our aid programme, which has exceeded£200 million since independence. That was not only a duty — it was an expression of faith in your future — and I was able, as you indicated, to tell you today that we shall be pledging a further £10 million in addition to the£15 million pledged at our meeting last October {APPLAUSE} . As I said to Mr. President today: "Seeing you, Mr. President, is an expensive business." 
+
+It is also a message of faith expressed by our programme of military training for the Zimbabwe National Army — our biggest programme in Africa — and by the size of the continuing British investments here, some examples of which I shall be seeing during this visit. Because we have been able to help in these ways, we share your sense of pride in your success. 
+
+Mr. President, Zimbabwe is among the most fortunate of Africa's many nations. For others, the outlook is more bleak. 
+
+Nigeria's former President and a most remarkable man, General Obesanjo, recently asked why Africa is moving backwards while the rest of the world is forging ahead. The successful, of course, are those who give the farmers the incentives they need to produce more food, who encourage private enterprise and foreign investment and who reduce the role of the state in the economy. You do not agree with all of that, Mr. President, but it is my recipe and it is the recipe which allows me to give you more aid, so you might take it to heart. {APPLAUSE} 
+
+Of course, it requires help from outside as well and that has been forthcoming. There is more money for lending on concessional terms through the IMF and Britain has made the largest single pledge to the IMF for this -- some pound; 327 million. 
+
+Steps have been taken to reduce the burden of debt for the poorest countries. It was Britain which took the lead in persuading the Economic Summit seven countries to give more help in this respect last year and Britain has provided more than £1 billion in direct aid to the countries of southern Africa over the last few years. 
+
+Mr. President, sound economic policies are vital, but economics is not everything. Africa needs peace and stability too if she is to prosper. The harrowing pictures of war and starvation, of millions of refugees uprooted from their lands and their homes have come directly into our homes in Europe and have had a profound effect. They have brought out the kindliest instincts of our people with a great outpouring of personal generosity. 
+
+We know, too, of the appalling atrocities committed by Renamo in Mozambique and in South Africa, apartheid has led to so much conflict, although we all agree that it is wrong and must go. 
+
+Yet, Mr. President, I refuse to be downcast. Particularly here in southern Africa, I believe that there is now greater hope for peace and stability. There is no single reason, but there are several: 
+
+In South Africa, there is an ever wider recognition that not only is apartheid deeply hurtful and unChristian, it is an obstacle to the economic growth which is needed for the future prosperity of all races. There has been a growing readiness among the other countries of southern Africa to resolve conflicts by negotiation. We have seen that, as you mentioned, Sir, in the case of Namibia and Angola and President Chissano has made clear to us today how deeply committed he is to ending the conflict which has caused so much tragedy in Mozambique. And while it is for the countries of the regions themselves to take the lead in resolving these conflicts, others are making their contribution. 
+
+I am thinking of the remarkable role played in securing agreement on Angola and Namibia by the United States through the everlastingly patient and skilful diplomacy of Chester Crocker, but credit is due also to the Soviet Union for its contribution in Angola and for the greater realism of its recent statements about southern Africa's problems. This is a subject which will be high on the agenda for my discussions with Mr. Gorbachev in London next week. 
+
+Mr. President, we must make use of these new opportunities. In Angola, the withdrawal of Cuban and South African forces offers a real chance for internal reconciliation and let us hope they will take Zimbabwe as an example. 
+
+In Mozambique, both Britain and Zimbabwe are helping in practical ways, as we saw at Nyanga this afternoon, to create the conditions in which people can live their lives in peace and without constant fear of violence and upheaval. We are ready to take part in any political initiative which has the support of Mozambique and the other countries of the region to end the conflict there. 
+
+In South Africa, we must be ready to respond to genuine change. There has been and remains so much to condemn in South Africa — apartheid, detention without trial, the suspension of basic human rights — but we should be no less ready to acknowledge changes for the better when they are made, whether it be within South Africa or in relations with neighbouring countries. 
+
+Now this bit you will disagree with, but I feel it strongly. 
+
+It is not through South Africa's isolation or through sanctions that we will achieve what we most want to see. I do not believe you help a people by destroying its economy. 
+
+We want to see the release of Nelson Mandela, the suspension of violence and the opening of negotiations about a political future in which black people have their rightful role in government — and we do agree, Mr. President, about those things very deeply, very deeply {APPLAUSE} . 
+
+So I stress that: the means, we disagree about. I think that in the end we shall get rid of apartheid without sanctions and without destroying the economy of South Africa, and I hope the day may not be long distant {APPLAUSE} It will be through constant encouragement, persuasion and the recognition that only when these things are done can all races see their hopes for a better life and for themselves and for their children realised. 
+
+In Namibia, we must ensure that the elections are as free and as fair as those conducted in your country following Lancaster House and that the agreement is scrupulously observed by all parties. Otherwise, the agreement so painstakingly achieved would be undermined from the outset. 
+
+And let us remember that in 1975, the Commonwealth agreed that once Namibia became independent we should be happy to see her join us if she so wished, and I very much hope that Namibia will join. 
+
+The members of the Commonwealth have a fund of experience of how to manage the first years of nationhood, on which Namibia could draw. 
+
+Mr. President, when you addressed your people on the eve of Zimbabwe's independence nine years ago you said — and I was watching it on television in No. 10 Downing Street, watching it with every bit as much excitement as you were here on the spot. You said, Sir, that this new nation required all its people to bring to it a new mind, a new heart and a new spirit. That is what we now need in southern Africa as a whole. 
+
+I believe great changes for the better are within our ability to bring about and I believe that you, Mr. President, through your record here through Zimbabwe's first nine years of independence, have a crucial role in achieving those changes. 
+
+May I therefore ask you all to rise and drink a toast to Zimbabwe, its continued success, to the health of your distinguished President and Mrs. Mugabe, to our continued friendship between Great Britain and the people of Zimbabwe. Your health, Mr. President and the people of your country. Thank you. {APPLAUSE}
+
+{/speech}

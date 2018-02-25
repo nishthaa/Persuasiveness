@@ -1,0 +1,36 @@
+﻿{title} Remarks by President Clinton and President Vaclav Havel of the Czech Republic at Official Dinner {/title}
+{event} The East Room {/event}
+{speaker} Vaclav Havel {/speaker}
+{date} September 16, 1998 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, Mrs. Clinton, ladies and gentlemen, it is my turn now to reciprocate the wise words of our host.
+
+I still cherish my memories of one of our recent visits to the United States when we had the honor to meet with the President and Mrs. Clinton during the celebration of the birthday -- I will not say which birthday of my friend Madeleine Albright. {LAUGHTER}
+
+Then, as always, I could see for myself that values like freedom, democracy, respect for human rights and the rule of law are not mere words to you, but notions deeply ingrained in your hearts. At the time of that meeting in Georgetown, it was not yet quite clear which nations would be invited to join the North Atlantic Alliance in the first wave of the enlargement process. To my gratification, the NATO summit in Madrid confirmed that my country, the Czech Republic, was to be one of them.
+
+Let me, therefore, take this opportunity to thank the American nation for its support for NATO enlargement.
+
+I am happy to do so in the presence of President and Mrs. Clinton. I am aware that the first wave of enlargement would take a much longer time had it not been for the bold decision-making of the President and the hard work of his administration. Who knows when it would have started without that?
+
+Tomorrow I will have an opportunity to express my gratitude for wise decisions, also, in the U.S. Senate. And tomorrow, also, in the afternoon, I shall meet in the Library of Congress with many people who contributed in a fundamental way to the victory of freedom in our part of the world, and I will confer state decorations on some of these men and women.
+
+None of them, however, will be awarded such a high decoration as the one to be soon bestowed upon yourself, Mr. President. This is a decoration that is bestowed not simply on people of great merit, but solely on heads of state. In fact, I am not a holder of the decoration myself; it has just been bestowed upon me temporarily during my tenure of office. {LAUGHTER}
+
+But let me also acknowledge others who are perhaps less known, but certainly not less respectable, and who have also substantially contributed to the creation of an order of security and peace in Europe, such as the NATO Observation Group, the New Atlantic Initiative, the American Jewish Committee, and others.
+
+Let me also express my thanks to my dear friend Madeleine Albright, and to say a few words about her. As many of you know, Madeleine comes from Prague. She had to leave her original home because her native country was deprived of its freedom. And this background became one of the sources of the strong commitment to the cause of freedom which she now demonstrates as Secretary of State of the United States. Her task is certainly not an easy one, because forces hostile to democracy throughout the world never rest, as we could witness again recently in Kenya and Tanzania.
+
+I believe that Madeleine has proved a number of times that she is one of the greatest diplomats of our time, and saying this, I am not referring solely to her fine feeling for European affairs. Madeleine, like myself, is convinced about the irreplaceable role of America in the world of today. The solution of today's world problems requires leadership and responsibility on the part of the United States, both at present and in the future.
+
+Mr. President, the world needs you.
+
+It has been a great honor for me to address you today with these brief remarks and to spend this evening in your midst. I see many familiar faces here and their presence reaffirms to me that the Czech Republic has many friends in America. I am looking forward to the October visit of my dear friend Hillary to Prague, where she will be one of the main speakers at the FORUM 2000 conference, a gathering dedicated to the pressing questions facing humankind on the verge of the millennium.
+
+I congratulate President Clinton on the conferment of the Order of the White Lion, which will take place shortly. And I propose a toast to our two countries remaining good partners and allies. I toast our success, our future cooperation, and the good health of the President and the First Lady. 
+
+{/speech}

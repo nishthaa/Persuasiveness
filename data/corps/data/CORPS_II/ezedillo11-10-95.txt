@@ -1,0 +1,28 @@
+﻿{title} Remarks by President Clinton and President Ernesto Zedillo of Mexico in Exchange of Toasts {/title}
+{event} State Dining Room {/event}
+{speaker} Ernesto Zedillo {/speaker}
+{date} October 11, 1995 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. William Clinton, President of the United States of America; distinguished First Lady; ladies and gentlemen: First of all, I would like to thank you, Mr. President, and your wife, for the warm hospitality and kindness you've extended to us. This hospitality and cordiality have characterized each one of our business meetings and have enabled us to make the most of our conversations.
+
+Our trip to this great nation and to this lovely city takes us one step further in our ties of friendship and cooperation and points to increasing understanding between our governments, our cultures, and our peoples.
+
+Mr. President, the warm reception and the kindness you've displayed throughout makes us feel like partners and neighbors. But above all, it makes us feel like friends. The United States and Mexico not only share a long border, where we are bent on the prevalescence of legality and dignified treatment, we also share the certainty that the prosperity of our two nations is and always will be mutually beneficial.
+
+We share the vision of a drug-free, free trade world, a world of peace and safety where international law and the goodwill of nations prevail. We share the hope of building a world where we can guarantee a clean environment and just and sustainable development for our children.
+
+There is something else we share, Mr. President -- the certainty that the strength of our peoples lies in the values of freedom, democracy and justice, and also in deeply-felt family values.
+
+You revealed some family secrets, Mr. President. {LAUGHTER} Tomorrow, we know the Clintons will be celebrating their 20th wedding anniversary. {APPLAUSE} Let me congratulate you in advance. You have built a united family, a family of intense work, great education, enough success that today you share with the American people.
+
+I know that the Clintons spent their honeymoon in Mexico, as it was revealed with a lot of detail by President Clinton. {LAUGHTER} I trust you will accept to visit again our country soon.
+
+I invite you, all of you, to toast for this 20th wedding anniversary; for the well-being and happiness of the Clintons; for the prosperity of the American people; and for the new understanding between our two nations. Salud.
+
+{COMMENT="A toast is offered"} {APPLAUSE} 
+
+{/speech}

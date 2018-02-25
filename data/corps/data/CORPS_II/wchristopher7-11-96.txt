@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President and Secretary Christopher {/title}
+{event} The Cross Halls of the Residence {/event}
+{speaker} Warren Christopher {/speaker}
+{date} November 7, 1996 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Mr. President, it would just be absolutely impossible for me to express fully my gratitude to you for entrusting this post to me at this extraordinary moment in history. I'm grateful for the unfailing and unstinting support that you've given me in moments of high success and at the difficult times as well. I also want to thank you and Hillary for the many kindnesses that you've extended to Marie and to me and our family.
+
+I also want to express appreciation to you, Mr. Vice President, for being here today, as you've always been for me, and want to pay tribute to the remarkable role, as the President said, that you've played in shaping and carrying out our nation's foreign policy.
+
+Being Secretary of State is to take part in history's relay race. It's been a great privilege for me to have an opportunity to run this challenging leg over the last four years. I've done so with the sure sense that we've begun to shape American foreign policy for the 21st century.
+
+Mr. President, the world looks to the United States for leadership and you have responded magnificently. Thanks to your leadership, America is more secure, more prosperous and our values are most ascendant than they were when we took office four years ago.
+
+No Secretary of State could ever have had stronger support than I've had from the President and the Vice President, or from my colleagues in the National Security Council, many of whom I'm proud and pleased are here today. I've also been tremendously honored by the opportunity to work with so many talented members of the State Department, many of whom I see down here today, including the dedicated men and women of the Foreign Service and the civil service as well.
+
+On a personal note, of course, I am especially grateful to my wife, Marie, who has supported me with love and fresh orange juice every morning -- {LAUGHTER} -- through four adventures in Washington and through, next month, 40 years of happy marriage.
+
+I'm, of course, also very grateful to the American people. It is their values and their aspirations that I've sought to uphold as I've traveled around the world these last four years. I'm convinced that especially as this time of change in the world -- this time of challenge and change -- the American people expect our nation to maintain a strong and principled global leadership. They can be assured that I will be doing that, maintaining our active engagement, as I travel to the Middle East, Europe and Asia over the next several weeks before the time of transition actually takes place.
+
+I've been very generously blessed by Providence and I will leave office with a deep sense of gratitude and humility. I also leave with great confidence, Mr. President, that you are laying the foundation for the next American century.
+
+Thank you very much. {APPLAUSE} 
+
+{/speech}

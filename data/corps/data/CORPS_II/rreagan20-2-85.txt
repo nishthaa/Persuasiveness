@@ -1,0 +1,38 @@
+﻿{title} Speech at British Residence (banquet) {/title}
+{event} British Residence (banquet) {/event}
+{speaker} Ronald Reagan {/speaker}
+{date} February 20, 1985 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Dinner began at 1930. President Reagan spoke after MT. {/description}
+
+{speech} 
+
+Prime Minister, Vice-President Bush, Secretary of State, Defence Secretary, Saint … . Sir Oliver … . Saint Oliver ! No, Sir Oliver ! Lady Wright, and Ladies and Gentlemen:
+
+Tonight, as we have just been told—and I have to preface this by saying, based on the career that I once had before this one, you are a very tough act to follow. {APPLAUSE} Tonight, we celebrate, as we have been told, 200 years of diplomatic relations between Great Britain and the United States. For two centuries, we have been trading partners, we have stood together through two great world conflicts. Forty years ago last summer, Americans and Englishmen joined together in an invasion launched from Britain, the greatest invasion in all of man's history. Together, we fought on the sands of Normandy and together we reclaimed a continent to liberty. Prime Minister, the United States and the United Kingdom are bound together by inseparable ties of ancient history and present friendship. Our language, our law—even though you do use our language with an accent—our democratic system of government and our fierce belief in the God-given right of all men to be free, all of these the United States share with your proud island.
+
+We share a deep affection for one another, but then there have been a few moments in our history when relations were not so smooth. I remember being tempted to recall one of those at the Summit Conference at Williamsburg where the opening meeting was a dinner in what had been the British Colonial Governor's residence and I thought that I was all set to open the Summit, because when we were seated around the table, the Heads of seven States, I was going to say to Margaret Thatcher that had one of her predecessors been a little more clever, she would have been hosting the gathering, and so with my well thought out line I opened that if one of her predecessors had been a little more clever and she turned to me and said: "I know, I would have been the host!" So I am careful, but anyway, Margaret, welcome back to America.
+
+In our discussions, I have as always been delighted by the vigour, the clarity and the directness of your views, and I wanted to tell you that when I ran for office in 1980, I was greatly encouraged by the victory that you won in 1979 and it was very thoughtful of you to set me another good example in 1983.
+
+We have been inspired by your leadership.
+
+Sir Oliver and Lady Wright, thank you for hosting this splendid event. Nancy and I are honoured to be here. We celebrate tonight our past and our future.
+
+Great challenges loom ahead and we must do all that we can to expand human freedom and unleash the great potential for economic growth, both in our countries and in throughout the world.
+
+In our own countries, we have already done much to free our economies from the dead hand of government control, but we can do more.
+
+Here in America, we are determined to reduce spending growth and significantly reduce tax rates further by simplifying our entire tax structure.
+
+In international commerce, our task is to knock down barriers to trade and foreign investment and to the free movement of capital, and I look forward to working with you on these matters as we prepare for the 11th Economic Summit of industrialised nations in Bonn.
+
+In foreign affairs, we and our NATO allies have stayed strong, while demonstrating our openness to genuine arms reductions, and, Prime Minister Thatcher, I know that you share my satisfaction that the Soviets have agreed to return to the bargaining table, and now we must press on together for success in mutual and verifiable arms reductions and a more secure peace.
+
+We believe that our Strategic Defence Initiative represents the most hopeful possibility of the nuclear age, and we greatly appreciate your support. In many areas of this research, technical progress appears very promising and we are eager to be joined in this research by our allies and look forward to collaborating with you.
+
+It is hard to be here on this candle-lit evening in your stately embassy without thinking of the great men and women—British and American—who have gone before us and who have worked together as we do today. I think of FDR and Churchill conferring in the rain; Roosevelt deeply admired his friend Winston . And many of us remember the warmth John Kennedy felt for Harold Macmillan and Macmillan's grief after Kennedy's tragic death. There has been something very special about the friendships between the leaders of our two countries and may I say to my friend the Prime Minister, I would like to add two more names to this list of affection—Thatcher and Reagan.
+
+Prime Minister, Ladies and Gentlemen, mindful of the two centuries of diplomatic relations that our two nations have enjoyed, and grateful for our common heritage of liberty and in a spirit of celebration, please join me in a toast to your gracious Sovereign, to Her Majesty the Queen. {APPLAUSE} 
+
+{/speech}

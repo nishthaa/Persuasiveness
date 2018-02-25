@@ -1,0 +1,38 @@
+﻿{title} Speech at State Government Dinner in Perth {/title}
+{event} State Government Dinner in Perth {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} August 1, 1988 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Australia and NZ), Industry, Women {/description}
+
+{speech} 
+
+Mr. Premier, Leader of the Opposition, Your Excellencies, Members, Ladies and Gentlemen:
+
+First, may I thank you, Premier and Leader of the Opposition, for your warm welcome and your kind hospitality and say how absolutely delighted I am to be with you in Perth today.
+
+Mr. Premier, if I am visiting somewhere that I have never been before, I like to read about it first, so I looked up Perth in the Collins Australia Encyclopaedia to find that you are interestingly wedged between the entries on Periwinkles and on Pest Control. {LAUGHTER} I came to the conclusion that the Australian encyclopaedia knew nothing about diplomacy, because neither of these things are appropriate to your lovely and thriving city, renowned for its beautiful parks, elegant architecture and, as I have discovered, friendly people.
+
+But I also found out something else which explains why I immediately feel at home here. Perth is one of the earliest examples of privatisation, which is one of our Government's policies. The first settlement here in 1829 was founded with private financial backing and enterprise has been Perth's hallmark ever since.
+
+Moreover, there can be few other places in the whole Asia-Pacific region where you can hear English church bells, but that will be the case when the bells of St. Martin's-in-the-Fields are hung here in the University of Western Australia, and I am sure that they will ring out the bicentennial message of a proud and confident Australia, which is the country you have become.
+
+And then, again, we all remember the great Commonwealth Games in Perth in 1982 and more recently, the thrill of the Americas Cup and some of Western Australia's most successful businessmen and entrepreneurs are just as much household names in Britain as they are here and I was able to meet and talk with some of them later this afternoon.
+
+In return, we sent you Alistair McAlpine {LAUGHTER} who is absolutely marvellous and who, I know, has done so much for Western Australia as well as for us in Britain.
+
+Mr. Premier, no-one who spends any time in your city and your State of Western Australia—even as short a time as I have—can be in any doubt that it is one of the most dynamic and enterprising places you could find anywhere in the world. You have the frontier spirit, which is vital to successful societies. One sees it also in the United States and in Canada. You have fantastic mineral and agricultural resources. You have one-third of the whole land area of Australia and you are part of the great Pacific Rim, which has the most exciting and prosperous imaginable future ahead of it.
+
+I am glad that Britain is playing a part in that enterprise and in that prosperity. Several of our major companies are involved in your mineral enterprises and in the Great North West Shelf Natural Gas Project, and I am pleased that my first act in Australia today was to open the new turbine blade factory—a joint venture between Rolls-Royce and Westintech—and I hope we shall see more joint ventures of this sort, particularly in the field of high technology, and may I say Britain is an excellent partner for Australia.
+
+We, too, are doing very well, with a growth rate higher than any other country in Europe, with wider home ownership, wider share ownership and lower taxes and a Government determined to stick to its policies of sound finance, freedom for enterprise and strong defence.
+
+Mr. Premier, we have an agreement to keep speeches short and I must stick to it, for although woman's work is never done, women's speeches do come to an end! And I can tell you, from parliamentary experience, it is not the women who take a long time to make a point {LAUGHTER ; APPLAUSE} 
+
+So let me just conclude by saying this:
+
+Australia is a country which means a very great deal to Britain, with so many family and historic ties, and perhaps both of us have not done as much as we could to make the most of those, but I hope that my visit will correct that and set us on a new path of working together.
+
+Thank you for your wonderful hospitality. We honour all that you have achieved here in Western Australia, so may I ask you all to rise and drink a toast to the continued success and dynamism of Western Australia, to its Premier and Leader of the Opposition, and to the abiding links between Western Australia and Britain, which we all want to see renewed and reinvigorated for the challenges which lie ahead. Western Australia! I would love to drink it in Australian wine! {APPLAUSE} 
+
+{/speech}

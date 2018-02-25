@@ -1,0 +1,34 @@
+﻿{title} Speech at Reception for British Community in Japan {/title}
+{event} Reception for British Community in Japan {/event}
+{speaker} Margaret Thatcher {/speaker}
+{date} September 19, 1989 {/date}
+{source} http://www.margaretthatcher.org/speeches/ {/source}
+{description} Foreign policy (Asia), Leadership, Conservatism, Trade, European Union (general) {/description}
+
+{speech} 
+
+Ambassador, Ladies and Gentlemen;
+
+First, it is a great pleasure to be in Japan for an official visit. The last time I came was in 1982 on an official visit and things have changed in both countries quite a lot since then. Many of you have helped to change them; you have helped to bring about a closer association; you have helped to bring about an increase in British exports, although you have quite a long way to go yet {LAUGHTER} , but we always appreciate great effort and encourage it and hope that that is the best way for it to go further.
+
+Now, Mr. Chairman, you said some very remarkable and quite humorous things. {LAUGHTER} I have to tell you that in terms of service of British Prime Ministers, my ten years as Prime Minister are really quite junior! {LAUGHTER ; APPLAUSE} The longest-serving Prime Minister in Britain served twenty-two years {LAUGHTER} , so you see that I live in hopes! {APPLAUSE}
+
+As the Ambassador who served in London so well told you, we have made great strides in the last ten years, not by doing really anything new but by trying the age-old recipes of enlarging the capacity for enterprise and liberty under a rule of law—and it is that which gives the dynamic, the energy, the vitality, the success of the nation; success has come not only to those who lead in business and industry but success has … . right over to all of the people of a country.
+
+The recipe has worked well. We were in decline—we are now in the ascendancy—and for some years we have been closing the gap in performance between the great industrial nations like Japan and Germany and France who was also ahead of us. We have been closing the gap and doing quite well because of the new policies we have developed. It is our purpose to continue to close that gap and I have been very pleased indeed to go round and see that we are exporting some information technology to Japan and it is doing very well. I feel there is enormous potential for more British goods and services in Japan which I believe the Japanese people and we in Britain would greatly welcome.
+
+You will say what is my special object in visiting Japan at this time when I have been in between official visits always to the Economic Summits, and I have attended two in Japan and very successful they have been.
+
+I think first, they are to try to forge a closer relationship between these islands which are so important to the whole of the Pacific area and to this region and our islands just off the immediate coastland of Europe which are also very important to the future of Europe; and may I say that we in Britain are committed Europeans—most of our history has been in Europe and our future will continue to be as part of Europe.
+
+So I think there are great similarities between Japan and Britain which are not only worth cultivating but worth enlarging so that they may be the more fruitful not only for our two countries but for the wider regions of which we are a part and that is one of my first reasons. We are also both democracies and we are living in a world where democracy is on the move and more and more people are coming to realise the wisdom of the political path which we have chosen.
+
+My second reason, yes, is to seek even more open markets and I will always say to any audience which contains Japanese people that we in Britain have an ancient tradition of open markets. It stems from the time when we went halfway across the world—indeed the whole way across the world—built an empire, trying to give people the best traditions of good administration and of sound law and of increasing liberty and, of course, we bought more and more goods of whatsoever kind they could produce, so we were used in the markets in the United Kingdom to having goods from the world over—it was part of our daily life and we got used to judging whether or not we should buy those goods, not by where they came from but by value for money and design and quality. And so you will find that gave us one of the most open markets in visible goods. It also, because of the openness of our markets, has given one of the biggest and most influential financial markets in the world, again because we believe in openness, and it has attracted people from all over the world to London and so we do have more trade through London than any other capital in Europe and I must say more trade than through New York. I think you are probably chasing us very fast now, but you know we are still running!
+
+So this is our experience of open markets. We believe that if we are to increase the trade in the world and bring greater prosperity to all people, we need to keep those markets open and the message is to everyone because "fair trade" means trading upon the same open basis. {APPLAUSE} I will have a little bit more to say about that tomorrow at the Economic Club but, you know, I think that economics are best after lunch and not in the early evening!
+
+And the third reason is to foster the growth of a cultural relationship between Japan and Britain and many of you are helping us greatly and contributing to the British Festival in Japan in 1990 and the Japanese Festival in Britain in 1991. I hope that that will open people's eyes to how much we have to learn from one another, the beauties and the richness of the culture in one another's country and I thank you very much for the tremendous efforts that you are putting into it.
+
+Finally, may I thank you for turning up in such numbers this evening. I will get around to as many as I can. It is a great occasion; I am very pleased and honoured to be asked to make this visit and I hope that it will be fruitful for all of us and I wish you well in your great endeavours! {APPLAUSE} 
+
+{/speech}

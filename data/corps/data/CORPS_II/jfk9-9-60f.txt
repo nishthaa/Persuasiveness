@@ -1,0 +1,13 @@
+﻿{title} Rear Platform Remarks of Senator John F. Kennedy, Stockton, Calif., {/title}
+{event} Stockton, Calif., {/event}
+{speaker} John F. Kennedy {/speaker}
+{date} September 9, 1960 {/date}
+{source} http://www.jfklink.com/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Governor Brown, Congressman McFall, Senator Short, Assemblyman Darrah, ladies and gentlemen, first of all, I want to thank all for coming down to the station. The Republicans are all in bed. That is why we are working. {LAUGHTER ; APPLAUSE} We have campaigned in this State, starting up in Oregon. We are heading down toward Los Angeles today, but we are also heading toward Washington. {APPLAUSE} I think here in this valley you know what can be done. Today is the 110th anniversary of California's admission to the Union. This country and this valley was a desert 100 years ago. It shows what this State can do. It shows what this country can do. Our argument with the Republicans is not because we do not know that they share a common goal for America - they do - but our argument with them is that they don't know how to do it. We do. {APPLAUSE}
+The record of the Democratic Party is told in the programs - rain, we brought it; we brought it with us {LAUGHTER} - the record of the Democratic Party is told in the programs of Woodrow Wilson and Franklin Roosevelt and Harry Truman and Adlai Stevenson. They wanted this country to move forward and so do we. I ask your help in this campaign. I think we meet in the most difficult time in the life of our country. In many ways, this is the most important election since the election of Lincoln 100 years ago. We have great hopes for our country. It is a great country, but I think we can do better. I hope you will support us. I think this country is ready to move again. Thank you very much. {APPLAUSE} 
+
+{/speech}

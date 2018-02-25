@@ -1,0 +1,32 @@
+﻿{title} Remarks by the First Lady and Mrs. Medvedeva at Duke Ellington School for the Arts {/title}
+{event} ----- {/event}
+{speaker} Svetlana Medvedeva {/speaker}
+{date} June 24, 2010 {/date}
+{source} www.whitehouse.gov/news/releases/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+{COMMENT="As translated"} Dear Michelle Obama, dear friends, it is with great interest and with great pleasure that I accepted the invitation to come and visit your school, a school that's named after a great American musician, Duke Ellington. Duke Ellington is very well known in Russia and he is very popular, his music is very popular in Russia. {APPLAUSE}
+
+I know that your school is not a regular school. I know the kids who go to this school are a very talented and versatile people. I know that in addition to regular subjects, you guys also specialize in different arts such as music and dance, literature and design.
+
+I know that your school is very young. But I also know that you are interested in different arts. You've demonstrated love for classical music, and also for folk music and your own kind of music.
+
+I would like to tell you that in Russia we also are very much interested in supporting talented and gifted children. There are lots of schools for gifted children in Russia. There are a lot of ballet schools, one of them in St. Petersburg named after a very famous ballerina, Vaganova. There are also arts schools in Russia as well.
+
+I'd like to tell you about one school, a school in Moscow, which is very similar to this school, the school that you all go to. This school is named after a very famous Russian composer and educator, composer {COMMENT="Inaudible"} . This school keeps the {COMMENT="Inaudible"} of the Russian culture and the Russian cultural traditions. And it was for -- the school is open to everyone who is interested in classical and modern music and art.
+
+The doors of this school is open to everyone who is interested in arts, design, choreography, dance and theater. There are about 2,000 children who are students of that school. This school has its own orchestra, it has its own theater, and those who are interested in organ music can take organ classes. And children are composers themselves.
+
+What I would like to see -- I would like to see the children of our schools -- yours and ours -- to become friends. {APPLAUSE} And I don't think that there's going to be a language barrier. English is very popular in Russia. It's taught in our schools. Plus, arts do not -- and culture do not need any translators. {APPLAUSE}
+
+And the friendship that you will establish probably will be the best friendship that you will carry all your lives. {APPLAUSE} And after establishing this friendship, it will be easier for children of Russia and children of the United States to develop their own worldview. {APPLAUSE}
+
+Because it's up to you, up to the young people of both countries, to build the world that will be a world of friendship and cooperation between our states and between our governments. {APPLAUSE}
+
+Dear friends, I wish you the best. I wish you successes. And I wish for all of you to have {COMMENT="Inaudible"} . And, moreover, I would like to thank you for this wonderful concert.
+
+Thank you very much. 
+
+{/speech}

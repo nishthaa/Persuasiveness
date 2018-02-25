@@ -1,0 +1,28 @@
+﻿{title} Remarks by the President, Secretary of State Madeleine Albright, Speaker of the House Dennis Hastert, Senator William Roth, Representative Bill Archer, Senator Patrick Moynihan and Congressman Charles Rangel at Signing of China Permanent Normal Trade Relations {/title}
+{event} The South Lawn {/event}
+{speaker} Madeleine Albright {/speaker}
+{date} October 10, 2000 {/date}
+{source} http://www.clintonfoundation.org/ {/source}
+{description} ----- {/description}
+
+{speech} 
+
+Please be seated. Good afternoon, and welcome to the White House. Mr. President, distinguished Senators and Representatives from Capitol Hill, colleagues from the President's Cabinet, leaders from state and local governments and the private sector and special guests.
+
+We gather today to witness the President's signature of legislation granting permanent normal trading status to China. This bill was the product of bipartisan leadership from the President and Congress with vigorous support from a wide range of outside individuals and groups.
+
+The legislation will benefit our nation economically by enabling American farmers, ranchers and business people to gain greater access to China's market and to do so under the world's rules. It will benefit our national security by encouraging China's full integration into the international system. And it will benefit the future of us all by helping to open China to new influences and ideas and broadening application of the rule of law.
+
+The decision to go forward with PNTR for China occurred only after extended and careful debate. America continues to have serious differences with Beijing over nonproliferation, human rights and other concerns. As the 11 Bereuter provisions reflect, we will persist in raising these issues. But China's entry into the WTO and adherence to the rules of membership will be a plus from any perspective. Accordingly, we are working with China as it completes the steps required for WTO entry and to ensure compliance with the commitments it has made.
+
+I don't have time this afternoon to mention by name all those who played a major role in enacting this landmark bill, but certainly, Senate Majority Leader Lott and Minority Leader Daschle deserve high praise for their teamwork and skill in guiding the measure through their institutions.
+
+Senator Roth and Moynihan were among the legislation's most eloquent and persuasive proponents, as were Representative Rangel and Archer. From the administration, in addition to the President, I would like to especially congratulate our Trade Representative, Ambassador Barshefsky, because without her, we would not be here. {APPLAUSE}
+
+I would also like to thank NEC Director Sperling, former Secretary Daley, Steve Richetti, and my colleagues, Larry Summers, Dan Glickman and Norm Mineta. We owe a debt of gratitude as well to the many from beyond the Beltway who helped explain the benefits of China PNTR, not only for our businesses, but also for our workers and consumers, our cities and towns, and for our overall foreign policy stake in a stable and prosperous East Asia.
+
+I think it's fair to say, however, that no one did more to bring about the passage of this legislation than the man I'm about to introduce. From the beginning, he made clear that the China PNTR issue would be approached on a nonpartisan basis. And early on, he made a strong case for the bill based on its importance to our national interest, arguing that the expansion of contacts between America and China and the emerging economy would be good for both of us.
+
+And I'm very pleased, therefore, to introduce to you now the Speaker of the U.S. House of Representatives, Dennis Hastert. Mr. Speaker, the floor, or more accurately, the lawn, is yours. {APPLAUSE} 
+
+{/speech}
